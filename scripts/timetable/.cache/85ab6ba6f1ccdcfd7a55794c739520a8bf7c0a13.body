@@ -1,0 +1,1307 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+	<script type="text/javascript" src="https://tickets.bushtheatre.co.uk/bushtheatre/website/scripts/integrate.js"></script>
+
+	<script src="https://webcomponents.spektrix.com/stable/webcomponents-loader.js"></script>
+	<script src="https://webcomponents.spektrix.com/stable/spektrix-component-loader.js" data-components="spektrix-donate,spektrix-memberships,spektrix-merchandise" async></script>
+
+			<!-- Paste Google Tag Manager here so only drops on live site -->
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+						<script>
+				// Define dataLayer and the gtag function.
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				(function(){
+					var _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;
+				try { _gdpr_m = document.cookie.match(/(?:^|;\s*)moove_gdpr_popup=([^;]*)/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}
+				if ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }
+				var _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };
+					var _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');
+					var _gdpr_consent = {
+						'ad_storage': _gdpr_ads,
+						'ad_user_data': _gdpr_ads,
+						'ad_personalization': _gdpr_ads,
+						'analytics_storage': _gdpr_state('thirdparty'),
+						'personalization_storage': _gdpr_state('preference'),
+						'security_storage': _gdpr_strict,
+						'functionality_storage': _gdpr_strict
+					};
+										gtag('consent', 'default', _gdpr_consent);
+				})();
+			</script>
+														<!-- Google Tag Manager -->
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-MQ488F2');</script>
+			<!-- End Google Tag Manager -->
+								
+	<!-- This site is optimized with the Yoast SEO plugin v28.7 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>What&#039;s On | Bush Theatre | Shepherd&#039;s Bush, London</title>
+	<meta name="description" content="Whether it’s seeing a ground-breaking new production, hosting your own event, or having an unforgettable night in our iconic Library bar – we’ve got you covered." />
+	<link rel="canonical" href="https://www.bushtheatre.co.uk/whats-on/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="What&#039;s On | Bush Theatre | Shepherd&#039;s Bush, London" />
+	<meta property="og:description" content="Whether it’s seeing a ground-breaking new production, hosting your own event, or having an unforgettable night in our iconic Library bar – we’ve got you covered." />
+	<meta property="og:url" content="https://www.bushtheatre.co.uk/whats-on/" />
+	<meta property="og:site_name" content="Bush Theatre" />
+	<meta property="article:modified_time" content="2026-09-18T12:04:51+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/www.bushtheatre.co.uk\/whats-on\/","url":"https:\/\/www.bushtheatre.co.uk\/whats-on\/","name":"What's On | Bush Theatre | Shepherd's Bush, London","isPartOf":{"@id":"https:\/\/www.bushtheatre.co.uk\/#website"},"datePublished":"2025-02-10T13:20:34+00:00","dateModified":"2026-09-18T12:04:51+00:00","description":"Whether it’s seeing a ground-breaking new production, hosting your own event, or having an unforgettable night in our iconic Library bar – we’ve got you covered.","breadcrumb":{"@id":"https:\/\/www.bushtheatre.co.uk\/whats-on\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.bushtheatre.co.uk\/whats-on\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/www.bushtheatre.co.uk\/whats-on\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.bushtheatre.co.uk\/"},{"@type":"ListItem","position":2,"name":"What&#8217;s On"}]},{"@type":"WebSite","@id":"https:\/\/www.bushtheatre.co.uk\/#website","url":"https:\/\/www.bushtheatre.co.uk\/","name":"Bush Theatre","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.bushtheatre.co.uk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Bush Theatre &raquo; Feed" href="https://www.bushtheatre.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bush Theatre &raquo; Comments Feed" href="https://www.bushtheatre.co.uk/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.bushtheatre.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bushtheatre.co.uk%2Fwhats-on%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.bushtheatre.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bushtheatre.co.uk%2Fwhats-on%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='bush_theatre-style-css' href='https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/style.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='bush_theatre-animate-css-css' href='https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/css/animations.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='bush_theatre-mobile-nav-css' href='https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/assets/mobile-navigation/mmenu.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='bush_theatre-slick-style-css' href='https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/assets/slick-slider/slick.min.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='bush_theatre-slick-theme-css' href='https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/assets/slick-slider/slick-theme.min.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='moove_gdpr_frontend-css' href='https://www.bushtheatre.co.uk/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main-nf.css?ver=5.2.2' media='all' />
+<style id="moove_gdpr_frontend-inline-css">
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-reject-btn, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-reject-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #202020;
+				}
+
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-reject-btn:hover, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-reject-btn:hover {
+					background-color: #202020;
+					box-shadow: none;
+					color: #fff;
+					opacity: 1;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-reject-btn, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-reject-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #fff;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-reject-btn:hover, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-reject-btn:hover {
+					box-shadow: none;
+					opacity: 1;
+					color: #202020;
+					background-color: #fff;
+				}
+							#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #202020;
+				}
+
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn:hover,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn:hover {
+					background-color: #202020;
+					box-shadow: none;
+					color: #fff;
+					opacity: 1;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn {
+					background-color: transparent;
+					box-shadow: inset 0 0 0 1px currentColor;
+					opacity: .7;
+					color: #fff;
+				}
+
+				#moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.moove-gdpr-infobar-settings-btn:hover, #moove_gdpr_cookie_info_bar:not(.gdpr-full-screen-infobar).moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.moove-gdpr-infobar-settings-btn:hover {
+					box-shadow: none;
+					opacity: 1;
+					color: #202020;
+					background-color: #fff;
+				}
+							#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main div.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h2.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content .moove-gdpr-branding-cnt a,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,
+				#moove_gdpr_cookie_modal .cookie-switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .cookie-switch .slider:after, 
+				#moove_gdpr_cookie_modal .switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .switch .slider:after,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p a,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h1, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h2, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h3, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h4, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h5, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h6,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-modal-title .tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main div.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h2.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-branding-cnt a {
+					font-weight: inherit				}
+			#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:inherit}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#13bf6c}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green,.gdpr-blocked-recaptcha .gdpr-shr-button.button-green{background-color:#13bf6c;border-color:#13bf6c}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover,.gdpr-blocked-recaptcha .gdpr-shr-button.button-green:hover{background-color:#fff;color:#13bf6c}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#13bf6c;border:1px solid #13bf6c}#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #13bf6c;-moz-box-shadow:0 0 1px 3px #13bf6c;box-shadow:0 0 1px 3px #13bf6c}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#13bf6c}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#13bf6c}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .gdpr-cd-details-toggle.focus-g{color:#13bf6c}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}#moove_gdpr_cookie_info_bar.gdpr-full-screen-infobar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content .moove-gdpr-cookie-notice p a{color:#13bf6c!important}
+/*# sourceURL=moove_gdpr_frontend-inline-css */
+</style>
+<link rel='stylesheet' id='gdpr_cc_addon_frontend-css' href='https://www.bushtheatre.co.uk/wp-content/plugins/gdpr-cookie-compliance-addon/assets/css/gdpr_cc_addon.css?ver=4.0.9' media='all' />
+<script id="jquery-js" src="//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js?ver=3.7.1"></script>
+<link rel="https://api.w.org/" href="https://www.bushtheatre.co.uk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.bushtheatre.co.uk/wp-json/wp/v2/pages/136" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bushtheatre.co.uk/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.bushtheatre.co.uk/?p=136' />
+<link rel="icon" href="https://www.bushtheatre.co.uk/wp-content/uploads/2025/03/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.bushtheatre.co.uk/wp-content/uploads/2025/03/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.bushtheatre.co.uk/wp-content/uploads/2025/03/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.bushtheatre.co.uk/wp-content/uploads/2025/03/cropped-favicon-1-270x270.png" />
+
+</head>
+
+<body class="wp-singular page-template page-template-page-templates page-template-whats-on page-template-page-templateswhats-on-php page page-id-136 wp-theme-bush_theatre">
+
+<div class="site_wrapper"> <!-- Site Wrapper -->
+
+	<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header">
+
+					<div class="site-search dark_bg" id="search_form" tabindex="-1"  > <!-- Site Search -->
+
+				<form role="search" method="get" action="https://www.bushtheatre.co.uk" class="site-search__form" > <!--  Form -->
+
+					<label for="site_search" class="mobile" >Search:</label>
+					<input type="search" id="site_search" class="site-search__search" value="" name="s" title="Search the site for:" aria-label="Search the site:" />
+					<input type="submit" class="site-search__submit small" value="Go" aria-label="Search submit" />
+
+				</form> <!-- / Form -->
+
+				<div class="site-search__close" > <!-- Close -->
+					<a href="" aria-label="close search	bar" ><img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/close-icon.svg" alt="Close" /></a>
+				</div> <!-- / Close -->
+
+			</div> <!-- Site Search -->
+		
+		
+
+		<nav id="site-navigation" class="secondary-navigation" > <!-- Secondary Navigation -->
+
+			
+<div class="secondary-navigation__wrapper" id="navigation" tabindex="-1" aria-label="menu"> <!-- Wrapper -->
+    <div class="secondary-navigation__container" > <!-- Container -->
+        <div class="secondary-navigation__grid" > <!-- Grid -->
+
+            <div class="secondary-navigation__column" > <!-- Column -->
+
+                
+                    <ul class="secondary-navigation__group list" aria-label="Other Links">  <!-- Group -->
+
+                                                    <li><a href="https://www.bushtheatre.co.uk/whats-on/" class="h3" >What's On</a></li>
+                                                    <li><a href="https://www.bushtheatre.co.uk/season/2026-it-starts-here/" class="h3" >It starts here</a></li>
+                                                    <li><a href="https://www.bushtheatre.co.uk/news/" class="h3" >Read & Discover</a></li>
+                                                    <li><a href="https://www.bushtheatre.co.uk/venue-hire/" class="h3" >Venue Hire</a></li>
+                                                    <li><a href="https://www.bushtheatre.co.uk/contact-us/" class="h3" >Contact</a></li>
+                        
+                    </ul> <!-- / Group -->
+
+                
+            </div> <!-- / Column -->
+
+            <div class="secondary-navigation__column" >  <!--Column -->
+
+                                    <div class="secondary-navigation__group" > <!-- Group -->
+                                                                                    <a href="https://www.bushtheatre.co.uk/get-involved/" class="h3" id="group-two-link" >Get Involved</a>
+                                                                                        <ul aria-labelledby="group-two-link" >
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/memberships/" class="sublink" >Memberships</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/local-community/" class="sublink" >Our Local Community</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/artists/" class="sublink" >Artists</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/young-people/bush-young-companies/" class="sublink" >Bush Young Company</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/young-people/" class="sublink" >Schools & Young People</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/young-people/work-experience/" class="sublink" >Work Experience</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/venue-hire/" class="sublink" >Hire Our Space</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/news/" class="sublink" >Read & Discover</a>
+                                    </li>
+                                                                    </ul>
+                                                                        </div> <!-- / Group -->
+                
+                                    <div class="secondary-navigation__group" > <!-- Group -->
+                                                                                    <a href="https://www.bushtheatre.co.uk/support/" class="h3" id="group-four-link" >Support</a>
+                                                                                    <ul aria-labelledby="group-four-link" >
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/support/donate/" class="sublink" >Donate</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/memberships/" class="sublink" >Memberships</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/support/star-supporters/" class="sublink" >Star Supporters</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/support/corporate-partners/" class="sublink" >Corporate Partners</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/support/trusts-and-foundations/" class="sublink" >Trusts and Foundations</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/support/meet-our-supporters/" class="sublink" >Meet Our Supporters</a>
+                                    </li>
+                                                                    </ul>
+                                                                        </div> <!-- / Group -->
+                
+            </div> <!-- / Column -->
+
+            <div class="secondary-navigation__column" >  <!--Column -->
+
+                                    <div class="secondary-navigation__group" > <!-- Group -->
+                                                                                    <a href="https://www.bushtheatre.co.uk/visit/" class="h3 secondary-navigation__main-link" id="group-one-link" >Your Visit</a>
+                                                                                        <ul aria-labelledby="group-one-link" >
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/getting-here/" class="sublink" >Getting Here</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/booking-tickets/" class="sublink" >Booking Tickets</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/ways-to-save/" class="sublink" >Ways to Save</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/accessibility/" class="sublink" >Accessibility</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/library-bar/" class="sublink" >Library Bar</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/facilities/" class="sublink" >Facilities</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/shop/" class="sublink" >Books & Gifts</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/visit/faqs/" class="sublink" >FAQs</a>
+                                    </li>
+                                                                    </ul>
+                                                                        </div> <!-- / Group -->
+                
+                                    <div class="secondary-navigation__group" > <!-- Group -->
+                                                                                    <a href="https://www.bushtheatre.co.uk/about-us/" class="h3" id="group-three-link" >About Us</a>
+                                                                                        <ul aria-labelledby="group-three-link" >
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/about-us/the-team/" class="sublink" >The Team</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/about-us/the-board/" class="sublink" >The Board</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/about-us/environmental-sustainability/" class="sublink" >Environmental Sustainability</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/about-us/social-media-community-guidelines/" class="sublink" >Social Media Community Guidelines</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/about-us/recent-awards/" class="sublink" >Recent Awards</a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.bushtheatre.co.uk/about-us/job-vacancies/" class="sublink" >Job Vacancies</a>
+                                    </li>
+                                                                    </ul>
+                                                                        </div> <!-- / Group -->
+                
+            </div> <!-- / Column -->
+
+        </div> <!-- / Grid -->
+    </div> <!-- / Container -->
+    <a href="#" class="secondary-navigation__close toggleButton" >Close</a>
+</div> <!-- / Wrapper -->
+		</nav> <!-- / Secondary Navigation -->
+
+			<div class="full_content site-nav dark_bg" > <!-- Full Content -->
+
+				<div class="mw_none" > <!-- Max Width -->
+
+				<div class="logo_nav_holder"> <!-- Logo Nav Holder -->
+
+					<div class="logo">
+						<a href="https://www.bushtheatre.co.uk/" rel="home" >
+							<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/bush_nav_logo_green.png" alt="Bush Theatre - Home" />
+						</a>
+					</div>
+
+					<div class="nav_wrapper" > <!-- Nav Wrapper -->
+
+						<div class="main_nav"> <!-- Main Nav -->
+
+							<nav id="site-navigation" class="main-navigation click_sub_nav">
+								<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li class=' menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-136 current_page_item'><a href="https://www.bushtheatre.co.uk/whats-on/">What’s On</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children'><div class="item-has-sub-nav"><a href="https://www.bushtheatre.co.uk/visit/">Your Visit</a><div class="sub-nav-icon"><a href="#" aria-expanded="false" aria-haspopup="true"><span class="screen-reader-text">Your Visit sub navigation icon</span></a></div></div>
+<ul class="sub-menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/getting-here/">Getting Here</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/booking-tickets/">Booking Tickets</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/ways-to-save/">Ways to Save</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/accessibility/">Accessibility</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/eat-and-drink/">Eat + drink</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/facilities/">Facilities</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/faqs/">FAQs</a></li>
+</ul>
+</li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children'><div class="item-has-sub-nav"><a href="https://www.bushtheatre.co.uk/get-involved/">Get Involved</a><div class="sub-nav-icon"><a href="#" aria-expanded="false" aria-haspopup="true"><span class="screen-reader-text">Get Involved sub navigation icon</span></a></div></div>
+<ul class="sub-menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/about-us/job-vacancies/">Jobs & Opportunities</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/memberships/">Memberships</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/local-community/">Our Local Community</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/young-people/bush-young-companies/">Bush Young Companies</a></li>
+</ul>
+</li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/venue-hire/">Venue Hire</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children'><div class="item-has-sub-nav"><a href="https://www.bushtheatre.co.uk/support/">Support Us</a><div class="sub-nav-icon"><a href="#" aria-expanded="false" aria-haspopup="true"><span class="screen-reader-text">Support Us sub navigation icon</span></a></div></div>
+<ul class="sub-menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/support/donate/">Donate</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/visit/memberships/">Memberships</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/support/trusts-and-foundations/">Trusts and Foundations</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/support/star-supporters/">Star Supporters</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/support/corporate-partners/">Corporate Partners</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="https://www.bushtheatre.co.uk/support/meet-our-supporters/">Our Supporters</a></li>
+</ul>
+</li>
+</ul></div>							</nav><!-- #site-navigation -->
+
+							<div class="subnav" > <!-- Sub Nav -->
+								<div class="subnav__links" > <!-- Links -->
+									<div class="basket_icon" >
+										<a href="/basket/" class="basket" >
+											<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/basket.svg" alt="basket - Checkout" />
+										</a>
+									</div>
+									<div class="login_icon" >
+										<a href="/my-account/" class="login" >
+											<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/user.svg" alt="user - Login" />
+										</a>
+									</div>
+																			<div class="search_icon" tabindex="-1" > <!-- Site Search Icon -->
+											<a href="#search_form" role="button" title="Search Bar" aria-label="Search Bar" aria-controls="search_form" aria-expanded="false" aria-haspopup="true" >
+												<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/search.svg" alt="search icon" />
+											</a>
+										</div> <!-- / Site Search Icon -->
+																	</div> <!-- / Links -->
+								<div class="subnav__menu"  > <!-- Menu -->
+									<a href="#menu-popout" class="subnav__menu-hamburger toggleButton" aria-controls="navigation" aria-expanded="false" aria-haspopup="true" ><img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/hamburger.png" alt="menu icon" /></a>
+								</div> <!-- / Menu -->
+							</div> <!-- / Sub Nav -->
+
+						</div> <!-- / Main Nav -->
+
+						<div class="nav_icon"><!-- Nav Icon -->
+							<a href="#mobile-navigation">
+								<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/hamburger.png" alt="menu icon" />
+							</a>
+						</div> <!-- / Nav Icon -->
+
+					</div> <!-- / Nav Wrapper -->
+
+											<a href="#" class="popout__label" aria-expanded="false" >Donate</a>
+
+						<div class="popout__flyout" id="popout__flyout" aria-hidden="true"> <!-- Flyout -->
+							<div class="popout__flyout-container" tabindex="-1" aria-label="Donate Flyout" >
+																	<h3>Donate</h3>
+																									<p>As a charity, Bush Theatre relies on your support to continue creating groundbreaking theatre. The best ways you can help us are with a donation today, or by becoming a member.</p>
+																									<div class="popout__flyout--buttons" > <!-- Buttons -->
+																					<a href="https://www.bushtheatre.co.uk/support/donate/" target="" class="btn reverse" >Donate</a>
+																					<a href="https://www.bushtheatre.co.uk/visit/memberships/" target="" class="link alt" >Explore memberships</a>
+																			</div> <!-- / Buttons -->
+																<div class="popout__flyout--close"  > <!-- Flyout Close -->
+									<a href="#" >
+										<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/close-popout.svg" alt="close" class="close" />
+									</a>
+								</div> <!-- / Flyout Close -->
+							</div>
+						</div> <!-- / Flyout -->
+					
+					</div> <!-- / Logo Nav Holder -->
+
+				</div> <!-- / Max Width -->
+			</div> <!-- / Full Content -->
+
+		</header><!-- #masthead -->
+
+		<div id="content" class="site-content">
+
+		
+			
+			
+			
+					
+<div id="primary" class="content-area">
+    <main id="main" class="site-main">
+
+        <div class="full_content pt_lrg pb_sm dark_bg">
+            <div class="mw_none">
+                <h1>What's On</h1>
+                <hr>
+            </div>
+        </div>
+
+        
+        
+            <section class="full_content events_slider_container pt_none pb_lrg dark_bg" aria-label="Featured Events">
+                <ul class="mw_none events_slider"> <!-- Events Slider -->
+
+                    
+                        
+<li class="events_slide"> <!-- Event Slide -->
+
+	
+	<div class="events_slide__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_Darkling_Website_1920x1080px_V2-900x600.jpg" alt="A south Asian woman with long black hair looks directly ahead. The photo is damaged with staining and scratches, with a large tear through her eye." />
+					</div>
+
+	<div class="events_slide__content"> <!-- Event Content -->
+
+		<a class="events_slide__link" href="https://www.bushtheatre.co.uk/event/darkling/">
+			<h3 class="alt_heading h1">Darkling</h3>
+		</a>
+
+		<div class="events_slide__meta">
+
+							<p class="bold">By Titas Halder</p>
+         
+			<p class="events_slide__desc">Bhopal. India. 1984. I walk home. The skyline is changed. The skeleton is fast becoming a huge metal creature. They have built a behemoth here. Born under a blue sky&hellip;</p>
+
+									
+																				<p class="few_dates">
+					24 Oct				</p>
+			
+							<p class="venue">Holloway Theatre (Bush Theatre's Main Space)</p>
+			
+			<a href="https://www.bushtheatre.co.uk/event/darkling/" class="btn">Find out more</a>
+
+		</div>
+
+	</div> <!-- / Event Content -->
+
+</li> <!-- / Event Slide -->
+                    
+                        
+<li class="events_slide"> <!-- Event Slide -->
+
+	
+	<div class="events_slide__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_TheHungryGhost_Website_1920x1080px_V3-900x600.jpg" alt="An east Asian woman looks directly at the camera with her tongue out. The image is sliced and repeated so her tongue appears really long." />
+							<div class="btn reverse btn_no_arrow btn_sold_out small">Sold Out</div>
+			</div>
+
+	<div class="events_slide__content"> <!-- Event Content -->
+
+		<a class="events_slide__link" href="https://www.bushtheatre.co.uk/event/the-hungry-ghost/">
+			<h3 class="alt_heading h1">The Hungry Ghost</h3>
+		</a>
+
+		<div class="events_slide__meta">
+
+							<p class="bold">by Mei Leng Yew</p>
+         
+			<p class="events_slide__desc">“I feel like a newborn out in the world for the first time. I feel… ravenous.” Tonight’s the night. She’s got a plan. And it involves her (secret) girlfriend, and&hellip;</p>
+
+									
+																
+									<p>Until 31 Oct</p>
+							
+							<p class="venue">Studio</p>
+			
+			<a href="https://www.bushtheatre.co.uk/event/the-hungry-ghost/" class="btn">Find out more</a>
+
+		</div>
+
+	</div> <!-- / Event Content -->
+
+</li> <!-- / Event Slide -->
+                    
+                    
+                </ul> <!-- / Events Listing -->
+            </section>
+
+        
+        
+
+
+<section
+    class="full_content white_bg pt_lrg pb_md"
+> <!-- Full Content -->
+
+  <div class="mw_1400"> <!-- MW -->
+
+    
+    
+    
+      <ul class="page_links page_links--row_of_2"> <!-- Page Links -->
+        
+          <li class="page_links__item"> <!-- Page Links Item -->
+
+            
+            <a href="https://www.bushtheatre.co.uk/season/2026-it-starts-here/" target="_self">
+
+              <div class="page_links__image"> <!-- Page Links Image -->
+                                  
+                  <img decoding="async"
+                  srcset="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_TheHungryGhost_Website_1920x1080px_V3-480x320.jpg 480w,
+                  https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_TheHungryGhost_Website_1920x1080px_V3-900x600.jpg 900w,"
+                  sizes="(max-width: 480px) 100vw,
+                  (max-width: 900px) 100vw,
+                  100vw"
+                  src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_TheHungryGhost_Website_1920x1080px_V3-900x600.jpg"
+                  alt="An east Asian woman looks directly at the camera with her tongue out. The image is sliced and repeated so her tongue appears really long." />
+                              </div> <!-- / Page Links Image -->
+
+              <div class="page_links__title green_bg"><p class="h2 alt_heading">2026/27: It starts here</p></div>
+
+            </a>
+
+          </li> <!-- / Page Links Item -->
+
+        
+          <li class="page_links__item"> <!-- Page Links Item -->
+
+            
+            <a href="https://www.bushtheatre.co.uk/season/alt-b/" target="_self">
+
+              <div class="page_links__image"> <!-- Page Links Image -->
+                                  
+                  <img decoding="async"
+                  srcset="https://www.bushtheatre.co.uk/wp-content/uploads/2025/10/l-r-Olivia-Forrest-Charlene-and-Rowan-Robinson-Franky-in-_Heart-Wall_-at-Bush-Theatre.-Photo-credit-Harry-Elletson.-247-480x320.jpg 480w,
+                  https://www.bushtheatre.co.uk/wp-content/uploads/2025/10/l-r-Olivia-Forrest-Charlene-and-Rowan-Robinson-Franky-in-_Heart-Wall_-at-Bush-Theatre.-Photo-credit-Harry-Elletson.-247-900x600.jpg 900w,"
+                  sizes="(max-width: 480px) 100vw,
+                  (max-width: 900px) 100vw,
+                  100vw"
+                  src="https://www.bushtheatre.co.uk/wp-content/uploads/2025/10/l-r-Olivia-Forrest-Charlene-and-Rowan-Robinson-Franky-in-_Heart-Wall_-at-Bush-Theatre.-Photo-credit-Harry-Elletson.-247-900x600.jpg"
+                  alt="" />
+                              </div> <!-- / Page Links Image -->
+
+              <div class="page_links__title blue_bg"><p class="h2 alt_heading">ALT B</p></div>
+
+            </a>
+
+          </li> <!-- / Page Links Item -->
+
+              </ul> <!-- Page Links -->
+    
+  </div> <!-- / MW -->
+
+</section> <!-- / Full Content -->
+
+
+        <section class="full_content pt_lrg pb_lrg" aria-label="What's On">
+            <div class="mw_1400 events_intro">
+
+                                    <h2>All shows</h2>
+
+                    <div class="events_intro__access_btns">
+                        <!-- <a href="/group-booking/" class="btn">Group Booking</a> -->
+                        <a href="/accessible-events/" class="btn">Access listing</a>
+                        <a href="/fifteen-pound-tickets/" class="btn">£15 tickets</a>
+                    </div>
+
+                    <ul class="events_listing"> <!-- Events Listing -->
+
+                        
+                            
+<li class="events_item"> <!-- Event Item -->
+
+	
+	<div class="events_item__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_Darkling_Website_1920x1080px_V2-900x600.jpg" alt="A south Asian woman with long black hair looks directly ahead. The photo is damaged with staining and scratches, with a large tear through her eye." />
+					</div>
+
+	<div class="events_item__content"> <!-- Event Content -->
+
+						<a class="events_item__link" href="https://www.bushtheatre.co.uk/event/darkling/">
+			<h3 class="alt_heading h1">Darkling</h3>
+				</a>
+
+		<div class="events_item__meta">
+							<p class="bold">By Titas Halder</p>
+         
+									
+													
+			
+									<p class="few_dates">
+						24 Oct					</p>
+				
+			
+							<p>Holloway Theatre (Bush Theatre's Main Space)</p>
+			
+		</div><!-- .entry-meta -->
+
+	</div> <!-- / Event Content -->
+
+	<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/button_bg_arrow_dark.svg" alt="Arrow Icon" class="events_item__arrow">
+	<hr class="events_item__divider">
+</li> <!-- / Event Item -->
+                        
+                            
+<li class="events_item"> <!-- Event Item -->
+
+	
+	<div class="events_item__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_TheHungryGhost_Website_1920x1080px_V3-900x600.jpg" alt="An east Asian woman looks directly at the camera with her tongue out. The image is sliced and repeated so her tongue appears really long." />
+							<div class="btn reverse btn_no_arrow btn_sold_out small">Sold Out</div>
+			</div>
+
+	<div class="events_item__content"> <!-- Event Content -->
+
+						<a class="events_item__link" href="https://www.bushtheatre.co.uk/event/the-hungry-ghost/">
+			<h3 class="alt_heading h1">The Hungry Ghost</h3>
+				</a>
+
+		<div class="events_item__meta">
+							<p class="bold">by Mei Leng Yew</p>
+         
+									
+													
+			
+				
+											<p>Until 31 Oct</p>
+					
+				
+			
+							<p>Studio</p>
+			
+		</div><!-- .entry-meta -->
+
+	</div> <!-- / Event Content -->
+
+	<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/button_bg_arrow_dark.svg" alt="Arrow Icon" class="events_item__arrow">
+	<hr class="events_item__divider">
+</li> <!-- / Event Item -->
+                        
+                            
+<li class="events_item"> <!-- Event Item -->
+
+	
+	<div class="events_item__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/10/BushTheatre_TheBridge_Website_1920x1080px-900x600.jpg" alt="Alaa Shehada sits on a yellow container atop a bus. He holds another yellow container and looks off to the side." />
+					</div>
+
+	<div class="events_item__content"> <!-- Event Content -->
+
+						<a class="events_item__link" href="https://www.bushtheatre.co.uk/event/the-bridge/">
+			<h3 class="alt_heading h1">The Bridge</h3>
+				</a>
+
+		<div class="events_item__meta">
+							<p class="bold">By Alaa Shehada and Sam Beale</p>
+         
+									
+													
+			
+				
+											<p>28 Oct to 11 Nov</p>
+					
+				
+			
+							<p>Holloway Theatre (Bush Theatre's Main Space)</p>
+			
+		</div><!-- .entry-meta -->
+
+	</div> <!-- / Event Content -->
+
+	<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/button_bg_arrow_dark.svg" alt="Arrow Icon" class="events_item__arrow">
+	<hr class="events_item__divider">
+</li> <!-- / Event Item -->
+                        
+                            
+<li class="events_item"> <!-- Event Item -->
+
+	
+	<div class="events_item__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_Attention_Website_1920x1080px-900x600.jpg" alt="Attention" />
+					</div>
+
+	<div class="events_item__content"> <!-- Event Content -->
+
+						<a class="events_item__link" href="https://www.bushtheatre.co.uk/event/attention/">
+			<h3 class="alt_heading h1">ATTENTION</h3>
+				</a>
+
+		<div class="events_item__meta">
+							<p class="bold">Co-created by Jules Head and Georgia Bruce</p>
+         
+									
+													
+			
+				
+											<p>19 Nov to 23 Dec</p>
+					
+				
+			
+							<p>Studio</p>
+			
+		</div><!-- .entry-meta -->
+
+	</div> <!-- / Event Content -->
+
+	<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/button_bg_arrow_dark.svg" alt="Arrow Icon" class="events_item__arrow">
+	<hr class="events_item__divider">
+</li> <!-- / Event Item -->
+                        
+                            
+<li class="events_item"> <!-- Event Item -->
+
+	
+	<div class="events_item__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_GlobalMajority_Website_1920x1080px_Clean-900x600.jpg" alt="Global Majority" />
+					</div>
+
+	<div class="events_item__content"> <!-- Event Content -->
+
+						<a class="events_item__link" href="https://www.bushtheatre.co.uk/event/global-majority/">
+			<h3 class="alt_heading h1">Global Majority</h3>
+				</a>
+
+		<div class="events_item__meta">
+							<p class="bold">By Chris Fung</p>
+         
+									
+													
+			
+				
+											<p>25 Nov to 16 Jan</p>
+					
+				
+			
+							<p>Holloway Theatre (Bush Theatre's Main Space)</p>
+			
+		</div><!-- .entry-meta -->
+
+	</div> <!-- / Event Content -->
+
+	<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/button_bg_arrow_dark.svg" alt="Arrow Icon" class="events_item__arrow">
+	<hr class="events_item__divider">
+</li> <!-- / Event Item -->
+                        
+                            
+<li class="events_item"> <!-- Event Item -->
+
+	
+	<div class="events_item__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_Ripples_Website_1920x1080px-900x600.jpg" alt="Ripples" />
+					</div>
+
+	<div class="events_item__content"> <!-- Event Content -->
+
+						<a class="events_item__link" href="https://www.bushtheatre.co.uk/event/ripples/">
+			<h3 class="alt_heading h1">Ripples</h3>
+				</a>
+
+		<div class="events_item__meta">
+							<p class="bold">By Tafadzwa Muchenje and Rosie MacPherson</p>
+         
+									
+													
+			
+				
+											<p>21 Jan to 27 Feb</p>
+					
+				
+			
+							<p>Studio</p>
+			
+		</div><!-- .entry-meta -->
+
+	</div> <!-- / Event Content -->
+
+	<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/button_bg_arrow_dark.svg" alt="Arrow Icon" class="events_item__arrow">
+	<hr class="events_item__divider">
+</li> <!-- / Event Item -->
+                        
+                            
+<li class="events_item"> <!-- Event Item -->
+
+	
+	<div class="events_item__image">
+				<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2026/06/BushTheatre_InsaneAsylumSeekers_Website_1920x1080px-900x600.jpg" alt="Insane Asylum Seekers" />
+					</div>
+
+	<div class="events_item__content"> <!-- Event Content -->
+
+						<a class="events_item__link" href="https://www.bushtheatre.co.uk/event/insane-asylum-seekers-2026/">
+			<h3 class="alt_heading h1">Insane Asylum Seekers</h3>
+				</a>
+
+		<div class="events_item__meta">
+							<p class="bold">By Laith Elzubaidi</p>
+         
+									
+													
+			
+				
+											<p>12 Feb to 20 Mar</p>
+					
+				
+			
+							<p>Holloway Theatre (Bush Theatre's Main Space)</p>
+			
+		</div><!-- .entry-meta -->
+
+	</div> <!-- / Event Content -->
+
+	<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/button_bg_arrow_dark.svg" alt="Arrow Icon" class="events_item__arrow">
+	<hr class="events_item__divider">
+</li> <!-- / Event Item -->
+                        
+                        
+                    </ul> <!-- / Events Listing -->
+
+                    <div class="custom-pagination"></div>
+
+                
+            </div>
+        </section>
+
+    </main>
+    <!-- #main -->
+</div>
+<!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">  <!-- Footer -->
+
+		<div class="site-footer__wrapper"> <!-- Wrapper -->
+
+			<div class="site-footer__container" > <!-- Container -->
+
+				<div class="site-footer__content" > <!-- Content -->
+
+					<div class="site-footer__content--logo" > <!-- Content Logo -->
+						<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/bush_nav_logo_green.png ?>" alt="Bush Theatre Logo" />
+					</div> <!-- / Content Logo -->
+
+					<div class="site-footer__content--wrapper" > <!-- Content Wrapper -->
+
+						<div class="site-footer__content--column horizontal" > <!-- Content Column -->
+
+							<div class="site-footer__content--div large-gap" > <!-- Content Div -->
+
+																<div class="site-footer__content--flex" >
+									<h3 class="h5 title" >Find Us</h3>
+									<p>7 Uxbridge Road<br />
+Shepherd's Bush<br />
+London, W12 8LJ</p>
+									<a href="/visit/getting-here/" >Plan your journey</a>
+								</div>
+								
+																	<div class="site-footer__content--flex" >
+										<h3 class="h5 title" >Box Office</h3>
+																					<a href="tel:020 8743 5050" class="no_decoration no_margin" >020 8743 5050</a>
+																															<p>Monday to Saturday, 4pm - 8pm</p>
+																			</div>
+								
+							</div> <!-- / Content Div -->
+
+							<div class="site-footer__content--div small-gap" > <!-- Content Div -->
+
+								<h3 class="h5 title" >Links</h3>
+
+																	<div class="site-footer__content--links" > <!-- Links -->
+																					<a href="https://www.bushtheatre.co.uk/visit/faqs/" class="no_margin" >FAQs</a>
+																					<a href="https://www.bushtheatre.co.uk/contact-us/" class="no_margin" >Contact Us</a>
+																					<a href="https://www.bushtheatre.co.uk/visit/accessibility/" class="no_margin" >Accessibility</a>
+																					<a href="https://www.bushtheatre.co.uk/visit/booking-tickets/" class="no_margin" >Tickets</a>
+																					<a href="https://www.bushtheatre.co.uk/terms/" class="no_margin" >Terms & Conditions</a>
+																					<a href="https://www.bushtheatre.co.uk/privacy-policy/" class="no_margin" >Privacy Policy</a>
+																					<a href="https://www.bushtheatre.co.uk/about-us/job-vacancies/" class="no_margin" >Jobs</a>
+																			</div> <!-- / Links -->
+								
+							</div> <!-- / Content Div -->
+
+						</div> <!-- / Content Column -->
+
+						<div class="site-footer__content--column vertical" > <!-- Content Column -->
+
+							<h3 class="h5 title" >Supported by</h3>
+
+															<div class="site-footer__content--flex logos" >
+																													<a href="https://www.artscouncil.org.uk/" target="_blank" >
+											<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2025/02/footer_logo_1.png" alt="footer_logo_1" />
+										</a>
+																																							<a href="https://www.artscouncil.org.uk/" target="_blank" >
+											<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2025/02/footer_logo_2.png" alt="footer_logo_2" />
+										</a>
+																																							<a href="https://ecofriendlyweb.org/client/bush-theatre/" target="_blank" >
+											<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2025/08/ccw-badge-mono-white-390x100-1.png" alt="ccw-badge-mono-white-390x100" />
+										</a>
+																											</div>
+							
+						</div> <!-- / Content Column -->
+
+					</div> <!-- / Content Wrapper -->
+
+					<div class="site-footer__info" > <!-- Info -->
+
+						<div class="site-footer__info--links" > <!-- Links -->
+							<p>© Bush Theatre 2026. Alternative Theatre Company Ltd.</p>
+							<p>Registered Number: 1221968</p>
+							<p>Registered Charity: 270080</p>
+							<p><a href="https://www.splitpixel.co.uk/web-design-development-theatres/" target="_blank" class="no_decoration no_margin">Web design by Splitpixel</a>.</p>
+						</div> <!-- / Links -->
+
+						<div class="site-footer__info--socials" > <!-- Socials -->
+																						<a class="site-footer__socials" href="https://www.facebook.com/bushtheatre" >
+									<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/social-icons/facebook-white.svg" alt="Facebook logo" />
+								</a>
+																						<a class="site-footer__socials" href="https://www.instagram.com/bushtheatre/" >
+									<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/social-icons/instagram-white.svg" alt="Instagram logo" />
+								</a>
+																													<a class="site-footer__socials" href="https://www.youtube.com/user/bushtheatre" >
+									<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/social-icons/youtube-white.svg" alt="Youtube logo" />
+								</a>
+																						<a class="site-footer__socials tiktok" href="https://tiktok.com/@bushtheatre" >
+									<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/social-icons/tiktok-white.svg" alt="TikTok logo" />
+								</a>
+																						<a class="site-footer__socials" href="https://uk.linkedin.com/company/bush-theatre" >
+									<img src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/images/social-icons/linkedin-white.svg" alt="LinkedIn logo" />
+								</a>
+													</div> <!-- / Socials -->
+
+					</div> <!-- Info -->
+
+				</div> <!-- / Content -->
+
+			</div> <!-- / Container -->
+
+		</div> <!-- / Wrapper -->
+
+	</footer><!-- Footer -->
+
+</div><!-- #page -->
+
+	<nav id="mobile-navigation">
+		<ul>
+			<li id="menu-item-11589" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-136 current_page_item menu-item-11589"><a href="https://www.bushtheatre.co.uk/whats-on/" aria-current="page">What’s On</a></li>
+<li id="menu-item-11612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11612"><a href="https://www.bushtheatre.co.uk/news/">Read &#038; Discover</a></li>
+<li id="menu-item-11603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11603"><a href="https://www.bushtheatre.co.uk/venue-hire/">Venue Hire</a></li>
+<li id="menu-item-11613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11613"><a href="https://www.bushtheatre.co.uk/contact-us/">Contact</a></li>
+<li id="menu-item-11598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11598"><a href="https://www.bushtheatre.co.uk/get-involved/">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-11600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11600"><a href="https://www.bushtheatre.co.uk/visit/memberships/">Memberships</a></li>
+	<li id="menu-item-11601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11601"><a href="https://www.bushtheatre.co.uk/local-community/">Our Local Community</a></li>
+	<li id="menu-item-11615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11615"><a href="https://www.bushtheatre.co.uk/artists/">Artists</a></li>
+	<li id="menu-item-11616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11616"><a href="https://www.bushtheatre.co.uk/young-people/bush-young-companies/">Bush Young Company</a></li>
+	<li id="menu-item-11619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11619"><a href="https://www.bushtheatre.co.uk/young-people/schools-and-groups/">Schools &#038; Young People</a></li>
+	<li id="menu-item-11618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11618"><a href="https://www.bushtheatre.co.uk/young-people/work-experience/">Work Experience</a></li>
+</ul>
+</li>
+<li id="menu-item-11590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11590"><a href="https://www.bushtheatre.co.uk/visit/">Your Visit</a>
+<ul class="sub-menu">
+	<li id="menu-item-11591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11591"><a href="https://www.bushtheatre.co.uk/visit/getting-here/">Getting Here</a></li>
+	<li id="menu-item-11592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11592"><a href="https://www.bushtheatre.co.uk/visit/booking-tickets/">Booking Tickets</a></li>
+	<li id="menu-item-11593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11593"><a href="https://www.bushtheatre.co.uk/visit/ways-to-save/">Ways to Save</a></li>
+	<li id="menu-item-11594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11594"><a href="https://www.bushtheatre.co.uk/visit/accessibility/">Accessibility</a></li>
+	<li id="menu-item-11595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11595"><a href="https://www.bushtheatre.co.uk/visit/eat-and-drink/">Eat + drink</a></li>
+	<li id="menu-item-11596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11596"><a href="https://www.bushtheatre.co.uk/visit/facilities/">Facilities</a></li>
+	<li id="menu-item-11614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11614"><a href="https://www.bushtheatre.co.uk/shop/">Books &#038; Gifts</a></li>
+	<li id="menu-item-11597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11597"><a href="https://www.bushtheatre.co.uk/visit/faqs/">FAQs</a></li>
+</ul>
+</li>
+<li id="menu-item-11604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11604"><a href="https://www.bushtheatre.co.uk/support/">Support Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-11605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11605"><a href="https://www.bushtheatre.co.uk/support/donate/">Donate</a></li>
+	<li id="menu-item-11606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11606"><a href="https://www.bushtheatre.co.uk/visit/memberships/">Memberships</a></li>
+	<li id="menu-item-11608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11608"><a href="https://www.bushtheatre.co.uk/support/star-supporters/">Star Supporters</a></li>
+	<li id="menu-item-11609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11609"><a href="https://www.bushtheatre.co.uk/support/corporate-partners/">Corporate Partners</a></li>
+	<li id="menu-item-11607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11607"><a href="https://www.bushtheatre.co.uk/support/trusts-and-foundations/">Trusts and Foundations</a></li>
+	<li id="menu-item-11610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11610"><a href="https://www.bushtheatre.co.uk/support/meet-our-supporters/">Meet Our Supporters</a></li>
+</ul>
+</li>
+<li id="menu-item-11620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11620"><a href="https://www.bushtheatre.co.uk/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-11624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11624"><a href="https://www.bushtheatre.co.uk/about-us/the-team/">The Team</a></li>
+	<li id="menu-item-11623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11623"><a href="https://www.bushtheatre.co.uk/about-us/the-board/">The Board</a></li>
+	<li id="menu-item-11621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11621"><a href="https://www.bushtheatre.co.uk/about-us/environmental-sustainability/">Environmental Sustainability</a></li>
+	<li id="menu-item-11622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11622"><a href="https://www.bushtheatre.co.uk/about-us/job-vacancies/">Job Vacancies</a></li>
+	<li id="menu-item-11625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11625"><a href="https://www.bushtheatre.co.uk/about-us/recent-awards/">Recent Awards</a></li>
+	<li id="menu-item-11626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11626"><a href="https://www.bushtheatre.co.uk/about-us/social-media-community-guidelines/">Social Media Community Guidelines</a></li>
+</ul>
+</li>
+		</ul>
+	</nav> <!-- #site-navigation -->
+
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/bush_theatre/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<!--copyscapeskip-->
+	<aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-dark-scheme gdpr_infobar_postion_bottom gdpr-full-screen-infobar" aria-labelledby="moove_gdpr_cookie_info_bar_title" tabindex="-1" style="display: none;">
+	<div class="moove-gdpr-info-bar-container">
+				<div id="moove_gdpr_cookie_info_bar_title" class="gdpr-sr-only" role="heading" aria-level="2">GDPR Cookie Banner</div>
+		<div class="moove-gdpr-info-bar-content">
+		
+<div class="moove-gdpr-cookie-notice">
+  <p>We are using cookies to give you the best experience on our website.</p>
+<p>You can find out more about which cookies we are using or switch them off in <button  aria-haspopup="dialog" data-href="#moove_gdpr_cookie_modal" class="change-settings-button gdpr-settings-btn-style-2">settings</button>.</p>
+</div>
+<!--  .moove-gdpr-cookie-notice -->
+		
+<div class="moove-gdpr-button-holder">
+			<button class="mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0" aria-label="Accept" >Accept</button>
+						<button class="mgbutton moove-gdpr-infobar-reject-btn gdpr-fbo-1 "  aria-label="Reject">Reject</button>
+			</div>
+<!--  .button-container -->
+		</div>
+		<!-- moove-gdpr-info-bar-content -->
+	</div>
+	<!-- moove-gdpr-info-bar-container -->
+	</aside>
+	<!-- #moove_gdpr_cookie_info_bar -->
+	<!--/copyscapeskip-->
+<script id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"/whats-on/|/event/|/news/|/accessible-events/|/fifteen-pound-tickets/|/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://www.bushtheatre.co.uk","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+</script>
+<script id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+</script>
+<script id="bush_theatre-navigation-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/js/navigation.js?ver=20151215"></script>
+<script id="bush_theatre-skip-link-focus-fix-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/js/skip-link-focus-fix.js?ver=20151215"></script>
+<script id="bush_theatre-animate-js-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/js/bush-animate-it.js?ver=20241022"></script>
+<script id="bush_theatre-mmenu-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/assets/mobile-navigation/mmenu.js?ver=20171102"></script>
+<script id="bush_theatre-mobile-nav-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/assets/mobile-navigation/mobile-navigation.js?ver=20171102"></script>
+<script id="bush_theatre-mobile-polyfills-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/assets/mobile-navigation/mmenu.polyfills.js?ver=20171102"></script>
+<script id="bush_theatre-custom-scripts-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/js/custom-scripts.js?ver=20171012"></script>
+<script id="bush_theatre-whats-on-js-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/js/whats-on-script.js?ver=20241022"></script>
+<script id="bush_theatre-slick-js" src="https://www.bushtheatre.co.uk/wp-content/themes/bush_theatre/assets/slick-slider/slick.min.js?ver=20171012"></script>
+<script id="moove_gdpr_frontend-js-extra">
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https://www.bushtheatre.co.uk/wp-admin/admin-ajax.php","post_id":"136","plugin_dir":"https://www.bushtheatre.co.uk/wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"1","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"strict":2,"third_party":0,"advanced":0,"performance":0,"preference":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":false,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\\t\\t\\t\\t\u003Cscript data-gdpr data-type=\\\"gdpr-integration\\\"\u003E\\n\\t\\t\\t(function(){\\n\\t\\t\\t\\t\\/\\/ gtag() is defined by the wp_head half; if that did not run there is\\n\\t\\t\\t\\t\\/\\/ no consent state to update. Bail before claiming the flag so a later\\n\\t\\t\\t\\t\\/\\/ copy can still succeed.\\n\\t\\t\\t\\tif ( window._gdpr_gtmc2_updated || typeof gtag !== 'function' ) { return; }\\n\\n\\t\\t\\t\\tvar _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;\\n\\t\\t\\t\\ttry { _gdpr_m = document.cookie.match(\\/(?:^|;\\\\s*)moove_gdpr_popup=([^;]*)\\/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}\\n\\t\\t\\t\\tif ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }\\n\\t\\t\\t\\tvar _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };\\n\\t\\t\\t\\t\\/\\/ No stored decision means the banner has not been answered yet. Leave\\n\\t\\t\\t\\t\\/\\/ the wp_head defaults alone.\\n\\t\\t\\t\\tif ( ! _gdpr_has ) { return; }\\n\\n\\t\\t\\t\\twindow._gdpr_gtmc2_updated = true;\\n\\n\\t\\t\\t\\tvar _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');\\n\\n\\t\\t\\t\\tgtag('consent', 'update', {\\n\\t\\t\\t\\t\\t'ad_storage': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_user_data': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_personalization': _gdpr_ads,\\n\\t\\t\\t\\t\\t'analytics_storage': _gdpr_state('thirdparty'),\\n\\t\\t\\t\\t\\t'personalization_storage': _gdpr_state('preference'),\\n\\t\\t\\t\\t\\t'security_storage': _gdpr_strict,\\n\\t\\t\\t\\t\\t'functionality_storage': _gdpr_strict\\n\\t\\t\\t\\t});\\n\\n\\t\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\t\\twindow.dataLayer.push({\\n\\t\\t\\t\\t\\t'event': 'cookie_consent_update'\\n\\t\\t\\t\\t});\\n\\t\\t\\t})();\\n\\t\\t\u003C\\/script\u003E\\n\\t\\t\\t\\t\",\"body\":\"\",\"footer\":\"\"},\"strict\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\\t\\t\\t\\t\u003Cscript data-gdpr data-type=\\\"gdpr-integration\\\"\u003E\\n\\t\\t\\t(function(){\\n\\t\\t\\t\\t\\/\\/ gtag() is defined by the wp_head half; if that did not run there is\\n\\t\\t\\t\\t\\/\\/ no consent state to update. Bail before claiming the flag so a later\\n\\t\\t\\t\\t\\/\\/ copy can still succeed.\\n\\t\\t\\t\\tif ( window._gdpr_gtmc2_updated || typeof gtag !== 'function' ) { return; }\\n\\n\\t\\t\\t\\tvar _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;\\n\\t\\t\\t\\ttry { _gdpr_m = document.cookie.match(\\/(?:^|;\\\\s*)moove_gdpr_popup=([^;]*)\\/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}\\n\\t\\t\\t\\tif ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }\\n\\t\\t\\t\\tvar _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };\\n\\t\\t\\t\\t\\/\\/ No stored decision means the banner has not been answered yet. Leave\\n\\t\\t\\t\\t\\/\\/ the wp_head defaults alone.\\n\\t\\t\\t\\tif ( ! _gdpr_has ) { return; }\\n\\n\\t\\t\\t\\twindow._gdpr_gtmc2_updated = true;\\n\\n\\t\\t\\t\\tvar _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');\\n\\n\\t\\t\\t\\tgtag('consent', 'update', {\\n\\t\\t\\t\\t\\t'ad_storage': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_user_data': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_personalization': _gdpr_ads,\\n\\t\\t\\t\\t\\t'analytics_storage': _gdpr_state('thirdparty'),\\n\\t\\t\\t\\t\\t'personalization_storage': _gdpr_state('preference'),\\n\\t\\t\\t\\t\\t'security_storage': _gdpr_strict,\\n\\t\\t\\t\\t\\t'functionality_storage': _gdpr_strict\\n\\t\\t\\t\\t});\\n\\n\\t\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\t\\twindow.dataLayer.push({\\n\\t\\t\\t\\t\\t'event': 'cookie_consent_update'\\n\\t\\t\\t\\t});\\n\\t\\t\\t})();\\n\\t\\t\u003C\\/script\u003E\\n\\t\\t\\t\\t\",\"body\":\"\",\"footer\":\"\"},\"performance\":{\"header\":\"\\t\\t\\t\\t\u003Cscript data-gdpr data-type=\\\"gdpr-integration\\\"\u003E\\n\\t\\t\\t(function(){\\n\\t\\t\\t\\t\\/\\/ gtag() is defined by the wp_head half; if that did not run there is\\n\\t\\t\\t\\t\\/\\/ no consent state to update. Bail before claiming the flag so a later\\n\\t\\t\\t\\t\\/\\/ copy can still succeed.\\n\\t\\t\\t\\tif ( window._gdpr_gtmc2_updated || typeof gtag !== 'function' ) { return; }\\n\\n\\t\\t\\t\\tvar _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;\\n\\t\\t\\t\\ttry { _gdpr_m = document.cookie.match(\\/(?:^|;\\\\s*)moove_gdpr_popup=([^;]*)\\/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}\\n\\t\\t\\t\\tif ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }\\n\\t\\t\\t\\tvar _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };\\n\\t\\t\\t\\t\\/\\/ No stored decision means the banner has not been answered yet. Leave\\n\\t\\t\\t\\t\\/\\/ the wp_head defaults alone.\\n\\t\\t\\t\\tif ( ! _gdpr_has ) { return; }\\n\\n\\t\\t\\t\\twindow._gdpr_gtmc2_updated = true;\\n\\n\\t\\t\\t\\tvar _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');\\n\\n\\t\\t\\t\\tgtag('consent', 'update', {\\n\\t\\t\\t\\t\\t'ad_storage': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_user_data': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_personalization': _gdpr_ads,\\n\\t\\t\\t\\t\\t'analytics_storage': _gdpr_state('thirdparty'),\\n\\t\\t\\t\\t\\t'personalization_storage': _gdpr_state('preference'),\\n\\t\\t\\t\\t\\t'security_storage': _gdpr_strict,\\n\\t\\t\\t\\t\\t'functionality_storage': _gdpr_strict\\n\\t\\t\\t\\t});\\n\\n\\t\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\t\\twindow.dataLayer.push({\\n\\t\\t\\t\\t\\t'event': 'cookie_consent_update'\\n\\t\\t\\t\\t});\\n\\t\\t\\t})();\\n\\t\\t\u003C\\/script\u003E\\n\\t\\t\\t\\t\",\"body\":\"\",\"footer\":\"\"},\"preference\":{\"header\":\"\\t\\t\\t\\t\u003Cscript data-gdpr data-type=\\\"gdpr-integration\\\"\u003E\\n\\t\\t\\t(function(){\\n\\t\\t\\t\\t\\/\\/ gtag() is defined by the wp_head half; if that did not run there is\\n\\t\\t\\t\\t\\/\\/ no consent state to update. Bail before claiming the flag so a later\\n\\t\\t\\t\\t\\/\\/ copy can still succeed.\\n\\t\\t\\t\\tif ( window._gdpr_gtmc2_updated || typeof gtag !== 'function' ) { return; }\\n\\n\\t\\t\\t\\tvar _gdpr_c = {}, _gdpr_m = null, _gdpr_has = false;\\n\\t\\t\\t\\ttry { _gdpr_m = document.cookie.match(\\/(?:^|;\\\\s*)moove_gdpr_popup=([^;]*)\\/); _gdpr_has = !! _gdpr_m; } catch ( e ) {}\\n\\t\\t\\t\\tif ( _gdpr_m ) { try { _gdpr_c = JSON.parse( decodeURIComponent( _gdpr_m[1] ) ) || {}; } catch ( e ) { _gdpr_c = {}; } }\\n\\t\\t\\t\\tvar _gdpr_state = function( k ) { return _gdpr_has && parseInt( _gdpr_c[ k ], 10 ) === 1 ? 'granted' : 'denied'; };\\n\\t\\t\\t\\t\\/\\/ No stored decision means the banner has not been answered yet. Leave\\n\\t\\t\\t\\t\\/\\/ the wp_head defaults alone.\\n\\t\\t\\t\\tif ( ! _gdpr_has ) { return; }\\n\\n\\t\\t\\t\\twindow._gdpr_gtmc2_updated = true;\\n\\n\\t\\t\\t\\tvar _gdpr_ads = _gdpr_state('advanced'), _gdpr_strict = _gdpr_state('strict');\\n\\n\\t\\t\\t\\tgtag('consent', 'update', {\\n\\t\\t\\t\\t\\t'ad_storage': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_user_data': _gdpr_ads,\\n\\t\\t\\t\\t\\t'ad_personalization': _gdpr_ads,\\n\\t\\t\\t\\t\\t'analytics_storage': _gdpr_state('thirdparty'),\\n\\t\\t\\t\\t\\t'personalization_storage': _gdpr_state('preference'),\\n\\t\\t\\t\\t\\t'security_storage': _gdpr_strict,\\n\\t\\t\\t\\t\\t'functionality_storage': _gdpr_strict\\n\\t\\t\\t\\t});\\n\\n\\t\\t\\t\\twindow.dataLayer = window.dataLayer || [];\\n\\t\\t\\t\\twindow.dataLayer.push({\\n\\t\\t\\t\\t\\t'event': 'cookie_consent_update'\\n\\t\\t\\t\\t});\\n\\t\\t\\t})();\\n\\t\\t\u003C\\/script\u003E\\n\\t\\t\\t\\t\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"","parent_domain_cookies":["_ga","_fbp","_gid","_gat","__utma","__utmb","__utmc","__utmt","__utmz","_gcl_","_gac_","_fbc"],"wp_consent_api":"false","gdpr_nonce":"a947405054","gdpr_focus_cb":"false","gdpr_a11y_strict_first":"Turn on %s first to change this setting.","gdpr_consent_version":"1","gdpr_uvid":"3ef92e803d3d2daf9d12ff55e0495a5e","stats_enabled":"1","gdpr_aos_hide":"false","consent_log_enabled":"","enable_on_scroll":"false"};
+//# sourceURL=moove_gdpr_frontend-js-extra
+</script>
+<script id="moove_gdpr_frontend-js" src="https://www.bushtheatre.co.uk/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=5.2.2"></script>
+<script id="moove_gdpr_frontend-js-after">
+var gdpr_c=document.cookie.match(/(?:^|;\s*)moove_gdpr_popup=([^;]*)/);var gdpr_d=gdpr_c?JSON.parse(decodeURIComponent(gdpr_c[1])):{};var gdpr_consent__strict=gdpr_d.strict==="1"?"true":"false";var gdpr_consent__thirdparty=gdpr_d.thirdparty==="1"?"true":"false";var gdpr_consent__advanced=gdpr_d.advanced==="1"?"true":"false";var gdpr_consent__performance=gdpr_d.performance==="1"?"true":"false";var gdpr_consent__preference=gdpr_d.preference==="1"?"true":"false";var _cc=[];if(gdpr_d.strict==="1")_cc.push("strict");if(gdpr_d.thirdparty==="1")_cc.push("thirdparty");if(gdpr_d.advanced==="1")_cc.push("advanced");if(gdpr_d.performance==="1")_cc.push("performance");if(gdpr_d.preference==="1")_cc.push("preference");var gdpr_consent__cookies=_cc.join("|");
+//# sourceURL=moove_gdpr_frontend-js-after
+</script>
+<script id="gdpr_cc_addon_frontend-js" src="https://www.bushtheatre.co.uk/wp-content/plugins/gdpr-cookie-compliance-addon/assets/js/gdpr_cc_addon.js?ver=4.0.9"></script>
+
+    
+	<!--copyscapeskip-->
+	<!-- V1 -->
+			<dialog id="moove_gdpr_cookie_modal" class="gdpr_lightbox-hide" open tabindex="-1" aria-modal="true" aria-label="GDPR Settings Screen">
+	<div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v1">
+				<button class="moove-gdpr-modal-close" aria-label="Close GDPR Cookie Settings">
+			<span class="gdpr-sr-only">Close GDPR Cookie Settings</span>
+			<span class="gdpr-icon moovegdpr-arrow-close"></span>
+		</button>
+				<div class="moove-gdpr-modal-left-content">
+		
+<div class="moove-gdpr-company-logo-holder">
+	<img src="https://www.bushtheatre.co.uk/wp-content/uploads/2025/03/bush2022-logo-vector-green-300x50.png" alt="Bush Theatre. Green text logo."   width="300"  height="50"  class="img-responsive" />
+</div>
+<!--  .moove-gdpr-company-logo-holder -->
+		<ul id="moove-gdpr-menu" role="tablist" aria-label="Cookie categories">
+			
+<li class="menu-item-on menu-item-privacy_overview menu-item-selected" role="presentation">
+	<button data-href="#privacy_overview" id="gdpr-tab-privacy_overview" class="moove-gdpr-tab-nav" role="tab" aria-selected="true" aria-controls="privacy_overview" aria-label="Privacy Overview">
+	<span class="gdpr-nav-tab-title">Privacy Overview</span>
+	</button>
+</li>
+
+	<li class="menu-item-strict-necessary-cookies menu-item-off" role="presentation">
+	<button data-href="#strict-necessary-cookies" id="gdpr-tab-strict-necessary-cookies" class="moove-gdpr-tab-nav" role="tab" aria-selected="false" aria-controls="strict-necessary-cookies" tabindex="-1" aria-label="Strictly Necessary Cookies">
+		<span class="gdpr-nav-tab-title">Strictly Necessary Cookies</span>
+	</button>
+	</li>
+
+
+	<li class="menu-item-off menu-item-third_party_cookies" role="presentation">
+	<button data-href="#third_party_cookies" id="gdpr-tab-third_party_cookies" class="moove-gdpr-tab-nav" role="tab" aria-selected="false" aria-controls="third_party_cookies" tabindex="-1" aria-label="Analytics">
+		<span class="gdpr-nav-tab-title">Analytics</span>
+	</button>
+	</li>
+
+
+
+		</ul>
+		
+<div class="moove-gdpr-branding-cnt">
+			<a href="https://wordpress.org/plugins/gdpr-cookie-compliance/" rel="noopener noreferrer" target="_blank" class='moove-gdpr-branding'>Powered by&nbsp; <span>GDPR Cookie Compliance</span><span class="gdpr-sr-only"> (opens in a new tab)</span></a>
+		</div>
+<!--  .moove-gdpr-branding -->
+		</div>
+		<!--  .moove-gdpr-modal-left-content -->
+		<div class="moove-gdpr-modal-right-content">
+		<div class="moove-gdpr-modal-title">
+			 
+		</div>
+		<!-- .moove-gdpr-modal-ritle -->
+		<div class="main-modal-content">
+
+			<div class="moove-gdpr-tab-content">
+			
+<div id="privacy_overview" class="moove-gdpr-tab-main">
+			<div class="tab-title" role="heading" aria-level="2"><span class="gdpr-tab-title-text">Privacy Overview</span></div>
+		<div class="moove-gdpr-tab-main-content">
+	<p>This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.</p>
+		</div>
+	<!--  .moove-gdpr-tab-main-content -->
+
+</div>
+<!-- #privacy_overview -->
+			
+  <div id="strict-necessary-cookies" class="moove-gdpr-tab-main" style="display:none">
+        <div class="tab-title" role="heading" aria-level="2"><span class="gdpr-tab-title-text">Strictly Necessary Cookies</span></div>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.</p>
+      <div class="moove-gdpr-status-bar gdpr-checkbox-disabled checkbox-selected">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_strict_cookies">    
+              <input type="checkbox" aria-label="Strictly Necessary Cookies" disabled checked="checked"  value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+              <span class="cookie-slider cookie-round gdpr-sr" aria-hidden="true" data-text-enable="Enabled" data-text-disabled="Disabled">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Enabled</span>
+                  <span class="gdpr-sr-disable">Disabled</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+                                              
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #strict-necesarry-cookies -->
+			
+  <div id="third_party_cookies" class="moove-gdpr-tab-main" style="display:none">
+        <div class="tab-title" role="heading" aria-level="2"><span class="gdpr-tab-title-text">Analytics</span></div>
+    <div class="moove-gdpr-tab-main-content">
+      <p>This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.</p>
+<p>Keeping this cookie enabled helps us to improve our website.</p>
+      <div class="moove-gdpr-status-bar">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_performance_cookies">    
+              <input type="checkbox" aria-label="Analytics" value="check" name="moove_gdpr_performance_cookies" id="moove_gdpr_performance_cookies" >
+              <span class="cookie-slider cookie-round gdpr-sr" aria-hidden="true" data-text-enable="Enabled" data-text-disabled="Disabled">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Enabled</span>
+                  <span class="gdpr-sr-disable">Disabled</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+             
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #third_party_cookies -->
+			
+			
+			
+			
+			</div>
+			<!--  .moove-gdpr-tab-content -->
+		</div>
+		<!--  .main-modal-content -->
+		<div class="moove-gdpr-modal-footer-content">
+			<div class="moove-gdpr-button-holder">
+						<button class="mgbutton moove-gdpr-modal-allow-all button-visible" aria-label="Enable All">Enable All</button>
+								<button class="mgbutton moove-gdpr-modal-save-settings button-visible" aria-label="Save Settings">Save Settings</button>
+				</div>
+<!--  .moove-gdpr-button-holder -->
+		</div>
+		<!--  .moove-gdpr-modal-footer-content -->
+		</div>
+		<!--  .moove-gdpr-modal-right-content -->
+
+		<div class="moove-clearfix"></div>
+
+	</div>
+	<!--  .moove-gdpr-modal-content -->
+	</dialog>
+	<!-- #moove_gdpr_cookie_modal -->
+	<!--/copyscapeskip-->
+
+</div> <!-- / Site Wrapper -->
+
+</body>
+</html>
+<!-- plugin=object-cache-pro client=phpredis metric#hits=10054 metric#misses=11 metric#hit-ratio=99.9 metric#bytes=4433417 metric#prefetches=387 metric#store-reads=23 metric#store-writes=26 metric#store-hits=402 metric#store-misses=6 metric#sql-queries=28 metric#ms-total=565.07 metric#ms-cache=17.93 metric#ms-cache-avg=0.3735 metric#ms-cache-ratio=3.2 sample#redis-hits=120093427 sample#redis-misses=11787300 sample#redis-hit-ratio=91.1 sample#redis-ops-per-sec=24 sample#redis-evicted-keys=0 sample#redis-used-memory=608136600 sample#redis-used-memory-rss=494940160 sample#redis-memory-fragmentation-ratio=0.8 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=1945694 -->

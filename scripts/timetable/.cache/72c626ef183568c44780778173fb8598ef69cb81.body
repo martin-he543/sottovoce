@@ -1,0 +1,1477 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//www.lso.co.uk' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//londonso-assets.s3.amazonaws.com' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='basetheme-css' href='https://www.lso.co.uk/themes/childtheme/assets/css/main.css?ver=1792598742' type='text/css' media='all' />
+<link rel='stylesheet' id='construkt-ui-accordion-css' href='https://www.lso.co.uk/plugins/construkt-accordion/src/assets/construkt-accordion.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sib-front-css-css' href='https://www.lso.co.uk/plugins/mailin/css/mailin-front.css?ver=6.9.10' type='text/css' media='all' />
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.3.1" id="jquery-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+window.jQuery || document.write('<script src="https://www.lso.co.uk/themes/childtheme/static/js/jquery-3.3.1.min.js">\x3C/script>')
+//# sourceURL=jquery-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.lso.co.uk/themes/basetheme/assets/build/js/core.js?ver=1.1.0" id="basetheme-core-js"></script>
+<script type="text/javascript" id="sib-front-js-js-extra">
+/* <![CDATA[ */
+var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
+var ajax_sib_front_object = {"ajax_url":"https://www.lso.co.uk/admin/wp-admin/admin-ajax.php","ajax_nonce":"fffe7a3c6d","flag_url":"https://www.lso.co.uk/plugins/mailin/img/flags/"};
+//# sourceURL=sib-front-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.lso.co.uk/plugins/mailin/js/mailin-front.js?ver=1734943146" id="sib-front-js-js"></script>
+<link rel="canonical" href="https://www.lso.co.uk/whats-on/" />
+
+<!-- Title -->
+    <title>What's On | London Symphony Orchestra</title>
+
+<!-- Description -->
+    <meta name="description" content="The London Symphony Orchestra inspires hearts and minds through extraordinary music-making &ndash; with concerts at home in London at the Barbican Centre and LSO St Luke&#039;s, on tour around the world, and online.">
+
+<!-- Twitter: Post -->
+    <!-- Twitter: Card Size -->
+            <meta name="twitter:card" content="summary"/>
+    
+    <!-- Twitter: Site -->
+            <meta name="twitter:site" content="@londonsymphony"/>
+    
+    <!-- Twitter: Title -->
+            <meta name="twitter:title" content="What&#039;s On | London Symphony Orchestra"/>
+    
+    <!-- Twitter: Description -->
+            <meta name="twitter:description" content="The London Symphony Orchestra inspires hearts and minds through extraordinary music-making &amp;ndash; with concerts at home in London at the Barbican Centre and LSO St Luke&amp;#039;s, on tour around the world, and online."/>
+    
+    <!-- Twitter: Image -->
+            <meta name="twitter:image" content="https://images.lso.co.uk/uploads/2023/04/LSO_Logo_BLK.jpg?fit=1024%2C1024"/>
+    
+<!-- Twitter: Archive -->
+
+<!-- Facebook: Post -->
+    <!-- Facebook: URL -->
+            <meta property="og:url" content="https://www.lso.co.uk/whats-on/">
+    
+    <!-- Facebook: Site Name -->
+            <meta property="og:site_name" content="londonsymphonyorchestra"/>
+    
+    <!-- Facebook: Title -->
+            <meta property="og:title" content="What&#039;s On | London Symphony Orchestra"/>
+    
+    <!-- Facebook: Description -->
+            <meta property="og:description" content="The London Symphony Orchestra inspires hearts and minds through extraordinary music-making &amp;ndash; with concerts at home in London at the Barbican Centre and LSO St Luke&amp;#039;s, on tour around the world, and online."/>
+    
+    <!-- Facebook: Image -->
+            <meta property="og:image" content="https://images.lso.co.uk/uploads/2023/04/LSO_Logo_BLK.jpg?fit=1024%2C1024"/>
+    
+<!-- Facebook: Archive -->
+
+<!-- Hide From Search Engines -->
+
+<!-- Canonical Tag -->
+<script type="text/javascript" src="https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js" async></script>
+<script type="text/javascript">
+  window.WonderPush = window.WonderPush || [];
+  window.WonderPush.push(['init', {"customDomain":"https:\/\/www.lso.co.uk\/plugins\/mailin\/","serviceWorkerUrl":"wonderpush-worker-loader.min.js?webKey=118a53ff32fa7e15ec4b53a60e7a0ad5f9febc25183e03c24d5b63e2f067d739","frameUrl":"wonderpush.min.html","webKey":"118a53ff32fa7e15ec4b53a60e7a0ad5f9febc25183e03c24d5b63e2f067d739"}]);
+</script>        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="fb681f6d-f3cc-4147-8a3b-dce9df939241" data-blockingmode="auto" type="text/javascript"></script>
+    <!-- Google Tag Manager -->
+<script>
+   // Define dataLayer and the gtag function. 
+   window.dataLayer = window.dataLayer || []; 
+   function gtag(){dataLayer.push(arguments);}   
+
+    gtag('consent', 'default', { 
+        ad_storage: "denied", 
+        analytics_storage: "denied", 
+        functionality_storage: "denied", 
+        personalization_storage: "denied", 
+        security_storage: "denied",  
+        ad_user_data: "denied",
+        ad_personalization: "denied", 
+        'wait_for_update': 500
+    }); 
+
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NWZRFRM');
+</script>
+<!-- End Google Tag Manager -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.lso.co.uk/themes/childtheme/static/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.lso.co.uk/themes/childtheme/static/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.lso.co.uk/themes/childtheme/static/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://www.lso.co.uk/themes/childtheme/static/favicon/site.webmanifest">
+<link rel="mask-icon" href="https://www.lso.co.uk/themes/childtheme/static/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="https://www.lso.co.uk/themes/childtheme/static/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="https://www.lso.co.uk/themes/childtheme/static/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="https://use.typekit.net/spc4kvh.css">
+    <!-- Recaptha for sign up form -->
+    <script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit' type="fa7b913dee55b2ad9f1bbf4a-text/javascript"></script>
+</head>
+
+<body class="paged wp-singular page-template page-template-views page-template-pages page-template-whats-on page-template-viewspageswhats-on-php page page-id-7 paged-2 page-paged-2 wp-theme-basetheme wp-child-theme-childtheme whats-on">
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWZRFRM"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <a href="#main-content" class="c-btn c-btn--skip-link">Skip to main content</a>
+
+<header class="c-header" id="c-header">
+
+    <div class="c-header__wrap o-wrapper">
+        <section class="c-header-logo">
+            <a class="c-header-logo__link" href="https://www.lso.co.uk" title="London Symphony Orchestra - Home">
+                <img class="c-header-logo__img" src="https://www.lso.co.uk/themes/childtheme/assets/images/lso_logo.svg" alt="London Symphony Orchestra">
+                <span class="u-hidden-visually">London Symphony Orchestra</span>
+            </a>
+        </section>
+
+
+        <section class="c-header-nav">
+
+            <section class="c-header-meta-mobile">
+                <ul class="c-secondary-nav c-secondary-nav--meta">
+    <li class="c-secondary-nav__item c-secondary-nav__item--shop"><a href="https://lsolive.lso.co.uk/">Shop</a></li>
+    <li class="c-secondary-nav__item"><a href="https://tickets.lso.co.uk/basket">Basket</a></li>
+    <li class="c-secondary-nav__item"><a href="https://tickets.lso.co.uk/account">My Account</a></li>
+    <li class="c-secondary-nav__item"><a href="https://www.lso.co.uk/?s">Search</a></li>
+</ul>
+            </section>
+
+            <section class="c-header-nav-mobile">
+                <a href="https://www.lso.co.uk/whats-on/" class="c-header-nav-mobile__link">What&rsquo;s On</a>
+                <button class="c-header-nav-mobile__toggle" id="c-header-nav-mobile__toggle" aria-expanded="false" aria-controls="c-header-nav__content">
+                    <span class="c-header-nav-mobile__text" id="c-header-nav-mobile__text">Menu</span>
+                    <span class="c-header-nav-mobile__hamburger"><span></span><span></span><span></span><span></span></span>
+                </button>
+            </section>
+
+            <section class="c-header-nav__content" id="c-header-nav__content">
+                <div class="c-header-nav__wrap">
+                    <nav class="c-header-nav__secondary">
+                                                <ul class="c-secondary-nav c-secondary-nav--meta">
+    <li class="c-secondary-nav__item c-secondary-nav__item--shop"><a href="https://lsolive.lso.co.uk/">Shop</a></li>
+    <li class="c-secondary-nav__item"><a href="https://tickets.lso.co.uk/basket">Basket</a></li>
+    <li class="c-secondary-nav__item"><a href="https://tickets.lso.co.uk/account">My Account</a></li>
+    <li class="c-secondary-nav__item"><a href="https://www.lso.co.uk/?s">Search</a></li>
+</ul>
+                    </nav>
+                    <section class="c-header-nav__primary">
+                        <ul class="c-primary-nav">
+            <li class="c-primary-nav__item">
+            <button class="c-primary-nav__toggle js-subnav-toggle" aria-haspopup="true" aria-expanded="false">
+                <span class="u-hidden-visually">Show Submenu for </span>What's On            </button>
+
+            <section class="c-dropdown-nav">
+                <div class="c-dropdown-nav__wrap o-wrapper">
+                    <section class="c-dropdown-nav__col c-dropdown-nav__intro">
+                                                                            <a class="c-dropdown-nav__link" href="https://www.lso.co.uk/whats-on/">
+                                <h3 class="c-dropdown-nav__title">What’s On</h3>
+                            </a>
+                                                                            <p class="c-dropdown-nav__description">View our full calendar of forthcoming events in the UK, around the world and online</p>
+                                            </section>
+
+                    <ul class="c-dropdown-nav__col c-dropdown-nav__items">
+                                                                                                                <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/seasons/2026-27-season/">
+                                        <h4 class="c-dropdown-nav-card__title">Our 2026/27 Season</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Discover our new season starting in September 2026</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/whats-on/?location=barbican">
+                                        <h4 class="c-dropdown-nav-card__title">Concerts at the Barbican</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>At our home in the City of London</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/whats-on/?location=lso-st-lukes">
+                                        <h4 class="c-dropdown-nav-card__title">Events at LSO St Luke's</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Our venue on Old Street</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/whats-on/?category=on-tour">
+                                        <h4 class="c-dropdown-nav-card__title">On Tour</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Find the LSO on tour, in the UK and worldwide</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/streaming-online/">
+                                        <h4 class="c-dropdown-nav-card__title">Streaming and Online</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Watch our latest clips and online performances</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/seasons/half-six-fix/">
+                                        <h4 class="c-dropdown-nav-card__title">Half Six Fix</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Early evening concerts at the Barbican, introduced by the artists</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/seasons/bbc-radio-3-concerts/">
+                                        <h4 class="c-dropdown-nav-card__title">BBC Radio 3 Chamber Music Concerts</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>At LSO St Luke's</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/free-friday-lunchtime-concerts/">
+                                        <h4 class="c-dropdown-nav-card__title">Free Friday Lunchtime Concerts</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Informal, bite-size concerts featuring LSO and Guildhall School Musicians</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/whats-on/?category=family-events">
+                                        <h4 class="c-dropdown-nav-card__title">Family Events</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Concerts and musical storytelling</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/bmw-classics/">
+                                        <h4 class="c-dropdown-nav-card__title">BMW Classics in Trafalgar Square</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>A free open-air concert in the heart of London</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </section>
+        </li>
+            <li class="c-primary-nav__item">
+            <button class="c-primary-nav__toggle js-subnav-toggle" aria-haspopup="true" aria-expanded="false">
+                <span class="u-hidden-visually">Show Submenu for </span>Your Visit            </button>
+
+            <section class="c-dropdown-nav">
+                <div class="c-dropdown-nav__wrap o-wrapper">
+                    <section class="c-dropdown-nav__col c-dropdown-nav__intro">
+                                                                            <a class="c-dropdown-nav__link" href="https://www.lso.co.uk/your-visit/">
+                                <h3 class="c-dropdown-nav__title">Your Visit</h3>
+                            </a>
+                                                                            <p class="c-dropdown-nav__description">Everything you need to know to plan your visit</p>
+                                            </section>
+
+                    <ul class="c-dropdown-nav__col c-dropdown-nav__items">
+                                                                                                                <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/getting-here/">
+                                        <h4 class="c-dropdown-nav-card__title">Getting Here</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>How to find us at the Barbican and LSO St Luke's</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/accessibility/">
+                                        <h4 class="c-dropdown-nav-card__title">Accessibility</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Access information, including venue facilities and discounted tickets</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/what-to-expect/">
+                                        <h4 class="c-dropdown-nav-card__title">What to Expect</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>The LSO concert experience</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/ticket-discounts/">
+                                        <h4 class="c-dropdown-nav-card__title">Ticket Booking & Discounts</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Save on your booking, from multibuys to Wildcard tickets, and more</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/your-visit/group-bookings/">
+                                        <h4 class="c-dropdown-nav-card__title">Group Bookings</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Bring a group of 10+ and save 20%</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/programmes/">
+                                        <h4 class="c-dropdown-nav-card__title">Concert Programmes</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Read about the music and composers in our performances</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </section>
+        </li>
+            <li class="c-primary-nav__item">
+            <button class="c-primary-nav__toggle js-subnav-toggle" aria-haspopup="true" aria-expanded="false">
+                <span class="u-hidden-visually">Show Submenu for </span>Take Part & Learn            </button>
+
+            <section class="c-dropdown-nav">
+                <div class="c-dropdown-nav__wrap o-wrapper">
+                    <section class="c-dropdown-nav__col c-dropdown-nav__intro">
+                                                                            <a class="c-dropdown-nav__link" href="https://www.lso.co.uk/about-us/lso-discovery/">
+                                <h3 class="c-dropdown-nav__title">LSO Discovery</h3>
+                            </a>
+                                                                            <p class="c-dropdown-nav__description">Our award-winning learning and community programme</p>
+                                            </section>
+
+                    <ul class="c-dropdown-nav__col c-dropdown-nav__items">
+                                                                                                                <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/learn-and-discover/activities-for-young-people/">
+                                        <h4 class="c-dropdown-nav-card__title">Activities for Families and Young People</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Opportunities to make music together through live concerts and workshops</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/learn-and-discover/activities-for-schools-and-teachers/">
+                                        <h4 class="c-dropdown-nav-card__title">Activities for Schools and Teachers</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Concerts, resources and CPD programmes for schools and teachers</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/learn-and-discover/support-for-emerging-artists/">
+                                        <h4 class="c-dropdown-nav-card__title">Support for Emerging Artists</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Programmes for emerging composers, instrumentalists and conductors</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/learn-and-discover/inclusive-activities/">
+                                        <h4 class="c-dropdown-nav-card__title">Inclusive Activities and Creative Health Initiatives</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Workshops, concerts and rehearsals for neurodiverse adults; projects improving wellbeing in the community</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </section>
+        </li>
+            <li class="c-primary-nav__item">
+            <button class="c-primary-nav__toggle js-subnav-toggle" aria-haspopup="true" aria-expanded="false">
+                <span class="u-hidden-visually">Show Submenu for </span>About Us            </button>
+
+            <section class="c-dropdown-nav">
+                <div class="c-dropdown-nav__wrap o-wrapper">
+                    <section class="c-dropdown-nav__col c-dropdown-nav__intro">
+                                                                            <a class="c-dropdown-nav__link" href="https://www.lso.co.uk/about-us/">
+                                <h3 class="c-dropdown-nav__title">About Us</h3>
+                            </a>
+                                                                            <p class="c-dropdown-nav__description">From world-leading music-making on-stage to award-winning learning and community projects.</p>
+                                            </section>
+
+                    <ul class="c-dropdown-nav__col c-dropdown-nav__items">
+                                                                                                                <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/news-and-stories/">
+                                        <h4 class="c-dropdown-nav-card__title">News</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Our latest updates</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/about-us/about-the-lso/">
+                                        <h4 class="c-dropdown-nav-card__title">About the LSO</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Our story, work and history</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/about-us/lso-st-lukes/">
+                                        <h4 class="c-dropdown-nav-card__title">LSO St Luke’s</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Our venue and creative music hub</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/about-us/the-orchestra/">
+                                        <h4 class="c-dropdown-nav-card__title">The Orchestra</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Meet our musicians, discover our family of artists, and hire the LSO</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/about-us/staff-team/">
+                                        <h4 class="c-dropdown-nav-card__title">Staff Team</h4>
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </section>
+        </li>
+            <li class="c-primary-nav__item">
+            <button class="c-primary-nav__toggle js-subnav-toggle" aria-haspopup="true" aria-expanded="false">
+                <span class="u-hidden-visually">Show Submenu for </span>Support Us            </button>
+
+            <section class="c-dropdown-nav">
+                <div class="c-dropdown-nav__wrap o-wrapper">
+                    <section class="c-dropdown-nav__col c-dropdown-nav__intro">
+                                                                            <a class="c-dropdown-nav__link" href="https://www.lso.co.uk/support-us/">
+                                <h3 class="c-dropdown-nav__title">Support Us</h3>
+                            </a>
+                                                                            <p class="c-dropdown-nav__description">Share in our mission to bring the joy of music to millions</p>
+                                            </section>
+
+                    <ul class="c-dropdown-nav__col c-dropdown-nav__items">
+                                                                                                                <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/why-support-us/">
+                                        <h4 class="c-dropdown-nav-card__title">Why Support Us</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>How your support makes a difference</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/donate/">
+                                        <h4 class="c-dropdown-nav-card__title">Donate</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Make a one-off or regular donation</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/become-a-member/">
+                                        <h4 class="c-dropdown-nav-card__title">Become a Member</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Join our Friends, Pioneers, Patrons, Artists Circle or American LSO Foundation</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/opera-giving-circle/">
+                                        <h4 class="c-dropdown-nav-card__title">Opera Giving Circle</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Support our commitment to creating high-calibre operatic performances</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/leave-a-gift-in-your-will/">
+                                        <h4 class="c-dropdown-nav-card__title">Leave a Gift in Your Will</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Join our family of LSO Guardians</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/corporate-support/">
+                                        <h4 class="c-dropdown-nav-card__title">Corporate Support</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Bespoke, flexible corporate partnerships, focused on results</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/trusts-foundations/">
+                                        <h4 class="c-dropdown-nav-card__title">Trusts & Foundations</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Charitable trusts and foundations enable some of our most innovative projects to take place</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/support-us/thank-you/">
+                                        <h4 class="c-dropdown-nav-card__title">Thank You</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Thank you to our generous supporters for the critical difference they make</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </section>
+        </li>
+            <li class="c-primary-nav__item">
+            <button class="c-primary-nav__toggle js-subnav-toggle" aria-haspopup="true" aria-expanded="false">
+                <span class="u-hidden-visually">Show Submenu for </span>Stories            </button>
+
+            <section class="c-dropdown-nav">
+                <div class="c-dropdown-nav__wrap o-wrapper">
+                    <section class="c-dropdown-nav__col c-dropdown-nav__intro">
+                                                                            <a class="c-dropdown-nav__link" href="https://www.lso.co.uk/news-and-stories/">
+                                <h3 class="c-dropdown-nav__title">Stories</h3>
+                            </a>
+                                                                            <p class="c-dropdown-nav__description">Our latest articles and interviews</p>
+                                            </section>
+
+                    <ul class="c-dropdown-nav__col c-dropdown-nav__items">
+                                                                                                                <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/news-and-stories/composer-guide/">
+                                        <h4 class="c-dropdown-nav-card__title">Composer Guides</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Videos, interviews and articles all about the composers who write the music you love</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                                                                                            <li class="c-dropdown-nav-card">
+                                    <a class="c-dropdown-nav-card__link" href="https://www.lso.co.uk/news-and-stories/orchestral-music/">
+                                        <h4 class="c-dropdown-nav-card__title">Orchestral Music</h4>
+                                                                                    <div class="c-dropdown-nav-card__description">
+                                                <p>Discover more about the breadth of the LSO’s repertoire</p>
+                                            </div>
+                                                                            </a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </section>
+        </li>
+    </ul>
+                    </section>
+                </div>
+            </section>
+
+        </section>
+    </div>
+
+</header>
+
+    <main class="c-main" id="main-content">
+
+    <div class="c-main__scrim"></div>
+    
+<section class="c-masthead u-navy-bg c-masthead--whats-on">
+    <div class="o-wrapper">
+        <div class="c-masthead__content">
+            <h1 class="c-masthead__title">What's On</h1>
+            <nav class="c-event-tabs">
+                <a href="https://www.lso.co.uk/whats-on/" class="c-event-tabs__item c-event-tabs__item--active">
+                    In Person Events
+                </a>
+                <a href="https://www.lso.co.uk/streaming-online/" class="c-event-tabs__item">
+                    Streaming &amp; Online
+                </a>
+            </nav>
+        </div>
+    </div>
+</section>
+<section class="c-event-filter-wrapper">
+    <div class="o-wrapper">
+        <div class="c-event-filters">
+    <form class="c-event-filters__search" action="https://www.lso.co.uk/whats-on/">
+        <label class="c-event-filters__label" for="event-search">Search events</label>
+        <div class="c-search-form">
+            <input id="event-search" type="text" name="search" placeholder="Composer, conductor or keyword" value="">
+            <button type="submit" aria-label="Search">Search</button>
+        </div>
+    </form>
+    <button id="c-filter-toggle"
+        class="c-filter-toggle"
+        aria-expanded="false"
+        aria-controls="c-filter-group"
+        aria-label="Show event filters">
+        <span aria-hidden="true">
+            Filter Performances
+        </span>
+        <i class="fas fa-plus" aria-hidden="true"></i>
+    </button>
+
+    <div id="c-filter-group" class="c-filter-group">
+        <div class="c-filter-group__inner">
+            <form class="c-event-filters__item c-event-filters__item--select">
+                <label class="c-event-filters__label" for="event-location">View by location</label>
+                <div class="c-event-filters__select-wrapper">
+                    <select class="c-event-filters__select" name="event-location" id="event-location">
+                        <option value="all">Select a location</option>
+                                                <optgroup label="United Kingdom">
+                                                            <option value="https://www.lso.co.uk/whats-on/?location=barbican" >
+                                    Barbican, London                                </option>
+                                                            <option value="https://www.lso.co.uk/whats-on/?location=bristol-beacon" >
+                                    Bristol Beacon                                </option>
+                                                            <option value="https://www.lso.co.uk/whats-on/?location=lso-st-lukes" >
+                                    LSO St Luke's, London                                </option>
+                                                            <option value="https://www.lso.co.uk/whats-on/?location=royal-albert-hall" >
+                                    Royal Albert Hall, London                                </option>
+                                                    </optgroup>
+                                                <optgroup label="France">
+                                                            <option value="https://www.lso.co.uk/whats-on/?location=philharmonie-de-paris-paris" >
+                                    Philharmonie de Paris, Paris                                </option>
+                                                    </optgroup>
+                                            </select>
+                </div>
+            </form>
+
+            <div class="c-event-filters__item c-event-filters__item--select">
+                <label class="c-event-filters__label" for="c-calendar__select_range">View by event date</label>
+                <div class="c-date-filter-wrapper">
+
+                        <duet-date-picker class="c-calendar-filters__input c-calendar-filters__input--duet c-calendar-filter__clear"
+                                identifier="date"
+                                placeholder="DD/MM/YYYY"
+                                                            >
+                        </duet-date-picker>
+                    <input id="c-calendar__filtered_dates"
+                        type="text"
+                        readonly
+                        style="display: none;"
+                        value="24/10/2026,25/10/2026,29/10/2026,31/10/2026,04/11/2026,05/11/2026,08/11/2026,11/11/2026,12/11/2026,14/11/2026,19/11/2026,25/11/2026,26/11/2026,27/11/2026,29/11/2026,02/12/2026,03/12/2026,05/12/2026,06/12/2026,09/12/2026,10/12/2026,13/12/2026,14/12/2026,17/12/2026,20/12/2026,06/01/2027,07/01/2027,08/01/2027,10/01/2027,13/01/2027,15/01/2027,16/01/2027,20/01/2027,21/01/2027,22/01/2027,29/01/2027,31/01/2027,04/02/2027,07/02/2027,11/02/2027,12/02/2027,13/02/2027,18/02/2027,19/02/2027,21/02/2027,24/02/2027,05/03/2027,10/03/2027,11/03/2027,13/03/2027,14/03/2027,17/03/2027,19/03/2027,03/04/2027,07/04/2027,08/04/2027,09/04/2027,11/04/2027,14/04/2027,15/04/2027,18/04/2027,20/04/2027,21/04/2027,22/04/2027,23/04/2027,29/04/2027,30/04/2027,05/05/2027,06/05/2027,08/05/2027,09/05/2027,12/05/2027,13/05/2027,14/05/2027,16/05/2027,20/05/2027,22/05/2027,29/05/2027,31/05/2027,03/06/2027,04/06/2027,07/06/2027,09/06/2027,10/06/2027,13/06/2027,17/06/2027,18/06/2027,04/09/2027"
+                    >
+                </div>
+            </div>
+
+            <form class="c-event-filters__item c-event-filters__item--select">
+                <label class="c-event-filters__label" for="event-category">View by event type</label>
+                <div class="c-event-filters__select-wrapper">
+                    <select class="c-event-filters__select" name="event-category" id="event-category">
+                        <option value="">Select an event type</option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=andre-j-thomas"
+                                                                >
+                                André J Thomas                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=barbara-hannigan"
+                                                                >
+                                Barbara Hannigan                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=bbc-radio-3-concerts"
+                                                                >
+                                BBC Radio 3 Concerts                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=choral_opera"
+                                                                >
+                                Choral &amp; Opera                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=contemporary"
+                                                                >
+                                Contemporary                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=family-events"
+                                                                >
+                                Family Events                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=free-friday-lunchtime-concerts"
+                                                                >
+                                Free Friday Lunchtime Concerts                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=gianandrea-noseda"
+                                                                >
+                                Gianandrea Noseda                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=half-six-fix"
+                                                                >
+                                Half Six Fix                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=inclusive-events"
+                                                                >
+                                Inclusive Events                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=janine-jansen-artist-portrait"
+                                                                >
+                                Janine Jansen: Artist Portrait                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=john-adams-at-80"
+                                                                >
+                                John Adams at 80                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=lso-discovery"
+                                                                >
+                                LSO Discovery                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=on-tour"
+                                                                >
+                                On Tour                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=sir-antonio-pappano"
+                                                                >
+                                Sir Antonio Pappano                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=sir-simon-rattle"
+                                                                >
+                                Sir Simon Rattle                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=steve-reich-at-90"
+                                                                >
+                                Steve Reich at 90                            </option>
+                                                    <option value="https://www.lso.co.uk/whats-on/?category=under-12"
+                                                                >
+                                Under £12                            </option>
+                                            </select>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    </div>
+</section>
+
+<section class="c-container c-container--inset u-white-bg">
+    <div class="o-wrapper">
+
+        <h2 class="u-hidden-visually">
+            In Person Events
+        </h2>
+
+        <div class="o-grid o-grid--stretch o-grid--large">
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/on-tour-in-paris-14-nov-26/">
+            <span class="u-hidden-visually">On Tour in Paris</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2023/10/Susanna_Malkki_SimonFowler__Y9A7756-SM-RT-1.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2023/10/Susanna_Malkki_SimonFowler__Y9A7756-SM-RT-1.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2023/10/Susanna_Malkki_SimonFowler__Y9A7756-SM-RT-1.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2023/10/Susanna_Malkki_SimonFowler__Y9A7756-SM-RT-1.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2023/10/Susanna_Malkki_SimonFowler__Y9A7756-SM-RT-1.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2023/10/Susanna_Malkki_SimonFowler__Y9A7756-SM-RT-1.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt=""
+                    title="Susanna_Malkki_©Simon–Fowler__Y9A7756 SM RT"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>Philharmonie de Paris</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                On Tour in Paris            </h3>
+
+                            <p class="c-event-card__subtitle">Susanna Mälkki</p>
+            
+            <p class="c-event-card__date">Saturday 14 November 2026 • 8pm</p>
+
+            <p class="c-event-card__excerpt">Susanna Mälkki leads the celebration of Steve Reich with the LSO at the Philharmonie de Paris</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://philharmoniedeparis.fr/fr/activite/concert-symphonique/29178-london-symphony-orchestra-susanna-malkki">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/on-tour-in-paris-14-nov-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/efg-london-jazz-festival-soweto-kinch-19-nov-26/">
+            <span class="u-hidden-visually">Soweto Kinch: Trilogy</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261129-Soweto-Kinch-masthead-c-Mark-Allan.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261129-Soweto-Kinch-masthead-c-Mark-Allan.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261129-Soweto-Kinch-masthead-c-Mark-Allan.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261129-Soweto-Kinch-masthead-c-Mark-Allan.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261129-Soweto-Kinch-masthead-c-Mark-Allan.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261129-Soweto-Kinch-masthead-c-Mark-Allan.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Musician on stage tilting the head back and with eyes closed holding their saxophone."
+                    title="261129 Soweto Kinch masthead c Mark Allan"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>Barbican</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Soweto Kinch: Trilogy            </h3>
+
+                            <p class="c-event-card__subtitle">EFG London Jazz Festival</p>
+            
+            <p class="c-event-card__date">Thursday 19 November 2026 • 7.30pm</p>
+
+            <p class="c-event-card__excerpt">Saxophonist, rapper and composer Soweto Kinch revisits his acclaimed LSO trilogy: The Black Peril, White Juju and Soundtrack to the Apocalypse.</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://tickets.lso.co.uk/choose-seats/3404201">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/efg-london-jazz-festival-soweto-kinch-19-nov-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/gresham-college-lecture-musical-myths-and-miracles-25-nov/">
+            <span class="u-hidden-visually">Musical Myths and Miracles</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2023/10/St-Lukes-Open-Day-Masthead.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2023/10/St-Lukes-Open-Day-Masthead.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2023/10/St-Lukes-Open-Day-Masthead.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2023/10/St-Lukes-Open-Day-Masthead.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2023/10/St-Lukes-Open-Day-Masthead.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2023/10/St-Lukes-Open-Day-Masthead.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Audience members smiling and applauding during a concert at LSO St Luke's"
+                    title="St Luke's Open Day"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>LSO St Luke's</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Musical Myths and Miracles            </h3>
+
+                            <p class="c-event-card__subtitle">Gresham College Lecture Series</p>
+            
+            <p class="c-event-card__date">Wednesday 25 November 2026 • 6pm</p>
+
+            <p class="c-event-card__excerpt">Milton Mermikides, Professor of Music at Gresham College, gives a free, one-hour lecture on the nature of music.</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://www.gresham.ac.uk/whats-on/musical-myths">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/gresham-college-lecture-musical-myths-and-miracles-25-nov/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/half-six-fix-vaughan-williams-25-nov-26/">
+            <span class="u-hidden-visually">Half Six Fix: Vaughan Williams </span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261125-Sir-Antonio-Pappano-masthead-c-Mark-Allan.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261125-Sir-Antonio-Pappano-masthead-c-Mark-Allan.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261125-Sir-Antonio-Pappano-masthead-c-Mark-Allan.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261125-Sir-Antonio-Pappano-masthead-c-Mark-Allan.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261125-Sir-Antonio-Pappano-masthead-c-Mark-Allan.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261125-Sir-Antonio-Pappano-masthead-c-Mark-Allan.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Conductor on the podium turning to the right and gesticulating with audiences sitting in the background and musicians playing in front."
+                    title="261125 Sir Antonio Pappano masthead c Mark Allan"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>Barbican</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Half Six Fix: Vaughan Williams             </h3>
+
+                            <p class="c-event-card__subtitle">Sir Antonio Pappano </p>
+            
+            <p class="c-event-card__date">Wednesday 25 November 2026 • 6.30pm</p>
+
+            <p class="c-event-card__excerpt">Sir Antonio Pappano explores Vaughan Williams’ ‘Pastoral’ Symphony and Symphony No 8, from wartime reflection to a playful, uplifting British classic.</p>
+
+                            <p class="c-event-card__label">Limited Tickets</p>
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://tickets.lso.co.uk/choose-seats/3370601">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/half-six-fix-vaughan-williams-25-nov-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/mahan-esfahani-friends-mahan-esfahani-and-lars-anders-tomter-26-nov-26/">
+            <span class="u-hidden-visually">Mahan Esfahani & Friends: Mahan Esfahani and Lars Anders Tomter</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261126-Mahan-Esfahani-event-masthead-photographer-credit-Alex-Kozobolis.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261126-Mahan-Esfahani-event-masthead-photographer-credit-Alex-Kozobolis.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261126-Mahan-Esfahani-event-masthead-photographer-credit-Alex-Kozobolis.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261126-Mahan-Esfahani-event-masthead-photographer-credit-Alex-Kozobolis.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261126-Mahan-Esfahani-event-masthead-photographer-credit-Alex-Kozobolis.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261126-Mahan-Esfahani-event-masthead-photographer-credit-Alex-Kozobolis.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Mahan Esfahani sitting at the piano against a dark background"
+                    title="261126, Mahan Esfahani, event masthead photographer credit Alex Kozobolis"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>LSO St Luke's</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Mahan Esfahani & Friends: Mahan Esfahani and Lars Anders Tomter            </h3>
+
+                            <p class="c-event-card__subtitle">BBC Radio 3 Lunchtime Concert</p>
+            
+            <p class="c-event-card__date">Thursday 26 November 2026 • 12.30pm</p>
+
+            <p class="c-event-card__excerpt">Harpsichordist Mahan Esfahani and violist Lars Anders Tomter join forces for a BBC Radio 3 Concert at LSO St Luke's.</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://tickets.lso.co.uk/choose-seats/3414801">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/mahan-esfahani-friends-mahan-esfahani-and-lars-anders-tomter-26-nov-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/vaughan-williams-and-beethoven-26-nov-26/">
+            <span class="u-hidden-visually">Vaughan Williams and Beethoven</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261126-Bruce-Liu-masthead-c-Sonja-Mueller.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261126-Bruce-Liu-masthead-c-Sonja-Mueller.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261126-Bruce-Liu-masthead-c-Sonja-Mueller.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261126-Bruce-Liu-masthead-c-Sonja-Mueller.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261126-Bruce-Liu-masthead-c-Sonja-Mueller.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261126-Bruce-Liu-masthead-c-Sonja-Mueller.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Pianist leaning on a piano with a pink-organe coloured background."
+                    title="261126 Bruce Liu masthead c Sonja Mueller"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>Barbican</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Vaughan Williams and Beethoven            </h3>
+
+                            <p class="c-event-card__subtitle">Sir Antonio Pappano and Bruce Liu </p>
+            
+            <p class="c-event-card__date">Thursday 26 November 2026 • 7pm</p>
+
+            <p class="c-event-card__excerpt">Sir Antonio Pappano continues his acclaimed Vaughan Williams cycle with Symphonies 3 and 8, and is joined by Bruce Liu for Beethoven's Piano Concerto No 3. </p>
+
+                            <p class="c-event-card__label">Limited Tickets</p>
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://tickets.lso.co.uk/choose-seats/3370401">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/vaughan-williams-and-beethoven-26-nov-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/free-friday-lunchtime-concert-relaxed-concert-27-nov-26/">
+            <span class="u-hidden-visually">Relaxed Friday Lunchtime Concert</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2024/11/Relaxed-Concert-Masthead-C-Tom-Lovatt.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2024/11/Relaxed-Concert-Masthead-C-Tom-Lovatt.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2024/11/Relaxed-Concert-Masthead-C-Tom-Lovatt.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2024/11/Relaxed-Concert-Masthead-C-Tom-Lovatt.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2024/11/Relaxed-Concert-Masthead-C-Tom-Lovatt.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2024/11/Relaxed-Concert-Masthead-C-Tom-Lovatt.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Audience members smiling, watching a Relaxed Concert"
+                    title="Relaxed Concert Masthead C Tom Lovatt"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>LSO St Luke's</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Relaxed Friday Lunchtime Concert            </h3>
+
+                            <p class="c-event-card__subtitle">LSO Discovery </p>
+            
+            <p class="c-event-card__date">Friday 27 November 2026 • 12.30pm</p>
+
+            <p class="c-event-card__excerpt">A short concert designed for learning disabled and neurodiverse audiences, and for anyone who benefits from a more flexible sensory or communication environment.</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="">
+                    No Ticket Required                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/free-friday-lunchtime-concert-relaxed-concert-27-nov-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/sibelius-vaughan-williams-and-dubugnon-29-nov-26/">
+            <span class="u-hidden-visually">Sibelius, Vaughan Williams and Dubugnon</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261129-Janine-Jansen-masthead-c-Marco-Borggreve.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261129-Janine-Jansen-masthead-c-Marco-Borggreve.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261129-Janine-Jansen-masthead-c-Marco-Borggreve.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261129-Janine-Jansen-masthead-c-Marco-Borggreve.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261129-Janine-Jansen-masthead-c-Marco-Borggreve.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261129-Janine-Jansen-masthead-c-Marco-Borggreve.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Musician wearing a black top and looking into the camera while holding a violin close to the face."
+                    title="261129 Janine Jansen masthead c Marco Borggreve"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>Barbican</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Sibelius, Vaughan Williams and Dubugnon            </h3>
+
+                            <p class="c-event-card__subtitle">Sir Antonio Pappano and Janine Jansen</p>
+            
+            <p class="c-event-card__date">Sunday 29 November 2026 • 7pm</p>
+
+            <p class="c-event-card__excerpt">Sir Antonio Pappano leads Sibelius, Vaughan Williams’ Sinfonia antartica and Dubugnon’s new violin concerto in a vivid, cinematic programme with Janine Jansen.</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://tickets.lso.co.uk/choose-seats/3390202">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/sibelius-vaughan-williams-and-dubugnon-29-nov-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/janine-jansen-and-sir-antonio-pappano-2-dec-26/">
+            <span class="u-hidden-visually">Dutch Masters: Janine Jansen and Sir Antonio Pappano</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/Janine-Jansen-1-Wiener-Konzerthaus-Lukas-Beck-2000x1330-1.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/Janine-Jansen-1-Wiener-Konzerthaus-Lukas-Beck-2000x1330-1.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/Janine-Jansen-1-Wiener-Konzerthaus-Lukas-Beck-2000x1330-1.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/Janine-Jansen-1-Wiener-Konzerthaus-Lukas-Beck-2000x1330-1.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/Janine-Jansen-1-Wiener-Konzerthaus-Lukas-Beck-2000x1330-1.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/Janine-Jansen-1-Wiener-Konzerthaus-Lukas-Beck-2000x1330-1.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="An upward-looking portrait of violinist Janine Jansen holding her instrument, illuminated by warm, glowing background lights that catch her long hair."
+                    title="Janine-Jansen-1-Wiener-Konzerthaus-Lukas-Beck-2000x1330"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>LSO St Luke's</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Dutch Masters: Janine Jansen and Sir Antonio Pappano            </h3>
+
+                            <p class="c-event-card__subtitle">BBC Radio 3 Lunchtime Concert</p>
+            
+            <p class="c-event-card__date">Wednesday 2 December 2026 • 12.30pm</p>
+
+            <p class="c-event-card__excerpt">Violinist Janine Jansen joins the LSO's Chief Conductor Sir Antonio Pappano for a chamber concert in the intimate setting of LSO St Luke's.</p>
+
+                            <p class="c-event-card__label">Limited Tickets</p>
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://tickets.lso.co.uk/choose-seats/3415001">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/janine-jansen-and-sir-antonio-pappano-2-dec-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/sibelius-vaughan-williams-and-dubugnon-3-dec-26/">
+            <span class="u-hidden-visually">Sibelius, Vaughan Williams and Dubugnon</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261203-Janine-Jansen-masthead-c-Lukas-Beck.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261203-Janine-Jansen-masthead-c-Lukas-Beck.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261203-Janine-Jansen-masthead-c-Lukas-Beck.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261203-Janine-Jansen-masthead-c-Lukas-Beck.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261203-Janine-Jansen-masthead-c-Lukas-Beck.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261203-Janine-Jansen-masthead-c-Lukas-Beck.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Violinist wearing a white top, standing in a bright corridor, looking into the camera and holding a violin."
+                    title="261203 Janine Jansen masthead c Lukas Beck"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>Barbican</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Sibelius, Vaughan Williams and Dubugnon            </h3>
+
+                            <p class="c-event-card__subtitle">Sir Antonio Pappano and Janine Jansen</p>
+            
+            <p class="c-event-card__date">Thursday 3 December 2026 • 7pm</p>
+
+            <p class="c-event-card__excerpt">Sir Antonio Pappano leads Sibelius, Vaughan Williams’ Sinfonia antartica and Dubugnon’s new violin concerto in a vivid, cinematic programme with Janine Jansen.</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                                    <a class="c-btn c-btn--primary c-btn--book" href="https://tickets.lso.co.uk/choose-seats/3390401">
+                    Book Tickets                </a>
+                        
+    <a href="https://www.lso.co.uk/whats-on/sibelius-vaughan-williams-and-dubugnon-3-dec-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/lso-percussion-ensemble-steve-reich-90-5-dec-26/">
+            <span class="u-hidden-visually">LSO Percussion Ensemble: Steve Reich at 90</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261205-LSO-Percussion-Ensemble-masthead-c-Tom-Lovatt.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261205-LSO-Percussion-Ensemble-masthead-c-Tom-Lovatt.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261205-LSO-Percussion-Ensemble-masthead-c-Tom-Lovatt.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261205-LSO-Percussion-Ensemble-masthead-c-Tom-Lovatt.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261205-LSO-Percussion-Ensemble-masthead-c-Tom-Lovatt.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261205-LSO-Percussion-Ensemble-masthead-c-Tom-Lovatt.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Musicians playing percussion instruments on stage."
+                    title="261205 LSO Percussion Ensemble masthead c Tom Lovatt"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>LSO St Luke's</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                LSO Percussion Ensemble: Steve Reich at 90            </h3>
+
+            
+            <p class="c-event-card__date">Saturday 5 December 2026 • 7.30pm</p>
+
+            <p class="c-event-card__excerpt">The LSO Percussion Ensemble celebrates Steve Reich's 90th birthday with a concert of three iconic works.</p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                    <span class="c-btn c-btn--disabled">Sold Out</span>
+            
+    <a href="https://www.lso.co.uk/whats-on/lso-percussion-ensemble-steve-reich-90-5-dec-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                            <div class="o-grid__cell u-1/2@tablet u-1/3@desktop">
+    <div class="c-event-card c-col">
+        <a class="c-event-card__link" href="https://www.lso.co.uk/whats-on/symphonic-gospel-a-gospel-christmas-6-dec-26/">
+            <span class="u-hidden-visually">Symphonic Gospel: A Gospel Christmas</span>
+        </a>
+                    <figure class="c-event-card__image c-col-image__fig c-col-image__fig--crop c-col-image__fig--16x10-crop">
+                                <img
+                    src="https://images.lso.co.uk/uploads/2026/03/261206-Symphonic-Hospel-masthead-c-Mark-Allan.jpg?resize=16%2C10&gravity"
+                    data-sizes="auto"
+                    data-srcset="https://images.lso.co.uk/uploads/2026/03/261206-Symphonic-Hospel-masthead-c-Mark-Allan.jpg?resize=16%2C10&gravity 16w, https://images.lso.co.uk/uploads/2026/03/261206-Symphonic-Hospel-masthead-c-Mark-Allan.jpg?resize=480%2C300&gravity 480w, https://images.lso.co.uk/uploads/2026/03/261206-Symphonic-Hospel-masthead-c-Mark-Allan.jpg?resize=960%2C600&gravity 960w, https://images.lso.co.uk/uploads/2026/03/261206-Symphonic-Hospel-masthead-c-Mark-Allan.jpg?resize=1600%2C1000&gravity 1600w, https://images.lso.co.uk/uploads/2026/03/261206-Symphonic-Hospel-masthead-c-Mark-Allan.jpg?resize=1992%2C1245&gravity 1992w"
+                    class="lazyload"
+                    alt="Lots of people singing on a stage wearing colourful clothing surrounded by a symphony orchestra."
+                    title="261206 Symphonic Hospel masthead c Mark Allan"
+                    width="1600"
+                    height="1000"
+                />
+                                        <div class="c-col-image__caption">
+                                            <span><i class="far fa-location-arrow" aria-hidden="true"></i>Barbican</span>
+                                    </div>
+                    </figure>
+
+        <div class="c-event-card__content">
+            <h3 class="c-col-title c-event-card__title">
+                Symphonic Gospel: A Gospel Christmas            </h3>
+
+                            <p class="c-event-card__subtitle">André J Thomas</p>
+            
+            <p class="c-event-card__date">Sunday 6 December 2026 • 7pm</p>
+
+            <p class="c-event-card__excerpt">A festive musical celebration, combining the unrestrained power of Amercian gospel music with the symphonic sound of the LSO, and voices from across the London community. </p>
+
+                    </div>
+
+        <div class="c-event-card__buttons">
+            
+                    <span class="c-btn c-btn--disabled">Sold Out</span>
+            
+    <a href="https://www.lso.co.uk/whats-on/symphonic-gospel-a-gospel-christmas-6-dec-26/" tabindex="-1" class="c-btn c-btn--secondary c-btn--more">Learn More</a>
+</div>
+
+    </div>
+</div>
+                    </div>
+
+        <div class="c-pagination">
+                <nav class="c-pagination" aria-labelledby="pagination-heading">
+        <h2 class="u-hidden-visually" id="pagination-heading">
+            Pagination
+        </h2>
+
+        <div class="o-wrapper">
+            <a class="prev page-numbers" href="https://www.lso.co.uk/whats-on/" aria-label="Go to Prev page">Prev</a>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/" aria-label="Go to page 1">1</a>
+<span aria-current="page" class="page-numbers current" aria-label="Current page, page 2">2</span>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/page/3/" aria-label="Go to page 3">3</a>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/page/4/" aria-label="Go to page 4">4</a>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/page/5/" aria-label="Go to page 5">5</a>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/page/6/" aria-label="Go to page 6">6</a>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/page/7/" aria-label="Go to page 7">7</a>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/page/8/" aria-label="Go to page 8">8</a>
+<a class="page-numbers" href="https://www.lso.co.uk/whats-on/page/9/" aria-label="Go to page 9">9</a>
+<a class="next page-numbers" href="https://www.lso.co.uk/whats-on/page/3/" aria-label="Go to Next page">Next</a>        </div>
+    </nav>
+        </div>
+    </div>
+</section>
+
+
+
+</main>
+
+
+<section class="c-container c-container--signup c-container--has-bg-color u-black-bg c-container--has-bg-image c-container--1200 c-container--center c-container--vertical-top">
+    <div class="c-container__wrap">
+        <div class="c-container__blocks">
+            <div class="o-grid o-grid--stretch">
+                <div class="o-grid__cell" data-block-type="c-col c-col-text-area">
+                    <div class="c-col c-col-text-area u-transparent-bg">
+                    <figure>
+                         <img src="https://www.lso.co.uk/themes/childtheme/assets/images/stay-in-touch.png"
+                              height="141"
+                              width="1001"
+                              class=""
+                              alt="Stay in touch">
+                              <span class="u-hidden-visually">Stay in touch</span>
+                    </figure>
+                    <a href="https://www.lso.co.uk/email-sign-up" class="c-btn c-btn--large c-btn--subscribe">Sign up for email updates</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><footer class="c-footer">
+    <div class="o-wrapper">
+
+
+        <section class="c-footer-content c-container">
+            <div class="c-container__wrap">
+                <div class="o-layout">
+                    <div class="c-footer__col o-layout__item u-2/7@desktop">
+                        <h3 class="c-footer__title">London Symphony Orchestra</h3>
+                        <address class="c-footer__address">
+                          Barbican Centre, Silk Street, London, EC2Y 8DS
+                        </address>
+                        <ul class="c-social-links">
+                            <li>
+                                <a href="https://www.facebook.com/londonsymphonyorchestra/"><i aria-hidden="true" class="fab fa-fw fa-facebook"></i><span class="u-hidden-visually">Facebook</span></a>
+                            </li>
+
+                            <li>
+                                <a href="https://bsky.app/profile/londonsymphony.bsky.social">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-hidden="true">
+                                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                        <path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/>
+                                    </svg>
+                                    <span class="u-hidden-visually">Bluesky</span>
+                                </a>
+                            </li>
+
+
+                            <li>
+                                <a href="https://www.instagram.com/londonsymphonyorchestra/"><i class="fab fa-fw fa-instagram"></i><span class="u-hidden-visually">Instagram</span></a>
+                            </li>
+
+                            <li>
+                                <a href="https://www.tiktok.com/@londonsymphonyorchestra"><i class="fab fa-fw fa-tiktok"></i><span class="u-hidden-visually">TikTok</span></a>
+                            </li>
+
+
+                            <li>
+                                <a href="https://www.youtube.com/londonsymphonyorchestra"><i class="fab fa-fw fa-youtube"></i><span class="u-hidden-visually">YouTube</span></a>
+                            </li>
+
+                            <li>
+                                <a href="https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"><i class="fab fa-fw fa-spotify"></i><span class="u-hidden-visually">Spotify</span></a>
+                            </li>
+
+                            <li>
+                                <a href="https://music.apple.com/us/artist/london-symphony-orchestra/29893"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Apple_Music_Icon_wht_sm_073120</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FOOTER----desktop-v3" transform="translate(-270.000000, -484.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 303.000000)">
+                <g id="Stacked-Group" transform="translate(59.000000, 177.000000)">
+                    <g id="Apple_Music_Icon_wht_sm_073120" transform="translate(211.000000, 4.000000)">
+                        <path d="M23,6.3684446 C23,6.13849073 22.9968056,5.90534306 22.9904167,5.6753892 C22.9776389,5.17076821 22.9456944,4.66295342 22.85625,4.16472004 C22.7668056,3.66009905 22.6166667,3.1874161 22.3834722,2.72750837 C22.1534722,2.27718205 21.8531944,1.86198756 21.4954167,1.50428155 C21.1376389,1.14657553 20.7223611,0.846357984 20.2719444,0.616404116 C19.8119444,0.383256445 19.3423611,0.233147671 18.8376389,0.143721167 C18.3393056,0.0542946631 17.8313889,0.0255504297 17.3266667,0.00958141114 C17.0934722,0.00638760742 16.8602778,0.00319380371 16.6302778,0 C16.3555556,0 16.0808333,0 15.8061111,0 L7.19388889,0 C6.91916667,0 6.64444444,0 6.36972222,0 C6.13972222,0 5.90652778,0.00319380371 5.67652778,0.00958141114 C5.17180556,0.022356626 4.66388889,0.0542946631 4.16555556,0.143721167 C3.66083333,0.236341475 3.18805556,0.383256445 2.73125,0.61959792 C2.27763889,0.849551787 1.86555556,1.14976934 1.50777778,1.50747535 C1.15,1.86518137 0.846527778,2.27718205 0.616527778,2.73070217 C0.383333333,3.19060991 0.233194444,3.66009905 0.14375,4.16791384 C0.0543055556,4.66614722 0.0255555556,5.17396201 0.00958333333,5.678583 C0.00638888889,5.90853687 0.00319444444,6.13849073 0,6.37163841 C0,6.64630553 0,6.92097264 0,7.19563976 L0,15.8061346 C0,16.0808017 0,16.3554688 0,16.6301359 C0,16.8600898 0.00319444444,17.0932375 0.00958333333,17.3231913 C0.0223611111,17.8278123 0.0543055556,18.3356271 0.14375,18.8338605 C0.233194444,19.3384815 0.383333333,19.8111644 0.616527778,20.2710722 C0.846527778,20.7213985 1.14680556,21.136593 1.50458333,21.494299 C1.86236111,21.852005 2.27763889,22.1522225 2.72805556,22.3821764 C3.18805556,22.6153241 3.65763889,22.7654329 4.16236111,22.8548594 C4.66069444,22.9442859 5.16861111,22.9730301 5.67333333,22.9889991 C5.90333333,22.9953867 6.13652778,22.9985805 6.36652778,22.9985805 C6.64125,23.0017743 6.91597222,22.9985805 7.19069444,22.9985805 L15.7997222,22.9985805 C16.0744444,22.9985805 16.3491667,22.9985805 16.6238889,22.9985805 C16.8538889,22.9985805 17.0870833,22.9953867 17.3170833,22.9889991 C17.8218056,22.9762239 18.3297222,22.9442859 18.8280556,22.8548594 C19.3327778,22.7654329 19.8055556,22.6153241 20.2623611,22.3821764 C20.7127778,22.1522225 21.1280556,21.852005 21.4858333,21.494299 C21.8436111,21.136593 22.1438889,20.7245923 22.3738889,20.2710722 C22.6070833,19.8111644 22.7572222,19.3416753 22.8466667,18.8338605 C22.9361111,18.3356271 22.9648611,17.8278123 22.9808333,17.3231913 C22.9872222,17.0932375 22.9904167,16.8600898 22.9904167,16.6301359 C22.9936111,16.3554688 22.9904167,16.0808017 22.9904167,15.8061346 L22.9904167,7.19244596 C23,6.91777884 23,6.64311172 23,6.3684446 Z M16.8379167,14.9629704 C16.8379167,15.2536065 16.8347222,15.5186922 16.7740278,15.8093284 C16.7133333,16.0935769 16.6047222,16.3586626 16.4386111,16.5981979 C16.2725,16.8377332 16.0584722,17.0325552 15.8093056,17.1794702 C15.5569444,17.3295789 15.2918056,17.4126178 15.0106944,17.4701063 C14.4804167,17.5755018 14.1194444,17.6010523 13.7776389,17.5339824 C13.4486111,17.4669125 13.1706944,17.3168037 12.9470833,17.1124003 C12.6180556,16.8089889 12.4104167,16.4001821 12.3656944,15.9754062 C12.3145833,15.473979 12.4806944,14.9406138 12.8544444,14.5445821 C13.0429167,14.3465663 13.2825,14.1900699 13.6019444,14.0655115 C13.9341667,13.9377594 14.3015278,13.8579143 14.8669444,13.7461312 C15.0170833,13.7173869 15.1640278,13.6854489 15.3141667,13.6567047 C15.5090278,13.618379 15.6783333,13.5672782 15.8125,13.4012004 C15.9498611,13.2351226 15.9498611,13.0307191 15.9498611,12.8327033 L15.9498611,7.76733063 C15.9498611,7.38088038 15.7773611,7.27548486 15.4068056,7.34574854 C15.1416667,7.3968494 9.45875,8.54342493 9.45875,8.54342493 C9.13930556,8.62007622 9.02430556,8.72547174 9.02430556,9.12469721 L9.02430556,16.5439032 C9.02430556,16.8345394 9.00833333,17.0996251 8.94763889,17.3902612 C8.88694444,17.6745097 8.77833333,17.9395955 8.61222222,18.1791307 C8.44611111,18.418666 8.23208333,18.613488 7.98291667,18.760403 C7.73055556,18.9105118 7.46541667,18.9967445 7.18430556,19.0542329 C6.65402778,19.1596285 6.29305556,19.1851789 5.95125,19.118109 C5.62222222,19.0510391 5.34430556,18.8977366 5.12069444,18.6933331 C4.79166667,18.3899218 4.6,17.9811149 4.55208333,17.556339 C4.50097222,17.0549118 4.65111111,16.5215466 5.02805556,16.1255149 C5.21652778,15.9274991 5.45611111,15.7710027 5.77555556,15.6464444 C6.10777778,15.5186922 6.47513889,15.4388471 7.04055556,15.327064 C7.19069444,15.2983198 7.33763889,15.2663817 7.48777778,15.2376375 C7.68263889,15.1993119 7.85194444,15.148211 7.98611111,14.9821332 C8.12027778,14.8160554 8.13625,14.6212334 8.13625,14.4232176 C8.13625,12.8518661 8.13625,5.86701742 8.13625,5.86701742 C8.13625,5.75204049 8.14583333,5.6753892 8.15222222,5.63706355 C8.18097222,5.45821054 8.25125,5.30171416 8.38222222,5.19312484 C8.49083333,5.10369833 8.63138889,5.03982226 8.80708333,5.00149661 L8.81027778,5.00149661 L15.6527778,3.61857961 C15.7134722,3.60580439 16.2054167,3.51957169 16.2629167,3.51318408 C16.6334722,3.48124605 16.8411111,3.72397513 16.8411111,4.11681299 L16.8379167,14.9629704 L16.8379167,14.9629704 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg><span class="u-hidden-visually">Apple Music</span></a>
+                            </li>
+                      </ul>
+
+                    </div>
+
+                    <div class="c-footer__col o-layout__item u-1/7@desktop u-1/3@tablet">
+                       <div class="c-footer__contact">
+                            <p>Box Office</p>
+                            <a href="mailto:tickets@barbican.org.uk">tickets@barbican.org.uk</a><br>
+                            <a class="c-footer__phone" href="tel:+442078702500" aria-label="+ 4 4 2 0 7 8 7 0 2 5 0 0">+44 20 7870 2500</a>
+                        </div>
+                        <div class="c-footer__contact">
+                            <p>Administration</p>
+                            <a href="mailto:admin@lso.co.uk">admin@lso.co.uk</a><br>
+                            <a class="c-footer__phone" href="tel:+442075881116" aria-label="+ 4 4 2 0 7 5 8 8 1 1 1 6">+44 20 7588 1116</a>
+                        </div>
+                    </div>
+
+                    <div class="c-footer__col o-layout__item u-2/7@desktop u-4/5@mobile u-2/3@tablet">
+                        <ul id="c-footer-menu" class="c-footer-menu"><li id="menu-item-3986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-3986"><a rel="privacy-policy" href="https://www.lso.co.uk/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-3987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3987"><a href="https://www.lso.co.uk/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-49256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49256"><a href="https://www.lso.co.uk/about-us/policies/accessibility-statement/">Accessibility Statement</a></li>
+<li id="menu-item-61019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61019"><a href="https://www.lso.co.uk/about-us/policies/">Policies</a></li>
+<li id="menu-item-3988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3988"><a href="https://www.lso.co.uk/about-us/careers-at-the-lso/">Careers at the LSO</a></li>
+<li id="menu-item-61018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61018"><a href="https://www.lso.co.uk/about-us/governance-and-advisory-council/">Governance and Advisory Council</a></li>
+<li id="menu-item-7041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7041"><a href="https://www.lso.co.uk/press-promoter-resources/">Press &#038; Promoter Resources</a></li>
+<li id="menu-item-7042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7042"><a href="https://www.lso.co.uk/about-us/lso-st-lukes/venue-hire/">Venue Hire</a></li>
+<li id="menu-item-3985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3985"><a href="https://www.lso.co.uk/contact-us/">Contact Us</a></li>
+</ul>                    </div>
+
+
+
+                    <div class="c-footer__col o-layout__item u-2/7@desktop">
+                        <div class="c-footer__sub">
+                            <div class="c-footer__logo">
+                                <a href="https://www.artscouncil.org.uk/"  title="Supported using public funding by arts council England ">
+                                <figure>
+                                <img
+                                src="https://www.lso.co.uk/themes/childtheme/static/images/logo-arts-council.svg"
+                                height="49"
+                                width="209"
+                                class=""
+                                alt="Arts Council England logo">
+                                <span class="u-hidden-visually">Arts Council England</span>
+                                </figure>
+
+                        </a>
+                            </div>
+
+                            <div class="c-footer__logo">
+                                <a href="https://www.cityoflondon.gov.uk/" title="City of London">
+                            <figure>
+                                <img
+                                src="https://www.lso.co.uk/themes/childtheme/static/images/logo-city-of-london.svg"
+                                height="77"
+                                width="57"
+                                class=""
+                                alt="City of London logo">
+                                <span class="u-hidden-visually">City of London</span>
+                                </figure>
+                        </a>
+                            </div>
+
+                            <div class="c-footer__logo">
+                                <a href="https://www.barbican.org.uk/whats-on/2022/series/london-symphony-orchestra" title="Barbican resident orchestra">
+                            <figure>
+                                <img
+                                src="https://www.lso.co.uk/themes/childtheme/static/images/Barbican-Resident-Orchestra.svg"
+                                height="58"
+                                width="168"
+                                class=""
+                                alt="Barbican resident orchestra">
+                                <span class="u-hidden-visually">Barbican resident orchestra</span>
+                                </figure>
+                        </a>
+                            </div>
+
+                            <div class="c-footer__logo c-footer__logo--with-label">
+                                <a href="https://www.lso.co.uk/support-us/corporate-partnerships/" title="Principal Partner - BMW">
+                            <figure>
+                                <img
+                                src="https://www.lso.co.uk/themes/childtheme/assets/images/BMW_White-Colour_RGB.png"
+                                height="85"
+                                width="85"
+                                class=""
+                                alt="Principal Partner - BMW">
+                                <span>Principal Partner</span>
+                                </figure>
+                        </a>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+                    <div class="c-footer__credit">
+                    <p class="">Registered in England no. 83608 <br> Charity reg. no. 232391 <br> VAT reg. no. 100 1220 15</p>
+                    <p><a class="c-footer__credit" href="https://substrakt.com">Website by substrakt</a></p>
+                    </div>
+
+            </div>
+        </section>
+    </div>
+     <!-- Cookie Settings Button Start -->
+<button class="c-btn__cookie-settings" type="button" onclick="Cookiebot.show();">Cookie Settings</button>
+ <!-- Cookie Settings Button End --></footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/admin/wp-*.php","/admin/wp-admin/*","/uploads/*","/*","/plugins/*","/themes/childtheme/*","/themes/basetheme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<script src="https://www.lso.co.uk/themes/childtheme/assets/js/all.js?ver=1792598742" data-cookieconsent="ignore"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.js?ver=6.9.10" id="duetds-js"></script>
+<script type="text/javascript" src="https://www.lso.co.uk/plugins/construkt-accordion/src/assets/accordion.js?ver=1.0.0" id="construkt-ui-accordion-js"></script>
+</body>
+</html>

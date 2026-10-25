@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>sottovoce uses your location to find the nearest venue, water refill points and public toilets.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>sottovoce listens for the orchestral and vocal line to work out where you are in the performance, and for whispered questions.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>sottovoce can recognise the stage set or playbill to detect which production you are watching.</string>
+</dict>
+</plist>

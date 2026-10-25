@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.sadlerswells.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//sadlers-wells-assets.s3.amazonaws.com' />
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="wp-block-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer." }
+/*# sourceURL=wp-block-styles-placeholder-inline-css */
+</style>
+<style id="wp-global-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer." }
+/*# sourceURL=wp-global-styles-placeholder-inline-css */
+</style>
+<link rel='stylesheet' id='childtheme-css' href='https://www.sadlerswells.com/themes/childtheme/assets/css/main.css?ver=1792603947' media='all' />
+<link rel='stylesheet' id='callstrakt_css-css' href='https://www.sadlerswells.com/plugins/callstrakt/assets/css/main.css?ver=1792473546' media='all' />
+<link rel='stylesheet' id='sib-front-css-css' href='https://www.sadlerswells.com/plugins/mailin/css/mailin-front.css?ver=7.1.3' media='all' />
+<script id="jquery-js" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.3.1"></script>
+<script id="jquery-js-after">
+window.jQuery || document.write('<\u0073cript src="https://www.sadlerswells.com/themes/childtheme/static/js/jquery-3.3.1.min.js">\x3C/script>')
+//# sourceURL=jquery-js-after
+</script>
+<script id="basetheme-core-js" src="https://www.sadlerswells.com/themes/basetheme/assets/build/js/core.js?ver=1.1.0"></script>
+<script id="sib-front-js-js-extra">
+var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
+var ajax_sib_front_object = {"ajax_url":"https://www.sadlerswells.com/admin/wp-admin/admin-ajax.php","ajax_nonce":"ac6fcbe999","flag_url":"https://www.sadlerswells.com/plugins/mailin/img/flags/"};
+//# sourceURL=sib-front-js-js-extra
+</script>
+<script id="sib-front-js-js" src="https://www.sadlerswells.com/plugins/mailin/js/mailin-front.js?ver=1734943146"></script>
+
+<!-- Title -->
+    <title>The Dance Floor Takeover: MargaM VR - Divya Kasturi - The Dance Floor at Sadler's Wells East</title>
+
+<!-- Description -->
+    <meta name="description" content="The Dance Floor Takeover: MargaM VR - Divya Kasturi - The Dance Floor at Sadler's Wells East">
+
+<!-- Twitter: Post -->
+    <!-- Twitter: Card Size -->
+            <meta name="twitter:card" content="summary"/>
+    
+    <!-- Twitter: Site -->
+            <meta name="twitter:site" content="@sadlers_wells"/>
+    
+    <!-- Twitter: Title -->
+            <meta name="twitter:title" content="The Dance Floor Takeover: MargaM VR - Divya Kasturi - The Dance Floor at Sadler's Wells East"/>
+    
+    <!-- Twitter: Description -->
+            <meta name="twitter:description" content="The Dance Floor Takeover: MargaM VR - Divya Kasturi - The Dance Floor at Sadler's Wells East"/>
+    
+    <!-- Twitter: Image -->
+            <meta name="twitter:image" content="https://images.sadlerswells.com/uploads/2021/09/SWSecondaryLogo_red.jpg?fit=1024%2C1024"/>
+    
+<!-- Twitter: Archive -->
+
+<!-- Facebook: Post -->
+    <!-- Facebook: URL -->
+            <meta property="og:url" content="https://www.sadlerswells.com/take-part/the-dance-floor-at-sadlers-wells-east/margam-vr-divya-kasturi/">
+    
+    <!-- Facebook: Site Name -->
+            <meta property="og:site_name" content="SadlersWells"/>
+    
+    <!-- Facebook: Title -->
+            <meta property="og:title" content="The Dance Floor Takeover: MargaM VR - Divya Kasturi - The Dance Floor at Sadler's Wells East"/>
+    
+    <!-- Facebook: Description -->
+            <meta property="og:description" content="The Dance Floor Takeover: MargaM VR - Divya Kasturi - The Dance Floor at Sadler's Wells East"/>
+    
+    <!-- Facebook: Image -->
+            <meta property="og:image" content="https://images.sadlerswells.com/uploads/2021/09/SWSecondaryLogo_red.jpg?fit=1024%2C1024"/>
+    
+<!-- Facebook: Archive -->
+
+<!-- Canonical Tag -->
+    <link rel="canonical" href="https://www.sadlerswells.com/take-part/the-dance-floor-at-sadlers-wells-east/margam-vr-divya-kasturi/">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png">
+<link rel="manifest" href="/static/site.webmanifest">
+<link rel="mask-icon" href="/static/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/static/favicon.ico">
+<meta name="msapplication-TileColor" content="#222222">
+<meta name="msapplication-config" content="/static/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8QKNR');</script>
+<!-- End Google Tag Manager -->
+    <script type='text/javascript' src='//static.queue-it.net/script/queueclient.min.js'></script>
+<script
+   data-queueit-c='sadlerswells'
+   type='text/javascript'
+   src='//static.queue-it.net/script/queueconfigloader.min.js'>
+</script>    <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type='text/javascript' id='vwoCode'>
+    window._vwo_code=window._vwo_code || (function() {
+    var account_id=242194,
+    version = 1.5,
+    settings_tolerance=2000,
+    library_tolerance=2500,
+    use_existing_jquery=false,
+    is_spa=1,
+    hide_element='body',
+    hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+    f=false,w=window,d=document,vwoCodeEl=d.querySelector('#vwoCode'),code={use_existing_jquery:function(){return use_existing_jquery},library_tolerance:function(){return library_tolerance},hide_element_style:function(){return'{'+hide_element_style+'}'},finish:function(){if(!f){f=true;var e=d.getElementById('_vis_opt_path_hides');if(e)e.parentNode.removeChild(e)}},finished:function(){return f},load:function(e){var t=d.createElement('script');t.fetchPriority='high';t.src=e;t.type='text/javascript';t.onerror=function(){_vwo_code.finish()};d.getElementsByTagName('head')[0].appendChild(t)},getVersion:function(){return version},getMatchedCookies:function(e){var t=[];if(document.cookie){t=document.cookie.match(e)||[]}return t},getCombinationCookie:function(){var e=code.getMatchedCookies(/(?:^|;)\s?(_vis_opt_exp_\d+_combi=[^;$]*)/gi);e=e.map(function(e){try{var t=decodeURIComponent(e);if(!/_vis_opt_exp_\d+_combi=(?:\d+,?)+\s*$/.test(t)){return''}return t}catch(e){return''}});var i=[];e.forEach(function(e){var t=e.match(/([\d,]+)/g);t&&i.push(t.join('-'))});return i.join('|')},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;w.settings_timer=setTimeout(function(){_vwo_code.finish()},settings_tolerance);var e=d.currentScript,t=d.createElement('style'),i=e&&!e.async?hide_element?hide_element+'{'+hide_element_style+'}':'':code.lA=1,n=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');vwoCodeEl&&t.setAttribute('nonce',vwoCodeEl.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));n.appendChild(t);var o=this.getCombinationCookie();this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&f='+ +is_spa+'&vn='+version+(o?'&c='+o:''));return settings_timer}};w._vwo_settings_timer = code.init();return code;}());
+</script>
+    <!-- Typekit fonts (Aktiv Grotesk) -->
+    <link rel="stylesheet" href="https://use.typekit.net/hto6gqw.css">
+
+</head>
+
+<body class="wp-singular page-template-default page page-id-63622 page-child parent-pageid-37044 wp-theme-basetheme wp-child-theme-childtheme margam-vr-divya-kasturi">
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8QKNR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <a href="#main-content" class="c-btn c-btn--skip-link">Skip to main content</a>
+
+<header id="head" class="c-global-head">
+    <div class="c-global-head__inner">
+        <div class="c-global-head__lhs">
+            <a class="c-global-head__logo-link" href="https://www.sadlerswells.com" aria-label="Sadler's Wells home">
+                <div class="c-global-head__logo">
+                    <svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd"><path fill="#FFF" d="M1.017 1.017h117.966v117.966H1.017z"/>
+        <path d="M74.636 21.249c.51.638.766 1.66.766 3.065 0 1.277-.255 2.299-.894 3.065-.639.767-1.533 1.15-2.682 1.15h-1.66v-8.302h1.915c1.15-.128 1.916.255 2.555 1.022zm-28.61 4.47h3.066l-1.533-5.237-1.533 5.237zm2.81 30.525c-.383-.255-1.021-.51-1.788-.51h-1.916v3.575h2.044c.766 0 1.405-.127 1.788-.51.383-.256.51-.767.51-1.405-.127-.384-.382-.894-.638-1.15zM119.593.814v118.78H.813V.813h118.78zM92.772 31.85h10.345l.383-3.449H96.86V16.78h-4.087v15.07zm-65.648 69.352h-7.28v-2.683h6.386V95.2h-6.386v-2.427h6.897v-3.32H15.885v15.07H26.74l.383-3.32zm0-36.784h-7.28v-2.682h6.386v-3.32h-6.386v-2.427h6.897v-3.321H15.885v15.07H26.74l.383-3.32zm.766-37.166c0-1.15-.383-2.172-1.15-2.938-.766-.766-2.043-1.405-3.83-1.66l-2.044-.383c-.639-.128-1.022-.256-1.278-.511-.255-.256-.383-.511-.383-.894 0-.384.128-.767.511-.894.383-.256.894-.384 1.533-.384.766 0 1.277.128 1.66.384.383.255.639.766.766 1.404l3.96-.383c-.128-.638-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.532a6.77 6.77 0 00-1.915-1.022c-.767-.256-1.66-.383-2.81-.383-1.916 0-3.321.383-4.47 1.15-1.022.765-1.66 1.915-1.66 3.575 0 1.278.382 2.3 1.149 3.066.766.766 2.043 1.277 3.704 1.532l2.043.383c.639.128 1.022.256 1.277.511.256.256.383.511.383.894 0 .511-.127.767-.51 1.022-.384.256-.894.383-1.66.383-.895 0-1.533-.127-1.917-.51-.383-.384-.638-.895-.766-1.533h-4.087c.255 3.576 2.427 5.364 6.641 5.364 1.15 0 2.044-.128 2.81-.383.767-.256 1.405-.639 2.044-1.022.51-.383.894-.894 1.15-1.533.382-.51.51-1.15.51-1.915zm25.161 73.822H46.41V89.45h-4.087v15.071h10.345l.383-3.448zm1.022-33.335l-3.065-6.003c.766-.51 1.277-1.022 1.66-1.788s.51-1.533.51-2.554c0-.64-.127-1.15-.255-1.789-.127-.638-.51-1.149-1.021-1.532-.511-.383-1.022-.766-1.788-1.022-.767-.255-1.789-.383-2.938-.383h-6.003v15.07h3.832v-5.236h2.17l2.428 5.237h4.47zm1.15-35.89l-5.237-15.07h-4.598l-5.237 15.07h4.087l.894-2.937h5.11l.893 2.938h4.087zm22.989 69.225H71.57V89.45h-4.087v15.071H77.83l.383-3.448zm1.15-37.933c0-1.15-.384-2.171-1.15-2.938-.766-.766-2.044-1.405-3.832-1.66l-2.043-.51c-.639-.129-1.022-.256-1.277-.512-.256-.255-.384-.51-.384-.894 0-.383.128-.766.511-.894.383-.255.894-.383 1.533-.383.766 0 1.277.128 1.66.383.383.256.639.767.767 1.405l3.959-.383c-.128-.639-.255-1.15-.51-1.788-.256-.511-.64-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.022c-.767-.255-1.66-.383-2.81-.383-1.916 0-3.32.383-4.47 1.15-1.022.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.149 3.065.766.767 2.043 1.277 3.704 1.533l2.043.383c.639.128 1.022.255 1.277.51.256.256.384.512.384.895 0 .51-.128.766-.511 1.022-.383.255-.894.383-1.66.383-.895 0-1.533-.128-1.916-.511-.384-.383-.639-.894-.767-1.533h-4.087c.256 3.577 2.427 5.365 6.642 5.365 1.15 0 2.043-.128 2.81-.384.766-.255 1.404-.638 2.043-1.021.51-.383.894-.894 1.15-1.533.383-.383.51-1.022.51-1.788zm.255-39.082c0-2.427-.639-4.215-1.916-5.492-1.277-1.278-3.193-1.916-5.747-1.916H65.95v15.07h5.747c2.555 0 4.47-.638 5.875-2.043 1.405-1.15 2.044-3.065 2.044-5.62zm25.033 75.865c0-1.15-.383-2.17-1.15-2.937-.766-.767-2.043-1.405-3.831-1.66l-2.044-.384c-.638-.127-1.021-.255-1.277-.51-.255-.256-.383-.512-.383-.895s.128-.766.51-.894c.384-.255.895-.383 1.534-.383.766 0 1.277.128 1.66.383.383.256.638.767.766 1.405l3.96-.383c-.128-.639-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.021c-.766-.256-1.66-.384-2.81-.384-1.915 0-3.32.384-4.47 1.15-1.021.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.15 3.065.766.767 2.043 1.278 3.703 1.533l2.044.383c.638.128 1.022.256 1.277.511.255.255.383.51.383.894 0 .51-.128.766-.51 1.022-.256.51-.767.638-1.533.638-.894 0-1.533-.127-1.916-.51-.383-.384-.639-.895-.766-1.533h-4.087c.255 3.576 2.426 5.364 6.641 5.364 1.15 0 2.043-.128 2.81-.383.766-.255 1.405-.639 2.043-1.022.511-.383.894-.894 1.15-1.532.255-.639.383-1.405.383-2.172zm3.32-47.256h-4.214l-1.916 9.834-2.171-9.706h-3.704l-2.171 9.706-1.916-9.834h-4.215l4.087 15.07h3.96l2.17-9.706 2.172 9.707h4.087l3.832-15.071z" fill="#E30613" fill-rule="nonzero"/>
+    </g>
+</svg>
+                </div>
+            </a>
+        </div>
+
+        <div class="c-global-head__rhs">
+            <nav class="c-global-header__menu c-header-menu">
+                <a class="c-header-menu__primary-link" href="https://www.sadlerswells.com/whats-on">What's on</a>
+                <a class="c-header-menu__secondary-link" href="https://www.sadlerswells.com?s="><i class="fal fa-search"></i><span>Search</span></a>
+                <a class="c-header-menu__secondary-link" href="https://my.sadlerswells.com/account/update"><i class="fal fa-user"></i><span id="account-name"><span class="c-account-label">Account</span><span class="c-account-message"></span></a>
+                <a class="c-header-menu__secondary-link" href="https://my.sadlerswells.com/cart/details"><i class="fal fa-shopping-basket"></i><span>Basket</span><span class="c-cart-value"></span></a>
+            </nav>
+
+            <a href="#main-menu" class="c-nav-toggle" data-modal-open>
+    <span class="c-nav-toggle__label">Menu</span>
+    <div class="c-nav-toggle__icon c-hamburger"><span></span><span></span><span></span><span></span></div>
+</a>
+
+<div id="main-menu" class="c-main-menu" data-modal hidden>
+    <h1 class="u-hidden-visually">Sadler's Wells Menu</h1>
+    <div class="a11y-modal__scroll">
+        <section class="a11y-modal__content c-main-menu__sections">
+            <div class="c-main-menu__lhs">
+                <a class="c-main-menu__logo-link" href="https://www.sadlerswells.com"  aria-label="Sadler's Wells home">
+                    <div class="c-main-menu__logo">
+                        <svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd"><path fill="#FFF" d="M1.017 1.017h117.966v117.966H1.017z"/>
+        <path d="M74.636 21.249c.51.638.766 1.66.766 3.065 0 1.277-.255 2.299-.894 3.065-.639.767-1.533 1.15-2.682 1.15h-1.66v-8.302h1.915c1.15-.128 1.916.255 2.555 1.022zm-28.61 4.47h3.066l-1.533-5.237-1.533 5.237zm2.81 30.525c-.383-.255-1.021-.51-1.788-.51h-1.916v3.575h2.044c.766 0 1.405-.127 1.788-.51.383-.256.51-.767.51-1.405-.127-.384-.382-.894-.638-1.15zM119.593.814v118.78H.813V.813h118.78zM92.772 31.85h10.345l.383-3.449H96.86V16.78h-4.087v15.07zm-65.648 69.352h-7.28v-2.683h6.386V95.2h-6.386v-2.427h6.897v-3.32H15.885v15.07H26.74l.383-3.32zm0-36.784h-7.28v-2.682h6.386v-3.32h-6.386v-2.427h6.897v-3.321H15.885v15.07H26.74l.383-3.32zm.766-37.166c0-1.15-.383-2.172-1.15-2.938-.766-.766-2.043-1.405-3.83-1.66l-2.044-.383c-.639-.128-1.022-.256-1.278-.511-.255-.256-.383-.511-.383-.894 0-.384.128-.767.511-.894.383-.256.894-.384 1.533-.384.766 0 1.277.128 1.66.384.383.255.639.766.766 1.404l3.96-.383c-.128-.638-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.532a6.77 6.77 0 00-1.915-1.022c-.767-.256-1.66-.383-2.81-.383-1.916 0-3.321.383-4.47 1.15-1.022.765-1.66 1.915-1.66 3.575 0 1.278.382 2.3 1.149 3.066.766.766 2.043 1.277 3.704 1.532l2.043.383c.639.128 1.022.256 1.277.511.256.256.383.511.383.894 0 .511-.127.767-.51 1.022-.384.256-.894.383-1.66.383-.895 0-1.533-.127-1.917-.51-.383-.384-.638-.895-.766-1.533h-4.087c.255 3.576 2.427 5.364 6.641 5.364 1.15 0 2.044-.128 2.81-.383.767-.256 1.405-.639 2.044-1.022.51-.383.894-.894 1.15-1.533.382-.51.51-1.15.51-1.915zm25.161 73.822H46.41V89.45h-4.087v15.071h10.345l.383-3.448zm1.022-33.335l-3.065-6.003c.766-.51 1.277-1.022 1.66-1.788s.51-1.533.51-2.554c0-.64-.127-1.15-.255-1.789-.127-.638-.51-1.149-1.021-1.532-.511-.383-1.022-.766-1.788-1.022-.767-.255-1.789-.383-2.938-.383h-6.003v15.07h3.832v-5.236h2.17l2.428 5.237h4.47zm1.15-35.89l-5.237-15.07h-4.598l-5.237 15.07h4.087l.894-2.937h5.11l.893 2.938h4.087zm22.989 69.225H71.57V89.45h-4.087v15.071H77.83l.383-3.448zm1.15-37.933c0-1.15-.384-2.171-1.15-2.938-.766-.766-2.044-1.405-3.832-1.66l-2.043-.51c-.639-.129-1.022-.256-1.277-.512-.256-.255-.384-.51-.384-.894 0-.383.128-.766.511-.894.383-.255.894-.383 1.533-.383.766 0 1.277.128 1.66.383.383.256.639.767.767 1.405l3.959-.383c-.128-.639-.255-1.15-.51-1.788-.256-.511-.64-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.022c-.767-.255-1.66-.383-2.81-.383-1.916 0-3.32.383-4.47 1.15-1.022.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.149 3.065.766.767 2.043 1.277 3.704 1.533l2.043.383c.639.128 1.022.255 1.277.51.256.256.384.512.384.895 0 .51-.128.766-.511 1.022-.383.255-.894.383-1.66.383-.895 0-1.533-.128-1.916-.511-.384-.383-.639-.894-.767-1.533h-4.087c.256 3.577 2.427 5.365 6.642 5.365 1.15 0 2.043-.128 2.81-.384.766-.255 1.404-.638 2.043-1.021.51-.383.894-.894 1.15-1.533.383-.383.51-1.022.51-1.788zm.255-39.082c0-2.427-.639-4.215-1.916-5.492-1.277-1.278-3.193-1.916-5.747-1.916H65.95v15.07h5.747c2.555 0 4.47-.638 5.875-2.043 1.405-1.15 2.044-3.065 2.044-5.62zm25.033 75.865c0-1.15-.383-2.17-1.15-2.937-.766-.767-2.043-1.405-3.831-1.66l-2.044-.384c-.638-.127-1.021-.255-1.277-.51-.255-.256-.383-.512-.383-.895s.128-.766.51-.894c.384-.255.895-.383 1.534-.383.766 0 1.277.128 1.66.383.383.256.638.767.766 1.405l3.96-.383c-.128-.639-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.021c-.766-.256-1.66-.384-2.81-.384-1.915 0-3.32.384-4.47 1.15-1.021.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.15 3.065.766.767 2.043 1.278 3.703 1.533l2.044.383c.638.128 1.022.256 1.277.511.255.255.383.51.383.894 0 .51-.128.766-.51 1.022-.256.51-.767.638-1.533.638-.894 0-1.533-.127-1.916-.51-.383-.384-.639-.895-.766-1.533h-4.087c.255 3.576 2.426 5.364 6.641 5.364 1.15 0 2.043-.128 2.81-.383.766-.255 1.405-.639 2.043-1.022.511-.383.894-.894 1.15-1.532.255-.639.383-1.405.383-2.172zm3.32-47.256h-4.214l-1.916 9.834-2.171-9.706h-3.704l-2.171 9.706-1.916-9.834h-4.215l4.087 15.07h3.96l2.17-9.706 2.172 9.707h4.087l3.832-15.071z" fill="#E30613" fill-rule="nonzero"/>
+    </g>
+</svg>
+                    </div>
+                </a>
+                                <section id="upcoming-events-by-location" aria-labelledby="menu-events-heading">
+                    <h2 id="menu-events-heading" class="menu-events-heading">Upcoming Events</h2>
+                    <ul class="c-main-menu__events-list">
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/london-city-ballet-firebird-a-double-bill/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=960%2C600&gravity 960w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=1584%2C990&gravity 1584w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="Performer in a red dress dances before a cracked wall, with flowing red hair and fractured patterns across the body and background creating a dramatic, stone-like effect."
+                                            title="London City Ballet - Firebird © ASH"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">London City Ballet - Firebird - A Double Bill</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">23 &ndash; 24 Oct 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-sadlers-wells-theatre c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Sadler's Wells Theatre</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/dickson-mbi-company-tellus/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=960%2C600&gravity 960w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=1584%2C990&gravity 1584w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="Close‑up of a performer with a lifted chin against a pale blue background."
+                                            title="Dickson Mbi - TELLUS_© Warren Du Preez and Nick Thornton Jones"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">Dickson Mbi Company - TELLUS</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">23 &ndash; 24 Oct 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-sadlers-wells-east c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Sadler's Wells East</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/stories-the-tap-dance-sensation-2026/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=960%2C600&gravity 960w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=1584%2C990&gravity 1584w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="A group of dancers on a dark smokey stage. They wear long black coats and are jumping with their arms to the side."
+                                            title="STORIES - The Tap Dance Sensation © Elliot Aubin"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">STORIES - The Tap Dance Sensation</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">23 &ndash; 31 Oct 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-peacock-theatre c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Peacock Theatre</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/the-performance-platform-london-preliminaries-2026/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=960%2C600&gravity 960w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="A group of young ballet dancers waving on stage"
+                                            title="The Performance Platform - London Preliminaries"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">The Performance Platform - London Preliminaries - 2025</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">1 Nov 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-lilian-baylis-studio c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Lilian Baylis Studio</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                            </ul>      
+                </section>
+                            </div>
+            <nav class="c-main-menu__rhs" aria-label="Main">
+                <ul id="menu-main-menu-right" class="c-header-menu-primary-nav"><li id="menu-item-64281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64281"><a href="https://www.sadlerswells.com/whats-on/">What&#8217;s on</a></li>
+<li id="menu-item-64283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64283"><a href="https://www.sadlerswells.com/your-visit/">Your visit</a></li>
+<li id="menu-item-64284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64284"><a href="https://www.sadlerswells.com/your-visit/accessibility/">Accessibility</a></li>
+<li id="menu-item-64285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64285"><a href="https://www.sadlerswells.com/digital-stage/">Digital Stage</a></li>
+<li id="menu-item-64286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64286"><a href="https://www.sadlerswells.com/on-tour/">On tour</a></li>
+<li id="menu-item-64287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64287"><a href="https://www.sadlerswells.com/support-us/">Support us</a></li>
+<li id="menu-item-64288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64288"><a href="https://www.sadlerswells.com/for-artists/">For artists</a></li>
+<li id="menu-item-64289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64289"><a href="https://www.sadlerswells.com/hire-our-spaces/">Hire our spaces</a></li>
+</ul>            </nav>
+        </section>
+    </div>
+</div>
+        </div>
+    </div>
+</header>
+
+    
+    <main id="main-content" class="global-content-wrap">
+
+<section class="c-masthead c-masthead--has-bg-img u-transparent-bg c-masthead-background--standard c-masthead--has-mobile-bg-img c-masthead--light">
+
+    <div class="c-masthead__content">
+
+        <div class="c-masthead__content-sections">
+            <div class="c-masthead__details">
+                                                                            <h1 class="c-masthead__title"><span><span class="h-large">MargaM VR &#8211; Divya Kasturi </span>
+<span class="h-small h-indent-lg">A free VR experience on The Dance Floor</span>
+</span></h1>
+                                                                        <div class="c-masthead__intro c-col-text-area"><p class="lead-p"><strong><a class="c-btn" href="https://www.sadlerswells.com/take-part/the-dance-floor-at-sadlers-wells-east/">Part of The Dance Floor</a></strong></p>
+</div>
+                                
+            </div>
+
+            
+
+                    </div>
+    </div>
+
+                        <figure class="c-masthead__img c-masthead__media u-opacity-10">
+                <picture>
+                    
+                                            <source srcset="https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=25%2C10&gravity 25w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=375%2C150&gravity 375w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=750%2C300&gravity 750w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=1000%2C400&gravity 1000w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=1500%2C600&gravity 1500w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=1990%2C796&gravity 1990w" media="(min-width: 600px)">
+                        <img
+                                srcset="https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=150%2C150&gravity 150w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=15%2C15&gravity 15w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=320%2C320&gravity 320w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=500%2C500&gravity 500w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=640%2C640&gravity 640w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=960%2C960&gravity 960w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=300%2C300&gravity 300w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=400%2C400&gravity 400w, https://images.sadlerswells.com/uploads/2026/10/SW-Masthead-2-scaled.jpg?resize=600%2C600&gravity 600w"
+                                alt="Abstract image of multiple glowing white dancer-like figures mirrored across a dark blue background, creating a symmetrical motion effect above a textured floor."
+                                title="MargaM VR"
+                                width=375
+                                height=150
+                        />
+                                    </picture>
+            </figure>
+            
+    </section>
+
+<section class="c-page">
+    
+    
+    <section class="c-container c-container--has-bg-color u-white-bg c-container--1200 c-container--center">
+
+    
+    <div class="c-container__wrap">
+
+        
+                
+            <div class="c-container__blocks">
+                <div class="o-grid o-grid--large" data-item-count="2">
+                                            <div class="o-grid__cell u-2/3@desktop">
+    <div class="c-col c-col-text-area c-col--has-bg-color u-white-bg c-content">
+                    <p class="lead-p"><strong>Put on a headset. Enter a South Indian temple. Let a 2,000-year-old dance tradition guide you from the threshold to the inner sanctum.</strong></p>
+<hr />
+<p><strong>MargaM</strong> guides you through a virtual South Indian temple on a memorable journey through Bharatanatyam – one of the world’s oldest classical dance forms. Through a VR headset, you move from the temple’s entrance to its inner space encountering intricate moves, held inside an original soundscape of voice, music and song.</p>
+<p>A first-of-its-kind project integrating Bharatanatyam into VR headsets MargaM is created by Dance artist <strong>Divya Kasturi</strong> in collaboration with leading digital technologists and partners. MargaM represents a bold meeting of ancient artistic tradition and pioneering technology.</p>
+<p class="smaller-p"><strong>Collaborators</strong> Clémence Debaig (Unwired Dance), Rebecca Evans (Pell Ensemble), Samuel Lawrence (Samuel Lawrence Limited)</p>
+<p class="smaller-p"><strong>Supporters/Partners</strong> Dr Leslie Deere, Dan Shorten, Guildhall Production Studio, Target 3D, artsdepot, Alyssa Mello, DKC is part of the Artist Residency Programme at the Centre for Performance, Technology, and Equity (PTEQ) at Royal School of Speech and Drama and Divya Kasturi is an Associates Programme Pilot Artist at Guildhall School of Music and Drama</p>
+<p class="smaller-p">Arts Council England National Lottery Project Grants</p>
+<p class="smaller-p">Header image © Divya Kasturi</p>
+            </div>
+</div>
+                                            <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-col c-col-text-area c-col--has-bg-color u-east-green-bg c-content">
+                    <p><strong>5 &#8211; 7 November 2026<br />
+</strong></p>
+<p><strong>The Dance Floor<br />
+Sadler’s Wells East</strong></p>
+<p><strong>Free<br />
+For ages 12+</strong></p>
+<p><a style="background-image: none;" href="https://www.sadlerswells.com/your-visit/sadlers-wells-east/welcome-to-sadlers-wells-east/"><img loading="lazy" decoding="async" class=" wp-image-33630 aligncenter" src="https://sadlers-wells-assets.s3.amazonaws.com/uploads/2025/03/sw_east_primary_landscape_white_logo.png?fit=300%2C300&quot;" alt="Sadler's Wells East logo" width="150" height="41" /></a></p>
+            </div>
+</div>
+                                    </div>
+            </div>
+
+        
+    </div>
+
+    
+</section>
+<section class="c-container u-transparent-bg c-container--1000 c-container--center">
+
+    
+    <div class="c-container__wrap">
+
+        
+                
+            <div class="c-container__blocks">
+                <div class="o-grid o-grid--large" data-item-count="1">
+                                            <div class="o-grid__cell u-1/1@desktop">
+    <div class="c-col c-col-text-area c-col--has-bg-color u-white-bg c-content">
+                    <h3><strong>How to take part</strong></h3>
+<p>This is a free drop in event on <a href="https://www.sadlerswells.com/take-part/the-dance-floor-at-sadlers-wells-east/" rel="noopener">The Dance Floor</a> at <a href="https://www.sadlerswells.com/your-visit/sadlers-wells-east/welcome-to-sadlers-wells-east/" rel="noopener">Sadler’s Wells East</a>.</p>
+<p>Participants can take part upon arrival by registering on The Dance Floor.</p>
+<p>Slots are every 30 minutes, and up to three people can take place at once. Places are limited and are assigned on a first come first served basis.</p>
+<p><strong>Session times:</strong></p>
+<table>
+<tbody>
+<tr>
+<td>Thursday 5 November</td>
+<td>4 pm &#8211; 7.30 pm</td>
+</tr>
+<tr>
+<td>Friday 6 November</td>
+<td>4 pm &#8211; 7:30 pm</td>
+</tr>
+<tr>
+<td>Saturday 7 November</td>
+<td>2 pm &#8211; 7:30 pm</td>
+</tr>
+</tbody>
+</table>
+            </div>
+</div>
+                                    </div>
+            </div>
+
+        
+    </div>
+
+    
+</section>
+</section>
+
+</main>
+
+<footer class="c-global-footer" id="footer">
+    <div class="o-site-max">
+        <div class="c-global-footer__top-section">
+            <ul id="menu-footer-primary" class="c-footer-primary-nav-items"><li id="menu-item-1266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1266"><a href="https://www.sadlerswells.com/whats-on/">What’s on</a>
+<ul class="sub-menu">
+	<li id="menu-item-1346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346"><a href="https://www.sadlerswells.com/whats-on/?venue-location=sadlers-wells-theatre">Sadler&#8217;s Wells Theatre</a></li>
+	<li id="menu-item-1347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1347"><a href="https://www.sadlerswells.com/whats-on/?venue-location=lilian-baylis-studio">Lilian Baylis Studio</a></li>
+	<li id="menu-item-1348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1348"><a href="https://www.sadlerswells.com/whats-on/?venue-location=peacock-theatre">Peacock Theatre</a></li>
+	<li id="menu-item-39853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39853"><a href="https://www.sadlerswells.com/whats-on/?venue-location=sadlers-wells-east">Sadler&#8217;s Wells East</a></li>
+	<li id="menu-item-1350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1350"><a href="https://www.sadlerswells.com/digital-stage/">Digital Stage</a></li>
+	<li id="menu-item-2657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2657"><a href="https://www.sadlerswells.com/on-tour/">On tour</a></li>
+</ul>
+</li>
+<li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1552"><a href="https://www.sadlerswells.com/your-visit/accessibility/">Accessibility</a>
+<ul class="sub-menu">
+	<li id="menu-item-2399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2399"><a href="https://www.sadlerswells.com/your-visit/accessibility/accessible-performances/">Accessible performances</a></li>
+	<li id="menu-item-2398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2398"><a href="https://www.sadlerswells.com/your-visit/accessibility/sadlers-wells-access-scheme/">Access for All Scheme</a></li>
+	<li id="menu-item-51897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51897"><a href="https://www.sadlerswells.com/your-visit/accessibility/sadlers-wells-theatre/">Sadler’s Wells Theatre Access Information</a></li>
+	<li id="menu-item-51898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51898"><a href="https://www.sadlerswells.com/your-visit/accessibility/sadlers-wells-east/">Sadler’s Wells East Access Information</a></li>
+	<li id="menu-item-51899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51899"><a href="https://www.sadlerswells.com/your-visit/accessibility/peacock-theatre/">Peacock Theatre Access Information</a></li>
+	<li id="menu-item-51900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51900"><a href="https://www.sadlerswells.com/your-visit/accessibility/lilian-baylis-studio/">Lilian Baylis Studio Access Information</a></li>
+	<li id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2397"><a href="https://www.sadlerswells.com/digital-stage/">Digital Stage</a></li>
+</ul>
+</li>
+<li id="menu-item-32295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32295"><a href="https://www.sadlerswells.com/support-us/">Support us</a>
+<ul class="sub-menu">
+	<li id="menu-item-32296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32296"><a href="https://www.sadlerswells.com/support-us/become-a-member/">Become a Member</a></li>
+	<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1269"><a href="https://www.sadlerswells.com/support-us/become-a-patron/">Become a Patron</a></li>
+	<li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268"><a href="https://www.sadlerswells.com/support-us/gift-membership/">Sadler’s Wells gift membership</a></li>
+	<li id="menu-item-49723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49723"><a href="https://www.sadlerswells.com/support-us/corporate-support/">Corporate support</a></li>
+	<li id="menu-item-7525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7525"><a href="https://www.sadlerswells.com/support-us/trusts-and-foundations/">Trusts and Foundations</a></li>
+</ul>
+</li>
+<li id="menu-item-1265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1265"><a href="https://www.sadlerswells.com/your-visit/">Your visit</a>
+<ul class="sub-menu">
+	<li id="menu-item-2402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2402"><a href="https://www.sadlerswells.com/your-visit/sadlers-wells-theatre/">Sadler’s Wells Theatre</a></li>
+	<li id="menu-item-2403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2403"><a href="https://www.sadlerswells.com/your-visit/peacock-theatre/">Peacock Theatre</a></li>
+	<li id="menu-item-2404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2404"><a href="https://www.sadlerswells.com/your-visit/lilian-baylis-studio/">Lilian Baylis Studio</a></li>
+	<li id="menu-item-33546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33546"><a href="https://www.sadlerswells.com/your-visit/sadlers-wells-east/">Sadler’s Wells East</a></li>
+	<li id="menu-item-2405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2405"><a href="https://www.sadlerswells.com/your-visit/eating-and-drinking/">Eating and drinking</a></li>
+</ul>
+</li>
+<li id="menu-item-30699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30699"><a href="https://www.sadlerswells.com/for-artists/">For artists</a>
+<ul class="sub-menu">
+	<li id="menu-item-30702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30702"><a href="https://www.sadlerswells.com/for-artists/artist-development/">Artist Development Programme</a></li>
+	<li id="menu-item-30700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30700"><a href="https://www.sadlerswells.com/sadlers-wells-young-associates/">Sadler’s Wells Young Associates</a></li>
+	<li id="menu-item-30701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30701"><a href="https://www.sadlerswells.com/about-us/our-theatres/about-sadlers-wells-east/rose-choreographic-school/">Rose Choreographic School</a></li>
+</ul>
+</li>
+<li id="menu-item-1263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1263"><a href="https://www.sadlerswells.com/take-part/">Take part</a>
+<ul class="sub-menu">
+	<li id="menu-item-2406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2406"><a href="https://www.sadlerswells.com/take-part/performing-and-creating/">Performing and creating</a></li>
+	<li id="menu-item-2643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2643"><a href="https://www.sadlerswells.com/take-part/community-engagement/">Community engagement</a></li>
+	<li id="menu-item-2659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2659"><a href="https://www.sadlerswells.com/take-part/schools-and-colleges/">Schools and colleges</a></li>
+	<li id="menu-item-42336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42336"><a href="https://www.sadlerswells.com/take-part/online-workshops/taster-dance-workshops/">Online workshops</a></li>
+</ul>
+</li>
+<li id="menu-item-1261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1261"><a href="https://www.sadlerswells.com/hire-our-spaces/">Hire our spaces</a>
+<ul class="sub-menu">
+	<li id="menu-item-2409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2409"><a href="https://www.sadlerswells.com/hire-our-spaces/conference-spaces/">Conferences &#038; meetings</a></li>
+	<li id="menu-item-2410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2410"><a href="https://www.sadlerswells.com/hire-our-spaces/concerts-and-performances/">Concerts and performances</a></li>
+	<li id="menu-item-2411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2411"><a href="https://www.sadlerswells.com/hire-our-spaces/filming-and-photography/">Filming and photography</a></li>
+	<li id="menu-item-2412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2412"><a href="https://www.sadlerswells.com/hire-our-spaces/fashion-shows/">Fashion shows</a></li>
+</ul>
+</li>
+<li id="menu-item-2748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2748"><a href="https://www.sadlerswells.com/about-us/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-2757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2757"><a href="https://www.sadlerswells.com/about-us/our-story/">Our story</a></li>
+	<li id="menu-item-2759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2759"><a href="https://www.sadlerswells.com/about-us/what-we-do/">What we do</a></li>
+	<li id="menu-item-2758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2758"><a href="https://www.sadlerswells.com/about-us/our-people/">Our people</a></li>
+	<li id="menu-item-30563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30563"><a href="https://www.sadlerswells.com/about-us/work-with-us/">Work with us</a></li>
+	<li id="menu-item-2760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2760"><a href="https://www.sadlerswells.com/about-us/supporting-artists/">Supporting artists</a></li>
+	<li id="menu-item-3258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3258"><a href="https://www.sadlerswells.com/about-us/our-theatres/">Our theatres</a></li>
+</ul>
+</li>
+</ul>        </div>
+        <div class="c-global-footer__center-section">
+            <div class="c-global-footer__secondary-links">
+                <ul id="menu-footer-secondary" class="c-footer-secondary-nav-items"><li id="menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1257"><a href="https://www.sadlerswells.com/contact-us/">Contact us</a></li>
+<li id="menu-item-47432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47432"><a href="https://help.sadlerswells.com/hc/en-gb">Frequently asked questions</a></li>
+<li id="menu-item-6754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6754"><a href="https://www.sadlerswells.com/barclays-dance-pass/">Barclays Dance Pass</a></li>
+<li id="menu-item-31989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31989"><a href="https://www.shop.sadlerswells.com/">Sadler&#8217;s Wells Shop</a></li>
+<li id="menu-item-29203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29203"><a href="https://www.sadlerswells.com/news/">News</a></li>
+<li id="menu-item-29216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29216"><a href="https://www.sadlerswells.com/features/">Features</a></li>
+<li id="menu-item-30831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30831"><a href="https://www.sadlerswells.com/events-archive/">Event Archive</a></li>
+<li id="menu-item-1515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1515"><a href="https://www.sadlerswells.com/press/">Media Office</a></li>
+<li id="menu-item-47476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47476"><a href="https://www.sadlerswells.com/policies-and-statements/">Policies and statements</a></li>
+</ul>            </div>
+            <div class="c-global-footer__social">
+                <ul class="c-footer-secondary-nav-items">
+                    <li><a class="c-footer__social" href="https://instagram.com/sadlers_wells"><span class="c-footer__social--icon"><i class="fab fa-instagram"></i></span><span>Instagram</span></a></li>
+                    <li><a class="c-footer__social" href="https://twitter.com/sadlers_wells"><span class="c-footer__social--icon"><i class="fab fa-twitter"></i></span><span>Twitter</span></a></li>
+                    <li><a class="c-footer__social" href="https://www.facebook.com/Sadlerswells"><span class="c-footer__social--icon"><i class="fab fa-facebook"></i></span><span>Facebook</span></a></li>
+                    <li><a class="c-footer__social" href="https://www.youtube.com/user/sadlerswells"><span class="c-footer__social--icon"><i class="fab fa-youtube"></i></span><span>YouTube</span></a></li>
+                    <li><a class="c-footer__social" href="https://www.linkedin.com/company/sadler%27s-wells"><span class="c-footer__social--icon"><i class="fab fa-linkedin"></i></span>LinkedIn<span></span></a></li>
+                </ul>
+            </div>
+            <div class="c-global-footer__signup">
+            <span class="c-global-footer__signup-title">Keep in touch</span>
+                <p class="c-global-footer__signup-body">Be the first to know about new and upcoming shows, ways to get involved and our latest news.</p>
+                                    <a
+                        class="c-global-footer__signup-button c-btn c-btn--large"
+                        href="https://www.sadlerswells.com/sign-up-to-our-newsletter/"
+                                            >Sign up to our newsletter</a>
+                            </div>
+        </div>
+        <div class="c-global-footer__bottom-section">
+            <div class="c-global-footer__credit">
+                <p>
+                    &copy; Sadler's Wells Trust Limited<br/>
+                    Rosebery Avenue, London, EC1R 4TN<br/><br/>
+                    Company registration number 1488786<br/>
+                    Registered charity number 279884<br/><br/>
+                    <a class="c-footer-credit__link" href="https://substrakt.com" target="_blank" rel="noopener noreferrer">Site by substrakt</a>
+                </p>
+            </div>
+            <div class="c-global-footer__logos">
+                <img width="300" height="72" class="c-global-footer__logo c-global-footer__ace-logo" src="https://sadlers-wells-assets.s3.eu-west-2.amazonaws.com/static-assets/ace-logo.svg" alt="Art's Council England logo" />
+                <img width="1181" height="333" class="c-global-footer__logo c-global-footer__barclays-logo" src="https://sadlers-wells-assets.s3.eu-west-2.amazonaws.com/static-assets/barlcays-logo.png" alt="Supported by Barclays logo" />
+            </div>
+        </div>
+    </div>
+     <!-- OptanonCookieSettingsButtonStart -->
+ <button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button>
+ <!-- OptanonCookieSettingsButtonEnd -->
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/admin/wp-*.php","/admin/wp-admin/*","/uploads/*","/*","/plugins/*","/themes/childtheme/*","/themes/basetheme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<script id="shared-sessions-js-extra">
+var sharedSessions = {"ajaxURL":"https://www.sadlerswells.com/admin/wp-admin/admin-ajax.php"};
+//# sourceURL=shared-sessions-js-extra
+</script>
+<script id="shared-sessions-js" src="https://www.sadlerswells.com/plugins/shared-sessions/js/sharedsessions.min.js?ver=1.1.1"></script>
+<script id="underscore-js" src="https://www.sadlerswells.com/admin/wp-includes/js/underscore.min.js?ver=1.13.8"></script>
+<script id="backbone-js" src="https://www.sadlerswells.com/admin/wp-includes/js/backbone.min.js?ver=1.6.1"></script>
+<script id="wp-api-request-js-extra">
+var wpApiSettings = {"root":"https://www.sadlerswells.com/wp-json/","nonce":"c2e47912ac","versionString":"wp/v2/"};
+//# sourceURL=wp-api-request-js-extra
+</script>
+<script id="wp-api-request-js" src="https://www.sadlerswells.com/admin/wp-includes/js/api-request.min.js?ver=7.1.3"></script>
+<script id="wp-api-js" src="https://www.sadlerswells.com/admin/wp-includes/js/wp-api.min.js?ver=7.1.3"></script>
+<script id="basetheme-js-extra">
+var wpAjax = {"url":"https://www.sadlerswells.com/admin/wp-admin/admin-ajax.php"};
+//# sourceURL=basetheme-js-extra
+</script>
+<script id="basetheme-js" src="https://www.sadlerswells.com/themes/childtheme/assets/js/all.js?ver=1792603947"></script>
+<script id="callstrakt_js-js" src="https://www.sadlerswells.com/plugins/callstrakt/assets/js/main.js?ver=1792473546"></script>
+</body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 2319 objects (264 KB) from Redis using Predis (v3.7.0).
+-->

@@ -1,0 +1,5557 @@
+# Sotto Voce Repertoire Catalogue
+
+Offline reference list of **5,537** stage works bundled with the Libretto tab (`public/libretti/`). Generated 2026-10-24 by `npm run libretti` from Wikidata (CC0) and English Wikipedia (CC BY-SA 4.0).
+
+| Kind | Works | With synopsis | With roles |
+| --- | ---: | ---: | ---: |
+| Operas | 3206 | 1939 | 2228 |
+| Operettas & Zarzuelas | 200 | 142 | 147 |
+| Musicals | 2131 | 1250 | 449 |
+
+Sorted by composer, then premiere year. ✎ = synopsis available offline, ♫ = cast list available offline.
+
+## Operas (3206)
+
+- [*The Siege of Rhodes*](https://en.wikipedia.org/wiki/The_Siege_of_Rhodes) (1656) — Composer unknown · English
+- [*Astarto*](https://en.wikipedia.org/wiki/Astarto_(Bononcini%29) (1715) — Composer unknown · words: Apostolo Zeno, Pietro Pariati, Paolo Antonio Rolli · Italian
+- [*Pyrrhus*](https://en.wikipedia.org/wiki/Pyrrhus_(Royer%29) (1730) — Composer unknown · French
+- [*Anyuta*](https://en.wikipedia.org/wiki/Anyuta) (1772) — Composer unknown · words: Mikhail Ivanovich Popov · Russian ✎
+- [*Polly*](https://en.wikipedia.org/wiki/Polly_(opera%29) (1777) — Composer unknown ✎
+- [*The Flitch of Bacon*](https://en.wikipedia.org/wiki/The_Flitch_of_Bacon_(opera%29) (1778) — Composer unknown
+- [*Farinelli*](https://en.wikipedia.org/wiki/Farinelli_(opera%29) (1839) — Composer unknown ✎ ♫
+- [*Les mousquetaires au couvent*](https://en.wikipedia.org/wiki/Les_mousquetaires_au_couvent) (1880) — Composer unknown · French ✎ ♫
+- [*The Willow Pattern*](https://en.wikipedia.org/wiki/The_Willow_Pattern_(opera%29) (1901) — Composer unknown · words: Basil Hood · English ✎
+- [*The Yankee Consul*](https://en.wikipedia.org/wiki/The_Yankee_Consul) (1903) — Composer unknown · words: Henry Blossom · English
+- [*L'oracolo*](https://en.wikipedia.org/wiki/L%27oracolo) (1905) — Composer unknown · words: Camillo Zanoni
+- [*The Miracle*](https://en.wikipedia.org/wiki/The_Miracle_(play%29) (1912) — Composer unknown · German ✎
+- [*Szibill*](https://en.wikipedia.org/wiki/Szibill) (1914) — Composer unknown ✎
+- [*Farewell My Concubine*](https://en.wikipedia.org/wiki/The_Hegemon-King_Bids_His_Lady_Farewell) (1918) — Composer unknown · Chinese ✎
+- [*L'oiseau bleu*](https://en.wikipedia.org/wiki/L%27oiseau_bleu_(opera%29) (1919) — Composer unknown · French ✎ ♫
+- [*The Baden-Baden Lesson on Consent*](https://en.wikipedia.org/wiki/The_Baden-Baden_Lesson_on_Consent) (1929) — Composer unknown · German ✎ ♫
+- [*La dolorosa*](https://en.wikipedia.org/wiki/La_dolorosa) (1930) — Composer unknown · Spanish ✎
+- [*Walzer aus Wien*](https://en.wikipedia.org/wiki/Walzer_aus_Wien) (1930) — Composer unknown · German ✎ ♫
+- [*Goce*](https://en.wikipedia.org/wiki/Goce) (1954) — Composer unknown · words: Venko Markovski · Macedonian
+- [*Desire Under the Elms*](https://en.wikipedia.org/wiki/Desire_Under_the_Elms_(opera%29) (1978) — Composer unknown
+- [*Baal*](https://en.wikipedia.org/wiki/Baal_(opera%29) (1981) — Composer unknown · words: Cerha ♫
+- [*The Bonesetter's Daughter*](https://en.wikipedia.org/wiki/The_Bonesetter%27s_Daughter_(opera%29) (2008) — Composer unknown · English ✎ ♫
+- [*Say It Ain't So, Joe*](https://en.wikipedia.org/wiki/Say_It_Ain%27t_So,_Joe_(opera%29) (2009) — Composer unknown ✎ ♫
+- [*You Who Will Emerge From the Flood*](https://en.wikipedia.org/wiki/You_Who_Will_Emerge_From_the_Flood) (2009) — Composer unknown
+- [*Hercules vs. Vampires*](https://en.wikipedia.org/wiki/Hercules_vs._Vampires) (2010) — Composer unknown
+- [*Sonya's Story*](https://en.wikipedia.org/wiki/Sonya%27s_Story) (2010) — Composer unknown ♫
+- [*The Man and Men*](https://en.wikipedia.org/wiki/The_Man_and_Men) (2010) — Composer unknown
+- [*Diaoyucheng*](https://en.wikipedia.org/wiki/Diaoyucheng_(opera%29) (2013) — Composer unknown
+- [*Ragnheiður*](https://en.wikipedia.org/wiki/Ragnhei%C3%B0ur) (2013) — Composer unknown · Icelandic ✎ ♫
+- [*You and Me*](https://en.wikipedia.org/wiki/You_and_Me_(Peking_opera%29) (2013) — Composer unknown ✎ ♫
+- [*Hopscotch*](https://en.wikipedia.org/wiki/Hopscotch_(opera%29) (2015) — Composer unknown
+- [*Katharina von Bora*](https://en.wikipedia.org/wiki/Katharina_von_Bora_(opera%29) (2015) — Composer unknown ✎ ♫
+- [*Sane and Sound*](https://en.wikipedia.org/wiki/Sane_and_Sound) (2019) — Composer unknown
+- [*She Who Dared*](https://en.wikipedia.org/wiki/She_Who_Dared) (2025) — Composer unknown · English ♫
+- [*A Feast in the Time of Plague*](https://en.wikipedia.org/wiki/A_Feast_in_the_Time_of_Plague_(Woolf_opera%29) — Composer unknown · words: David Pountney ✎ ♫
+- [*A Little Nightmare Music*](https://en.wikipedia.org/wiki/A_Little_Nightmare_Music) — Composer unknown
+- [*Abimelech*](https://en.wikipedia.org/wiki/Abimelech_(oratorio%29) — Composer unknown ♫
+- [*Achilles*](https://en.wikipedia.org/wiki/Achilles_(opera%29) — Composer unknown ✎ ♫
+- [*After All!*](https://en.wikipedia.org/wiki/After_All!) — Composer unknown ✎ ♫
+- [*Agnes Sorel*](https://en.wikipedia.org/wiki/Agnes_Sorel_(opera%29) — Composer unknown
+- [*Alexandre aux Indes*](https://en.wikipedia.org/wiki/Alexandre_aux_Indes) — Composer unknown · French ✎ ♫
+- [*Amor und Psyche*](https://en.wikipedia.org/wiki/Amor_und_Psyche) — Composer unknown ♫
+- [*Amore non soffre opposizioni*](https://en.wikipedia.org/wiki/Amore_non_soffre_opposizioni) — Composer unknown
+- [*Anna Kraus*](https://en.wikipedia.org/wiki/Anna_Kraus) — Composer unknown
+- [*Arctic Magic Flute*](https://en.wikipedia.org/wiki/Arctic_Magic_Flute) — Composer unknown
+- [*Arion*](https://en.wikipedia.org/wiki/Arion_(Matho%29) — Composer unknown · French
+- [*Arnljot*](https://en.wikipedia.org/wiki/Arnljot) — Composer unknown
+- [*Ayiguli*](https://en.wikipedia.org/wiki/Ayiguli) — Composer unknown · Chinese
+- [*Bacchus, Ceres en Venus*](https://en.wikipedia.org/wiki/Bacchus,_Ceres_en_Venus) — Composer unknown
+- [*Biblis*](https://en.wikipedia.org/wiki/Biblis_(opera%29) — Composer unknown · French
+- [*Birthday Celebration by Five Daughters*](https://en.wikipedia.org/wiki/Birthday_Celebration_by_Five_Daughters) — Composer unknown
+- [*Blooms of Dublin*](https://en.wikipedia.org/wiki/Blooms_of_Dublin) — Composer unknown · English
+- [*Bradamante*](https://en.wikipedia.org/wiki/Bradamante_(opera%29) — Composer unknown · French
+- [*Brunel*](https://en.wikipedia.org/wiki/Brunel_(opera_project%29) — Composer unknown
+- [*Caligula*](https://en.wikipedia.org/wiki/Caligula_(Glanert%29) — Composer unknown · German ♫
+- [*Cendrillon*](https://en.wikipedia.org/wiki/Cendrillon_(Isouard%29) — Composer unknown · French ✎ ♫
+- [*Cox and Box*](https://en.wikipedia.org/wiki/Cox_and_Box) — Composer unknown ✎ ♫
+- [*Cups and Saucers*](https://en.wikipedia.org/wiki/Cups_and_Saucers) — Composer unknown ✎
+- [*Cymon*](https://en.wikipedia.org/wiki/Cymon) — Composer unknown
+- [*Dandy Dick Whittington*](https://en.wikipedia.org/wiki/Dandy_Dick_Whittington) — Composer unknown ✎ ♫
+- [*Dayton Opera*](https://en.wikipedia.org/wiki/Dayton_Opera) — Composer unknown
+- [*Decebalo*](https://en.wikipedia.org/wiki/Decebalo_(Leo%29) — Composer unknown
+- [*Der Rattenfänger von Hameln*](https://en.wikipedia.org/wiki/Der_Rattenf%C3%A4nger_von_Hameln) — Composer unknown ✎ ♫
+- [*Der Töpfer*](https://en.wikipedia.org/wiki/Der_T%C3%B6pfer) — Composer unknown ✎ ♫
+- [*Diane et Endymion*](https://en.wikipedia.org/wiki/Diane_et_Endymion) — Composer unknown · French
+- [*Didon*](https://en.wikipedia.org/wiki/Didon_(Desmarets%29) — Composer unknown · French ✎ ♫
+- [*Don Quichotte et Sancho Pança*](https://en.wikipedia.org/wiki/Don_Quichotte_et_Sancho_Pan%C3%A7a) — Composer unknown · French
+- [*Dora's Dream*](https://en.wikipedia.org/wiki/Dora%27s_Dream) — Composer unknown ✎
+- [*Doris*](https://en.wikipedia.org/wiki/Doris_(opera%29) — Composer unknown ✎ ♫
+- [*Dr Dee*](https://en.wikipedia.org/wiki/Dr_Dee) — Composer unknown
+- [*Eithne*](https://en.wikipedia.org/wiki/Eithne_(opera%29) — Composer unknown · Irish ✎ ♫
+- [*Erwin und Elmire*](https://en.wikipedia.org/wiki/Erwin_und_Elmire_(Andr%C3%A9%29) — Composer unknown · German ✎ ♫
+- [*Être Dieu*](https://en.wikipedia.org/wiki/%C3%8Atre_Dieu) — Composer unknown · French
+- [*Fair Rosamond*](https://en.wikipedia.org/wiki/Fair_Rosamond_(opera%29) — Composer unknown ✎ ♫
+- [*Family Quarrels*](https://en.wikipedia.org/wiki/Family_Quarrels) — Composer unknown ✎ ♫
+- [*Fangcaoxin*](https://en.wikipedia.org/wiki/Fangcaoxin) — Composer unknown ✎
+- [*Fiorella*](https://en.wikipedia.org/wiki/Fiorella_(opera%29) — Composer unknown ✎
+- [*Frida*](https://en.wikipedia.org/wiki/Frida_(opera%29) — Composer unknown
+- [*Gabrielle d'Estrées*](https://en.wikipedia.org/wiki/Gabrielle_d%27Estr%C3%A9es_(opera%29) — Composer unknown ♫
+- [*Genitrix*](https://en.wikipedia.org/wiki/Genitrix_(opera%29) — Composer unknown · French
+- [*Hannah*](https://en.wikipedia.org/wiki/Hannah_(oratorio%29) — Composer unknown ♫
+- [*Happy Arcadia*](https://en.wikipedia.org/wiki/Happy_Arcadia) — Composer unknown ✎
+- [*Hellé*](https://en.wikipedia.org/wiki/Hell%C3%A9) — Composer unknown · French ✎ ♫
+- [*Hua Ziliang*](https://en.wikipedia.org/wiki/Hua_Ziliang_(Peking_opera%29) — Composer unknown
+- [*Hypermnestre*](https://en.wikipedia.org/wiki/Hypermnestre) — Composer unknown · French
+- [*Ib and Little Christina*](https://en.wikipedia.org/wiki/Ib_and_Little_Christina) — Composer unknown
+- [*Inkle and Yarico*](https://en.wikipedia.org/wiki/Inkle_and_Yarico) — Composer unknown ✎
+- [*Ismène et Isménias*](https://en.wikipedia.org/wiki/Ism%C3%A8ne_et_Ism%C3%A9nias) — Composer unknown · French
+- [*Jaguarita l'Indienne*](https://en.wikipedia.org/wiki/Jaguarita_l%27Indienne) — Composer unknown · French ✎
+- [*John Socman*](https://en.wikipedia.org/wiki/John_Socman) — Composer unknown ✎ ♫
+- [*Jupiter vainqueur des Titans*](https://en.wikipedia.org/wiki/Jupiter_vainqueur_des_Titans) — Composer unknown · French
+- [*Keshan hong ri*](https://en.wikipedia.org/wiki/Keshan_hong_ri) — Composer unknown · Chinese
+- [*König Jérôme*](https://en.wikipedia.org/wiki/K%C3%B6nig_J%C3%A9r%C3%B4me) — Composer unknown
+- [*L'arbre enchanté*](https://en.wikipedia.org/wiki/L%27arbre_enchant%C3%A9) — Composer unknown ♫
+- [*L'heureux malgré lui*](https://en.wikipedia.org/wiki/L%27heureux_malgr%C3%A9_lui) — Composer unknown
+- [*La Cenicienta*](https://en.wikipedia.org/wiki/La_Cenicienta) — Composer unknown · Spanish
+- [*La Curandera*](https://en.wikipedia.org/wiki/La_Curandera) — Composer unknown
+- [*La journée aux aventures*](https://en.wikipedia.org/wiki/La_journ%C3%A9e_aux_aventures) — Composer unknown ♫
+- [*La taupe et les papillons*](https://en.wikipedia.org/wiki/La_taupe_et_les_papillons) — Composer unknown
+- [*La toison d'or*](https://en.wikipedia.org/wiki/La_toison_d%27or_(opera%29) — Composer unknown · French ✎ ♫
+- [*Le pont de Lody*](https://en.wikipedia.org/wiki/Le_pont_de_Lody) — Composer unknown ✎ ♫
+- [*Le prince troubadour*](https://en.wikipedia.org/wiki/Le_prince_troubadour) — Composer unknown ♫
+- [*Le trompeur trompé*](https://en.wikipedia.org/wiki/Le_trompeur_tromp%C3%A9) — Composer unknown · French ✎ ♫
+- [*Léandre et Héro*](https://en.wikipedia.org/wiki/L%C3%A9andre_et_H%C3%A9ro) — Composer unknown · French
+- [*Les amours de Ragonde*](https://en.wikipedia.org/wiki/Les_amours_de_Ragonde) — Composer unknown · French ✎ ♫
+- [*Les deux aveugles de Tolède*](https://en.wikipedia.org/wiki/Les_deux_aveugles_de_Tol%C3%A8de) — Composer unknown ♫
+- [*Letters, Riddles and Writs*](https://en.wikipedia.org/wiki/Letters,_Riddles_and_Writs) — Composer unknown
+- [*Linus*](https://en.wikipedia.org/wiki/Linus_(opera%29) — Composer unknown ✎ ♫
+- [*Lisis et Délie*](https://en.wikipedia.org/wiki/Lisis_et_D%C3%A9lie) — Composer unknown ✎ ♫
+- [*list of Japanese operas*](https://en.wikipedia.org/wiki/List_of_operas_by_Japanese_composers) — Composer unknown
+- [*Love Counts*](https://en.wikipedia.org/wiki/Love_Counts) — Composer unknown ✎ ♫
+- [*Luminalia*](https://en.wikipedia.org/wiki/Luminalia) — Composer unknown · English
+- [*Lycksalighetens ö*](https://en.wikipedia.org/wiki/Lycksalighetens_%C3%B6) — Composer unknown ✎ ♫
+- [*Man and Boy: Dada*](https://en.wikipedia.org/wiki/Man_and_Boy:_Dada) — Composer unknown ✎ ♫
+- [*Manto la fée*](https://en.wikipedia.org/wiki/Manto_la_f%C3%A9e) — Composer unknown · French
+- [*MARA: A Chamber Opera on Good and Evil*](https://en.wikipedia.org/wiki/MARA:_A_Chamber_Opera_on_Good_and_Evil) — Composer unknown · words: Stephen Batchelor ✎ ♫
+- [*Matilda of Hungary*](https://en.wikipedia.org/wiki/Matilda_of_Hungary) — Composer unknown ✎ ♫
+- [*Méduse*](https://en.wikipedia.org/wiki/M%C3%A9duse_(opera%29) — Composer unknown · French ✎
+- [*Méléagre*](https://en.wikipedia.org/wiki/M%C3%A9l%C3%A9agre) — Composer unknown · French
+- [*Midas*](https://en.wikipedia.org/wiki/Midas_(burletta%29) — Composer unknown
+- [*Monsieur Beaucaire*](https://en.wikipedia.org/wiki/Monsieur_Beaucaire_(opera%29) — Composer unknown ✎ ♫
+- [*Montezuma*](https://en.wikipedia.org/wiki/Montezuma_(Sessions_opera%29) — Composer unknown ♫
+- [*Much Ado About Nothing*](https://en.wikipedia.org/wiki/Much_Ado_About_Nothing_(opera%29) — Composer unknown ♫
+- [*My Lady Molly*](https://en.wikipedia.org/wiki/My_Lady_Molly) — Composer unknown ♫
+- [*Ne touchez pas à la reine*](https://en.wikipedia.org/wiki/Ne_touchez_pas_%C3%A0_la_reine) — Composer unknown · French
+- [*Nephté*](https://en.wikipedia.org/wiki/Nepht%C3%A9) — Composer unknown · French ✎ ♫
+- [*No Cards*](https://en.wikipedia.org/wiki/No_Cards) — Composer unknown ✎ ♫
+- [*No Exit*](https://en.wikipedia.org/wiki/No_Exit_(opera%29) — Composer unknown ♫
+- [*No song, no supper*](https://en.wikipedia.org/wiki/No_Song,_No_Supper) — Composer unknown ✎ ♫
+- [*Noises, Sounds & Sweet Airs*](https://en.wikipedia.org/wiki/Noises,_Sounds_%26_Sweet_Airs) — Composer unknown ♫
+- [*On the Docks*](https://en.wikipedia.org/wiki/On_the_Docks) — Composer unknown ✎
+- [*Oronthée*](https://en.wikipedia.org/wiki/Oronth%C3%A9e) — Composer unknown · French
+- [*Our Island Home*](https://en.wikipedia.org/wiki/Our_Island_Home) — Composer unknown ✎ ♫
+- [*Peter und Ännchen*](https://en.wikipedia.org/wiki/Peter_und_%C3%84nnchen) — Composer unknown
+- [*Pirithoüs (opera)*](https://en.wikipedia.org/wiki/Piritho%C3%BCs_(opera%29) — Composer unknown · French
+- [*Pizarre*](https://en.wikipedia.org/wiki/Pizarre) — Composer unknown · French ✎ ♫
+- [*Princess Toto*](https://en.wikipedia.org/wiki/Princess_Toto) — Composer unknown ✎ ♫
+- [*Pyrrhus and Demetrius*](https://en.wikipedia.org/wiki/Pyrrhus_and_Demetrius) — Composer unknown
+- [*Qin Xianglian*](https://en.wikipedia.org/wiki/Qin_Xianglian) — Composer unknown
+- [*Red Guards on Honghu Lake*](https://en.wikipedia.org/wiki/Red_Guards_on_Honghu_Lake) — Composer unknown · Mandarin ✎
+- [*Rothschild's Violin*](https://en.wikipedia.org/wiki/Rothschild%27s_Violin_(opera%29) — Composer unknown ✎ ♫
+- [*Scanderberg*](https://en.wikipedia.org/wiki/Scanderberg_(Francoeur_and_Rebel%29) — Composer unknown · French
+- [*Seelewig*](https://en.wikipedia.org/wiki/Seelewig) — Composer unknown ✎ ♫
+- [*Sémiramis*](https://en.wikipedia.org/wiki/S%C3%A9miramis_(Catel%29) — Composer unknown · French ✎ ♫
+- [*Shamus O'Brien (opera)*](https://en.wikipedia.org/wiki/Shamus_O%27Brien_(opera%29) — Composer unknown
+- [*Shanewis*](https://en.wikipedia.org/wiki/Shanewis) — Composer unknown ✎ ♫
+- [*Sister Jiang*](https://en.wikipedia.org/wiki/Sister_Jiang_(opera%29) — Composer unknown
+- [*Six Characters in Search of an Author*](https://en.wikipedia.org/wiki/Six_Characters_in_Search_of_an_Author_(opera%29) — Composer unknown ♫
+- [*Summer of the Seventeenth Doll*](https://en.wikipedia.org/wiki/Summer_of_the_Seventeenth_Doll_(opera%29) — Composer unknown
+- [*Taking Tiger Mountain by Strategy*](https://en.wikipedia.org/wiki/Taking_Tiger_Mountain_by_Strategy) — Composer unknown ♫
+- [*Tarsis et Zélie*](https://en.wikipedia.org/wiki/Tarsis_et_Z%C3%A9lie) — Composer unknown · French
+- [*Télégone*](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9gone) — Composer unknown · French
+- [*The Bravest Hussar*](https://en.wikipedia.org/wiki/The_Bravest_Hussar) — Composer unknown
+- [*The Chieftain*](https://en.wikipedia.org/wiki/The_Chieftain) — Composer unknown ✎ ♫
+- [*The Classical Style*](https://en.wikipedia.org/wiki/The_Classical_Style_(opera%29) — Composer unknown ✎ ♫
+- [*The Critic*](https://en.wikipedia.org/wiki/The_Critic_(opera%29) — Composer unknown · English
+- [*The Dybbuk: An opera in Yiddish*](https://en.wikipedia.org/wiki/The_Dybbuk:_An_opera_in_Yiddish) — Composer unknown · Yiddish
+- [*The Enchanted Pig*](https://en.wikipedia.org/wiki/The_Enchanted_Pig_(opera%29) — Composer unknown · English ✎ ♫
+- [*The Flower Girl*](https://en.wikipedia.org/wiki/The_Flower_Girl) — Composer unknown · words: Kim Il Sung ✎
+- [*The Gentleman in Black*](https://en.wikipedia.org/wiki/The_Gentleman_in_Black) — Composer unknown ✎ ♫
+- [*The Gypsy Prince*](https://en.wikipedia.org/wiki/The_Gypsy_Prince) — Composer unknown
+- [*The Hundredth Bride*](https://en.wikipedia.org/wiki/The_Hundredth_Bride) — Composer unknown · Chinese
+- [*The Legend of the Red Lantern*](https://en.wikipedia.org/wiki/The_Legend_of_the_Red_Lantern) — Composer unknown ✎
+- [*The Lily of Killarney*](https://en.wikipedia.org/wiki/The_Lily_of_Killarney) — Composer unknown ✎ ♫
+- [*The Liturgy of the Heathens*](https://en.wikipedia.org/wiki/The_Liturgy_of_the_Heathens) — Composer unknown
+- [*The Love of the Nightingale*](https://en.wikipedia.org/wiki/The_Love_of_the_Nightingale_(opera%29) — Composer unknown · words: Timberlake Wertenbaker ✎ ♫
+- [*The Merrie Men of Sherwood Forest*](https://en.wikipedia.org/wiki/The_Merrie_Men_of_Sherwood_Forest) — Composer unknown ♫
+- [*The Mountain Sylph*](https://en.wikipedia.org/wiki/The_Mountain_Sylph) — Composer unknown ✎ ♫
+- [*The Mountebanks*](https://en.wikipedia.org/wiki/The_Mountebanks) — Composer unknown ✎ ♫
+- [*The Peony Pavilion (1956)*](https://en.wikipedia.org/wiki/The_Peony_Pavilion:_The_Astonishing_Dream) — Composer unknown · words: Dickson Tong Tik-sang · Cantonese ✎
+- [*The Pirates*](https://en.wikipedia.org/wiki/The_Pirates_(opera%29) — Composer unknown ♫
+- [*The Red Hussar*](https://en.wikipedia.org/wiki/The_Red_Hussar) — Composer unknown ♫
+- [*The Sapphire Necklace*](https://en.wikipedia.org/wiki/The_Sapphire_Necklace) — Composer unknown
+- [*The Scarlet Letter*](https://en.wikipedia.org/wiki/The_Scarlet_Letter_(Laitman_opera%29) — Composer unknown · words: David Mason · English
+- [*The Shagreen Bone*](https://en.wikipedia.org/wiki/The_Shagreen_Bone) — Composer unknown
+- [*The Spectre Knight*](https://en.wikipedia.org/wiki/The_Spectre_Knight) — Composer unknown ✎
+- [*The Tempest*](https://en.wikipedia.org/wiki/The_Tempest_(Smith%29) — Composer unknown ♫
+- [*The Vampyr: A Soap Opera*](https://en.wikipedia.org/wiki/The_Vampyr:_A_Soap_Opera) — Composer unknown ✎ ♫
+- [*The Veiled Prophet*](https://en.wikipedia.org/wiki/The_Veiled_Prophet_(opera%29) — Composer unknown · words: William Barclay Squire ✎
+- [*The Vicar of Bray*](https://en.wikipedia.org/wiki/The_Vicar_of_Bray_(opera%29) — Composer unknown ✎
+- [*The Zoo*](https://en.wikipedia.org/wiki/The_Zoo) — Composer unknown ✎
+- [*Théonoé*](https://en.wikipedia.org/wiki/Th%C3%A9ono%C3%A9) — Composer unknown · French
+- [*Three's Company*](https://en.wikipedia.org/wiki/Three%27s_Company_(film%29) — Composer unknown · English
+- [*Tigrane*](https://en.wikipedia.org/wiki/Tigrane_(Hasse%29) — Composer unknown
+- [*Too Many Sopranos*](https://en.wikipedia.org/wiki/Too_Many_Sopranos) — Composer unknown · English ✎ ♫
+- [*Topsyturveydom*](https://en.wikipedia.org/wiki/Topsyturveydom) — Composer unknown ✎ ♫
+- [*Transit of Venus*](https://en.wikipedia.org/wiki/Transit_of_Venus_(opera%29) — Composer unknown · English ✎ ♫
+- [*Turandot at the Forbidden City*](https://en.wikipedia.org/wiki/Turandot_at_the_Forbidden_City) — Composer unknown
+- [*Ulysse*](https://en.wikipedia.org/wiki/Ulysse_et_P%C3%A9n%C3%A9lope) — Composer unknown · French ✎
+- [*Utopia, Limited*](https://en.wikipedia.org/wiki/Utopia,_Limited) — Composer unknown ✎ ♫
+- [*Votre Faust*](https://en.wikipedia.org/wiki/Votre_Faust) — Composer unknown ✎ ♫
+- [*Zaïde, reine de Grenade*](https://en.wikipedia.org/wiki/Za%C3%AFde,_reine_de_Grenade) — Composer unknown · French ✎ ♫
+- [*Zan Yuen*](https://en.wikipedia.org/wiki/Zan_Yuen) — Composer unknown
+- [*Zarya*](https://en.wikipedia.org/wiki/Zarya_(opera%29) — Composer unknown ✎
+- [*Zemire en Azor*](https://en.wikipedia.org/wiki/Zemire_en_Azor) — Composer unknown
+- [*Zuzana Vojířová*](https://en.wikipedia.org/wiki/Zuzana_Voj%C3%AD%C5%99ov%C3%A1) — Composer unknown · Czech
+- [*The Second Hurricane*](https://en.wikipedia.org/wiki/The_Second_Hurricane) (1937) — Aaron Copland · words: Edwin Denby ♫
+- [*The Tender Land*](https://en.wikipedia.org/wiki/The_Tender_Land) (1954) — Aaron Copland · words: Horace Everett · English ✎ ♫
+- [*Juha*](https://en.wikipedia.org/wiki/Juha_(Merikanto%29) (1958) — Aarre Merikanto · words: Aino Ackté · Finnish ✎ ♫
+- [*Wieland der Schmied*](https://en.wikipedia.org/wiki/Wieland_der_Schmied_(Hitler%29) — Adolf Hitler · German
+- [*Le chalet*](https://en.wikipedia.org/wiki/Le_chalet) (1834) — Adolphe Adam · words: Eugène Scribe · French ✎ ♫
+- [*Le postillon de Lonjumeau*](https://en.wikipedia.org/wiki/Le_postillon_de_Lonjumeau) (1836) — Adolphe Adam · words: Léon-Lévy Brunswick, Adolphe de Leuven · French ✎ ♫
+- [*Le toréador*](https://en.wikipedia.org/wiki/Le_tor%C3%A9ador) (1849) — Adolphe Adam · words: Thomas Sauvage · French ✎ ♫
+- [*Giralda ou La nouvelle Psyché*](https://en.wikipedia.org/wiki/Giralda_ou_La_nouvelle_psych%C3%A9) (1850) — Adolphe Adam · words: Eugène Scribe · French ✎ ♫
+- [*La poupée de Nuremberg*](https://en.wikipedia.org/wiki/La_poup%C3%A9e_de_Nuremberg) (1852) — Adolphe Adam · words: Adolphe de Leuven · French ✎ ♫
+- [*Si j'étais roi*](https://en.wikipedia.org/wiki/Si_j%27%C3%A9tais_roi) (1852) — Adolphe Adam · words: Adolphe d'Ennery, Jules Brésil · French ✎ ♫
+- [*Nizami*](https://en.wikipedia.org/wiki/Nizami_(opera%29) (1948) — Afrasiab Badalbeyli · words: Afrasiab Badalbeyli · Azerbaijani
+- [*Henrico Leone*](https://en.wikipedia.org/wiki/Henrico_Leone) (1689) — Agostino Steffani · words: Ortensio Mauro · Italian
+- [*Orlando generoso*](https://en.wikipedia.org/wiki/Orlando_generoso) (1691) — Agostino Steffani
+- [*Amor vien dal destino*](https://en.wikipedia.org/wiki/Amor_vien_dal_destino) (1709) — Agostino Steffani · words: Ortensio Mauro · Italian ♫
+- [*Niobe, regina di Tebe*](https://en.wikipedia.org/wiki/Niobe,_regina_di_Tebe) — Agostino Steffani · Italian ♫
+- [*Servio Tullio*](https://en.wikipedia.org/wiki/Servio_Tullio) — Agostino Steffani
+- [*Özsoy*](https://en.wikipedia.org/wiki/%C3%96zsoy) (1934) — Ahmet Adnan Saygun · words: Münir Hayri Egeli · Turkish ✎
+- [*Taşbebek*](https://en.wikipedia.org/wiki/Ta%C5%9Fbebek) (1934) — Ahmet Adnan Saygun · Turkish
+- [*Gilgamesh*](https://en.wikipedia.org/wiki/Gilgamesh_(Saygun_opera%29) — Ahmet Adnan Saygun · words: Münir Hayri Egeli · Turkish
+- [*Abai*](https://en.wikipedia.org/wiki/Abai_(opera%29) (1944) — Ahmet Zhubanov, Latıyf Xämidi · words: Mukhtar Auezov · Kazakh ✎
+- [*Les dragons de Villars*](https://en.wikipedia.org/wiki/Les_Dragons_de_Villars) (1856) — Aimé Maillart · words: Lockroy, Eugène Cormon · French ✎ ♫
+- [*The Man Who Laughs (opera)*](https://en.wikipedia.org/wiki/The_Man_Who_Laughs_(opera%29) (2023) — Airat Ichmouratov · words: Bertrand Laverdure · French ♫
+- [*Joe Hill*](https://en.wikipedia.org/wiki/Joe_Hill_(opera%29) (1970) — Alan Bush · words: Barrie Stavis
+- [*The Eighth Wonder*](https://en.wikipedia.org/wiki/The_Eighth_Wonder) (1995) — Alan John · words: Dennis Watkins · English ✎
+- [*Through the Looking Glass*](https://en.wikipedia.org/wiki/Through_the_Looking_Glass_(opera%29) (2008) — Alan John · words: Andrew Upton · English ✎ ♫
+- [*A Letter for Queen Victoria*](https://en.wikipedia.org/wiki/A_Letter_for_Queen_Victoria) (1974) — Alan Lloyd and Michael Galasso · words: Robert Wilson
+- [*Wozzeck*](https://en.wikipedia.org/wiki/Wozzeck) (1925) — Alban Berg · words: Alban Berg · German ♫
+- [*Lulu*](https://en.wikipedia.org/wiki/Lulu_(opera%29) (1937) — Alban Berg · words: Alban Berg · German ♫
+- [*Bérénice*](https://en.wikipedia.org/wiki/B%C3%A9r%C3%A9nice_(Magnard%29) (1911) — Albéric Magnard · words: Albéric Magnard · French ✎ ♫
+- [*Guercœur*](https://en.wikipedia.org/wiki/Guerc%C5%93ur) (1931) — Albéric Magnard · words: Albéric Magnard · French ✎ ♫
+- [*Ali Pascha von Janina*](https://en.wikipedia.org/wiki/Ali_Pascha_von_Janina) (1828) — Albert Lortzing · words: Lortzing · German ✎ ♫
+- [*Zar und Zimmermann*](https://en.wikipedia.org/wiki/Zar_und_Zimmermann) (1837) — Albert Lortzing · words: Albert Lortzing · German ✎ ♫
+- [*Der Wildschütz*](https://en.wikipedia.org/wiki/Der_Wildsch%C3%BCtz) (1842) — Albert Lortzing · words: Lortzing · German ✎ ♫
+- [*Undine*](https://en.wikipedia.org/wiki/Undine_(Lortzing%29) (1845) — Albert Lortzing · words: Albert Lortzing · German ✎ ♫
+- [*Der Waffenschmied*](https://en.wikipedia.org/wiki/Der_Waffenschmied) (1846) — Albert Lortzing · words: Lortzing · German ✎ ♫
+- [*Zum Großadmiral*](https://en.wikipedia.org/wiki/Zum_Gro%C3%9F-Admiral) (1847) — Albert Lortzing · words: Albert Lortzing · German ✎
+- [*Die Opernprobe*](https://en.wikipedia.org/wiki/Die_Opernprobe) (1851) — Albert Lortzing · words: Albert Lortzing ✎ ♫
+- [*Regina*](https://en.wikipedia.org/wiki/Regina_(Lortzing%29) (1899) — Albert Lortzing · words: Lortzing ✎ ♫
+- [*La naissance de la lyre*](https://en.wikipedia.org/wiki/La_naissance_de_la_lyre) (1925) — Albert Roussel · words: Théodore Reinach · French ✎ ♫
+- [*Asrael*](https://en.wikipedia.org/wiki/Asrael) (1888) — Alberto Franchetti · words: Ferdinando Fontana · Italian ♫
+- [*Cristoforo Colombo*](https://en.wikipedia.org/wiki/Cristoforo_Colombo_(opera%29) (1892) — Alberto Franchetti · words: Luigi Illica · Italian ♫
+- [*Germania*](https://en.wikipedia.org/wiki/Germania_(opera%29) (1902) — Alberto Franchetti · words: Luigi Illica · Italian ✎ ♫
+- [*La figlia di Iorio*](https://en.wikipedia.org/wiki/La_figlia_di_Iorio) (1906) — Alberto Franchetti · words: Gabriele D'Annunzio · Italian ✎ ♫
+- [*Bomarzo*](https://en.wikipedia.org/wiki/Bomarzo_(opera%29) (1964) — Alberto Ginastera · words: Manuel Mujica Lainez · Spanish ✎ ♫
+- [*Don Rodrigo*](https://en.wikipedia.org/wiki/Don_Rodrigo) (1964) — Alberto Ginastera · words: Alejandro Casona · Spanish ✎ ♫
+- [*Beatrix Cenci*](https://en.wikipedia.org/wiki/Beatrix_Cenci) (1971) — Alberto Ginastera · words: Alberto Ginastera, William Shand · Spanish ✎ ♫
+- [*Klara Milich*](https://en.wikipedia.org/wiki/Klara_Milich) (1916) — Aleksandr Kastalsky · Russian
+- [*L'empio punito*](https://en.wikipedia.org/wiki/L%27empio_punito) (1669) — Alessandro Melani · Italian ♫
+- [*L'honestà negli amori*](https://en.wikipedia.org/wiki/L%27honest%C3%A0_negli_amori) (1680) — Alessandro Scarlatti · words: Felice Parnasso (pen name for Gian Lorenzo Bernini or D. F. Bernini or Domenico Filippo Contini) · Italian
+- [*Il Pompeo*](https://en.wikipedia.org/wiki/Il_Pompeo) (1683) — Alessandro Scarlatti · words: Nicolò Minato · Italian ♫
+- [*Mitridate Eupatore*](https://en.wikipedia.org/wiki/Mitridate_Eupatore) (1707) — Alessandro Scarlatti · words: Girolamo Frigimelica · Italian ✎ ♫
+- [*Tigrane*](https://en.wikipedia.org/wiki/Tigrane_(Scarlatti%29) (1715) — Alessandro Scarlatti · words: Domenico Lalli · Italian ✎ ♫
+- [*Carlo re d'Allemagna*](https://en.wikipedia.org/wiki/Carlo_re_d%27Allemagna) (1716) — Alessandro Scarlatti ✎ ♫
+- [*Il trionfo dell'onore*](https://en.wikipedia.org/wiki/Il_trionfo_dell%27onore) (1718) — Alessandro Scarlatti · words: Francesco Antonio Tullio · Italian ✎ ♫
+- [*Telemaco*](https://en.wikipedia.org/wiki/Telemaco_(Scarlatti%29) (1718) — Alessandro Scarlatti · words: Carlo Sigismondo Capece · Italian
+- [*Cambise*](https://en.wikipedia.org/wiki/Cambise) (1719) — Alessandro Scarlatti · words: Domenico Lalli · Italian
+- [*Griselda*](https://en.wikipedia.org/wiki/Griselda_(A._Scarlatti%29) (1721) — Alessandro Scarlatti · words: Pietro Metastasio · Italian ✎ ♫
+- [*Erminia*](https://en.wikipedia.org/wiki/Erminia_(Scarlatti%29) (1723) — Alessandro Scarlatti · Italian ✎
+- [*Il Trespolo tutore*](https://en.wikipedia.org/wiki/Il_Trespolo_tutore) (1679) — Alessandro Stradella · Italian ✎ ♫
+- [*Moro per amore*](https://en.wikipedia.org/wiki/Moro_per_amore) — Alessandro Stradella · words: Flavio Orsini · Italian ✎ ♫
+- [*Prince Igor*](https://en.wikipedia.org/wiki/Prince_Igor) (1890) — Alexander Borodin · words: Alexander Borodin, Vladimir Stasov · Russian ✎ ♫
+- [*Rusalka*](https://en.wikipedia.org/wiki/Rusalka_(Dargomyzhsky%29) (1856) — Alexander Dargomyzhsky · words: Alexander Dargomyzhsky · Russian ✎ ♫
+- [*The Stone Guest*](https://en.wikipedia.org/wiki/The_Stone_Guest_(Dargomyzhsky%29) (1872) — Alexander Dargomyzhsky · words: Alexander Pushkin · Russian ♫
+- [*Arden Must Die*](https://en.wikipedia.org/wiki/Arden_Must_Die) (1967) — Alexander Goehr · words: Erich Fried
+- [*Behold the Sun*](https://en.wikipedia.org/wiki/Behold_the_Sun) (1985) — Alexander Goehr · words: John McGrath ♫
+- [*Arianna*](https://en.wikipedia.org/wiki/Arianna_(Goehr%29) (1995) — Alexander Goehr · words: Ottavio Rinuccini · Italian ♫
+- [*Kantan and Damask Drum*](https://en.wikipedia.org/wiki/Kantan_and_Damask_Drum) (1999) — Alexander Goehr · words: Goehr, Sarugai Koto
+- [*Stadium*](https://en.wikipedia.org/wiki/Stadium_(rock_opera%29) — Alexander Gradsky · Russian
+- [*Dobrynya Nikitich*](https://en.wikipedia.org/wiki/Dobrynya_Nikitich_(opera%29) (1903) — Alexander Gretchaninov · Russian
+- [*The Canterville Ghost*](https://en.wikipedia.org/wiki/The_Canterville_Ghost_(Knaifel_opera%29) (1974) — Alexander Knaifel
+- [*His Majesty*](https://en.wikipedia.org/wiki/His_Majesty_(opera%29) — Alexander Mackenzie · words: F. C. Burnand ✎
+- [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm_(opera%29) (2023) — Alexander Raskatov · words: Alexander Raskatov, Ian Burton · English
+- [*Judith*](https://en.wikipedia.org/wiki/Judith_(Serov%29) (1863) — Alexander Serov · words: Dmitry Lobanov-Rostovsky, Apollon Maykov · Russian ✎ ♫
+- [*Rogneda*](https://en.wikipedia.org/wiki/Rogneda_(opera%29) (1865) — Alexander Serov · words: Alexander Serov, Dmitry Averkiyev · Russian ✎ ♫
+- [*The Power of the Fiend*](https://en.wikipedia.org/wiki/The_Power_of_the_Fiend) (1871) — Alexander Serov · words: Alexander Ostrovsky, Pyotr Kalashnikov · Russian ✎ ♫
+- [*Almast*](https://en.wikipedia.org/wiki/Almast) (1930) — Alexander Spendiaryan · words: Sophia Parnok · Russian/Armenian
+- [*Es war einmal*](https://en.wikipedia.org/wiki/Es_war_einmal) (1900) — Alexander von Zemlinsky · words: Maximilian Singer ✎ ♫
+- [*Kleider machen Leute*](https://en.wikipedia.org/wiki/Kleider_machen_Leute_(opera%29) (1910) — Alexander von Zemlinsky · words: Leo Feld · German ♫
+- [*Eine florentinische Tragödie*](https://en.wikipedia.org/wiki/Eine_florentinische_Trag%C3%B6die) (1917) — Alexander von Zemlinsky · words: Zemlinsky · German ✎ ♫
+- [*Der Zwerg*](https://en.wikipedia.org/wiki/Der_Zwerg) (1922) — Alexander von Zemlinsky · words: Georg C. Klaren · German ✎ ♫
+- [*Der Kreidekreis*](https://en.wikipedia.org/wiki/Der_Kreidekreis_(opera%29) (1933) — Alexander von Zemlinsky · words: Zemlinsky · German ✎ ♫
+- [*Der Traumgörge*](https://en.wikipedia.org/wiki/Der_Traumg%C3%B6rge) (1980) — Alexander von Zemlinsky · words: Leo Feld ✎ ♫
+- [*Der König Kandaules*](https://en.wikipedia.org/wiki/Der_K%C3%B6nig_Kandaules) (1996) — Alexander von Zemlinsky · words: Zemlinsky · German ✎ ♫
+- [*The Devil in Love*](https://en.wikipedia.org/wiki/The_Devil_in_Love_(opera%29) (2019) — Alexander Vustin · words: Vladimir Khachaturov
+- [*Orpheus and Eurydice*](https://en.wikipedia.org/wiki/Orpheus_and_Eurydice_(rock_opera%29) — Alexander Zhurbin · words: Yriy Georgevich Dimitrin · Russian ♫
+- [*Juno and Avos*](https://en.wikipedia.org/wiki/Juno_and_Avos_(opera%29) (1979) — Alexey Rybnikov · words: Andrei Voznesensky · Spanish/Russian ✎
+- [*The Star and Death of Joaquin Murieta*](https://en.wikipedia.org/wiki/The_Star_and_Death_of_Joaquin_Murieta) — Alexey Rybnikov · Russian ✎ ♫
+- [*Askold's Grave*](https://en.wikipedia.org/wiki/Askold%27s_Grave_(opera%29) (1835) — Alexey Verstovsky · words: Mikhail Zagoskin · Russian ✎ ♫
+- [*Un jardin sur l'Oronte*](https://en.wikipedia.org/wiki/Un_jardin_sur_l%27Oronte_(opera%29) (1932) — Alfred Bachelet · words: Franc-Nohain · French ♫
+- [*L'attaque du moulin*](https://en.wikipedia.org/wiki/L%27attaque_du_moulin) (1893) — Alfred Bruneau · words: Louis Gallet · French ♫
+- [*Les Quatre Journées*](https://en.wikipedia.org/wiki/Les_Quatre_journ%C3%A9es) (1916) — Alfred Bruneau · words: Émile Zola · French ♫
+- [*Le Jardin du Paris*](https://en.wikipedia.org/wiki/Le_Jardin_du_Paris) (1923) — Alfred Bruneau · words: Gaston Arman de Caillavet · French
+- [*Angelo, tyran de Padoue*](https://en.wikipedia.org/wiki/Angelo,_tyran_de_Padoue_(opera%29) — Alfred Bruneau · words: Charles Méré · French
+- [*L'Enfant roi*](https://en.wikipedia.org/wiki/L%27Enfant_roi) — Alfred Bruneau · words: Émile Zola · French
+- [*L'Ouragan*](https://en.wikipedia.org/wiki/L%27Ouragan_(opera%29) — Alfred Bruneau · words: Émile Zola · French
+- [*Le Rêve*](https://en.wikipedia.org/wiki/Le_R%C3%AAve_(opera%29) — Alfred Bruneau · words: Louis Gallet · French ✎ ♫
+- [*Messidor*](https://en.wikipedia.org/wiki/Messidor_(opera%29) — Alfred Bruneau · words: Émile Zola · French ✎ ♫
+- [*Naïs Micoulin*](https://en.wikipedia.org/wiki/Na%C3%AFs_Micoulin) — Alfred Bruneau · French
+- [*In the Sulks*](https://en.wikipedia.org/wiki/In_the_Sulks) (1880) — Alfred Cellier · words: Frank Desprez ✎
+- [*Dorothy*](https://en.wikipedia.org/wiki/Dorothy_(opera%29) (1886) — Alfred Cellier · words: B. C. Stephenson · English ✎
+- [*The Carp*](https://en.wikipedia.org/wiki/The_Carp_(opera%29) (1886) — Alfred Cellier · words: Frank Desprez · English ✎
+- [*Mrs. Jarramie's Genie*](https://en.wikipedia.org/wiki/Mrs._Jarramie%27s_Genie) (1888) — Alfred Cellier, François Cellier · words: Frank Desprez · English ♫
+- [*The Rajah of Shivapore*](https://en.wikipedia.org/wiki/The_Rajah_of_Shivapore) (1917) — Alfred Hill · words: David Henry Souter · English
+- [*Derby Day*](https://en.wikipedia.org/wiki/Derby_Day_(light_opera%29) (1932) — Alfred Reynolds · words: A. P. Herbert ✎
+- [*Life with an Idiot*](https://en.wikipedia.org/wiki/Life_with_an_Idiot) (1992) — Alfred Schnittke · words: Victor Erofeyev · Russian ✎ ♫
+- [*Historia von D. Johann Fausten*](https://en.wikipedia.org/wiki/Historia_von_D._Johann_Fausten_(opera%29) (1995) — Alfred Schnittke · words: Jörg Morgener, Schnittke ✎ ♫
+- [*La donna serpente*](https://en.wikipedia.org/wiki/La_donna_serpente_(opera%29) (1932) — Alfredo Casella · words: Cesare Vico Lodovici · Italian
+- [*Edmea*](https://en.wikipedia.org/wiki/Edmea) (1886) — Alfredo Catalani · words: Antonio Ghislanzoni · Italian ✎
+- [*Loreley*](https://en.wikipedia.org/wiki/Loreley_(opera%29) (1890) — Alfredo Catalani · words: Carlo d'Ormeville, Angelo Zanardini · Italian ✎ ♫
+- [*La Wally*](https://en.wikipedia.org/wiki/La_Wally) (1892) — Alfredo Catalani · words: Luigi Illica · Italian ✎ ♫
+- [*Donna Bianca*](https://en.wikipedia.org/wiki/Donna_Bianca) — Alfredo Keil · Italian ♫
+- [*Cinderella*](https://en.wikipedia.org/wiki/Cinderella_(Deutscher%29) (2016) — Alma Deutscher · words: Alma Deutscher ✎ ♫
+- [*Mother*](https://en.wikipedia.org/wiki/Mother_(opera%29) (1931) — Alois Hába · words: Alois Hába · Czech ✎ ♫
+- [*Doña Francisquita*](https://en.wikipedia.org/wiki/Do%C3%B1a_Francisquita) (1923) — Amadeu Vives i Roig · words: Federico Romero, Guillermo Fernández-Shaw · Spanish ✎ ♫
+- [*Le Caïd*](https://en.wikipedia.org/wiki/Le_ca%C3%AFd) (1849) — Ambroise Thomas · words: Thomas Sauvage · French ✎ ♫
+- [*Le songe d'une nuit d'été*](https://en.wikipedia.org/wiki/Le_songe_d%27une_nuit_d%27%C3%A9t%C3%A9) (1850) — Ambroise Thomas · words: Adolphe de Leuven, Joseph-Bernard Rosier · French ✎ ♫
+- [*La cour de Célimène*](https://en.wikipedia.org/wiki/La_cour_de_C%C3%A9lim%C3%A8ne) (1855) — Ambroise Thomas · words: Joseph-Bernard Rosier · French ✎ ♫
+- [*Le roman d'Elvire*](https://en.wikipedia.org/wiki/Le_roman_d%27Elvire) (1860) — Ambroise Thomas · words: Alexandre Dumas, Adolphe de Leuven · French ✎ ♫
+- [*Mignon*](https://en.wikipedia.org/wiki/Mignon) (1866) — Ambroise Thomas · words: Michel Carré, Jules Barbier · French ✎ ♫
+- [*Hamlet*](https://en.wikipedia.org/wiki/Hamlet_(Thomas%29) (1868) — Ambroise Thomas · words: Jules Barbier, Michel Carré · French ✎ ♫
+- [*Françoise de Rimini*](https://en.wikipedia.org/wiki/Fran%C3%A7oise_de_Rimini) (1882) — Ambroise Thomas · words: Michel Carré, Jules Barbier · French ✎ ♫
+- [*I Lituani*](https://en.wikipedia.org/wiki/I_Lituani) (1874) — Amilcare Ponchielli · words: Antonio Ghislanzoni · Italian ✎ ♫
+- [*La Gioconda*](https://en.wikipedia.org/wiki/La_Gioconda_(opera%29) (1876) — Amilcare Ponchielli · words: Arrigo Boito · Italian ✎ ♫
+- [*I Mori di Valenza*](https://en.wikipedia.org/wiki/I_Mori_di_Valenza) (1914) — Amilcare Ponchielli · words: Antonio Ghislanzoni · Italian
+- [*Cabildo*](https://en.wikipedia.org/wiki/Cabildo_(opera%29) (1945) — Amy Beach · words: Nan Bagby Stephens · English ✎ ♫
+- [*Shponka and His Aunt*](https://en.wikipedia.org/wiki/Shponka_and_His_Aunt) (2009) — Anastasiya Bespalova · words: Arkady Zastyrets ♫
+- [*Iphigénie en Tauride*](https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride_(Desmarets_and_Campra%29) (1704) — André Campra, Henri Desmarets · words: Antoine Danchet · French ♫
+- [*Télémaque, ou Les fragments des modernes*](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9maque_(Campra%29) (1704) — André Campra · words: Antoine Danchet · French
+- [*Alcine*](https://en.wikipedia.org/wiki/Alcine) (1705) — André Campra · words: Antoine Danchet · French ♫
+- [*Hippodamie*](https://en.wikipedia.org/wiki/Hippodamie) (1708) — André Campra · words: Pierre-Charles Roy · French
+- [*Idoménée*](https://en.wikipedia.org/wiki/Idom%C3%A9n%C3%A9e) (1712) — André Campra · words: Antoine Danchet · French ✎ ♫
+- [*Télèphe*](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A8phe) (1713) — André Campra · words: Antoine Danchet · French
+- [*Achille et Déidamie*](https://en.wikipedia.org/wiki/Achille_et_D%C3%A9idamie) (1735) — André Campra · words: Antoine Danchet · French
+- [*Camille, reine des Volsques*](https://en.wikipedia.org/wiki/Camille,_reine_des_Volsques) — André Campra · words: Antoine Danchet · French
+- [*Hésione*](https://en.wikipedia.org/wiki/H%C3%A9sione) — André Campra · words: Antoine Danchet · French ✎ ♫
+- [*Tancrède*](https://en.wikipedia.org/wiki/Tancr%C3%A8de) — André Campra · words: Antoine Danchet · French ♫
+- [*Issé*](https://en.wikipedia.org/wiki/Iss%C3%A9_(opera%29) (1697) — André Cardinal Destouches · words: Antoine Houdar de La Motte · French ✎ ♫
+- [*Télémaque et Calypso*](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9maque_(Destouches%29) (1714) — André Cardinal Destouches · French
+- [*Amadis de Grèce*](https://en.wikipedia.org/wiki/Amadis_de_Gr%C3%A8ce) — André Cardinal Destouches · French ♫
+- [*Callirhoé*](https://en.wikipedia.org/wiki/Callirho%C3%A9) — André Cardinal Destouches · French ✎ ♫
+- [*Marthésie*](https://en.wikipedia.org/wiki/Marth%C3%A9sie) — André Cardinal Destouches · French
+- [*Omphale*](https://en.wikipedia.org/wiki/Omphale_(Destouches%29) — André Cardinal Destouches · French
+- [*Sémiramis*](https://en.wikipedia.org/wiki/S%C3%A9miramis_(Destouches%29) — André Cardinal Destouches · French
+- [*Le Huron*](https://en.wikipedia.org/wiki/Le_Huron) (1768) — André Grétry · words: Jean-François Marmontel · French ✎ ♫
+- [*Le tableau parlant*](https://en.wikipedia.org/wiki/Le_tableau_parlant) (1769) — André Grétry · words: Louis Anseaume · French ✎ ♫
+- [*Lucile*](https://en.wikipedia.org/wiki/Lucile_(opera%29) (1769) — André Grétry · words: Jean-François Marmontel · French ✎ ♫
+- [*Les deux avares*](https://en.wikipedia.org/wiki/Les_deux_avares) (1770) — André Grétry · words: Charles-Georges Fenouillot de Falbaire de Quingey · French ✎ ♫
+- [*Silvain*](https://en.wikipedia.org/wiki/Silvain_(opera%29) (1770) — André Grétry · words: Jean-François Marmontel · French ✎ ♫
+- [*Zémire et Azor*](https://en.wikipedia.org/wiki/Z%C3%A9mire_et_Azor) (1771) — André Grétry · words: Jean-François Marmontel · French ✎ ♫
+- [*Le Magnifique*](https://en.wikipedia.org/wiki/Le_magnifique_(opera%29) (1773) — André Grétry · words: Michel-Jean Sedaine · French ✎
+- [*Les mariages samnites*](https://en.wikipedia.org/wiki/Les_mariages_samnites) (1776) — André Grétry · words: Barnabé Farmian Durosoy · French ♫
+- [*L'amant jaloux*](https://en.wikipedia.org/wiki/L%27amant_jaloux) (1778) — André Grétry · words: Thomas Hales · French ✎ ♫
+- [*Le jugement de Midas*](https://en.wikipedia.org/wiki/Le_jugement_de_Midas) (1778) — André Grétry · words: Louis Anseaume, Thomas Hales · French ✎ ♫
+- [*Aucassin et Nicolette*](https://en.wikipedia.org/wiki/Aucassin_et_Nicolette_(Gr%C3%A9try_opera%29) (1779) — André Grétry · words: Michel-Jean Sedaine · French ✎ ♫
+- [*Andromaque*](https://en.wikipedia.org/wiki/Andromaque_(opera%29) (1780) — André Grétry · words: Louis-Guillaume Pitra · French ✎ ♫
+- [*Colinette à la cour*](https://en.wikipedia.org/wiki/Colinette_%C3%A0_la_cour) (1782) — André Grétry · words: Jean-Baptiste Lourdet de Santerre · French ♫
+- [*L'épreuve villageoise*](https://en.wikipedia.org/wiki/L%27%C3%A9preuve_villageoise) (1784) — André Grétry · words: Pierre Jean Baptiste Choudard Desforges · French ♫
+- [*Richard Coeur-de-lion*](https://en.wikipedia.org/wiki/Richard_Coeur-de-lion_(opera%29) (1784) — André Grétry · words: Michel-Jean Sedaine · French ✎ ♫
+- [*Pierre le Grand*](https://en.wikipedia.org/wiki/Pierre_le_Grand) (1790) — André Grétry · words: Jean-Nicolas Bouilly · French ✎ ♫
+- [*Guillaume Tell*](https://en.wikipedia.org/wiki/Guillaume_Tell_(Gr%C3%A9try%29) (1791) — André Grétry · words: Michel-Jean Sedaine · French ✎ ♫
+- [*François les bas-bleus*](https://en.wikipedia.org/wiki/Fran%C3%A7ois_les_bas-bleus) (1883) — André Messager, Firmin Bernicat · words: Paul Burani, Eugène Humbert, Ernest Dubreuil · French ✎ ♫
+- [*La Béarnaise*](https://en.wikipedia.org/wiki/La_B%C3%A9arnaise) (1885) — André Messager · words: Albert Vanloo, Eugène Leterrier · French ✎ ♫
+- [*La fauvette du temple*](https://en.wikipedia.org/wiki/La_fauvette_du_temple) (1885) — André Messager · words: Eugène Humbert, Paul Burani · French ✎ ♫
+- [*Le mari de la reine*](https://en.wikipedia.org/wiki/Le_mari_de_la_reine) (1889) — André Messager · words: Octave Pradels, Ernest Grenet-Dancourt · French ✎ ♫
+- [*La Basoche*](https://en.wikipedia.org/wiki/La_Basoche) (1890) — André Messager · words: Albert Carré · French ✎ ♫
+- [*Hélène*](https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_(drama%29) (1891) — André Messager · French
+- [*Madame Chrysanthème*](https://en.wikipedia.org/wiki/Madame_Chrysanth%C3%A8me_(opera%29) (1893) — André Messager · words: Georges Hartmann · French ✎ ♫
+- [*Mirette*](https://en.wikipedia.org/wiki/Mirette_(opera%29) (1894) — André Messager · words: Frederic Weatherly ✎
+- [*Les p'tites Michu*](https://en.wikipedia.org/wiki/Les_p%27tites_Michu) (1897) — André Messager · words: Georges Duval, Albert Vanloo · French ✎ ♫
+- [*Fortunio*](https://en.wikipedia.org/wiki/Fortunio_(opera%29) (1907) — André Messager · words: Gaston Arman de Caillavet · French ✎ ♫
+- [*Béatrice*](https://en.wikipedia.org/wiki/B%C3%A9atrice_(opera%29) (1914) — André Messager · words: Gaston Arman de Caillavet, Flers · French ✎ ♫
+- [*La petite fonctionnaire*](https://en.wikipedia.org/wiki/La_petite_fonctionnaire) (1921) — André Messager · words: Alfred Capus, Xavier Roux · French ✎ ♫
+- [*L'amour masqué*](https://en.wikipedia.org/wiki/L%27amour_masqu%C3%A9) (1923) — André Messager · words: Sacha Guitry · French ✎ ♫
+- [*Passionément*](https://en.wikipedia.org/wiki/Passionn%C3%A9ment) (1926) — André Messager · words: Maurice Hennequin · French ✎ ♫
+- [*Isoline*](https://en.wikipedia.org/wiki/Isoline_(opera%29) — André Messager · words: Catulle Mendès · French ✎ ♫
+- [*Le bourgeois de Calais*](https://en.wikipedia.org/wiki/Le_bourgeois_de_Calais) — André Messager · French ✎ ♫
+- [*Le chevalier d'Harmental*](https://en.wikipedia.org/wiki/Le_chevalier_d%27Harmental_(opera%29) — André Messager · words: Paul Ferrier · French ✎ ♫
+- [*Véronique*](https://en.wikipedia.org/wiki/V%C3%A9ronique_(operetta%29) — André Messager · French ✎ ♫
+- [*A Streetcar Named Desire*](https://en.wikipedia.org/wiki/A_Streetcar_Named_Desire_(opera%29) (1998) — André Previn · English ♫
+- [*Brief Encounter*](https://en.wikipedia.org/wiki/Brief_Encounter_(opera%29) — André Previn
+- [*The Merchant of Venice*](https://en.wikipedia.org/wiki/The_Merchant_of_Venice_(opera%29) (2013) — André Tchaikowsky · words: John O'Brien · English ✎ ♫
+- [*Rembrandt's Wife*](https://en.wikipedia.org/wiki/Rembrandt%27s_Wife) (2009) — Andrew Ford · words: Sue Smith
+- [*Jesus Christ Superstar*](https://en.wikipedia.org/wiki/Jesus_Christ_Superstar) (1970) — Andrew Lloyd Webber · words: Tim Rice · English ✎ ♫
+- [*The Children's Bach*](https://en.wikipedia.org/wiki/The_Children%27s_Bach_(opera%29) (2008) — Andrew Schultz · words: Glenn Perry ♫
+- [*Freshwater*](https://en.wikipedia.org/wiki/Freshwater_(opera%29) (1994) — Andy Vores
+- [*Guatimotzin*](https://en.wikipedia.org/wiki/Guatimotzin) (1871) — Aniceto Ortega · words: José Tomás de Cuéllar · Spanish ♫
+- [*The Life and Death of Alexander Litvinenko*](https://en.wikipedia.org/wiki/The_Life_and_Death_of_Alexander_Litvinenko) — Anthony Bolton · words: Kit Hesketh-Harvey ✎ ♫
+- [*X, The Life and Times of Malcolm X*](https://en.wikipedia.org/wiki/X:_The_Life_and_Times_of_Malcolm_X) (1985) — Anthony Davis · words: Thulani Davis, Christopher Davis · English ♫
+- [*Wakonda's Dream*](https://en.wikipedia.org/wiki/Wakonda%27s_Dream) (2007) — Anthony Davis · words: Yusef Komunyakaa · English ✎
+- [*The Central Park Five*](https://en.wikipedia.org/wiki/The_Central_Park_Five_(opera%29) (2019) — Anthony Davis · words: Richard Wesley · English ✎ ♫
+- [*Canente*](https://en.wikipedia.org/wiki/Canente_(Dauvergne%29) — Antoine Dauvergne · words: Antoine Houdar de La Motte · French ✎ ♫
+- [*Énée et Lavinie*](https://en.wikipedia.org/wiki/%C3%89n%C3%A9e_et_Lavinie_(Dauvergne%29) — Antoine Dauvergne ✎ ♫
+- [*Hercule mourant*](https://en.wikipedia.org/wiki/Hercule_mourant) — Antoine Dauvergne · words: Jean-François Marmontel · French ✎ ♫
+- [*Les troqueurs*](https://en.wikipedia.org/wiki/Les_troqueurs) — Antoine Dauvergne · French ✎ ♫
+- [*Polixène*](https://en.wikipedia.org/wiki/Polix%C3%A8ne) — Antoine Dauvergne · French ✎ ♫
+- [*Salomé*](https://en.wikipedia.org/wiki/Salom%C3%A9_(Mariotte%29) (1908) — Antoine Mariotte · words: Antoine Mariotte · French ♫
+- [*Dream on the Volga*](https://en.wikipedia.org/wiki/Dream_on_the_Volga) (1891) — Anton Arensky · words: Anton Arensky · Russian ✎
+- [*Raphael*](https://en.wikipedia.org/wiki/Raphael_(opera%29) (1894) — Anton Arensky · words: Modest Tchaikovsky · Italian
+- [*Sacco and Vanzetti*](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti_(Coppola_opera%29) (2001) — Anton Coppola
+- [*Dmitry Donskoy*](https://en.wikipedia.org/wiki/Dmitry_Donskoy_(opera%29) (1852) — Anton Rubinstein · words: Vladimir Sollogub · Russian ✎ ♫
+- [*Fomka the Fool*](https://en.wikipedia.org/wiki/Fomka_the_Fool) (1853) — Anton Rubinstein · words: Mikhail Mikhailov ♫
+- [*The children of the steppes*](https://en.wikipedia.org/wiki/Die_Kinder_der_Heide) (1861) — Anton Rubinstein · words: Salomon Hermann Mosenthal ✎ ♫
+- [*Feramors*](https://en.wikipedia.org/wiki/Feramors) (1863) — Anton Rubinstein · words: Julius Rodenberg · German ✎ ♫
+- [*The Tower of Babel*](https://en.wikipedia.org/wiki/Der_Thurm_zu_Babel) (1870) — Anton Rubinstein ✎ ♫
+- [*Die Maccabäer*](https://en.wikipedia.org/wiki/Die_Maccab%C3%A4er) (1875) — Anton Rubinstein · words: Salomon Hermann Mosenthal · German ✎ ♫
+- [*The Demon*](https://en.wikipedia.org/wiki/The_Demon_(opera%29) (1875) — Anton Rubinstein · words: Pavel Viskovatov · Russian ✎ ♫
+- [*Nero*](https://en.wikipedia.org/wiki/N%C3%A9ron_(opera%29) (1879) — Anton Rubinstein · words: Jules Barbier · French ✎ ♫
+- [*The Merchant Kalashnikov*](https://en.wikipedia.org/wiki/The_Merchant_Kalashnikov) (1880) — Anton Rubinstein ✎ ♫
+- [*Christus*](https://en.wikipedia.org/wiki/Christus_(opera%29) (1894) — Anton Rubinstein ✎ ♫
+- [*Alceste*](https://en.wikipedia.org/wiki/Alceste_(Schweitzer%29) (1773) — Anton Schweitzer · words: Christoph Martin Wieland · German
+- [*Rosamunde*](https://en.wikipedia.org/wiki/Rosamunde_(Schweitzer%29) (1780) — Anton Schweitzer · words: Christoph Martin Wieland · German
+- [*Ercole amante*](https://en.wikipedia.org/wiki/Ercole_amante_(Bembo%29) (2023) — Antonia Bembo · words: Francesco Buti · Italian ✎ ♫
+- [*King and Charcoal Burner*](https://en.wikipedia.org/wiki/King_and_Charcoal_Burner) (1874) — Antonín Dvořák · words: Bernard Guldener · Czech ✎ ♫
+- [*Vanda*](https://en.wikipedia.org/wiki/Vanda_(opera%29) (1876) — Antonín Dvořák · words: František Zákrejs · Czech ✎
+- [*The Cunning Peasant*](https://en.wikipedia.org/wiki/The_Cunning_Peasant) (1878) — Antonín Dvořák · words: Josef Otakar Veselý · Czech ✎ ♫
+- [*The Stubborn Lovers*](https://en.wikipedia.org/wiki/The_Stubborn_Lovers) (1881) — Antonín Dvořák · words: Josef Štolba · Czech ✎ ♫
+- [*Dimitrij*](https://en.wikipedia.org/wiki/Dimitrij_(opera%29) (1882) — Antonín Dvořák · words: Marie Červinková-Riegrová · Czech ✎ ♫
+- [*The Jacobin*](https://en.wikipedia.org/wiki/The_Jacobin) (1889) — Antonín Dvořák · words: František Ladislav Rieger, Marie Červinková-Riegrová · Czech ✎ ♫
+- [*The Devil and Kate*](https://en.wikipedia.org/wiki/The_Devil_and_Kate) (1899) — Antonín Dvořák · words: Adolf Wenig · Czech ✎ ♫
+- [*Rusalka*](https://en.wikipedia.org/wiki/Rusalka_(opera%29) (1901) — Antonín Dvořák · words: Jaroslav Kvapil · Czech ✎ ♫
+- [*Armida*](https://en.wikipedia.org/wiki/Armida_(Dvo%C5%99%C3%A1k%29) (1904) — Antonín Dvořák · words: Jaroslav Vrchlický · Czech ✎ ♫
+- [*Alfred*](https://en.wikipedia.org/wiki/Alfred_(Dvo%C5%99%C3%A1k%29) (1938) — Antonín Dvořák · words: Theodor Körner · German ✎ ♫
+- [*1492 epopea lirica d'America*](https://en.wikipedia.org/wiki/1492_epopea_lirica_d%27America) (1994) — Antonio Braga · Italian
+- [*Don Bucefalo*](https://en.wikipedia.org/wiki/Don_Bucefalo) (1847) — Antonio Cagnoni · words: Calisto Bassi · Italian ✎ ♫
+- [*Tito e Berenice*](https://en.wikipedia.org/wiki/Tito_e_Berenice) (1714) — Antonio Caldara · words: Carlo Sigismondo Capece · Italian ♫
+- [*I disingannati*](https://en.wikipedia.org/wiki/I_disingannati) (1729) — Antonio Caldara · words: Giovanni Claudio Pasquini · Italian
+- [*La clemenza di Tito*](https://en.wikipedia.org/wiki/La_clemenza_di_Tito_(Caldara%29) (1734) — Antonio Caldara · Italian ♫
+- [*La pravità castigata*](https://en.wikipedia.org/wiki/La_pravit%C3%A0_castigata) — Antonio Caldara · Italian ♫
+- [*A noite do castelo*](https://en.wikipedia.org/wiki/A_noite_do_castelo) (1861) — Antônio Carlos Gomes · words: Antônio José Fernandes dos Reis · Portuguese ✎ ♫
+- [*Il Guarany*](https://en.wikipedia.org/wiki/Il_Guarany) (1870) — Antônio Carlos Gomes · words: Antonio Scalvini · Italian ♫
+- [*Fosca*](https://en.wikipedia.org/wiki/Fosca_(opera%29) (1873) — Antônio Carlos Gomes · words: Antonio Ghislanzoni · Italian ✎ ♫
+- [*Salvator Rosa*](https://en.wikipedia.org/wiki/Salvator_Rosa_(opera%29) (1874) — Antônio Carlos Gomes · words: Antonio Ghislanzoni · Italian ♫
+- [*Maria Tudor*](https://en.wikipedia.org/wiki/Maria_Tudor) (1879) — Antônio Carlos Gomes · words: Ferdinando Fontana, Arrigo Boito, Emilio Praga · Italian
+- [*Lo schiavo*](https://en.wikipedia.org/wiki/Lo_schiavo) (1889) — Antônio Carlos Gomes · words: Alfredo d'Escragnolle Taunay, Rodolfo Paravicini · Italian ✎ ♫
+- [*L'Argia*](https://en.wikipedia.org/wiki/L%27Argia) (1655) — Antonio Cesti · words: Giovanni Apollonio Apolloni · Italian ✎ ♫
+- [*Orontea*](https://en.wikipedia.org/wiki/Orontea) (1656) — Antonio Cesti · words: Giacinto Andrea Cicognini · Italian ✎ ♫
+- [*La Dori*](https://en.wikipedia.org/wiki/La_Dori) (1657) — Antonio Cesti · words: Giovanni Filippo Apolloni · Italian ✎ ♫
+- [*Il pomo d'oro*](https://en.wikipedia.org/wiki/Il_pomo_d%27oro) (1668) — Antonio Cesti · words: Francesco Sbarra · Italian ✎ ♫
+- [*Sesostri, re di Egitto*](https://en.wikipedia.org/wiki/Sesostri_re_di_Egitto) (1716) — Antonio Maria Bononcini · words: Pietro Pariati · Italian ♫
+- [*Griselda*](https://en.wikipedia.org/wiki/Griselda_(Antonio_Maria_Bononcini%29) (1718) — Antonio Maria Bononcini · words: Apostolo Zeno · Italian ✎ ♫
+- [*Antigono*](https://en.wikipedia.org/wiki/Antigono_(Mazzoni%29) (1755) — Antonio Maria Mazzoni
+- [*Creso*](https://en.wikipedia.org/wiki/Creso_(Sacchini%29) (1765) — Antonio Sacchini · words: Gioacchino Pizzi · Italian ♫
+- [*La contadina in corte*](https://en.wikipedia.org/wiki/La_contadina_in_corte) (1766) — Antonio Sacchini · words: Niccolò Tassi · Italian ♫
+- [*Calliroe*](https://en.wikipedia.org/wiki/Calliroe) (1770) — Antonio Sacchini · words: Mattia Verazi ♫
+- [*Armida*](https://en.wikipedia.org/wiki/Armida_(Sacchini%29) (1782) — Antonio Sacchini · words: Jacopo Durandi · Italian ♫
+- [*Chimène*](https://en.wikipedia.org/wiki/Chim%C3%A8ne) (1783) — Antonio Sacchini · words: Nicolas-François Guillard · French ✎ ♫
+- [*Renaud*](https://en.wikipedia.org/wiki/Renaud_(opera%29) (1783) — Antonio Sacchini · French ✎ ♫
+- [*Dardanus*](https://en.wikipedia.org/wiki/Dardanus_(Sacchini%29) (1784) — Antonio Sacchini · words: Nicolas-François Guillard · French ♫
+- [*Œdipe à Colone*](https://en.wikipedia.org/wiki/%C5%92dipe_%C3%A0_Colone) (1786) — Antonio Sacchini · words: Nicolas-François Guillard · French ✎ ♫
+- [*Arvire et Évélina*](https://en.wikipedia.org/wiki/Arvire_et_%C3%89v%C3%A9lina) (1788) — Antonio Sacchini · words: Nicolas-François Guillard · French ✎ ♫
+- [*L'amore innocente*](https://en.wikipedia.org/wiki/L%27amore_innocente) (1770) — Antonio Salieri · words: Giovanni Gastone Boccherini · Italian ✎ ♫
+- [*Le donne letterate*](https://en.wikipedia.org/wiki/Le_donne_letterate) (1770) — Antonio Salieri · words: Giovanni Gastone Boccherini · Italian ♫
+- [*Armida*](https://en.wikipedia.org/wiki/Armida_(Salieri%29) (1771) — Antonio Salieri · words: Marco Coltellini · Italian ♫
+- [*Don Chisciotte alle nozze di Gamace*](https://en.wikipedia.org/wiki/Don_Chisciotte_alle_nozze_di_Gamace) (1771) — Antonio Salieri · words: Giovanni Gastone Boccherini · Italian ✎ ♫
+- [*La fiera di Venezia*](https://en.wikipedia.org/wiki/La_fiera_di_Venezia) (1772) — Antonio Salieri · words: Giovanni Gastone Boccherini · Italian ♫
+- [*La secchia rapita*](https://en.wikipedia.org/wiki/La_secchia_rapita_(Salieri%29) (1772) — Antonio Salieri · Italian ✎ ♫
+- [*Europa riconosciuta*](https://en.wikipedia.org/wiki/Europa_riconosciuta) (1778) — Antonio Salieri · words: Mattia Verazi · Italian ✎ ♫
+- [*La scuola de' gelosi*](https://en.wikipedia.org/wiki/La_scuola_de%27_gelosi) (1778) — Antonio Salieri · words: Caterino Mazzolà · Italian ✎ ♫
+- [*Der Rauchfangkehrer*](https://en.wikipedia.org/wiki/Der_Rauchfangkehrer) (1781) — Antonio Salieri · words: Leopold Auenbrugger · German ✎ ♫
+- [*Il ricco d'un giorno*](https://en.wikipedia.org/wiki/Il_ricco_d%27un_giorno) (1784) — Antonio Salieri · words: Lorenzo Da Ponte · Italian ♫
+- [*Les Danaïdes*](https://en.wikipedia.org/wiki/Les_Dana%C3%AFdes) (1784) — Antonio Salieri · words: François-Louis Gand Le Bland Du Roullet, Louis-Théodore de Tschudi · French ✎ ♫
+- [*La grotta di Trofonio*](https://en.wikipedia.org/wiki/La_grotta_di_Trofonio) (1785) — Antonio Salieri · words: Giovanni Battista Casti · Italian ✎ ♫
+- [*Les Horaces*](https://en.wikipedia.org/wiki/Les_Horaces) (1786) — Antonio Salieri · words: Nicolas-François Guillard · French ♫
+- [*Prima la musica e poi le parole*](https://en.wikipedia.org/wiki/Prima_la_musica_e_poi_le_parole) (1786) — Antonio Salieri · words: Giovanni Battista Casti · Italian ✎ ♫
+- [*Tarare*](https://en.wikipedia.org/wiki/Tarare_(opera%29) (1787) — Antonio Salieri · words: Pierre-Augustin de Beaumarchais · French ♫
+- [*Axur, re d'Ormus*](https://en.wikipedia.org/wiki/Axur,_re_d%27Ormus) (1788) — Antonio Salieri · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*La cifra*](https://en.wikipedia.org/wiki/La_cifra) (1789) — Antonio Salieri · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*Palmira, regina di Persia*](https://en.wikipedia.org/wiki/Palmira,_regina_di_Persia) (1795) — Antonio Salieri · words: Giovanni de Gamerra · Italian ✎ ♫
+- [*Falstaff*](https://en.wikipedia.org/wiki/Falstaff_(Salieri%29) (1799) — Antonio Salieri · words: Carlo Prospero Defranceschi · Italian ♫
+- [*L'Orfeo*](https://en.wikipedia.org/wiki/Orfeo_(Sartorio%29) (1672) — Antonio Sartorio · words: Aurelio Aureli · Italian ✎ ♫
+- [*Adelaide*](https://en.wikipedia.org/wiki/Adelaide_(Sartorio%29) — Antonio Sartorio · Italian ✎ ♫
+- [*Nozze istriane*](https://en.wikipedia.org/wiki/Nozze_istriane) (1895) — Antonio Smareglia · words: Luigi Illica · Italian ✎ ♫
+- [*La falena*](https://en.wikipedia.org/wiki/La_falena) (1897) — Antonio Smareglia · words: Silvio Benco · Italian ♫
+- [*Oceàna*](https://en.wikipedia.org/wiki/Oce%C3%A0na_(opera%29) (1903) — Antonio Smareglia · words: Silvio Benco · Italian ✎ ♫
+- [*The Gadfly*](https://en.wikipedia.org/wiki/The_Gadfly_(opera%29) (1958) — Antonio Spadavecchia · Russian
+- [*Ottone in villa*](https://en.wikipedia.org/wiki/Ottone_in_villa) (1713) — Antonio Vivaldi · words: Domenico Lalli · Italian ✎ ♫
+- [*Orlando finto pazzo*](https://en.wikipedia.org/wiki/Orlando_finto_pazzo) (1714) — Antonio Vivaldi · words: Grazio Braccioli · Italian ✎ ♫
+- [*Orlando furioso*](https://en.wikipedia.org/wiki/Orlando_furioso_(Vivaldi,_1714%29) (1714) — Antonio Vivaldi · words: Grazio Braccioli · Italian
+- [*Nerone fatto Cesare*](https://en.wikipedia.org/wiki/Nerone_fatto_Cesare) (1715) — Antonio Vivaldi · words: Matteo Noris · Italian ♫
+- [*Arsilda, regina di Ponto*](https://en.wikipedia.org/wiki/Arsilda,_regina_di_Ponto) (1716) — Antonio Vivaldi · words: Domenico Lalli · Italian ✎ ♫
+- [*La costanza trionfante degl'amori e de gl'odii*](https://en.wikipedia.org/wiki/La_costanza_trionfante_degl%27amori_e_de_gl%27odii) (1716) — Antonio Vivaldi · words: Antonio Marchi · Italian ♫
+- [*L'incoronazione di Dario*](https://en.wikipedia.org/wiki/L%27incoronazione_di_Dario) (1717) — Antonio Vivaldi · words: Adriano Morselli · Italian ♫
+- [*Tieteberga*](https://en.wikipedia.org/wiki/Tieteberga) (1717) — Antonio Vivaldi · words: Antonio Maria Lucchini · Italian ♫
+- [*Armida al campo d'Egitto*](https://en.wikipedia.org/wiki/Armida_al_campo_d%27Egitto) (1718) — Antonio Vivaldi · words: Giovanni Palazzi · Italian ♫
+- [*Scanderbeg*](https://en.wikipedia.org/wiki/Scanderbeg_(Vivaldi%29) (1718) — Antonio Vivaldi · words: Antonio Salvi · Italian ✎ ♫
+- [*Il Teuzzone*](https://en.wikipedia.org/wiki/Teuzzone) (1719) — Antonio Vivaldi · words: Apostolo Zeno · Italian ✎ ♫
+- [*Tito Manlio*](https://en.wikipedia.org/wiki/Tito_Manlio) (1719) — Antonio Vivaldi · words: Matteo Noris · Italian ✎ ♫
+- [*La verità in cimento*](https://en.wikipedia.org/wiki/La_verit%C3%A0_in_cimento) (1720) — Antonio Vivaldi · words: Giovanni Palazzi and Domenico Lalli · Italian ✎ ♫
+- [*La Silvia*](https://en.wikipedia.org/wiki/La_Silvia) (1721) — Antonio Vivaldi · words: Enrico Bissari · Italian ♫
+- [*Ercole su'l Termodonte*](https://en.wikipedia.org/wiki/Ercole_su%27l_Termodonte) (1723) — Antonio Vivaldi · words: Antonio Salvi · Italian ✎ ♫
+- [*Giustino*](https://en.wikipedia.org/wiki/Giustino_(Vivaldi%29) (1724) — Antonio Vivaldi · words: Pietro Pariati · Italian ♫
+- [*Il Tigrane*](https://en.wikipedia.org/wiki/Tigrane_(Vivaldi%29) (1724) — Antonio Vivaldi, Benedetto Micheli, Nicola Romaldi · words: Pietro Antonio Bernardoni · Italian
+- [*Dorilla in Tempe*](https://en.wikipedia.org/wiki/Dorilla_in_Tempe) (1726) — Antonio Vivaldi · words: Antonio Maria Lucchini · Italian ✎ ♫
+- [*Farnace*](https://en.wikipedia.org/wiki/Farnace) (1727) — Antonio Vivaldi · words: Antonio Maria Lucchini · Italian ✎ ♫
+- [*Orlando furioso*](https://en.wikipedia.org/wiki/Orlando_furioso_(Vivaldi,_1727%29) (1727) — Antonio Vivaldi · words: Grazio Braccioli · Italian ✎ ♫
+- [*Atenaide*](https://en.wikipedia.org/wiki/Atenaide_(Vivaldi%29) (1728) — Antonio Vivaldi · words: Apostolo Zeno · Italian ♫
+- [*Argippo*](https://en.wikipedia.org/wiki/Argippo) (1730) — Antonio Vivaldi · words: Domenico Lalli, Claudio Nicolà Stampa · Italian ✎ ♫
+- [*La fida ninfa*](https://en.wikipedia.org/wiki/La_fida_ninfa) (1732) — Antonio Vivaldi · words: Francesco Scipione, marchese di Maffei · Italian
+- [*Motezuma*](https://en.wikipedia.org/wiki/Motezuma) (1733) — Antonio Vivaldi · words: Luigi Giusti · Italian ♫
+- [*Semiramide*](https://en.wikipedia.org/wiki/Semiramide_(Vivaldi%29) (1733) — Antonio Vivaldi · words: Francesco Silvani · Italian
+- [*L'Olimpiade*](https://en.wikipedia.org/wiki/L%27Olimpiade_(Vivaldi%29) (1734) — Antonio Vivaldi · words: Pietro Metastasio · Italian ✎ ♫
+- [*Bajazet*](https://en.wikipedia.org/wiki/Bajazet_(Vivaldi_opera%29) (1735) — Antonio Vivaldi · words: Agostino Piovene · Italian ✎ ♫
+- [*Griselda*](https://en.wikipedia.org/wiki/Griselda_(Vivaldi%29) (1735) — Antonio Vivaldi · words: Carlo Goldoni, Apostolo Zeno · Italian ✎ ♫
+- [*L'oracolo in Messenia*](https://en.wikipedia.org/wiki/L%27oracolo_in_Messenia) (1737) — Antonio Vivaldi · words: Apostolo Zeno · Italian
+- [*Ein Traumspiel*](https://en.wikipedia.org/wiki/Ein_Traumspiel) (1965) — Aribert Reimann · German
+- [*Melusine*](https://en.wikipedia.org/wiki/Melusine_(Reimann%29) (1971) — Aribert Reimann · words: Claus H. Henneberg · German ✎
+- [*Lear*](https://en.wikipedia.org/wiki/Lear_(opera%29) (1978) — Aribert Reimann · words: Claus H. Henneberg · German ♫
+- [*Die Gespenstersonate*](https://en.wikipedia.org/wiki/Die_Gespenstersonate) (1984) — Aribert Reimann · words: Aribert Reimann · German
+- [*Troades*](https://en.wikipedia.org/wiki/Troades_(opera%29) (1986) — Aribert Reimann · words: Gerd Albrecht, Aribert Reimann · German ♫
+- [*Das Schloß*](https://en.wikipedia.org/wiki/Das_Schlo%C3%9F_(opera%29) (1992) — Aribert Reimann · words: Aribert Reimann · German
+- [*Bernarda Albas Haus*](https://en.wikipedia.org/wiki/Bernarda_Albas_Haus) (2000) — Aribert Reimann · words: Aribert Reimann · German
+- [*Medea*](https://en.wikipedia.org/wiki/Medea_(Reimann%29) (2010) — Aribert Reimann · words: Aribert Reimann · German
+- [*L'Invisible*](https://en.wikipedia.org/wiki/L%27Invisible) (2017) — Aribert Reimann · words: Aribert Reimann
+- [*Anoush*](https://en.wikipedia.org/wiki/Anoush) (1912) — Armen Tigranyan · words: Armen Tigranyan · Armenian ✎
+- [*David Bek*](https://en.wikipedia.org/wiki/David_Bek_(opera%29) (1950) — Armen Tigranyan · words: Armen Tigranyan · Armenian
+- [*Die glückliche Hand*](https://en.wikipedia.org/wiki/Die_gl%C3%BCckliche_Hand) (1924) — Arnold Schoenberg · words: Arnold Schoenberg ✎ ♫
+- [*Erwartung*](https://en.wikipedia.org/wiki/Erwartung) (1924) — Arnold Schoenberg · words: Marie Pappenheim · German ✎ ♫
+- [*Von heute auf morgen*](https://en.wikipedia.org/wiki/Von_heute_auf_morgen) (1930) — Arnold Schoenberg · words: Gertrud Schoenberg · German ✎ ♫
+- [*Moses und Aron*](https://en.wikipedia.org/wiki/Moses_und_Aron) (1954) — Arnold Schoenberg · words: Schoenberg · German ✎ ♫
+- [*Der Mieter*](https://en.wikipedia.org/wiki/Der_Mieter) (2017) — Arnulf Herrmann · words: Klaus Händl · German ♫
+- [*Mefistofele*](https://en.wikipedia.org/wiki/Mefistofele) (1868) — Arrigo Boito · words: Arrigo Boito · Italian ✎ ♫
+- [*The Devil Take Her*](https://en.wikipedia.org/wiki/The_Devil_Take_Her) — Arthur Benjamin
+- [*The Olympians*](https://en.wikipedia.org/wiki/The_Olympians) — Arthur Bliss ✎ ♫
+- [*Esmeralda*](https://en.wikipedia.org/wiki/Esmeralda_(Thomas%29) (1883) — Arthur Goring Thomas · words: Theo Marzials, Alberto Randegger ✎ ♫
+- [*Antigone*](https://en.wikipedia.org/wiki/Antigone_(Honegger%29) (1927) — Arthur Honegger · words: Jean Cocteau · French ♫
+- [*L'Aiglon*](https://en.wikipedia.org/wiki/L%27Aiglon_(opera%29) (1937) — Arthur Honegger, Jacques Ibert · words: Henri Caïn · French ✎ ♫
+- [*The Contrabandista*](https://en.wikipedia.org/wiki/The_Contrabandista) (1867) — Arthur Sullivan · words: F. C. Burnand ✎ ♫
+- [*Thespis*](https://en.wikipedia.org/wiki/Thespis_(opera%29) (1871) — Arthur Sullivan · words: W. S. Gilbert · English ✎
+- [*The Sorcerer*](https://en.wikipedia.org/wiki/The_Sorcerer) (1877) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*Iolanthe*](https://en.wikipedia.org/wiki/Iolanthe) (1882) — Arthur Sullivan · words: W. S. Gilbert ✎ ♫
+- [*Haddon Hall*](https://en.wikipedia.org/wiki/Haddon_Hall_(opera%29) (1892) — Arthur Sullivan · words: Sydney Grundy · English ✎ ♫
+- [*The Beauty Stone*](https://en.wikipedia.org/wiki/The_Beauty_Stone) (1898) — Arthur Sullivan · words: Arthur Wing Pinero, J. Comyns Carr · English ✎ ♫
+- [*The Rose of Persia*](https://en.wikipedia.org/wiki/The_Rose_of_Persia) (1899) — Arthur Sullivan · words: Basil Hood · English ✎ ♫
+- [*Ivanhoe*](https://en.wikipedia.org/wiki/Ivanhoe_(opera%29) — Arthur Sullivan ✎ ♫
+- [*Princess Ida*](https://en.wikipedia.org/wiki/Princess_Ida) — Arthur Sullivan · words: W. S. Gilbert ✎ ♫
+- [*The Emerald Isle*](https://en.wikipedia.org/wiki/The_Emerald_Isle) — Arthur Sullivan, Edward German · words: Basil Hood · English ✎ ♫
+- [*The Grand Duke*](https://en.wikipedia.org/wiki/The_Grand_Duke) — Arthur Sullivan · words: W. S. Gilbert ✎
+- [*Nerone*](https://en.wikipedia.org/wiki/Nerone_(Boito%29) (1924) — Arturo Toscanini, Arrigo Boito, Antonio Smareglia, Vincenzo Tommasini · words: Arrigo Boito · Italian ♫
+- [*María de Buenos Aires*](https://en.wikipedia.org/wiki/Mar%C3%ADa_de_Buenos_Aires) (1968) — Astor Piazzolla · words: Horacio Ferrer · Spanish ✎
+- [*Kleopatra*](https://en.wikipedia.org/wiki/Kleopatra_(opera%29) — August Enna · words: Einar Christiansen · Danish ✎
+- [*La Montagne noire*](https://en.wikipedia.org/wiki/La_Montagne_Noire) (1895) — Augusta Holmès · words: Augusta Holmès · French ♫
+- [*The Horseman*](https://en.wikipedia.org/wiki/The_Horseman_(opera%29) (1975) — Aulis Sallinen · words: Paavo Haavikko · Finnish ✎ ♫
+- [*The Red Line*](https://en.wikipedia.org/wiki/The_Red_Line) (1978) — Aulis Sallinen · words: Aulis Sallinen · Finnish ✎ ♫
+- [*Kuningas lähtee Ranskaan*](https://en.wikipedia.org/wiki/Kuningas_l%C3%A4htee_Ranskaan) (1984) — Aulis Sallinen · words: Paavo Haavikko ✎ ♫
+- [*Kullervo*](https://en.wikipedia.org/wiki/Kullervo_(Sallinen%29) (1992) — Aulis Sallinen · words: Aulis Sallinen ✎ ♫
+- [*Palatsi*](https://en.wikipedia.org/wiki/Palatsi_(opera%29) (1995) — Aulis Sallinen · words: Hans Magnus Enzensberger, Irene Dische ✎ ♫
+- [*Kuningas Lear*](https://en.wikipedia.org/wiki/Kuningas_Lear) (2000) — Aulis Sallinen · words: Aulis Sallinen, Matti Rossi · Finnish ✎ ♫
+- [*Divara - Wasser und Blut*](https://en.wikipedia.org/wiki/Divara_%E2%80%93_Wasser_und_Blut) (1993) — Azio Corghi · words: José Saramago, Azio Corghi
+- [*Anas el-Wugood*](https://en.wikipedia.org/wiki/Anas_el-Wugood) (1996) — Aziz El-Shawan · Arabic ♫
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Galuppi%29) (1740) — Baldassare Galuppi · words: Pietro Metastasio · Italian
+- [*Gustavo primo, re di Svezia*](https://en.wikipedia.org/wiki/Gustavo_primo,_re_di_Svezia) (1740) — Baldassare Galuppi · words: Carlo Goldoni · Italian ✎
+- [*L'olimpiade*](https://en.wikipedia.org/wiki/L%27Olimpiade_(Galuppi%29) (1747) — Baldassare Galuppi · words: Pietro Metastasio · Italian
+- [*Il mondo della luna*](https://en.wikipedia.org/wiki/Il_mondo_della_luna_(Galuppi%29) (1750) — Baldassare Galuppi · words: Carlo Goldoni · Italian ✎ ♫
+- [*Il filosofo di campagna*](https://en.wikipedia.org/wiki/Il_filosofo_di_campagna) (1754) — Baldassare Galuppi · words: Carlo Goldoni · Italian ✎ ♫
+- [*La diavolessa*](https://en.wikipedia.org/wiki/La_diavolessa) (1755) — Baldassare Galuppi · words: Carlo Goldoni · Italian ✎ ♫
+- [*L'inimico delle donne*](https://en.wikipedia.org/wiki/L%27inimico_delle_donne) (1771) — Baldassare Galuppi · words: Giovanni Bertati · Italian ♫
+- [*Dalia*](https://en.wikipedia.org/wiki/Dalia_(Dvarionas_opera%29) — Balys Dvarionas · words: Jonas Mackonis · Lithuanian
+- [*The Two Widows*](https://en.wikipedia.org/wiki/The_Two_Widows) (1784) — Bedřich Smetana · words: Emanuel Züngel · Czech ✎ ♫
+- [*The Bartered Bride*](https://en.wikipedia.org/wiki/The_Bartered_Bride) (1866) — Bedřich Smetana · words: Karel Sabina · Czech ✎ ♫
+- [*The Brandenburgers in Bohemia*](https://en.wikipedia.org/wiki/The_Brandenburgers_in_Bohemia) (1866) — Bedřich Smetana · words: Karel Sabina · Czech ✎ ♫
+- [*Dalibor*](https://en.wikipedia.org/wiki/Dalibor_(opera%29) (1868) — Bedřich Smetana · words: Josef Wenzig · Czech ✎ ♫
+- [*The Kiss*](https://en.wikipedia.org/wiki/The_Kiss_(opera%29) (1876) — Bedřich Smetana, Gustav Holst · words: Eliška Krásnohorská · Czech ✎ ♫
+- [*The Secret*](https://en.wikipedia.org/wiki/The_Secret_(opera%29) (1878) — Bedřich Smetana · words: Eliška Krásnohorská · Czech ✎ ♫
+- [*Libuše*](https://en.wikipedia.org/wiki/Libu%C5%A1e_(opera%29) (1881) — Bedřich Smetana · words: Josef Wenzig · Czech ✎ ♫
+- [*The Devil's Wall*](https://en.wikipedia.org/wiki/The_Devil%27s_Wall) (1882) — Bedřich Smetana · words: Eliška Krásnohorská · Czech ✎ ♫
+- [*Viola*](https://en.wikipedia.org/wiki/Viola_(opera%29) (1924) — Bedřich Smetana · words: Eliška Krásnohorská · Czech ♫
+- [*Hafez*](https://en.wikipedia.org/wiki/Hafez_(opera%29) (2012) — Behzad Abdi · words: Behruz Gharibpur · Persian
+- [*Rumi*](https://en.wikipedia.org/wiki/Rumi_(opera%29) — Behzad Abdi · words: Behruz Gharibpur · Persian
+- [*Bluebeard's Castle*](https://en.wikipedia.org/wiki/Bluebeard%27s_Castle) (1918) — Béla Bartók · words: Béla Balázs · Hungarian ✎ ♫
+- [*Arianna*](https://en.wikipedia.org/wiki/Arianna_(Marcello%29) (1726) — Benedetto Marcello · Italian
+- [*Peter Grimes*](https://en.wikipedia.org/wiki/Peter_Grimes) (1945) — Benjamin Britten · words: Montagu Slater · English ✎ ♫
+- [*The Rape of Lucretia*](https://en.wikipedia.org/wiki/The_Rape_of_Lucretia) (1946) — Benjamin Britten · words: Ronald Duncan · English ✎ ♫
+- [*Albert Herring*](https://en.wikipedia.org/wiki/Albert_Herring) (1947) — Benjamin Britten · words: Eric Crozier · English ✎ ♫
+- [*The Little Sweep*](https://en.wikipedia.org/wiki/The_Little_Sweep) (1949) — Benjamin Britten · words: Eric Crozier · English ✎ ♫
+- [*Billy Budd*](https://en.wikipedia.org/wiki/Billy_Budd_(opera%29) (1951) — Benjamin Britten · words: E. M. Forster, Eric Crozier · English ✎ ♫
+- [*Gloriana*](https://en.wikipedia.org/wiki/Gloriana) (1953) — Benjamin Britten · words: William Plomer · English ✎ ♫
+- [*Noye's Fludde*](https://en.wikipedia.org/wiki/Noye%27s_Fludde) (1958) — Benjamin Britten · English ✎ ♫
+- [*A Midsummer Night's Dream*](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(opera%29) (1960) — Benjamin Britten · words: Peter Pears, Benjamin Britten · English ✎ ♫
+- [*Curlew River*](https://en.wikipedia.org/wiki/Curlew_River) (1964) — Benjamin Britten · words: William Plomer ✎ ♫
+- [*The Burning Fiery Furnace*](https://en.wikipedia.org/wiki/The_Burning_Fiery_Furnace) (1966) — Benjamin Britten · words: William Plomer ✎ ♫
+- [*The Prodigal Son*](https://en.wikipedia.org/wiki/The_Prodigal_Son_(Britten%29) (1968) — Benjamin Britten · words: William Plomer ✎ ♫
+- [*Owen Wingrave*](https://en.wikipedia.org/wiki/Owen_Wingrave) (1971) — Benjamin Britten · words: Myfanwy Piper · English ✎ ♫
+- [*Death in Venice*](https://en.wikipedia.org/wiki/Death_in_Venice_(opera%29) (1973) — Benjamin Britten · words: Myfanwy Piper · English ✎ ♫
+- [*Pedro de Zalamea*](https://en.wikipedia.org/wiki/Pedro_de_Zalamea) (1884) — Benjamin Godard · words: Armand Silvestre, Léonce Détroyat
+- [*Jocelyn*](https://en.wikipedia.org/wiki/Jocelyn_(opera%29) (1888) — Benjamin Godard · words: Armand Silvestre, Victor Capoul · French ♫
+- [*Dante*](https://en.wikipedia.org/wiki/Dante_et_B%C3%A9atrice) (1890) — Benjamin Godard · words: Édouard Blau · French
+- [*Les Guelfes*](https://en.wikipedia.org/wiki/Les_Guelfes) (1902) — Benjamin Godard · words: Louis Gallet
+- [*The Sinbadventurers*](https://en.wikipedia.org/wiki/The_Sinbadventurers) (2015) — Benjamin Gordon · words: Francis Hüsers · German ✎ ♫
+- [*Asle and Alida*](https://en.wikipedia.org/wiki/Asle_og_Alida) (2025) — Bent Sørensen · words: Jon Fosse · Norwegian ✎
+- [*Wuthering Heights*](https://en.wikipedia.org/wiki/Wuthering_Heights_(Herrmann%29) (1982) — Bernard Herrmann · words: Lucille Fletcher · English
+- [*L'Idalma, overo Chi la dura la vince*](https://en.wikipedia.org/wiki/L%27Idalma) (1680) — Bernardo Pasquini · words: Giuseppe Domenico de Totis · Italian
+- [*Die Soldaten*](https://en.wikipedia.org/wiki/Die_Soldaten) (1965) — Bernd Alois Zimmermann · words: Jakob Michael Reinhold Lenz ✎ ♫
+- [*The Temptation of Saint Anthony*](https://en.wikipedia.org/wiki/The_Temptation_of_Saint_Anthony_(opera%29) (2003) — Bernice Johnson Reagon · words: Bernice Johnson Reagon
+- [*Der gewaltige Hahnrei*](https://en.wikipedia.org/wiki/Der_gewaltige_Hahnrei) (1932) — Berthold Goldschmidt
+- [*Beatrice Cenci*](https://en.wikipedia.org/wiki/Beatrice_Cenci_(opera%29) (1988) — Berthold Goldschmidt · words: Martin Esslin · English ✎ ♫
+- [*Weather or No*](https://en.wikipedia.org/wiki/Weather_or_No) (1896) — Bertram Luard-Selby · words: Adrian Ross · English ✎
+- [*Swindon: The Opera*](https://en.wikipedia.org/wiki/Swindon:_The_Opera) (2012) — Betty Roe · words: Matt Fox · English ♫
+- [*Operation Orfeo*](https://en.wikipedia.org/wiki/Operation_Orfeo) — Bo Holten · words: Ib Michael
+- [*The Visit of the Royal Physician*](https://en.wikipedia.org/wiki/The_Visit_of_the_Royal_Physician_(opera%29) — Bo Holten
+- [*Hlas lesa*](https://en.wikipedia.org/wiki/Hlas_lesa) (1935) — Bohuslav Martinů · words: Vítězslav Nezval · Czech
+- [*The Miracles of Mary*](https://en.wikipedia.org/wiki/Hry_o_Marii) (1935) — Bohuslav Martinů · Czech
+- [*Comedy on the Bridge*](https://en.wikipedia.org/wiki/Comedy_on_the_Bridge) (1937) — Bohuslav Martinů · words: Bohuslav Martinů, Václav Kliment Klicpera · Czech ✎ ♫
+- [*Julietta*](https://en.wikipedia.org/wiki/Julietta_(Martin%C5%AF%29) (1938) — Bohuslav Martinů · words: Bohuslav Martinů · French/Czech ✎ ♫
+- [*The Marriage*](https://en.wikipedia.org/wiki/The_Marriage_(Martin%C5%AF%29) (1953) — Bohuslav Martinů · words: Bohuslav Martinů · English ✎ ♫
+- [*Mirandolina*](https://en.wikipedia.org/wiki/Mirandolina_(opera%29) (1959) — Bohuslav Martinů · words: Bohuslav Martinů · Italian ✎ ♫
+- [*Ariane*](https://en.wikipedia.org/wiki/Ariane_(Martin%C5%AF%29) (1961) — Bohuslav Martinů · words: Bohuslav Martinů · French ✎ ♫
+- [*The Greek Passion*](https://en.wikipedia.org/wiki/The_Greek_Passion) (1961) — Bohuslav Martinů · words: Bohuslav Martinů · English/Czech ✎ ♫
+- [*Alexandre bis*](https://en.wikipedia.org/wiki/Alexandre_bis) (1964) — Bohuslav Martinů · words: André Wurmser · French ✎ ♫
+- [*Les Larmes du couteau*](https://en.wikipedia.org/wiki/Larmes_de_couteau) (1969) — Bohuslav Martinů · words: Georges Ribemont-Dessaignes · French ✎
+- [*Les Trois Souhaits*](https://en.wikipedia.org/wiki/Les_trois_souhaits) (1971) — Bohuslav Martinů · words: Georges Ribemont-Dessaignes · French ✎ ♫
+- [*The Day of Good Deeds*](https://en.wikipedia.org/wiki/Le_jour_de_bont%C3%A9) — Bohuslav Martinů ✎
+- [*What Men Live By*](https://en.wikipedia.org/wiki/What_Men_Live_By_(opera%29) — Bohuslav Martinů · words: Bohuslav Martinů ♫
+- [*Preußisches Märchen*](https://en.wikipedia.org/wiki/Preu%C3%9Fisches_M%C3%A4rchen) (1952) — Boris Blacher
+- [*200 000 Taler*](https://en.wikipedia.org/wiki/200_000_Taler) (1969) — Boris Blacher · German ♫
+- [*Yvonne, Prinzessin von Burgund*](https://en.wikipedia.org/wiki/Yvonne,_Prinzessin_von_Burgund) (1973) — Boris Blacher · words: Boris Blacher ✎ ♫
+- [*Romeo und Julia*](https://en.wikipedia.org/wiki/Romeo_und_Julia_(Blacher_opera%29) — Boris Blacher · words: Boris Blacher · German
+- [*Sunčanica*](https://en.wikipedia.org/wiki/Sun%C4%8Danica) (1942) — Boris Papandopulo · Croatian
+- [*The Golden Ring*](https://en.wikipedia.org/wiki/The_Golden_Ring_(opera%29) (1930) — Borys Liatoshynsky · words: Jacob Mamontov · Ukrainian
+- [*Shchors*](https://en.wikipedia.org/wiki/Shchors_(opera%29) (1938) — Borys Liatoshynsky · words: Maksym Rylsky, Ivan Kocherha · Ukrainian ✎
+- [*Bliss*](https://en.wikipedia.org/wiki/Bliss_(opera%29) (2010) — Brett Dean · words: Amanda Holden · English ♫
+- [*Hamlet*](https://en.wikipedia.org/wiki/Hamlet_(Dean%29) (2017) — Brett Dean · words: Matthew Jocelyn · English ♫
+- [*Missing*](https://en.wikipedia.org/wiki/Missing_(opera%29) (2017) — Brian Current · words: Marie Clements ✎
+- [*Shadowtime*](https://en.wikipedia.org/wiki/Shadowtime_(opera%29) (2004) — Brian Ferneyhough · words: Charles Bernstein · English
+- [*Least Like The Other*](https://en.wikipedia.org/wiki/Least_Like_the_Other) (2019) — Brian Irvine and Netia Jones
+- [*Dream of the Red Chamber*](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber_(opera%29) (2016) — Bright Sheng · words: David Henry Hwang, Bright Sheng ✎ ♫
+- [*The Silver River*](https://en.wikipedia.org/wiki/The_Silver_River) — Bright Sheng · words: David Henry Hwang ✎
+- [*Lokys*](https://en.wikipedia.org/wiki/Lokys_(opera%29) (2000) — Bronius Kutavičius · Lithuanian ♫
+- [*Satyricon*](https://en.wikipedia.org/wiki/Satyricon_(opera%29) (1973) — Bruno Maderna · words: Ian Strasfogel · French/German/Latin/English
+- [*The Stonewall Operas*](https://en.wikipedia.org/wiki/The_Stonewall_Operas) (2019) — Bryan Blaskie, Brian Cavanagh-Strong, Kevin Cummines, TJ Rubin · words: Seth Christenfeld, Ben Bonnema, Shoshana Greenberg, Deepali Gupta
+- [*Txanton Piperri*](https://en.wikipedia.org/wiki/Txanton_Piperri) (1899) — Buenaventura Zapirain · words: Toribio Altzaga · Basque ✎ ♫
+- [*Troy*](https://en.wikipedia.org/wiki/Troy_(opera%29) (2018) — Bujor Hoinic · words: Artun Hoinic · Turkish ✎ ♫
+- [*Woman at Point Zero*](https://en.wikipedia.org/wiki/Woman_at_Point_Zero_(opera%29) (2022) — Bushra El-Turk · words: Stacy Hardy ♫
+- [*Le Juif Polonais*](https://en.wikipedia.org/wiki/Le_Juif_polonais) (1900) — Camille Erlanger · words: Henri Caïn · French ✎
+- [*L'aube rouge*](https://en.wikipedia.org/wiki/L%27Aube_rouge_(opera%29) (1911) — Camille Erlanger · words: Arthur Bernède, Paul de Choudens · French
+- [*La Légende de Saint-Julien L’hospitalier*](https://en.wikipedia.org/wiki/La_L%C3%A9gende_de_Saint-Julien_L%27hospitalier_(opera%29) — Camille Erlanger · French
+- [*La princesse jaune*](https://en.wikipedia.org/wiki/La_princesse_jaune) (1872) — Camille Saint-Saëns · words: Louis Gallet · French ✎ ♫
+- [*Le timbre d'argent*](https://en.wikipedia.org/wiki/Le_timbre_d%27argent) (1877) — Camille Saint-Saëns · words: Jules Barbier and Michel Carré · French ✎ ♫
+- [*Samson and Delilah*](https://en.wikipedia.org/wiki/Samson_and_Delilah_(opera%29) (1877) — Camille Saint-Saëns · words: Ferdinand Lemaire · French ✎ ♫
+- [*Étienne Marcel*](https://en.wikipedia.org/wiki/%C3%89tienne_Marcel_(opera%29) (1879) — Camille Saint-Saëns · words: Louis Gallet · French ♫
+- [*Henry VIII*](https://en.wikipedia.org/wiki/Henry_VIII_(opera%29) (1883) — Camille Saint-Saëns · words: Armand Silvestre · French ♫
+- [*Proserpine*](https://en.wikipedia.org/wiki/Proserpine_(Saint-Sa%C3%ABns%29) (1887) — Camille Saint-Saëns · words: Louis Gallet · French ♫
+- [*Ascanio*](https://en.wikipedia.org/wiki/Ascanio) (1890) — Camille Saint-Saëns · words: Louis Gallet · French ✎ ♫
+- [*Frédégonde*](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9gonde) (1895) — Camille Saint-Saëns, Paul Dukas, Ernest Guiraud · words: Louis Gallet · French ♫
+- [*Les barbares*](https://en.wikipedia.org/wiki/Les_barbares) (1901) — Camille Saint-Saëns · words: Victorien Sardou, Pierre-Barthélemy Gheusi · French ♫
+- [*Hélène*](https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_(opera%29) (1904) — Camille Saint-Saëns · words: Saint-Saëns · French ✎ ♫
+- [*L'ancêtre*](https://en.wikipedia.org/wiki/L%27anc%C3%AAtre) (1906) — Camille Saint-Saëns · words: Lucien Augé de Lassus · French ♫
+- [*Déjanire*](https://en.wikipedia.org/wiki/D%C3%A9janire) (1911) — Camille Saint-Saëns · words: Camille Saint-Saëns · French ✎
+- [*Phryné*](https://en.wikipedia.org/wiki/Phryn%C3%A9_(opera%29) — Camille Saint-Saëns · words: Lucien Augé de Lassus · French ♫
+- [*Doktor und Apotheker*](https://en.wikipedia.org/wiki/Doktor_und_Apotheker) (1786) — Carl Ditters von Dittersdorf · words: Gottlieb Stephanie ✎ ♫
+- [*Cesare e Cleopatra*](https://en.wikipedia.org/wiki/Cesare_e_Cleopatra) (1742) — Carl Heinrich Graun · words: Giovan Gualberto Bottarelli · Italian
+- [*Silla*](https://en.wikipedia.org/wiki/Silla_(Graun%29) (1753) — Carl Heinrich Graun · words: Frederick II of Prussia, Giampietro Tagliazucchi · Italian
+- [*Montezuma*](https://en.wikipedia.org/wiki/Montezuma_(Graun%29) (1755) — Carl Heinrich Graun · words: Frederick II of Prussia · French/Italian
+- [*Iphigenia in Aulis*](https://en.wikipedia.org/wiki/Iphigenia_in_Aulis_(Graun%29) — Carl Heinrich Graun
+- [*Peter Schmoll und seine Nachbarn*](https://en.wikipedia.org/wiki/Peter_Schmoll_und_seine_Nachbarn) (1803) — Carl Maria von Weber · words: Josef Türk · German ♫
+- [*Silvana*](https://en.wikipedia.org/wiki/Silvana_(opera%29) (1810) — Carl Maria von Weber · words: Franz Carl Hiemer · German ✎ ♫
+- [*Der Freischütz*](https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz) (1821) — Carl Maria von Weber · words: Johann Friedrich Kind · German ✎ ♫
+- [*Euryanthe*](https://en.wikipedia.org/wiki/Euryanthe) (1823) — Carl Maria von Weber · words: Helmina von Chézy · German ✎ ♫
+- [*Oberon*](https://en.wikipedia.org/wiki/Oberon_(Weber%29) (1826) — Carl Maria von Weber · words: James Planché · English ✎ ♫
+- [*Die drei Pintos*](https://en.wikipedia.org/wiki/Die_drei_Pintos) (1888) — Carl Maria von Weber · words: Theodor Hell · German ✎ ♫
+- [*Das Käthchen von Heilbronn*](https://en.wikipedia.org/wiki/Das_K%C3%A4thchen_von_Heilbronn_(opera%29) (1880) — Carl Martin Reinthaler · words: Heinrich Bulthaupt · German
+- [*Saul og David*](https://en.wikipedia.org/wiki/Saul_og_David) (1902) — Carl Nielsen · words: Einar Christiansen · Danish ✎ ♫
+- [*Maskarade*](https://en.wikipedia.org/wiki/Maskarade) (1906) — Carl Nielsen · words: Vilhelm Andersen · Danish ✎ ♫
+- [*Der Mond*](https://en.wikipedia.org/wiki/Der_Mond) (1939) — Carl Orff · words: Carl Orff · German ✎ ♫
+- [*Die Kluge*](https://en.wikipedia.org/wiki/Die_Kluge) (1943) — Carl Orff · words: Carl Orff · German ✎ ♫
+- [*Antigonae*](https://en.wikipedia.org/wiki/Antigonae) (1949) — Carl Orff · words: Friedrich Hölderlin · German ✎ ♫
+- [*Oedipus der Tyrann*](https://en.wikipedia.org/wiki/Oedipus_der_Tyrann) (1959) — Carl Orff · German ✎ ♫
+- [*Prometheus*](https://en.wikipedia.org/wiki/Prometheus_(Orff%29) (1968) — Carl Orff · words: Aeschylus ✎ ♫
+- [*De Temporum Fine Comoedia*](https://en.wikipedia.org/wiki/De_temporum_fine_comoedia) (1973) — Carl Orff · words: Carl Orff · German/Latin/Ancient Greek ♫
+- [*König Manfred*](https://en.wikipedia.org/wiki/K%C3%B6nig_Manfred) (1867) — Carl Reinecke · words: Friedrich Roeber · German ✎ ♫
+- [*Susannah*](https://en.wikipedia.org/wiki/Susannah) (1955) — Carlisle Floyd · words: Carlisle Floyd · English ✎
+- [*Wuthering Heights*](https://en.wikipedia.org/wiki/Wuthering_Heights_(Floyd_opera%29) (1958) — Carlisle Floyd · words: Floyd · English ♫
+- [*The Passion of Jonathan Wade*](https://en.wikipedia.org/wiki/The_Passion_of_Jonathan_Wade) (1962) — Carlisle Floyd · words: Carlisle Floyd ✎ ♫
+- [*Markheim*](https://en.wikipedia.org/wiki/Markheim_(opera%29) (1966) — Carlisle Floyd · words: Carlisle Floyd · English
+- [*Of Mice and Men*](https://en.wikipedia.org/wiki/Of_Mice_and_Men_(opera%29) (1970) — Carlisle Floyd · words: Carlisle Floyd · English ✎ ♫
+- [*Bilby's Doll*](https://en.wikipedia.org/wiki/Bilby%27s_Doll) (1976) — Carlisle Floyd · words: Floyd ✎ ♫
+- [*Willie Stark*](https://en.wikipedia.org/wiki/Willie_Stark) (1981) — Carlisle Floyd · words: Floyd ✎ ♫
+- [*Cold Sassy Tree*](https://en.wikipedia.org/wiki/Cold_Sassy_Tree_(opera%29) (2000) — Carlisle Floyd ♫
+- [*Arrighetto*](https://en.wikipedia.org/wiki/Arrighetto) (1813) — Carlo Coccia · words: Angelo Anelli · Italian ✎ ♫
+- [*Clotilde*](https://en.wikipedia.org/wiki/Clotilde_(opera%29) (1815) — Carlo Coccia · words: Gaetano Rossi · Italian ✎ ♫
+- [*Caterina di Guisa*](https://en.wikipedia.org/wiki/Caterina_di_Guisa) (1833) — Carlo Coccia · words: Felice Romani · Italian ✎ ♫
+- [*Tutti in maschera*](https://en.wikipedia.org/wiki/Tutti_in_maschera) (1856) — Carlo Pedrotti · words: Marco Marcelliano Marcello · Italian ✎ ♫
+- [*The Visitors*](https://en.wikipedia.org/wiki/The_Visitors_(opera%29) (1957) — Carlos Chávez · words: Chester Kallman · English ✎ ♫
+- [*De triomfeerende Min*](https://en.wikipedia.org/wiki/De_triomfeerende_Min) — Carolus Hacquart · Dutch
+- [*The Mandarin's Son*](https://en.wikipedia.org/wiki/The_Mandarin%27s_Son) (1859) — César Cui · words: Viktor Krylov · Russian ✎ ♫
+- [*William Ratcliff*](https://en.wikipedia.org/wiki/William_Ratcliff_(Cui%29) (1869) — César Cui · Russian ✎
+- [*Angelo*](https://en.wikipedia.org/wiki/Angelo_(opera%29) (1876) — César Cui · Russian ✎ ♫
+- [*Prisoner of the Caucasus*](https://en.wikipedia.org/wiki/The_Prisoner_of_the_Caucasus_(opera%29) (1883) — César Cui · words: Viktor Krylov · Russian ✎ ♫
+- [*Le flibustier*](https://en.wikipedia.org/wiki/Le_flibustier_(opera%29) (1894) — César Cui · French ✎
+- [*The Saracen*](https://en.wikipedia.org/wiki/The_Saracen_(opera%29) (1899) — César Cui · Russian ✎
+- [*Feast in Time of Plague*](https://en.wikipedia.org/wiki/A_Feast_in_Time_of_Plague_(Cui_opera%29) (1901) — César Cui · words: Alexander Pushkin · Russian ✎
+- [*Mademoiselle Fifi*](https://en.wikipedia.org/wiki/Mademoiselle_Fifi_(opera%29) (1903) — César Cui ✎
+- [*The Snow Bogatyr*](https://en.wikipedia.org/wiki/The_Snow_Bogatyr) (1906) — César Cui ✎
+- [*Mateo Falcone*](https://en.wikipedia.org/wiki/Mateo_Falcone_(opera%29) (1907) — César Cui ✎
+- [*The Captain's Daughter*](https://en.wikipedia.org/wiki/The_Captain%27s_Daughter_(opera%29) (1911) — César Cui ✎
+- [*Puss in Boots*](https://en.wikipedia.org/wiki/Puss_in_Boots_(opera%29) (1915) — César Cui · words: Marina Stanislavovna Pol' · Russian ✎ ♫
+- [*Ivan the Fool*](https://en.wikipedia.org/wiki/Ivan_the_Fool_(opera%29) — César Cui ✎ ♫
+- [*Little Red Riding Hood*](https://en.wikipedia.org/wiki/Little_Red_Riding_Hood_(opera%29) — César Cui ✎
+- [*Hulda*](https://en.wikipedia.org/wiki/Hulda_(opera%29) (1894) — César Franck · words: Charles Grandmougin · French ✎ ♫
+- [*Ghiselle*](https://en.wikipedia.org/wiki/Ghiselle) (1896) — César Franck · words: Gilbert-Augustin Thierry · French ♫
+- [*Stradella*](https://en.wikipedia.org/wiki/Stradella_(Franck%29) — César Franck · words: Émile Deschamps, Émilien Pacini · French ✎ ♫
+- [*Ağrı Dağı Efsanesi*](https://en.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_Efsanesi) — Çetin Işıközlü · Turkish
+- [*Iron Road*](https://en.wikipedia.org/wiki/Iron_Road_(opera%29) — Chan Ka Nin · words: Mark Brownell ✎ ♫
+- [*Lilac Domino*](https://en.wikipedia.org/wiki/The_Lilac_Domino) — Charles Cuvillier ✎
+- [*The Naughty Princess*](https://en.wikipedia.org/wiki/The_Naughty_Princess) — Charles Cuvillier ✎ ♫
+- [*The Padlock*](https://en.wikipedia.org/wiki/The_Padlock) (1768) — Charles Dibdin · words: Isaac Bickerstaffe · English
+- [*The Recruiting Serjeant*](https://en.wikipedia.org/wiki/The_Recruiting_Serjeant) (1770) — Charles Dibdin ✎ ♫
+- [*M.P.*](https://en.wikipedia.org/wiki/M.P._(opera%29) — Charles Edward Horn · words: Thomas Moore
+- [*Singin' Billy*](https://en.wikipedia.org/wiki/Singin%27_Billy) (1952) — Charles F. Bryan · words: Donald Davidson · English ♫
+- [*La nonne sanglante*](https://en.wikipedia.org/wiki/La_nonne_sanglante) (1854) — Charles Gounod · words: Germain Delavigne, Eugène Scribe · French ✎ ♫
+- [*Le médecin malgré lui*](https://en.wikipedia.org/wiki/Le_m%C3%A9decin_malgr%C3%A9_lui_(opera%29) (1858) — Charles Gounod · words: Michel Carré, Jules Barbier · French ✎ ♫
+- [*Faust*](https://en.wikipedia.org/wiki/Faust_(opera%29) (1859) — Charles Gounod · words: Jules Barbier, Marguerite Carré, Michel Carré · French ✎ ♫
+- [*La colombe*](https://en.wikipedia.org/wiki/La_colombe) (1860) — Charles Gounod · words: Jules Barbier · French ✎ ♫
+- [*Philémon et Baucis*](https://en.wikipedia.org/wiki/Phil%C3%A9mon_et_Baucis) (1860) — Charles Gounod · words: Michel Carré, Jules Barbier · French ✎ ♫
+- [*La reine de Saba*](https://en.wikipedia.org/wiki/La_reine_de_Saba) (1862) — Charles Gounod · words: Michel Carré, Jules Barbier · French ✎ ♫
+- [*Mireille*](https://en.wikipedia.org/wiki/Mireille_(opera%29) (1864) — Charles Gounod · words: Michel Carré · French ✎ ♫
+- [*Roméo et Juliete*](https://en.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette) (1867) — Charles Gounod · words: Jules Barbier, Michel Carré · French ✎ ♫
+- [*Cinq-Mars*](https://en.wikipedia.org/wiki/Cinq-Mars_(opera%29) (1877) — Charles Gounod · words: Louis Gallet, Paul Poirson · French ✎ ♫
+- [*Polyeucte*](https://en.wikipedia.org/wiki/Polyeucte_(opera%29) (1878) — Charles Gounod · words: Jules Barbier · French ✎ ♫
+- [*Le tribut de Zamora*](https://en.wikipedia.org/wiki/Le_tribut_de_Zamora) (1881) — Charles Gounod · words: Adolphe d'Ennery · French ✎ ♫
+- [*Maître Pierre*](https://en.wikipedia.org/wiki/Ma%C3%AEtre_Pierre) — Charles Gounod · words: Louis Gallet
+- [*Sapho*](https://en.wikipedia.org/wiki/Sapho_(Gounod%29) — Charles Gounod · French ✎ ♫
+- [*La fille de Madame Angot*](https://en.wikipedia.org/wiki/La_Fille_de_Madame_Angot) (1872) — Charles Lecocq · words: Louis François Clairville, Paul Siraudin, Victor Koning · French ✎ ♫
+- [*Le petit duc*](https://en.wikipedia.org/wiki/Le_Petit_Duc) (1878) — Charles Lecocq · words: Ludovic Halévy · French ✎
+- [*Le jour et la nuit*](https://en.wikipedia.org/wiki/Le_Jour_et_la_Nuit_(opera%29) (1881) — Charles Lecocq · words: Albert Vanloo, Eugène Leterrier · French ✎ ♫
+- [*Plutus*](https://en.wikipedia.org/wiki/Plutus_(opera%29) (1886) — Charles Lecocq · words: Albert Millaud, Gaston Jollivet · French ✎ ♫
+- [*Ali-Baba*](https://en.wikipedia.org/wiki/Ali-Baba_(Lecocq%29) (1887) — Charles Lecocq · words: Albert Vanloo, William Bertrand Busnach · French ✎ ♫
+- [*Ninette*](https://en.wikipedia.org/wiki/Ninette_(opera%29) (1896) — Charles Lecocq · French · opéra comique ✎ ♫
+- [*Kosiki*](https://en.wikipedia.org/wiki/Kosiki) — Charles Lecocq · opéra comique ✎ ♫
+- [*La belle au bois dormant*](https://en.wikipedia.org/wiki/La_Belle_au_bois_dormant_(Lecocq%29) — Charles Lecocq · words: Albert Vanloo, Georges Duval ✎ ♫
+- [*The Garden of Mystery*](https://en.wikipedia.org/wiki/The_Garden_of_Mystery) (1925) — Charles Wakefield Cadman · words: Nelle Richmond Eberhart · English ✎ ♫
+- [*Haroun and the Sea of Stories*](https://en.wikipedia.org/wiki/Haroun_and_the_Sea_of_Stories_(opera%29) (2004) — Charles Wuorinen · words: James Fenton · English ✎ ♫
+- [*Brokeback Mountain*](https://en.wikipedia.org/wiki/Brokeback_Mountain_(opera%29) (2014) — Charles Wuorinen · words: Annie Proulx · English ✎ ♫
+- [*Nitétis*](https://en.wikipedia.org/wiki/Nit%C3%A9tis) — Charles-Louis Mion · words: Jean-Louis-Ignace de La Serre · French
+- [*Les bayadères*](https://en.wikipedia.org/wiki/Les_bayad%C3%A8res) (1810) — Charles-Simon Catel · French ✎ ♫
+- [*Entanglement*](https://en.wikipedia.org/wiki/Entanglement_(opera%29) (2015) — Charlotte Bray · words: Amy Rosenthal ♫
+- [*Heart Chamber*](https://en.wikipedia.org/wiki/Heart_Chamber_(opera%29) (2019) — Chaya Czernowin · words: Chaya Czernowin ♫
+- [*Liu Hulan*](https://en.wikipedia.org/wiki/Liu_Hulan_(opera%29) — Chen Zi · Chinese
+- [*L'amant anonyme*](https://en.wikipedia.org/wiki/L%27amant_anonyme) (2023) — Chevalier de Saint-Georges · words: Desfontaines-Lavallée ✎ ♫
+- [*Aladdin*](https://en.wikipedia.org/wiki/Aladdin_(Horneman_opera%29) (1888) — Christian Frederik Emil Horneman · Danish ♫
+- [*Sardanapalus*](https://en.wikipedia.org/wiki/Sardanapalus_(opera%29) — Christian Ludwig Boxberg · words: Christian Ludwig Boxberg
+- [*L’Amore Ammalato*](https://en.wikipedia.org/wiki/Antiochus_und_Stratonica) (1708) — Christoph Graupner · words: Barthold Feind · German ♫
+- [*Demofoonte*](https://en.wikipedia.org/wiki/Demofoonte_(Gluck%29) (1743) — Christoph Willibald von Gluck · Italian ♫
+- [*Ipermestra*](https://en.wikipedia.org/wiki/Ipermestra_(Gluck%29) (1744) — Christoph Willibald von Gluck ♫
+- [*Semiramide riconosciuta*](https://en.wikipedia.org/wiki/La_Semiramide_riconosciuta) (1748) — Christoph Willibald von Gluck · Italian
+- [*Ezio*](https://en.wikipedia.org/wiki/Ezio_(Gluck%29) (1750) — Christoph Willibald von Gluck · Italian ✎ ♫
+- [*La clemenza di Tito*](https://en.wikipedia.org/wiki/La_clemenza_di_Tito_(Gluck%29) (1752) — Christoph Willibald von Gluck · Italian ✎ ♫
+- [*Le cinesi*](https://en.wikipedia.org/wiki/Le_cinesi) (1754) — Christoph Willibald von Gluck · words: Pietro Metastasio · Italian ✎ ♫
+- [*L'innocenza giustificata*](https://en.wikipedia.org/wiki/L%27innocenza_giustificata) (1755) — Christoph Willibald von Gluck · words: Pietro Metastasio, Giacomo Durazzo · Italian ♫
+- [*Antigono*](https://en.wikipedia.org/wiki/Antigono_(Gluck%29) (1756) — Christoph Willibald von Gluck · words: Pietro Metastasio · Italian ✎ ♫
+- [*Il re pastore*](https://en.wikipedia.org/wiki/Il_re_pastore_(Gluck%29) (1756) — Christoph Willibald von Gluck · words: Pietro Metastasio · Italian ♫
+- [*Orfeo ed Euridice*](https://en.wikipedia.org/wiki/Orfeo_ed_Euridice) (1762) — Christoph Willibald von Gluck · words: Ranieri de' Calzabigi · Italian ✎ ♫
+- [*Il trionfo di Clelia*](https://en.wikipedia.org/wiki/Il_trionfo_di_Clelia_(Gluck%29) (1763) — Christoph Willibald von Gluck · Italian
+- [*Telemaco*](https://en.wikipedia.org/wiki/Telemaco_(Gluck%29) (1765) — Christoph Willibald von Gluck · words: Carlo Sigismondo Capece, Marco Coltellini · Italian ♫
+- [*Alceste*](https://en.wikipedia.org/wiki/Alceste_(Gluck%29) (1767) — Christoph Willibald von Gluck · words: Ranieri de' Calzabigi · French/Italian ✎ ♫
+- [*Le feste d'Apollo*](https://en.wikipedia.org/wiki/Le_feste_d%27Apollo) (1769) — Christoph Willibald von Gluck · words: Ranieri de' Calzabigi, Giuseppe Pezzana · Italian
+- [*Paride ed Elena*](https://en.wikipedia.org/wiki/Paride_ed_Elena) (1770) — Christoph Willibald von Gluck · words: Ranieri de' Calzabigi · Italian ✎ ♫
+- [*Iphigénie en Aulide*](https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Aulide) (1774) — Christoph Willibald von Gluck · words: François-Louis Gand Le Bland Du Roullet · French ✎ ♫
+- [*Orphée et Euridice*](https://en.wikipedia.org/wiki/Orph%C3%A9e_et_Euridice) (1776) — Christoph Willibald von Gluck · words: Pierre-Louis Moline · French ✎ ♫
+- [*Armide*](https://en.wikipedia.org/wiki/Armide_(Gluck%29) (1777) — Christoph Willibald von Gluck · words: Philippe Quinault · French ✎ ♫
+- [*Iphigénie en Tauride*](https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride) (1779) — Christoph Willibald von Gluck · words: Nicolas-François Guillard · French ✎ ♫
+- [*Orphee l'Amour Eurydice*](https://en.wikipedia.org/wiki/Orphee_l%27Amour_Eurydice) (2022) — Christoph Willibald von Gluck, Zbigniew Wolny · words: Hélène Vrijdag ✎ ♫
+- [*Echo et Narcisse*](https://en.wikipedia.org/wiki/%C3%89cho_et_Narcisse) — Christoph Willibald von Gluck · words: Jean-Baptiste-Louis-Théodore de Tschudi · French ✎ ♫
+- [*Il Parnaso confuso*](https://en.wikipedia.org/wiki/Il_Parnaso_confuso) — Christoph Willibald von Gluck · words: Pietro Metastasio · Italian ♫
+- [*L'île de Merlin, ou Le monde renversé*](https://en.wikipedia.org/wiki/L%27%C3%AEle_de_Merlin,_ou_Le_monde_renvers%C3%A9) — Christoph Willibald von Gluck · French ♫
+- [*L'ivrogne corrigé*](https://en.wikipedia.org/wiki/L%27ivrogne_corrig%C3%A9) — Christoph Willibald von Gluck · French ♫
+- [*La caduta de' giganti*](https://en.wikipedia.org/wiki/La_caduta_de%27_giganti) — Christoph Willibald von Gluck · Italian
+- [*La corona*](https://en.wikipedia.org/wiki/La_corona_(Gluck%29) — Christoph Willibald von Gluck · Italian ✎ ♫
+- [*La Cythère assiégée*](https://en.wikipedia.org/wiki/La_Cyth%C3%A8re_assi%C3%A9g%C3%A9e) — Christoph Willibald von Gluck · French
+- [*La danza*](https://en.wikipedia.org/wiki/La_danza_(Gluck%29) — Christoph Willibald von Gluck · Italian ✎ ♫
+- [*La fausse esclave*](https://en.wikipedia.org/wiki/La_fausse_esclave) — Christoph Willibald von Gluck · French ✎ ♫
+- [*La rencontre imprévue*](https://en.wikipedia.org/wiki/La_rencontre_impr%C3%A9vue) — Christoph Willibald von Gluck · French ♫
+- [*Le cadi dupé*](https://en.wikipedia.org/wiki/Le_cadi_dup%C3%A9) — Christoph Willibald von Gluck · French ✎ ♫
+- [*Le diable à quatre*](https://en.wikipedia.org/wiki/Le_diable_%C3%A0_quatre_(opera%29) — Christoph Willibald von Gluck · French ✎ ♫
+- [*Le nozze d'Ercole e d'Ebe*](https://en.wikipedia.org/wiki/Le_nozze_d%27Ercole_e_d%27Ebe) — Christoph Willibald von Gluck · Italian ♫
+- [*Tetide*](https://en.wikipedia.org/wiki/Tetide) — Christoph Willibald von Gluck · Italian ♫
+- [*The Passion of Vincent van Gogh*](https://en.wikipedia.org/wiki/The_Passion_of_Vincent_van_Gogh) (1984) — Christopher Yavelow · words: Yavelow
+- [*Pelléas et Mélisande*](https://en.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(opera%29) (1902) — Claude Debussy · words: Maurice Maeterlinck · French ✎ ♫
+- [*Rodrigue et Chimène*](https://en.wikipedia.org/wiki/Rodrigue_et_Chim%C3%A8ne) (1993) — Claude Debussy · words: Catulle Mendès · French ✎ ♫
+- [*Le diable dans le beffroi*](https://en.wikipedia.org/wiki/Le_diable_dans_le_beffroi) (2012) — Claude Debussy · French ✎
+- [*La chute de la maison Usher*](https://en.wikipedia.org/wiki/La_chute_de_la_maison_Usher_(opera%29) — Claude Debussy · French ✎
+- [*Kopernikus*](https://en.wikipedia.org/wiki/Kopernikus_(Vivier%29) (1980) — Claude Vivier · words: Claude Vivier · French/constructed
+- [*L'Orfeo*](https://en.wikipedia.org/wiki/L%27Orfeo) (1607) — Claudio Monteverdi · words: Alessandro Striggio · Italian ✎ ♫
+- [*L'Arianna*](https://en.wikipedia.org/wiki/L%27Arianna) (1608) — Claudio Monteverdi · words: Ottavio Rinuccini · Italian ✎ ♫
+- [*Il combattimento di Tancredi e Clorinda*](https://en.wikipedia.org/wiki/Il_combattimento_di_Tancredi_e_Clorinda) (1624) — Claudio Monteverdi · Italian
+- [*Il ritorno d'Ulisse in patria*](https://en.wikipedia.org/wiki/Il_ritorno_d%27Ulisse_in_patria) (1639) — Claudio Monteverdi · words: Giacomo Badoaro · Italian ✎ ♫
+- [*L'incoronazione di Poppea*](https://en.wikipedia.org/wiki/L%27incoronazione_di_Poppea) (1643) — Claudio Monteverdi · words: Giovanni Francesco Busenello · Italian ✎ ♫
+- [*lost operas by Claudio Monteverdi*](https://en.wikipedia.org/wiki/Lost_operas_by_Claudio_Monteverdi) — Claudio Monteverdi · Italian
+- [*Transformations*](https://en.wikipedia.org/wiki/Transformations_(opera%29) (1973) — Conrad Susa ✎ ♫
+- [*The Dangerous Liaisons*](https://en.wikipedia.org/wiki/The_Dangerous_Liaisons) (1994) — Conrad Susa · words: Philip Littell ✎ ♫
+- [*Das Nachtlager in Granada*](https://en.wikipedia.org/wiki/Das_Nachtlager_in_Granada) (1834) — Conradin Kreutzer · words: Karl Johann Braun von Braunthal · German ✎ ♫
+- [*Days and Nights with Christ*](https://en.wikipedia.org/wiki/Days_and_Nights_with_Christ) (1990) — Constantine Koukias · words: Constantine Koukias · Ancient Greek
+- [*To Traverse Water*](https://en.wikipedia.org/wiki/To_Traverse_Water) (1992) — Constantine Koukias · words: Constantine Koukias · Ancient Greek
+- [*Mikrovion*](https://en.wikipedia.org/wiki/Mikrovion) (1994) — Constantine Koukias · words: Constantine Koukias
+- [*The Divine Kiss*](https://en.wikipedia.org/wiki/The_Divine_Kiss) (1998) — Constantine Koukias · words: Constantine Koukias
+- [*Tesla - Lightning in His Hand*](https://en.wikipedia.org/wiki/Tesla_%E2%80%93_Lightning_in_His_Hand) (2003) — Constantine Koukias · words: Marianne Fisher ✎
+- [*Olegas*](https://en.wikipedia.org/wiki/Olegas_(opera%29) — Constantine Koukias · words: Natasha Cica
+- [*Approaching Ali*](https://en.wikipedia.org/wiki/Approaching_Ali) (2013) — D. J. Sparr · words: Davis Miller, Mark Campbell ✎ ♫
+- [*Monkey: Journey to the West*](https://en.wikipedia.org/wiki/Monkey:_Journey_to_the_West) (2007) — Damon Albarn · words: Chen Shi-Zheng ✎
+- [*Jefferson & Poe: A Lyric Opera*](https://en.wikipedia.org/wiki/Jefferson_%26_Poe:_A_Lyric_Opera) — Damon Ferrante · words: Daniel Mark Epstein
+- [*Rappaccini's Daughter*](https://en.wikipedia.org/wiki/Rappaccini%27s_Daughter_(Cat%C3%A1n_opera%29) (1991) — Daniel Catán · words: Juan Tovar · Spanish ✎ ♫
+- [*Florencia en el Amazonas*](https://en.wikipedia.org/wiki/Florencia_en_el_Amazonas) (1996) — Daniel Catán · words: Marcela Fuentes-Berain · Spanish ✎ ♫
+- [*Salsipuedes: a Tale of Love, War and Anchovies*](https://en.wikipedia.org/wiki/Salsipuedes:_a_Tale_of_Love,_War_and_Anchovies) (2004) — Daniel Catán · words: Daniel Catán, Eliseo Alberto, Francisco Hinojosa · Spanish ✎ ♫
+- [*Il Postino*](https://en.wikipedia.org/wiki/Il_Postino_(opera%29) (2010) — Daniel Catán · words: Daniel Catán · Spanish ✎ ♫
+- [*Le maçon*](https://en.wikipedia.org/wiki/Le_ma%C3%A7on) (1825) — Daniel François Esprit Auber · words: Eugène Scribe, Germain Delavigne · French ✎
+- [*La muette de Portici*](https://en.wikipedia.org/wiki/La_muette_de_Portici) (1828) — Daniel François Esprit Auber · words: Eugène Scribe, Germain Delavigne · French ✎ ♫
+- [*Fra Diavolo*](https://en.wikipedia.org/wiki/Fra_Diavolo_(opera%29) (1830) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*Le philtre*](https://en.wikipedia.org/wiki/Le_philtre) (1831) — Daniel François Esprit Auber · words: Eugène Scribe · French
+- [*Gustave III*](https://en.wikipedia.org/wiki/Gustave_III_(Auber%29) (1833) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*Le cheval de bronze*](https://en.wikipedia.org/wiki/Le_cheval_de_bronze) (1835) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*L'ambassadrice*](https://en.wikipedia.org/wiki/L%27ambassadrice) (1836) — Daniel François Esprit Auber · words: Eugène Scribe, Jules-Henri Vernoy de Saint-Georges · French ♫
+- [*Le domino noir*](https://en.wikipedia.org/wiki/Le_domino_noir) (1837) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*Le lac des fées*](https://en.wikipedia.org/wiki/Le_lac_des_f%C3%A9es) (1839) — Daniel François Esprit Auber · words: Eugène Scribe, Mélesville · French ♫
+- [*Les diamants de la couronne*](https://en.wikipedia.org/wiki/Les_diamants_de_la_couronne) (1841) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*La part du diable*](https://en.wikipedia.org/wiki/La_part_du_diable) (1843) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*La sirène*](https://en.wikipedia.org/wiki/La_sir%C3%A8ne_(opera%29) (1844) — Daniel François Esprit Auber · words: Eugène Scribe · French
+- [*Haydée, ou Le secret*](https://en.wikipedia.org/wiki/Hayd%C3%A9e) (1847) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*L'enfant prodigue*](https://en.wikipedia.org/wiki/L%27enfant_prodigue_(Auber%29) (1850) — Daniel François Esprit Auber · words: Eugène Scribe · French
+- [*Manon Lescaut*](https://en.wikipedia.org/wiki/Manon_Lescaut_(Auber%29) (1856) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*La circassienne*](https://en.wikipedia.org/wiki/La_circassienne) (1861) — Daniel François Esprit Auber · words: Eugène Scribe · French ✎ ♫
+- [*Le premier jour de bonheur*](https://en.wikipedia.org/wiki/Le_premier_jour_de_bonheur) (1868) — Daniel François Esprit Auber · words: Adolphe d'Ennery, Eugène Cormon · French ✎ ♫
+- [*La barcarolle*](https://en.wikipedia.org/wiki/La_barcarolle_(opera%29) — Daniel François Esprit Auber
+- [*Charlie Parker's Yardbird*](https://en.wikipedia.org/wiki/Charlie_Parker%27s_Yardbird) (2015) — Daniel Schnyder · words: Bridgette Wimberly ✎ ♫
+- [*The Summer King*](https://en.wikipedia.org/wiki/The_Summer_King_(opera%29) (2017) — Daniel Sonenberg · words: Daniel Nester, Daniel Sonenberg ✎
+- [*Le pauvre matelot*](https://en.wikipedia.org/wiki/Le_Pauvre_Matelot) (1927) — Darius Milhaud · words: Jean Cocteau · French ✎ ♫
+- [*L'abandon d'Ariane*](https://en.wikipedia.org/wiki/L%27Abandon_d%27Ariane) (1928) — Darius Milhaud · words: Henri Hoppenot · French ♫
+- [*La Délivrance de Thésée*](https://en.wikipedia.org/wiki/La_D%C3%A9livrance_de_Th%C3%A9s%C3%A9e) (1928) — Darius Milhaud · words: Henri Hoppenot · French ✎ ♫
+- [*Christophe Colomb*](https://en.wikipedia.org/wiki/Christophe_Colomb) (1930) — Darius Milhaud · words: Paul Claudel · French ✎ ♫
+- [*L'Orestie d'Eschyle*](https://en.wikipedia.org/wiki/L%27Orestie_d%27Eschyle) (1936) — Darius Milhaud · words: Paul Claudel
+- [*David*](https://en.wikipedia.org/wiki/David_(Milhaud%29) (1955) — Darius Milhaud · words: Armand Lunel · French
+- [*La mère coupable*](https://en.wikipedia.org/wiki/La_M%C3%A8re_coupable) (1966) — Darius Milhaud · words: Madeleine Milhaud · French ♫
+- [*Shining Brow*](https://en.wikipedia.org/wiki/Shining_Brow) (1993) — Daron Hagen · words: Paul Muldoon ✎ ♫
+- [*Bandanna*](https://en.wikipedia.org/wiki/Bandanna_(opera%29) (1999) — Daron Hagen · words: William Shakespeare ✎ ♫
+- [*Vera of Las Vegas*](https://en.wikipedia.org/wiki/Vera_of_Las_Vegas) (2003) — Daron Hagen · words: Paul Muldoon ✎ ♫
+- [*The Antient Concert*](https://en.wikipedia.org/wiki/The_Antient_Concert) (2007) — Daron Hagen · words: Paul Muldoon ✎ ♫
+- [*Amelia*](https://en.wikipedia.org/wiki/Amelia_(opera%29) (2010) — Daron Hagen · words: Gardner McFall ✎ ♫
+- [*New York Stories*](https://en.wikipedia.org/wiki/New_York_Stories_(opera%29) (2010) — Daron Hagen · words: Daron Hagen, Barbara Grecki ✎ ♫
+- [*A Woman in Morocco*](https://en.wikipedia.org/wiki/A_Woman_in_Morocco) (2015) — Daron Hagen · words: Daron Hagen, Barbara Grecki · English ✎ ♫
+- [*Scoring A Century*](https://en.wikipedia.org/wiki/Scoring_A_Century) (2010) — David Blake · words: Keith Warner
+- [*The Firework-Maker's Daughter*](https://en.wikipedia.org/wiki/The_Firework-Maker%27s_Daughter_(opera%29) (2013) — David Bruce · words: Glyn Maxwell ♫
+- [*Nothing*](https://en.wikipedia.org/wiki/Nothing_(opera%29) (2016) — David Bruce · words: Glyn Maxwell ✎ ♫
+- [*Anna Karenina*](https://en.wikipedia.org/wiki/Anna_Karenina_(Carlson%29) — David Carlson
+- [*The Dreamers*](https://en.wikipedia.org/wiki/The_Dreamers_(opera%29) (1996) — David Conte · English ✎ ♫
+- [*Gift of the Magi*](https://en.wikipedia.org/wiki/The_Gift_of_the_Magi_(Conte_opera%29) (1997) — David Conte · words: Nicholas Giardini ✎ ♫
+- [*Cyrano*](https://en.wikipedia.org/wiki/Cyrano_(DiChiera%29) (2007) — David DiChiera · words: Bernard Uzan · French ✎ ♫
+- [*The Wake World*](https://en.wikipedia.org/wiki/The_Wake_World) (2017) — David Hertzberg ♫
+- [*The Rose Elf*](https://en.wikipedia.org/wiki/The_Rose_Elf_(opera%29) (2018) — David Hertzberg ♫
+- [*The Skating Rink*](https://en.wikipedia.org/wiki/The_Skating_Rink_(opera%29) (2018) — David Sawer · words: Rory Mullarkey · English ✎ ♫
+- [*Vinkensport, or The Finch Opera*](https://en.wikipedia.org/wiki/Vinkensport,_or_The_Finch_Opera) (2010) — David T. Little · words: Royce Vavrek · English ✎
+- [*Dog Days*](https://en.wikipedia.org/wiki/Dog_Days_(opera%29) (2012) — David T. Little · words: Royce Vavrek ✎ ♫
+- [*JFK*](https://en.wikipedia.org/wiki/JFK_(opera%29) (2016) — David T. Little · words: Royce Vavrek ♫
+- [*The Dybbuk*](https://en.wikipedia.org/wiki/The_Dybbuk_(opera%29) (1951) — David Tamkin · words: Alex Tamkin · English ♫
+- [*Solimano*](https://en.wikipedia.org/wiki/Solimano_(Perez%29) (1757) — Davide Perez · words: Giannambrogio Migliavacca · Italian
+- [*Pecan Summer*](https://en.wikipedia.org/wiki/Pecan_Summer) (2010) — Deborah Cheetham Fraillon · words: Deborah Cheetham Fraillon ✎
+- [*Lilith*](https://en.wikipedia.org/wiki/Lilith_(opera%29) (2001) — Deborah Drattell ✎ ♫
+- [*The King's Henchman*](https://en.wikipedia.org/wiki/The_King%27s_Henchman) (1927) — Deems Taylor · words: Edna St. Vincent Millay · English ✎ ♫
+- [*Peter Ibbetson*](https://en.wikipedia.org/wiki/Peter_Ibbetson_(opera%29) (1931) — Deems Taylor · words: Constance Collier, Deems Taylor · English ✎ ♫
+- [*Scalia v. Ginsburg*](https://en.wikipedia.org/wiki/Scalia/Ginsburg) (2015) — Derrick Wang · words: Derrick Wang · English ✎
+- [*Solaris*](https://en.wikipedia.org/wiki/Solaris_(opera%29) (2012) — Detlev Glanert · words: Reinhard Palm · German
+- [*Oceane*](https://en.wikipedia.org/wiki/Oceane_(opera%29) (2019) — Detlev Glanert · words: Hans-Ulrich Treichel · German
+- [*The Legend of Shota Rustaveli*](https://en.wikipedia.org/wiki/The_Legend_of_Shota_Rustaveli) — Dimitri Arakishvili · Georgian
+- [*The Nose*](https://en.wikipedia.org/wiki/The_Nose_(opera%29) (1930) — Dmitri Shostakovich · words: Dmitri Shostakovich, Yevgeny Zamyatin, Alexander Preys, Georgy Ionin · Russian ✎ ♫
+- [*Lady Macbeth of the Mtsensk District*](https://en.wikipedia.org/wiki/Lady_Macbeth_of_Mtsensk_(opera%29) (1934) — Dmitri Shostakovich · words: Dmitri Shostakovich, Alexander Preys · Russian ✎ ♫
+- [*The Gamblers*](https://en.wikipedia.org/wiki/The_Gamblers_(Shostakovich%29) (1978) — Dmitri Shostakovich · words: Nikolai Gogol · Russian ✎ ♫
+- [*The Big Lightning*](https://en.wikipedia.org/wiki/The_Big_Lightning) (1981) — Dmitri Shostakovich · words: Nikolai Aseev
+- [*Orango*](https://en.wikipedia.org/wiki/Orango_(Shostakovich%29) (2011) — Dmitri Shostakovich · words: Aleksey Tolstoy · Russian
+- [*Katyusha Maslova*](https://en.wikipedia.org/wiki/Katyusha_Maslova) — Dmitri Shostakovich · words: Anatoly Marienhof · Russian ✎
+- [*Thel*](https://en.wikipedia.org/wiki/Thel_(opera%29) (1989) — Dmitri Smirnov · words: Dmitri Smirnov ✎ ♫
+- [*Tiriel*](https://en.wikipedia.org/wiki/Tiriel_(opera%29) (1989) — Dmitri Smirnov · words: Dmitri Smirnov ✎ ♫
+- [*Colas Breugnon (opera)*](https://en.wikipedia.org/wiki/Colas_Breugnon_(opera%29) (1938) — Dmitry Borisovich Kabalevsky · Russian ♫
+- [*The Grey Legend*](https://en.wikipedia.org/wiki/The_Grey_Legend) — Dmitry Smolsky · Russian
+- [*Creonte*](https://en.wikipedia.org/wiki/Creonte_(opera%29) (1776) — Dmytro Bortnianskyi · words: Marco Coltellini · Italian ♫
+- [*Alcido*](https://en.wikipedia.org/wiki/Alcide_(Bortniansky%29) (1778) — Dmytro Bortnianskyi · words: Pietro Metastasio · Italian
+- [*Le faucon*](https://en.wikipedia.org/wiki/Le_faucon_(opera%29) (1786) — Dmytro Bortnianskyi · words: Franz-Hermann Lafermière · French ✎
+- [*Cô Sao*](https://en.wikipedia.org/wiki/C%C3%B4_Sao) — Đỗ Nhuận · Vietnamese
+- [*Mirra*](https://en.wikipedia.org/wiki/Mirra_(opera%29) (1913) — Domenico Alaleona · words: Vittorio Alfieri · Italian
+- [*Orfeo dolente*](https://en.wikipedia.org/wiki/Orfeo_dolente) (1616) — Domenico Belli · words: Gabriello Chiabrera · Italian
+- [*Le stravaganze del conte*](https://en.wikipedia.org/wiki/Le_stravaganze_del_conte) (1772) — Domenico Cimarosa · words: Giovanni Francesco Busenello · Italian
+- [*La finta parigina*](https://en.wikipedia.org/wiki/La_finta_parigina) (1773) — Domenico Cimarosa · words: Francesco Cerlone · Italian ♫
+- [*L'Armida immaginaria*](https://en.wikipedia.org/wiki/L%27Armida_immaginaria) (1777) — Domenico Cimarosa · words: Giuseppe Palomba · Italian ♫
+- [*Il ritorno di Don Calandrino*](https://en.wikipedia.org/wiki/Il_ritorno_di_Don_Calandrino) (1778) — Domenico Cimarosa · words: Giuseppe Petrosellini · Italian ✎ ♫
+- [*L'italiana in Londra*](https://en.wikipedia.org/wiki/L%27Italiana_in_Londra) (1778) — Domenico Cimarosa · words: Giuseppe Petrosellini · Italian ✎ ♫
+- [*Le donne rivali*](https://en.wikipedia.org/wiki/Le_donne_rivali) (1780) — Domenico Cimarosa · words: Giuseppe Petrosellini · Italian ♫
+- [*Giannina e Bernardone*](https://en.wikipedia.org/wiki/Giannina_e_Bernardone) (1781) — Domenico Cimarosa · words: Filippo Livigni · Italian ♫
+- [*L'impresario in angustie*](https://en.wikipedia.org/wiki/L%27impresario_in_angustie) (1786) — Domenico Cimarosa · words: Giuseppe Maria Diodati · Italian ♫
+- [*La Cleopatra*](https://en.wikipedia.org/wiki/La_Cleopatra_(Cimarosa%29) (1789) — Domenico Cimarosa · words: Ferdinando Moretti · Italian ♫
+- [*Il matrimonio segreto*](https://en.wikipedia.org/wiki/Il_matrimonio_segreto) (1792) — Domenico Cimarosa · words: Giovanni Bertati · Italian ✎ ♫
+- [*Il maestro di cappella*](https://en.wikipedia.org/wiki/Il_maestro_di_cappella) (1793) — Domenico Cimarosa · Italian
+- [*Le astuzie femminili*](https://en.wikipedia.org/wiki/Le_astuzie_femminili) (1794) — Domenico Cimarosa · words: Giuseppe Palomba · Italian ♫
+- [*Gli Orazi e i Curiazi*](https://en.wikipedia.org/wiki/Gli_Orazi_e_i_Curiazi) (1796) — Domenico Cimarosa · words: Antonio Simeone Sografi · Italian ✎ ♫
+- [*Artemisia*](https://en.wikipedia.org/wiki/Artemisia_(Cimarosa%29) — Domenico Cimarosa · Italian
+- [*Giunio Bruto*](https://en.wikipedia.org/wiki/Giunio_Bruto) — Domenico Cimarosa · Italian
+- [*La catena d'Adone*](https://en.wikipedia.org/wiki/La_catena_d%27Adone) (1626) — Domenico Mazzocchi · Italian ✎
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Sarro%29) (1724) — Domenico Sarro · words: Pietro Metastasio · Italian ✎ ♫
+- [*Achille in Sciro*](https://en.wikipedia.org/wiki/Achille_in_Sciro_(Sarro%29) (1737) — Domenico Sarro · words: Pietro Metastasio · Italian
+- [*Amor d'un ombra e gelosia d'un'aura*](https://en.wikipedia.org/wiki/Amor_d%27un%27ombra_e_gelosia_d%27un%27aura) (1714) — Domenico Scarlatti · words: Carlo Sigismondo Capece · Italian
+- [*Tolomeo e Alessandro*](https://en.wikipedia.org/wiki/Tolomeo_e_Alessandro) — Domenico Scarlatti · Italian
+- [*Christopher Sly*](https://en.wikipedia.org/wiki/Christopher_Sly_(opera%29) (1963) — Dominick Argento ♫
+- [*Postcard from Morocco*](https://en.wikipedia.org/wiki/Postcard_from_Morocco) (1971) — Dominick Argento · English ✎ ♫
+- [*Miss Havisham's Fire*](https://en.wikipedia.org/wiki/Miss_Havisham%27s_Fire) (1979) — Dominick Argento ♫
+- [*The Aspern Papers*](https://en.wikipedia.org/wiki/The_Aspern_Papers_(opera%29) (1988) — Dominick Argento · words: Dominick Argento ✎ ♫
+- [*Casanova's Homecoming*](https://en.wikipedia.org/wiki/Casanova%27s_Homecoming) — Dominick Argento · words: Dominick Argento ♫
+- [*Río de Sangre*](https://en.wikipedia.org/wiki/R%C3%ADo_de_Sangre) (2010) — Don Davis · words: Kate Gale · Spanish
+- [*The Bride of Dionysus*](https://en.wikipedia.org/wiki/The_Bride_of_Dionysus) (1929) — Donald Tovey · words: R. C. Trevelyan · English
+- [*Frederick Douglass*](https://en.wikipedia.org/wiki/Frederick_Douglass_(Moore_opera%29) (1985) — Dorothy Rudd Moore · words: Dorothy Rudd Moore · English
+- [*Doubt*](https://en.wikipedia.org/wiki/Doubt_(opera%29) (2013) — Douglas J. Cuomo · words: John Patrick Shanley
+- [*The Devil and Daniel Webster*](https://en.wikipedia.org/wiki/The_Devil_and_Daniel_Webster_(opera%29) (1939) — Douglas Moore · words: Stephen Vincent Benét · English ✎ ♫
+- [*Giants in the Earth*](https://en.wikipedia.org/wiki/Giants_in_the_Earth_(opera%29) (1951) — Douglas Moore · words: Arnold Sundgaard · English ✎ ♫
+- [*The Ballad of Baby Doe*](https://en.wikipedia.org/wiki/The_Ballad_of_Baby_Doe) (1956) — Douglas Moore · words: John La Touche ✎ ♫
+- [*Gallantry*](https://en.wikipedia.org/wiki/Gallantry_(opera%29) (1958) — Douglas Moore · words: Arnold Sundgaard ♫
+- [*The Wings of the Dove*](https://en.wikipedia.org/wiki/The_Wings_of_the_Dove_(opera%29) (1961) — Douglas Moore ♫
+- [*Carry Nation*](https://en.wikipedia.org/wiki/Carry_Nation_(opera%29) (1966) — Douglas Moore · words: W. N. Jayme
+- [*Angel's Bone*](https://en.wikipedia.org/wiki/Angel%27s_Bone) (2016) — Du Yun · words: Royce Vavrek ✎ ♫
+- [*Erwin und Elmire*](https://en.wikipedia.org/wiki/Erwin_und_Elmire) (1775) — Duchess Anna Amalia of Brunswick-Wolfenbüttel · words: Johann Wolfgang von Goethe · German ✎ ♫
+- [*Tale of the Moon Cuckoo*](https://en.wikipedia.org/wiki/Tale_of_the_Moon_Cuckoo) — Dulduityn Danzanravjaa ✎
+- [*Undine*](https://en.wikipedia.org/wiki/Undine_(Hoffmann%29) (1816) — E. T. A. Hoffmann · words: Friedrich de la Motte Fouqué, E. T. A. Hoffmann · German ♫
+- [*Liebe und Eifersucht*](https://en.wikipedia.org/wiki/Liebe_und_Eifersucht) (2008) — E. T. A. Hoffmann · words: E. T. A. Hoffmann, August Wilhelm von Schlegel · German
+- [*Mock Turtles*](https://en.wikipedia.org/wiki/Mock_Turtles_(opera%29) (1881) — Eaton Faning · words: Frank Desprez ✎
+- [*L'écume des jours*](https://en.wikipedia.org/wiki/L%27%C3%A9cume_des_jours_(opera%29) (1986) — Edison Denisov · words: Edison Denisov · French ✎ ♫
+- [*Les noces d'Olivette*](https://en.wikipedia.org/wiki/Les_noces_d%27Olivette) (1879) — Edmond Audran · words: Henri Chivot, Alfred Duru · French ✎
+- [*La cigale et la fourmi*](https://en.wikipedia.org/wiki/La_cigale_et_la_fourmi) (1886) — Edmond Audran · words: Henri Chivot, Alfred Duru · French ✎ ♫
+- [*La mascotte*](https://en.wikipedia.org/wiki/La_mascotte) — Edmond Audran · words: Henri Chivot, Alfred Duru · French ✎ ♫
+- [*Le roi d'Ys*](https://en.wikipedia.org/wiki/Le_roi_d%27Ys) (1888) — Edouard Lalo · words: Édouard Blau · French ✎ ♫
+- [*La jacquerie*](https://en.wikipedia.org/wiki/La_jacquerie) (1895) — Edouard Lalo · words: Édouard Blau, Simone Arnaud · French ✎ ♫
+- [*Fiesque*](https://en.wikipedia.org/wiki/Fiesque) (2007) — Édouard Lalo · words: Charles Beauquier · French ✎
+- [*Dubrovsky*](https://en.wikipedia.org/wiki/Dubrovsky_(opera%29) (1895) — Eduard Nápravník · words: Modest Tchaikovsky · Russian ✎ ♫
+- [*Barbara von Tisenhusen*](https://en.wikipedia.org/wiki/Barbara_von_Tisenhusen) (1969) — Eduard Tubin · words: Jaan Kross · Estonian
+- [*A Place to Call Home*](https://en.wikipedia.org/wiki/A_Place_to_Call_Home_(opera%29) (1993) — Edward Barnes · words: Edward Barnes · English
+- [*A Muskrat Lullaby*](https://en.wikipedia.org/wiki/A_Muskrat_Lullaby) — Edward Barnes · English
+- [*Mystery on the Docks*](https://en.wikipedia.org/wiki/Mystery_on_the_Docks) — Edward Barnes
+- [*Fallen Fairies*](https://en.wikipedia.org/wiki/Fallen_Fairies) (1909) — Edward German · words: W. S. Gilbert · English ✎ ♫
+- [*A Princess of Kensington*](https://en.wikipedia.org/wiki/A_Princess_of_Kensington) — Edward German ✎ ♫
+- [*Merrie England*](https://en.wikipedia.org/wiki/Merrie_England_(opera%29) — Edward German ✎ ♫
+- [*The Rival Poets*](https://en.wikipedia.org/wiki/The_Rival_Poets) — Edward German · English ♫
+- [*Tom Jones*](https://en.wikipedia.org/wiki/Tom_Jones_(Edward_German%29) — Edward German · words: Alexander M. Thompson, Charles H. Taylor, Robert Courtneidge ✎ ♫
+- [*The Queen of Brilliants*](https://en.wikipedia.org/wiki/The_Queen_of_Brilliants) — Edward Jakobowski · words: Brandon Thomas ✎
+- [*Trump on show*](https://en.wikipedia.org/wiki/Trump_on_Show) (2019) — Edward Li Kui-ming · words: Edward Li Kui-ming · Cantonese
+- [*Raymond and Agnes*](https://en.wikipedia.org/wiki/Raymond_and_Agnes) — Edward Loder ✎ ♫
+- [*Billee Taylor*](https://en.wikipedia.org/wiki/Billee_Taylor) (1880) — Edward Solomon · words: Henry Pottinger Stephens ✎ ♫
+- [*Claude Duval*](https://en.wikipedia.org/wiki/Claude_Duval_(opera%29) (1881) — Edward Solomon · words: Henry Pottinger Stephens ✎
+- [*Quite an Adventure*](https://en.wikipedia.org/wiki/Quite_an_Adventure) (1881) — Edward Solomon · words: Frank Desprez ✎ ♫
+- [*Pepita; or*](https://en.wikipedia.org/wiki/Pepita;_or,_the_Girl_with_the_Glass_Eyes) (1886) — Edward Solomon · words: Alfred Thompson · English ✎
+- [*The Nautch Girl*](https://en.wikipedia.org/wiki/The_Nautch_Girl) (1891) — Edward Solomon · words: Frank Desprez, George Dance · English ✎ ♫
+- [*’u’*](https://en.wikipedia.org/wiki/%CA%BCu%CA%BC) (2010) — Eef van Breen · words: Kees Ligtelijn, Marc Okrand · Klingon ✎ ♫
+- [*Le peintre amoureux de son modèle*](https://en.wikipedia.org/wiki/Le_peintre_amoureux_de_son_mod%C3%A8le) (1757) — Egidio Duni · words: Louis Anseaume · French ♫
+- [*L'école de la jeunesse*](https://en.wikipedia.org/wiki/L%27%C3%A9cole_de_la_jeunesse) (1765) — Egidio Duni · words: Louis Anseaume · French
+- [*La fée Urgèle*](https://en.wikipedia.org/wiki/La_f%C3%A9e_Urg%C3%A8le) (1765) — Egidio Duni · words: Charles Simon Favart · French ✎
+- [*Die Prinzessin Girnara*](https://en.wikipedia.org/wiki/Die_Prinzessin_Girnara) (1921) — Egon Wellesz · words: Jakob Wassermann · German ♫
+- [*Die Opferung des Gefangenen*](https://en.wikipedia.org/wiki/Die_Opferung_des_Gefangenen) (1926) — Egon Wellesz · German
+- [*Die Bakchantinnen*](https://en.wikipedia.org/wiki/Die_Bakchantinnen) (1931) — Egon Wellesz · German ✎ ♫
+- [*Cyrano de Bergerac*](https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(Tamberg%29) (1976) — Eino Tamberg · words: Jaan Kross · Estonian ♫
+- [*Vincent*](https://en.wikipedia.org/wiki/Vincent_(opera%29) (1990) — Einojuhani Rautavaara · words: Rautavaara ✎ ♫
+- [*Aleksis Kivi*](https://en.wikipedia.org/wiki/Aleksis_Kivi_(opera%29) (1997) — Einojuhani Rautavaara · words: Einojuhani Rautavaara · Finnish
+- [*Rasputin*](https://en.wikipedia.org/wiki/Rasputin_(opera%29) (2003) — Einojuhani Rautavaara · Finnish ✎ ♫
+- [*The Gift of the Magi*](https://en.wikipedia.org/wiki/The_Gift_of_the_Magi_(Rautavaara_opera%29) — Einojuhani Rautavaara
+- [*The House of the Sun*](https://en.wikipedia.org/wiki/The_House_of_the_Sun_(opera%29) — Einojuhani Rautavaara · Finnish
+- [*Thomas*](https://en.wikipedia.org/wiki/Thomas_(opera%29) — Einojuhani Rautavaara · words: Einojuhani Rautavaara · Finnish
+- [*The Nightingale and the Rose*](https://en.wikipedia.org/wiki/The_Nightingale_and_the_Rose_(opera%29) (1994) — Elena Firsova · words: Elena Firsova ✎ ♫
+- [*Figaro Gets a Divorce*](https://en.wikipedia.org/wiki/Figaro_Gets_a_Divorce) (2016) — Elena Langer · words: David Pountney · English ✎ ♫
+- [*Céphale et Procris*](https://en.wikipedia.org/wiki/C%C3%A9phale_et_Procris_(Jacquet_de_La_Guerre%29) (1694) — Élisabeth Jacquet de La Guerre · French ✎ ♫
+- [*Neprigozhaya*](https://en.wikipedia.org/wiki/Neprigozhaya) — Ella Adayevskaya · words: Rudolf Theodor Sophus Minzloff/Minclov ✎
+- [*Prism*](https://en.wikipedia.org/wiki/Prism_(opera%29) (2018) — Ellen Reid · words: Roxie Perkins ✎ ♫
+- [*What Next?*](https://en.wikipedia.org/wiki/What_Next%3F_(opera%29) (1999) — Elliott Carter · words: Paul Griffiths ✎ ♫
+- [*Donna Diana*](https://en.wikipedia.org/wiki/Donna_Diana) (1894) — Emil von Reznicek · words: von Reznicek ✎ ♫
+- [*Ritter Blaubart*](https://en.wikipedia.org/wiki/Ritter_Blaubart) (1920) — Emil von Reznicek · words: Herbert Eulenberg ♫
+- [*Benzin*](https://en.wikipedia.org/wiki/Benzin_(opera%29) (2010) — Emil von Reznicek · words: Emil von Reznicek · German
+- [*Patrie!*](https://en.wikipedia.org/wiki/Patrie!) (1886) — Émile Paladilhe · words: Victorien Sardou · French ♫
+- [*Rappresentatione di Anima, et di Corpo*](https://en.wikipedia.org/wiki/Rappresentatione_di_Anima,_et_di_Corpo) (1600) — Emilio de' Cavalieri · words: Agostino Manni · Italian
+- [*Found and Lost*](https://en.wikipedia.org/wiki/Found_and_Lost_(opera%29) — Emily Hall · English
+- [*Madame Bovary*](https://en.wikipedia.org/wiki/Madame_Bovary_(opera%29) — Emmanuel Bondeville · French
+- [*Fisch-Ton-Kan*](https://en.wikipedia.org/wiki/Fisch-Ton-Kan) (1875) — Emmanuel Chabrier · words: Paul Verlaine · French ✎ ♫
+- [*L'étoile*](https://en.wikipedia.org/wiki/L%27%C3%A9toile_(opera%29) (1877) — Emmanuel Chabrier · words: Eugène Leterrier · French ✎ ♫
+- [*Gwendoline*](https://en.wikipedia.org/wiki/Gwendoline_(opera%29) (1886) — Emmanuel Chabrier · words: Catulle Mendès · French ✎ ♫
+- [*Le roi malgré lui*](https://en.wikipedia.org/wiki/Le_roi_malgr%C3%A9_lui) (1887) — Emmanuel Chabrier · words: Émile de Najac · French ✎ ♫
+- [*Briséïs*](https://en.wikipedia.org/wiki/Bris%C3%A9%C3%AFs) (1899) — Emmanuel Chabrier · words: Catulle Mendès, Ephraïm Mikaël · French ✎ ♫
+- [*Vaucochard et fils Ier*](https://en.wikipedia.org/wiki/Vaucochard_et_fils_Ier) (1941) — Emmanuel Chabrier · words: Paul Verlaine · French ♫
+- [*Die Bajadere*](https://en.wikipedia.org/wiki/Die_Bajadere_(operetta%29) (1921) — Emmerich Kálmán · words: Alfred Grünwald, Julius Brammer · German ✎ ♫
+- [*Das Veilchen vom Montmartre*](https://en.wikipedia.org/wiki/Das_Veilchen_vom_Montmartre) (1930) — Emmerich Kálmán · words: Alfred Grünwald, Julius Brammer · German ♫
+- [*Arizona Lady*](https://en.wikipedia.org/wiki/Arizona_Lady) — Emmerich Kálmán · words: Alfred Grünwald, Gustav Beer ✎ ♫
+- [*Hänsel und Gretel*](https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera%29) (1893) — Engelbert Humperdinck · words: Adelheid Wette · German ✎ ♫
+- [*Königskinder*](https://en.wikipedia.org/wiki/K%C3%B6nigskinder) (1897) — Engelbert Humperdinck · words: Else Bernstein-Porges · German ✎ ♫
+- [*Dornröschen*](https://en.wikipedia.org/wiki/Dornr%C3%B6schen) (1902) — Engelbert Humperdinck · words: Elisabeth Ebeling, Bertha Lehmann-Filhés · German
+- [*Partenope*](https://en.wikipedia.org/wiki/Partenope_(Morricone%29) (1998) — Ennio Morricone · words: Sandro Cappelletto · Italian
+- [*I Shardana*](https://en.wikipedia.org/wiki/I_Shardana) (1959) — Ennio Porrino · words: Ennio Porrino · Italian
+- [*María del Carmen*](https://en.wikipedia.org/wiki/Mar%C3%ADa_del_Carmen) (1898) — Enrique Granados · words: Josep Feliu i Codina · Spanish ✎ ♫
+- [*Goyescas*](https://en.wikipedia.org/wiki/Goyescas_(opera%29) (1916) — Enrique Granados · words: Fernando Periquet Zuaznábar · Spanish ✎ ♫
+- [*Our American Cousin*](https://en.wikipedia.org/wiki/Our_American_Cousin_(opera%29) (2008) — Eric Sawyer ✎ ♫
+- [*The Garden of Martyrs*](https://en.wikipedia.org/wiki/The_Garden_of_Martyrs) (2013) — Eric Sawyer ✎ ♫
+- [*The Scarlet Professor*](https://en.wikipedia.org/wiki/The_Scarlet_Professor) (2017) — Eric Sawyer ♫
+- [*Queen of Knives*](https://en.wikipedia.org/wiki/Queen_of_Knives) (2010) — Eric Stern · words: Eric Stern ✎ ♫
+- [*Der Ring des Polykrates*](https://en.wikipedia.org/wiki/Der_Ring_des_Polykrates_(opera%29) (1916) — Erich Wolfgang Korngold · words: Leo Feld, Julius Korngold · German ✎ ♫
+- [*Violanta*](https://en.wikipedia.org/wiki/Violanta) (1916) — Erich Wolfgang Korngold · words: Hans Müller-Einigen · German ✎ ♫
+- [*Die tote Stadt*](https://en.wikipedia.org/wiki/Die_tote_Stadt) (1920) — Erich Wolfgang Korngold · words: Paul Schott · German ✎ ♫
+- [*Das Wunder der Heliane*](https://en.wikipedia.org/wiki/Das_Wunder_der_Heliane) (1927) — Erich Wolfgang Korngold · words: Hans Müller-Einigen ✎ ♫
+- [*Die Kathrin*](https://en.wikipedia.org/wiki/Die_Kathrin) (1939) — Erich Wolfgang Korngold · words: Ernst Décsey · German ✎ ♫
+- [*Zeisls Hiob*](https://en.wikipedia.org/wiki/Zeisls_Hiob) (2014) — Erich Zeisl, Jan Duszyński · words: Miron Hakenbeck ✎ ♫
+- [*Det sjungande trädet (opera)*](https://en.wikipedia.org/wiki/Det_sjungande_tr%C3%A4det_(opera%29) (1995) — Erik Bergman · words: Bo Carpelan ✎ ♫
+- [*Geneviève de Brabant*](https://en.wikipedia.org/wiki/Genevi%C3%A8ve_de_Brabant_(Satie%29) — Erik Satie · words: Patrice Contamine de Latour
+- [*Aino*](https://en.wikipedia.org/wiki/Aino_(Melartin%29) — Erkki Melartin · words: Jalmari Finne · Finnish ✎
+- [*Wallenberg*](https://en.wikipedia.org/wiki/Wallenberg_(opera%29) (2001) — Erkki-Sven Tüür · words: Lutz Hübner · German ✎ ♫
+- [*Le donne curiose*](https://en.wikipedia.org/wiki/Le_donne_curiose) (1903) — Ermanno Wolf-Ferrari · words: Luigi Sugana · Italian ✎ ♫
+- [*I quatro rusteghi*](https://en.wikipedia.org/wiki/I_quatro_rusteghi) (1906) — Ermanno Wolf-Ferrari · words: Luigi Sugana, Giuseppe Pizzolato · Venetian ✎ ♫
+- [*Il segreto di Susanna*](https://en.wikipedia.org/wiki/Il_segreto_di_Susanna) (1909) — Ermanno Wolf-Ferrari · words: Enrico Golisciani · Italian ✎ ♫
+- [*I gioielli della Madonna*](https://en.wikipedia.org/wiki/I_gioielli_della_Madonna) (1911) — Ermanno Wolf-Ferrari · words: Ermanno Wolf-Ferrari, Carlo Zangarini, Enrico Golisciani, Hans Liebstöckl · German/Italian ✎ ♫
+- [*L'amore medico*](https://en.wikipedia.org/wiki/L%27amore_medico) (1913) — Ermanno Wolf-Ferrari · words: Enrico Golisciani · Italian ♫
+- [*Gli amanti sposi*](https://en.wikipedia.org/wiki/Gli_amanti_sposi) (1925) — Ermanno Wolf-Ferrari · words: Giovacchino Forzano, Luigi Sugana · Italian
+- [*Das Himmelskleid*](https://en.wikipedia.org/wiki/Das_Himmelskleid) (1927) — Ermanno Wolf-Ferrari · words: Ermanno Wolf-Ferrari · Italian
+- [*Sly*](https://en.wikipedia.org/wiki/Sly_(opera%29) (1927) — Ermanno Wolf-Ferrari · words: Giovacchino Forzano · Italian ♫
+- [*La vedova scaltra*](https://en.wikipedia.org/wiki/La_vedova_scaltra) (1931) — Ermanno Wolf-Ferrari · words: Mario Ghisalberti · Italian ✎ ♫
+- [*Il campiello*](https://en.wikipedia.org/wiki/Il_campiello) (1936) — Ermanno Wolf-Ferrari · words: Mario Ghisalberti · Italian ✎ ♫
+- [*La dama boba*](https://en.wikipedia.org/wiki/La_dama_boba_(opera%29) (1937) — Ermanno Wolf-Ferrari · words: Mario Ghisalberti · Italian
+- [*Gli dei a Tebe*](https://en.wikipedia.org/wiki/Gli_dei_a_Tebe) (1943) — Ermanno Wolf-Ferrari · Italian ✎
+- [*Macbeth*](https://en.wikipedia.org/wiki/Macbeth_(Bloch%29) (1910) — Ernest Bloch · words: Edmond Fleg · French ✎ ♫
+- [*Le roi Arthus*](https://en.wikipedia.org/wiki/Le_roi_Arthus) (1903) — Ernest Chausson · words: Ernest Chausson · French ✎ ♫
+- [*Mr. Jericho*](https://en.wikipedia.org/wiki/Mr._Jericho) (1893) — Ernest Ford · words: Harry Greenbank · English ✎
+- [*Jane Annie, or The Good Conduct Prize*](https://en.wikipedia.org/wiki/Jane_Annie) — Ernest Ford · words: Arthur Conan Doyle, J. M. Barrie ✎ ♫
+- [*La statue*](https://en.wikipedia.org/wiki/La_statue) (1861) — Ernest Reyer · words: Jules Barbier, Michel Carré · French ✎ ♫
+- [*Sigurd*](https://en.wikipedia.org/wiki/Sigurd_(opera%29) (1884) — Ernest Reyer · words: Camille du Locle · French ✎ ♫
+- [*Salammbô*](https://en.wikipedia.org/wiki/Salammb%C3%B4_(Reyer%29) (1890) — Ernest Reyer · words: Camille du Locle · French ♫
+- [*Diana von Solange*](https://en.wikipedia.org/wiki/Diana_von_Solange) (1858) — Ernst II of Saxe-Coburg-Gotha · words: Otto Prechtler
+- [*Der Sprung über den Schatten*](https://en.wikipedia.org/wiki/Der_Sprung_%C3%BCber_den_Schatten) (1924) — Ernst Krenek · words: Ernst Krenek ♫
+- [*Orpheus und Eurydike*](https://en.wikipedia.org/wiki/Orpheus_und_Eurydike) (1926) — Ernst Krenek · words: Oskar Kokoschka ♫
+- [*Jonny spielt auf*](https://en.wikipedia.org/wiki/Jonny_spielt_auf) (1927) — Ernst Krenek · words: Ernst Krenek · German ✎ ♫
+- [*Das geheime Königreich*](https://en.wikipedia.org/wiki/Das_geheime_K%C3%B6nigreich) (1928) — Ernst Krenek · words: Ernst Krenek · German ♫
+- [*Der Diktator*](https://en.wikipedia.org/wiki/Der_Diktator) (1928) — Ernst Krenek · words: Ernst Krenek · German ✎ ♫
+- [*Schwergewicht oder die Ehre der Nation*](https://en.wikipedia.org/wiki/Schwergewicht) (1928) — Ernst Krenek · words: Krenek ✎ ♫
+- [*Leben des Orest*](https://en.wikipedia.org/wiki/Leben_des_Orest) (1930) — Ernst Krenek · words: Ernst Krenek · German ✎ ♫
+- [*Cefalo e Procri*](https://en.wikipedia.org/wiki/Cefalo_e_Procri) (1934) — Ernst Krenek · words: Rinaldo Küfferle · Italian ♫
+- [*Karl V.*](https://en.wikipedia.org/wiki/Karl_V._(opera%29) (1938) — Ernst Krenek · words: Ernst Krenek · German ♫
+- [*Tarquin*](https://en.wikipedia.org/wiki/Tarquin_(opera%29) (1950) — Ernst Krenek · words: Emmet Lavery · English ♫
+- [*The Bell Tower*](https://en.wikipedia.org/wiki/The_Bell_Tower) (1957) — Ernst Krenek · words: Krenek ♫
+- [*What Price Confidence?*](https://en.wikipedia.org/wiki/What_Price_Confidence%3F) (1962) — Ernst Krenek · words: Krenek ✎ ♫
+- [*Sardakai*](https://en.wikipedia.org/wiki/Sardakai) (1970) — Ernst Krenek · words: Krenek
+- [*O Garatuja*](https://en.wikipedia.org/wiki/O_Garatuja) (2006) — Ernst Mahle · words: Eugênio Leandro
+- [*Marco Visconti*](https://en.wikipedia.org/wiki/Marco_Visconti_(opera%29) (1852) — Errico Petrella · words: Domenico Bolognese ✎ ♫
+- [*Jone*](https://en.wikipedia.org/wiki/Jone_(opera%29) (1858) — Errico Petrella · words: Giovanni Peruzzini · Italian ✎ ♫
+- [*Flammen*](https://en.wikipedia.org/wiki/Flammen_(Schulhoff%29) (1932) — Erwin Schulhoff · words: Max Brod, Karel Josef Beneš · German/Czech ✎ ♫
+- [*Fantasio*](https://en.wikipedia.org/wiki/Fantasio_(Smyth%29) (1898) — Ethel Smyth · words: Ethel Smyth, Henry Bennet Brewster · English
+- [*Der Wald*](https://en.wikipedia.org/wiki/Der_Wald) (1902) — Ethel Smyth · words: Ethel Smyth · German ✎ ♫
+- [*The Wreckers*](https://en.wikipedia.org/wiki/The_Wreckers_(opera%29) (1906) — Ethel Smyth · words: Henry Bennet Brewster · French/German/English ✎ ♫
+- [*The Boatswain's Mate*](https://en.wikipedia.org/wiki/The_Boatswain%27s_Mate) (1916) — Ethel Smyth · words: Ethel Smyth · English ✎ ♫
+- [*Fête Galante*](https://en.wikipedia.org/wiki/F%C3%AAte_Galante_(Smyth%29) (1923) — Ethel Smyth · words: Ethel Smyth, Edward Shanks ♫
+- [*Entente Cordiale*](https://en.wikipedia.org/wiki/Entente_Cordiale_(opera%29) (1925) — Ethel Smyth · words: Ethel Smyth ✎ ♫
+- [*Euphrosine*](https://en.wikipedia.org/wiki/Euphrosine) (1790) — Étienne Méhul · words: François-Benoît Hoffman · French ✎ ♫
+- [*Stratonice*](https://en.wikipedia.org/wiki/Stratonice_(opera%29) (1792) — Étienne Méhul · words: François-Benoît Hoffman · French ✎ ♫
+- [*Le jeune sage et le vieux fou*](https://en.wikipedia.org/wiki/Le_jeune_sage_et_le_vieux_fou) (1793) — Étienne Méhul · words: François-Benoît Hoffman · French ✎ ♫
+- [*Horatius Coclès*](https://en.wikipedia.org/wiki/Horatius_Cocl%C3%A8s) (1794) — Étienne Méhul · words: Antoine-Vincent Arnault · French ✎ ♫
+- [*Mélidore et Phrosine*](https://en.wikipedia.org/wiki/M%C3%A9lidore_et_Phrosine) (1794) — Étienne Méhul · words: Antoine-Vincent Arnault · French ✎ ♫
+- [*Doria*](https://en.wikipedia.org/wiki/Doria_(opera%29) (1795) — Étienne Méhul ✎ ♫
+- [*La caverne*](https://en.wikipedia.org/wiki/La_caverne_(M%C3%A9hul%29) (1795) — Étienne Méhul · words: Nicolas-Julien Forgeot · French ✎ ♫
+- [*Le jeune Henri*](https://en.wikipedia.org/wiki/Le_jeune_Henri) (1797) — Étienne Méhul · words: Jean-Nicolas Bouilly · French ♫
+- [*Adrien*](https://en.wikipedia.org/wiki/Adrien_(opera%29) (1799) — Étienne Méhul · words: François-Benoît Hoffman · French ✎ ♫
+- [*Ariodant*](https://en.wikipedia.org/wiki/Ariodant) (1799) — Étienne Méhul · words: François-Benoît Hoffman · French ✎ ♫
+- [*L'irato*](https://en.wikipedia.org/wiki/L%27irato) (1801) — Étienne Méhul · words: Benoît-Joseph Marsollier · French ✎ ♫
+- [*Joanna*](https://en.wikipedia.org/wiki/Joanna_(opera%29) (1802) — Étienne Méhul · words: Benoît-Joseph Marsollier · French ✎ ♫
+- [*Le trésor supposé*](https://en.wikipedia.org/wiki/Le_tr%C3%A9sor_suppos%C3%A9) (1802) — Étienne Méhul · words: François-Benoît Hoffman · French ✎ ♫
+- [*Une folie*](https://en.wikipedia.org/wiki/Une_folie) (1802) — Étienne Méhul · words: Jean-Nicolas Bouilly · French ✎ ♫
+- [*Héléna*](https://en.wikipedia.org/wiki/H%C3%A9l%C3%A9na_(opera%29) (1803) — Étienne Méhul · words: Jean-Nicolas Bouilly, Jacques-Antoine de Révérony Saint-Cyr · French ✎ ♫
+- [*Uthal*](https://en.wikipedia.org/wiki/Uthal_(opera%29) (1806) — Étienne Méhul · words: Jacques Bins, comte de Jacqueline · French ✎ ♫
+- [*Joseph*](https://en.wikipedia.org/wiki/Joseph_(opera%29) (1807) — Étienne Méhul · words: Alexandre-Vincent Pineux Duval · French ✎ ♫
+- [*Les amazones*](https://en.wikipedia.org/wiki/Les_amazones) (1811) — Étienne Méhul · words: Victor-Joseph Étienne de Jouy · French ♫
+- [*L'oriflamme*](https://en.wikipedia.org/wiki/L%27oriflamme_(opera%29) (1814) — Étienne Méhul · French ✎ ♫
+- [*Valentine de Milan*](https://en.wikipedia.org/wiki/Valentine_de_Milan) (1822) — Étienne Méhul, Joseph Daussoigne-Méhul · words: Jean-Nicolas Bouilly · French ✎ ♫
+- [*Bion*](https://en.wikipedia.org/wiki/Bion_(opera%29) — Étienne Méhul · words: François-Benoît Hoffman · French ✎ ♫
+- [*Cora*](https://en.wikipedia.org/wiki/Cora_(opera%29) — Étienne Méhul ♫
+- [*Aurora*](https://en.wikipedia.org/wiki/Aurora_(opera%29) (1908) — Ettore Panizza · words: Luigi Illica, Héctor Quesada · Italian ✎
+- [*Il padiglione delle meraviglie*](https://en.wikipedia.org/wiki/Il_padiglione_delle_meraviglie) — Ettore Petrolini · Italian
+- [*Die Abreise*](https://en.wikipedia.org/wiki/Die_Abreise) (1898) — Eugen d'Albert ✎ ♫
+- [*Tiefland*](https://en.wikipedia.org/wiki/Tiefland_(opera%29) (1903) — Eugen d'Albert · words: Rudolf Lothar · German ✎ ♫
+- [*Die toten Augen*](https://en.wikipedia.org/wiki/Die_toten_Augen) (1916) — Eugen d'Albert · words: Hanns Heinz Ewers · German ✎ ♫
+- [*Der Golem*](https://en.wikipedia.org/wiki/Der_Golem_(opera%29) (1926) — Eugen d'Albert · words: Ferdinand Lion ♫
+- [*Grete Minde*](https://en.wikipedia.org/wiki/Grete_Minde_(opera%29) (2022) — Eugen Engel · words: Hans Bodenstedt · German ✎ ♫
+- [*Krútňava*](https://en.wikipedia.org/wiki/Kr%C3%BAt%C5%88ava) (1949) — Eugen Suchoň · words: Eugen Suchoň, Štefan Hoza · Slovak ♫
+- [*Svätopluk*](https://en.wikipedia.org/wiki/Sv%C3%A4topluk_(opera%29) (1960) — Eugen Suchoň · words: Eugen Suchoň, Ivan Stodola · Slovak ✎ ♫
+- [*Vikerlased*](https://en.wikipedia.org/wiki/Vikerlased) (1928) — Evald Aav · Estonian
+- [*The Trials of Galileo*](https://en.wikipedia.org/wiki/The_Trials_of_Galileo) — Ezra Laderman · words: Joe Darion ✎
+- [*Le Testament de Villon*](https://en.wikipedia.org/wiki/Le_Testament_de_Villon) (1926) — Ezra Pound, George Antheil
+- [*Holger Danske*](https://en.wikipedia.org/wiki/Holger_Danske_(opera%29) — F.L.Æ. Kunzen ✎
+- [*Teneke*](https://en.wikipedia.org/wiki/Teneke_(opera%29) (2007) — Fabio Vacchi · words: Franco Marcoaldi · Italian ✎ ♫
+- [*El poeta*](https://en.wikipedia.org/wiki/El_poeta) (1980) — Federico Moreno Torroba · Spanish ✎ ♫
+- [*La Perle du Brésil*](https://en.wikipedia.org/wiki/La_perle_du_Br%C3%A9sil) (1851) — Félicien-César David · words: Jules Joseph Gabriel Lurieu, Sylvain Saint-Étienne · French ✎ ♫
+- [*Herculanum*](https://en.wikipedia.org/wiki/Herculanum_(opera%29) (1859) — Félicien-César David · words: Joseph Méry, Terence Hadot · French ✎ ♫
+- [*Lalla-Roukh*](https://en.wikipedia.org/wiki/Lalla-Roukh) (1862) — Félicien-César David · words: Michel Carré, Hippolyte-Julien-Joseph Lucas · French ✎ ♫
+- [*Legenda Bałtyku*](https://en.wikipedia.org/wiki/Legenda_Ba%C5%82tyku) (1924) — Feliks Nowowiejski · words: Waleria Szalay-Groele · Polish ✎
+- [*Els Pirineus*](https://en.wikipedia.org/wiki/Els_Pirineus) (1902) — Felip Pedrell · Italian
+- [*Noli Me Tangere*](https://en.wikipedia.org/wiki/Noli_Me_Tangere_(opera%29) (1957) — Felipe Padilla de Leon · words: Guillermo Tolentino · Tagalog ✎ ♫
+- [*El Filibusterismo*](https://en.wikipedia.org/wiki/El_Filibusterismo_(opera%29) (1970) — Felipe Padilla de Leon · Tagalog ♫
+- [*Die beiden Neffen*](https://en.wikipedia.org/wiki/Die_beiden_Neffen) (1824) — Felix Mendelssohn · words: Johann Ludwig Casper ✎ ♫
+- [*Die Hochzeit des Camacho*](https://en.wikipedia.org/wiki/Die_Hochzeit_des_Camacho) (1827) — Felix Mendelssohn · words: Friedrich Voigts? · German ✎ ♫
+- [*Die Heimkehr aus der Fremde*](https://en.wikipedia.org/wiki/Die_Heimkehr_aus_der_Fremde) (1829) — Felix Mendelssohn · words: Karl Klingemann ✎ ♫
+- [*Die Dorfschule*](https://en.wikipedia.org/wiki/Die_Dorfschule) — Felix von Weingartner
+- [*Kain und Abel*](https://en.wikipedia.org/wiki/Kain_und_Abel) — Felix von Weingartner ✎ ♫
+- [*Agamemnon*](https://en.wikipedia.org/wiki/Agamemnon_(opera%29) — Felix Werder ♫
+- [*Zampa*](https://en.wikipedia.org/wiki/Zampa) (1831) — Ferdinand Hérold · words: Mélesville · French ✎ ♫
+- [*Le pré aux clercs*](https://en.wikipedia.org/wiki/Le_pr%C3%A9_aux_clercs) (1832) — Ferdinand Hérold · words: Eugène de Planard · French ✎ ♫
+- [*I fuorusciti*](https://en.wikipedia.org/wiki/I_fuorusciti_di_Firenze) (1802) — Ferdinando Paër · words: Angelo Anelli · Italian ✎ ♫
+- [*Leonora*](https://en.wikipedia.org/wiki/Leonora_(opera%29) (1804) — Ferdinando Paër · words: Giovanni Schmidt · Italian ✎ ♫
+- [*Agnese*](https://en.wikipedia.org/wiki/Agnese_(opera%29) (1809) — Ferdinando Paër · words: L. Giannetti, Luigi Buonavoglia · Italian
+- [*Le maître de chapelle*](https://en.wikipedia.org/wiki/Le_ma%C3%AEtre_de_chapelle) (1821) — Ferdinando Paër · words: Sophie Gay · French ✎ ♫
+- [*Orphée et Euridice*](https://en.wikipedia.org/wiki/Orph%C3%A9e_et_Euridice_(Paer%29) — Ferdinando Paër · French
+- [*Bátori Mária*](https://en.wikipedia.org/wiki/B%C3%A1tori_M%C3%A1ria) (1840) — Ferenc Erkel · words: Béni Egressy · Hungarian ✎ ♫
+- [*Hunyadi László*](https://en.wikipedia.org/wiki/Hunyadi_L%C3%A1szl%C3%B3_(opera%29) (1844) — Ferenc Erkel · words: Béni Egressy · Hungarian ✎ ♫
+- [*Bánk bán*](https://en.wikipedia.org/wiki/B%C3%A1nk_b%C3%A1n) (1861) — Ferenc Erkel · words: Béni Egressy · Hungarian ✎ ♫
+- [*Sarolta*](https://en.wikipedia.org/wiki/Sarolta) (1862) — Ferenc Erkel · Hungarian ✎
+- [*György Dózsa*](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_D%C3%B3zsa_(opera%29) (1867) — Ferenc Erkel · words: Ede Szigligeti ✎ ♫
+- [*István király*](https://en.wikipedia.org/wiki/Istv%C3%A1n_kir%C3%A1ly) (1885) — Ferenc Erkel · words: Antal Váradi ✎ ♫
+- [*György Brankovics*](https://en.wikipedia.org/wiki/Brankovics_Gy%C3%B6rgy) — Ferenc Erkel · words: Ferenc Ormai, Lehel Odry · Hungarian ♫
+- [*Névtelen hősök*](https://en.wikipedia.org/wiki/N%C3%A9vtelen_h%C5%91s%C3%B6k) — Ferenc Erkel
+- [*King Midas' Ears*](https://en.wikipedia.org/wiki/King_Midas%27_Ears) — Ferit Tüzün · Turkish ♫
+- [*Telemaco nell'isola di Calipso*](https://en.wikipedia.org/wiki/Telemaco_(Sor%29) (1797) — Fernando Sor · words: Carlo Sigismondo Capece · Italian ♫
+- [*A Raíña Lupa*](https://en.wikipedia.org/wiki/A_Ra%C3%AD%C3%B1a_Lupa) (2016) — Fernando Vázquez Arias · words: Xoán Pérez · Galician ♫
+- [*Die Brautwahl*](https://en.wikipedia.org/wiki/Die_Brautwahl) (1912) — Ferruccio Busoni · words: Ferruccio Busoni · German ✎ ♫
+- [*Arlecchino*](https://en.wikipedia.org/wiki/Arlecchino_(opera%29) (1917) — Ferruccio Busoni · words: Ferruccio Busoni · German ✎ ♫
+- [*Turandot*](https://en.wikipedia.org/wiki/Turandot_(Busoni%29) (1917) — Ferruccio Busoni · words: Ferruccio Busoni · German ✎ ♫
+- [*Doktor Faust*](https://en.wikipedia.org/wiki/Doktor_Faust) (1925) — Ferruccio Busoni · words: Ferruccio Busoni · German ✎ ♫
+- [*Sevil*](https://en.wikipedia.org/wiki/Sevil_(opera%29) (1953) — Fikret Amirov · words: Talat Eyyubov · Azerbaijani ♫
+- [*La Celestina*](https://en.wikipedia.org/wiki/La_Celestina_(opera%29) (1963) — Flavio Testi · words: Renato Prinzhofer
+- [*Saül*](https://en.wikipedia.org/wiki/Sa%C3%BCl_(opera%29) — Flavio Testi · French
+- [*La liberazione di Ruggiero dall'isola d'Alcina*](https://en.wikipedia.org/wiki/La_liberazione_di_Ruggiero) (1625) — Francesca Caccini · words: Ferdinando Saracinelli · Italian
+- [*Tsefal i Prokris*](https://en.wikipedia.org/wiki/Tsefal_i_Prokris) (1755) — Francesco Araja · words: Alexander Sumarokov · Russian ✎
+- [*Don Chisciotte in Sierra Morena*](https://en.wikipedia.org/wiki/Don_Chisciotte_in_Sierra_Morena) (1719) — Francesco Bartolomeo Conti · words: Pietro Pariati, Apostolo Zeno · Italian ✎ ♫
+- [*Castore e Polluce*](https://en.wikipedia.org/wiki/Castore_e_Polluce) (1779) — Francesco Bianchi · words: Carlo Innocenzo Frugoni · Italian ✎ ♫
+- [*L'Arbace*](https://en.wikipedia.org/wiki/Arbace) (1781) — Francesco Bianchi · words: Gaetano Sertor · Italian ✎ ♫
+- [*La Zemira*](https://en.wikipedia.org/wiki/Zemira) (1781) — Francesco Bianchi · words: Gaetano Sertor · Italian ✎ ♫
+- [*La villanella rapita*](https://en.wikipedia.org/wiki/La_villanella_rapita) (1783) — Francesco Bianchi · words: Giovanni Bertati · Italian ✎ ♫
+- [*Alonso e Cora*](https://en.wikipedia.org/wiki/Alonso_e_Cora) (1786) — Francesco Bianchi · words: Giuseppe Foppa · Italian ✎ ♫
+- [*Calto*](https://en.wikipedia.org/wiki/Calto_(opera%29) (1786) — Francesco Bianchi · words: Giuseppe Foppa · Italian ✎ ♫
+- [*La morte di Cesare*](https://en.wikipedia.org/wiki/La_morte_di_Cesare) (1788) — Francesco Bianchi · words: Gaetano Sertor · Italian ✎ ♫
+- [*Seleuco, re di Siria*](https://en.wikipedia.org/wiki/Seleuco,_re_di_Siria) (1791) — Francesco Bianchi · words: Mattia Botturini · Italian ✎ ♫
+- [*Le nozze di Teti e di Peleo*](https://en.wikipedia.org/wiki/Le_nozze_di_Teti_e_di_Peleo) (1639) — Francesco Cavalli · words: Orazio Persiani · Italian ♫
+- [*Gli amori d'Apollo e di Dafne*](https://en.wikipedia.org/wiki/Gli_amori_d%27Apollo_e_di_Dafne) (1640) — Francesco Cavalli · Italian ♫
+- [*Didone*](https://en.wikipedia.org/wiki/Didone_(opera%29) (1641) — Francesco Cavalli · words: Giovanni Francesco Busenello · Italian ♫
+- [*Egisto*](https://en.wikipedia.org/wiki/L%27Egisto_(opera%29) (1643) — Francesco Cavalli · words: Giovanni Faustini · Italian ✎ ♫
+- [*Ormindo*](https://en.wikipedia.org/wiki/Ormindo) (1644) — Francesco Cavalli · Italian ✎ ♫
+- [*Doriclea*](https://en.wikipedia.org/wiki/Doriclea_(Cavalli%29) (1645) — Francesco Cavalli · Italian
+- [*Giasone*](https://en.wikipedia.org/wiki/Giasone) (1649) — Francesco Cavalli · words: Giacinto Andrea Cicognini · Italian ✎ ♫
+- [*Orimonte*](https://en.wikipedia.org/wiki/Orimonte) (1650) — Francesco Cavalli · words: Nicolò Minato · Italian
+- [*La Calisto*](https://en.wikipedia.org/wiki/La_Calisto) (1651) — Francesco Cavalli · words: Giovanni Faustini · Italian ✎ ♫
+- [*Oristeo*](https://en.wikipedia.org/wiki/Oristeo) (1651) — Francesco Cavalli · words: Giovanni Faustini · Italian ♫
+- [*Eritrea*](https://en.wikipedia.org/wiki/Eritrea_(opera%29) (1652) — Francesco Cavalli · words: Giovanni Faustini · Italian
+- [*Veremonda*](https://en.wikipedia.org/wiki/Veremonda) (1652) — Francesco Cavalli · Italian ✎
+- [*L'Orione*](https://en.wikipedia.org/wiki/L%27Orione) (1653) — Francesco Cavalli · Italian ♫
+- [*Erismena*](https://en.wikipedia.org/wiki/Erismena) (1655) — Francesco Cavalli · words: Aurelio Aureli · Italian ♫
+- [*Xerse*](https://en.wikipedia.org/wiki/Il_Xerse) (1655) — Francesco Cavalli · words: Nicolò Minato · Italian ♫
+- [*Statira principessa di Persia*](https://en.wikipedia.org/wiki/Statira_principessa_di_Persia) (1656) — Francesco Cavalli · words: Giovanni Francesco Busenello · Italian ✎ ♫
+- [*Artemisia*](https://en.wikipedia.org/wiki/Artemisia_(Cavalli%29) (1657) — Francesco Cavalli · words: Nicolò Minato · Italian ✎
+- [*Elena*](https://en.wikipedia.org/wiki/Elena_(Cavalli%29) (1659) — Francesco Cavalli · words: Nicolò Minato, Giovanni Faustini · Italian ✎ ♫
+- [*Ercole amante*](https://en.wikipedia.org/wiki/Ercole_amante) (1662) — Francesco Cavalli · words: Francesco Buti · Italian ♫
+- [*Pompeo Magno*](https://en.wikipedia.org/wiki/Pompeo_Magno) (1666) — Francesco Cavalli · words: Nicolò Minato · Italian ♫
+- [*Eliogabalo*](https://en.wikipedia.org/wiki/Eliogabalo) (1999) — Francesco Cavalli · words: Anonymous, Aurelio Aureli (revision) · Italian ✎ ♫
+- [*Ciro*](https://en.wikipedia.org/wiki/Ciro_(opera%29) — Francesco Cavalli, Francesco Provenzale · Italian
+- [*Hipermestra*](https://en.wikipedia.org/wiki/Hipermestra) — Francesco Cavalli · Italian ♫
+- [*La virtù de' strali d'Amore*](https://en.wikipedia.org/wiki/La_virt%C3%B9_de%27_strali_d%27Amore) — Francesco Cavalli · Italian ✎ ♫
+- [*Mutio Scevola*](https://en.wikipedia.org/wiki/Mutio_Scevola) — Francesco Cavalli · Italian ♫
+- [*Rosinda*](https://en.wikipedia.org/wiki/Rosinda) — Francesco Cavalli · Italian ♫
+- [*Scipione affricano*](https://en.wikipedia.org/wiki/Scipione_affricano) — Francesco Cavalli · words: Nicolò Minato · Italian ♫
+- [*L'Arlesiana*](https://en.wikipedia.org/wiki/L%27arlesiana) (1897) — Francesco Cilea · words: Leopoldo Marenco · Italian ✎ ♫
+- [*Adriana Lecouvreur*](https://en.wikipedia.org/wiki/Adriana_Lecouvreur) (1902) — Francesco Cilea · words: Eugène Scribe, Ernest Legouvé, Arturo Colautti · Italian ✎ ♫
+- [*Gloria*](https://en.wikipedia.org/wiki/Gloria_(opera%29) (1907) — Francesco Cilea · words: Arturo Colautti · Italian ✎ ♫
+- [*Il caso Mortara*](https://en.wikipedia.org/wiki/Il_caso_Mortara) — Francesco Cilluffo · Italian ♫
+- [*Stellidaura vendicante*](https://en.wikipedia.org/wiki/La_Stellidaura_vendicante) — Francesco Provenzale · Italian
+- [*Le droit d'aînesse*](https://en.wikipedia.org/wiki/Le_droit_d%27a%C3%AEnesse) (1883) — Francis Chassaigne · words: Albert Vanloo, Eugène Leterrier ✎ ♫
+- [*Les mamelles de Tirésias*](https://en.wikipedia.org/wiki/Les_mamelles_de_Tir%C3%A9sias) (1947) — Francis Poulenc · words: Francis Poulenc · French ✎ ♫
+- [*Dialogues of the Carmelites*](https://en.wikipedia.org/wiki/Dialogues_of_the_Carmelites) (1957) — Francis Poulenc · words: Georges Bernanos · French/Italian ✎ ♫
+- [*La voix humaine*](https://en.wikipedia.org/wiki/La_voix_humaine) (1959) — Francis Poulenc · words: Jean Cocteau · French ✎
+- [*La Spinalba*](https://en.wikipedia.org/wiki/La_Spinalba) — Francisco António de Almeida · Italian ✎ ♫
+- [*Los diamantes de la corona*](https://en.wikipedia.org/wiki/Los_diamantes_de_la_corona) (1854) — Francisco Asenjo Barbieri · words: Francisco Camprodón · Spanish ✎ ♫
+- [*Zigor*](https://en.wikipedia.org/wiki/Zigor_(opera%29) (1967) — Francisco Escudero · words: Manuel Lekuona · Basque ✎ ♫
+- [*Gernika*](https://en.wikipedia.org/wiki/Gernika_(opera%29) (1987) — Francisco Escudero · words: Augustin Zubikarai · Basque ✎ ♫
+- [*La Loba Negra*](https://en.wikipedia.org/wiki/La_Loba_Negra) (1984) — Francisco Feliciano · words: Fides Cuyugan-Asensio ✎ ♫
+- [*Risurrezione*](https://en.wikipedia.org/wiki/Risurrezione) (1904) — Franco Alfano · words: Cesare Hanau · Italian ✎ ♫
+- [*Sakùntala*](https://en.wikipedia.org/wiki/Sak%C3%B9ntala) (1921) — Franco Alfano · words: Franco Alfano · Italian ✎ ♫
+- [*Cyrano de Bergerac*](https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(Alfano%29) (1936) — Franco Alfano · words: Henri Caïn · French/Italian ✎ ♫
+- [*Il dottor Antonio*](https://en.wikipedia.org/wiki/Il_dottor_Antonio_(opera%29) — Franco Alfano · words: Mario Ghisalberti · English
+- [*Amleto*](https://en.wikipedia.org/wiki/Amleto) (1865) — Franco Faccio · words: Arrigo Boito · Italian ✎ ♫
+- [*Le calife de Bagdad*](https://en.wikipedia.org/wiki/Le_calife_de_Bagdad) (1800) — François Adrien Boieldieu · words: Claude Godard d'Aucour de Saint-Just · French ✎ ♫
+- [*Jean de Paris*](https://en.wikipedia.org/wiki/Jean_de_Paris_(Boieldieu%29) (1812) — François Adrien Boieldieu · words: Claude Godard d'Aucour de Saint-Just · French ✎ ♫
+- [*La dame blanche*](https://en.wikipedia.org/wiki/La_dame_blanche) (1825) — François Adrien Boieldieu · words: Eugène Scribe · French ✎ ♫
+- [*Le baiser et la quittance*](https://en.wikipedia.org/wiki/Le_baiser_et_la_quittance) — François Adrien Boieldieu, Étienne Méhul, Rodolphe Kreutzer, Nicolas Isouard
+- [*Cassandre*](https://en.wikipedia.org/wiki/Cassandre_(opera%29) — François Bouvard, Toussaint Bertin de la Doué · words: François Joseph Lagrange-Chancel · French
+- [*Médus*](https://en.wikipedia.org/wiki/M%C3%A9dus) — François Bouvard · French
+- [*Captain Billy*](https://en.wikipedia.org/wiki/Captain_Billy) (1891) — François Cellier · words: Harry Greenbank · English ✎
+- [*Old Sarah*](https://en.wikipedia.org/wiki/Old_Sarah) (1897) — François Cellier · words: Harry Greenbank · English ✎ ♫
+- [*Pretty Polly*](https://en.wikipedia.org/wiki/Pretty_Polly_(play%29) (1900) — François Cellier · words: Basil Hood · English ✎
+- [*Pyrame et Thisbé*](https://en.wikipedia.org/wiki/Pirame_et_Thisb%C3%A9) — François Francoeur, François Rebel · French
+- [*Sabinus*](https://en.wikipedia.org/wiki/Sabinus_(opera%29) — François Joseph Gossec · French ✎ ♫
+- [*Thésée*](https://en.wikipedia.org/wiki/Th%C3%A9s%C3%A9e_(Gossec%29) — François Joseph Gossec · French ✎ ♫
+- [*Blaise le savetier*](https://en.wikipedia.org/wiki/Blaise_le_savetier) (1759) — François-André Danican Philidor · words: Michel-Jean Sedaine · French ✎ ♫
+- [*Le maréchal ferrant*](https://en.wikipedia.org/wiki/Le_mar%C3%A9chal_ferrant) (1761) — François-André Danican Philidor · words: Antoine-François Quétant · French ✎ ♫
+- [*Tom Jones*](https://en.wikipedia.org/wiki/Tom_Jones_(Philidor%29) (1765) — François-André Danican Philidor · words: Antoine-Alexandre-Henri Poisenet, Bertin Davesne · French ✎ ♫
+- [*Ernelinde, princesse de Norvège*](https://en.wikipedia.org/wiki/Ernelinde,_princesse_de_Norv%C3%A8ge) (1767) — François-André Danican Philidor · words: Antoine-Alexandre-Henri Poinsinet · French ✎ ♫
+- [*La Rosière de Salency*](https://en.wikipedia.org/wiki/La_Rosi%C3%A8re_de_Salency) (1769) — François-André Danican Philidor, Pierre-Alexandre Monsigny, Egidio Duni, Adolphe Blaise · words: Charles Simon Favart · French
+- [*Les femmes vengées*](https://en.wikipedia.org/wiki/Les_femmes_veng%C3%A9es) (1775) — François-André Danican Philidor · words: Michel-Jean Sedaine · French
+- [*Persée*](https://en.wikipedia.org/wiki/Pers%C3%A9e_(Philidor%29) (1780) — François-André Danican Philidor · words: Jean-François Marmontel · French ♫
+- [*Sancho Pança*](https://en.wikipedia.org/wiki/Sancho_Pan%C3%A7a_(opera%29) — François-André Danican Philidor
+- [*Thémistocle*](https://en.wikipedia.org/wiki/Th%C3%A9mistocle) — François-André Danican Philidor · French
+- [*Karabakhname*](https://en.wikipedia.org/wiki/Karabakhname) (2007) — Franghiz Ali-Zadeh · words: Nargiz Pashaeva · Azerbaijani ✎
+- [*Der Sturm*](https://en.wikipedia.org/wiki/Der_Sturm_(opera%29) (1956) — Frank Martin · words: Frank Martin · German ♫
+- [*His Excellency*](https://en.wikipedia.org/wiki/His_Excellency_(opera%29) (1894) — Frank Osmond Carr · words: W. S. Gilbert · English ✎ ♫
+- [*Shadowboxer*](https://en.wikipedia.org/wiki/Shadowboxer_(opera%29) (2010) — Frank Proto · words: John Chenault ✎ ♫
+- [*Estrella de Soria*](https://en.wikipedia.org/wiki/Estrella_de_Soria) (1862) — Franz Berwald · words: Otto Prechtler · Swedish ✎ ♫
+- [*The Queen of Golconda*](https://en.wikipedia.org/wiki/The_Queen_of_Golconda) (1968) — Franz Berwald · words: Berwald ✎
+- [*I enter a monastery*](https://en.wikipedia.org/wiki/I_enter_a_monastery) — Franz Berwald · words: Franz Berwald, Herman Sätherberg · Swedish ✎
+- [*The Modiste*](https://en.wikipedia.org/wiki/The_Dressmaker_(opera%29) — Franz Berwald
+- [*L'isle déserte*](https://en.wikipedia.org/wiki/L%27isle_d%C3%A9serte) (1779) — Franz Ignaz Beck · French ✎
+- [*Tatjana*](https://en.wikipedia.org/wiki/Tatjana_(opera%29) (1905) — Franz Lehár · words: Max Kalbeck, Felix Falzari · German
+- [*The Count of Luxembourg*](https://en.wikipedia.org/wiki/The_Count_of_Luxembourg) — Franz Lehár ✎
+- [*Don Sanche*](https://en.wikipedia.org/wiki/Don_Sanche) (1825) — Franz Liszt · words: Emmanuel Théaulon, de Rancé · French ✎ ♫
+- [*Sardanapale*](https://en.wikipedia.org/wiki/Sardanapalo) — Franz Liszt ✎ ♫
+- [*Notre Dame*](https://en.wikipedia.org/wiki/Notre_Dame_(opera%29) (1914) — Franz Schmidt · German ♫
+- [*Fredegundis*](https://en.wikipedia.org/wiki/Fredegundis_(opera%29) — Franz Schmidt · words: Ignaz Michael Welleminsky, Bruno Hardt-Warden · German
+- [*Der ferne Klang*](https://en.wikipedia.org/wiki/Der_ferne_Klang) (1912) — Franz Schreker · words: Franz Schreker · German ✎ ♫
+- [*Das Spielwerk und die Prinzessin*](https://en.wikipedia.org/wiki/Das_Spielwerk_und_die_Prinzessin) (1913) — Franz Schreker · words: Franz Schreker · German
+- [*Die Gezeichneten*](https://en.wikipedia.org/wiki/Die_Gezeichneten) (1918) — Franz Schreker · words: Franz Schreker · German ✎ ♫
+- [*Der Schatzgräber*](https://en.wikipedia.org/wiki/Der_Schatzgr%C3%A4ber) (1920) — Franz Schreker · words: Franz Schreker · German ✎ ♫
+- [*Irrelohe*](https://en.wikipedia.org/wiki/Irrelohe) (1924) — Franz Schreker · words: Franz Schreker · German ✎ ♫
+- [*Der singende Teufel*](https://en.wikipedia.org/wiki/Der_singende_Teufel) (1928) — Franz Schreker · words: Franz Schreker · German ✎
+- [*Der Schmied von Gent*](https://en.wikipedia.org/wiki/Der_Schmied_von_Gent) (1932) — Franz Schreker · words: Franz Schreker · German ✎
+- [*Flammen*](https://en.wikipedia.org/wiki/Flammen_(Schreker%29) (1985) — Franz Schreker · words: Dora Leen · German ✎ ♫
+- [*Christophorus, oder Die Vision einer Oper*](https://en.wikipedia.org/wiki/Christophorus_oder_Die_Vision_einer_Oper) — Franz Schreker · words: Franz Schreker · German ✎ ♫
+- [*Die Zwillingsbrüder*](https://en.wikipedia.org/wiki/Die_Zwillingsbr%C3%BCder) (1820) — Franz Schubert · words: Georg von Hofmann · German ✎ ♫
+- [*Alfonso und Estrella*](https://en.wikipedia.org/wiki/Alfonso_und_Estrella) (1854) — Franz Schubert · words: Franz von Schober · German ✎ ♫
+- [*Die Verschworenen*](https://en.wikipedia.org/wiki/Die_Verschworenen) (1861) — Franz Schubert · words: Ignaz Franz Castelli
+- [*Der Graf von Gleichen*](https://en.wikipedia.org/wiki/Der_Graf_von_Gleichen) (1865) — Franz Schubert · words: Eduard von Bauernfeld · German
+- [*Der vierjährige Posten*](https://en.wikipedia.org/wiki/Der_vierj%C3%A4hrige_Posten) (1896) — Franz Schubert · words: Theodor Körner · German
+- [*Fierrabras*](https://en.wikipedia.org/wiki/Fierrabras) (1897) — Franz Schubert · words: Josef Kupelwieser · German ✎ ♫
+- [*Die Freunde von Salamanka*](https://en.wikipedia.org/wiki/Die_Freunde_von_Salamanka) (1928) — Franz Schubert · words: Johann Mayrhofer · German
+- [*Sakontala*](https://en.wikipedia.org/wiki/Sakuntala_(opera%29) (1971) — Franz Schubert · words: Johann Philipp Neumann · German
+- [*Des Matrosen Heimkehr*](https://en.wikipedia.org/wiki/Des_Matrosen_Heimkehr) (1885) — Franz von Suppè · words: Anton Langer ✎
+- [*Ages Ago*](https://en.wikipedia.org/wiki/Ages_Ago) (1869) — Frederic Clay · words: W. S. Gilbert ✎ ♫
+- [*Thorgrim*](https://en.wikipedia.org/wiki/Thorgrim) (1890) — Frederic Hymen Cowen · words: Joseph Bennett · English
+- [*Signa*](https://en.wikipedia.org/wiki/Signa_(opera%29) (1893) — Frederic Hymen Cowen · words: Gilbert Arthur à Beckett, Henry Alexander Rudall, G.A. Beckett
+- [*Harold or the Norman Conquest*](https://en.wikipedia.org/wiki/Harold_or_the_Norman_Conquest) (1895) — Frederic Hymen Cowen · words: Edward Malet · English ✎
+- [*Pauline*](https://en.wikipedia.org/wiki/Pauline_(Cowen_opera%29) — Frederic Hymen Cowen
+- [*The Pipe of Desire*](https://en.wikipedia.org/wiki/The_Pipe_of_Desire) (1906) — Frederick Converse ✎
+- [*Nordisa*](https://en.wikipedia.org/wiki/Nordisa) (1887) — Frederick Corder · words: Frederick Corder · English ✎ ♫
+- [*Koanga*](https://en.wikipedia.org/wiki/Koanga) (1904) — Frederick Delius · words: Charles F. Keary ✎ ♫
+- [*A Village Romeo and Juliet*](https://en.wikipedia.org/wiki/A_Village_Romeo_and_Juliet) (1907) — Frederick Delius · words: Jelka and Frederick Delius · English ✎ ♫
+- [*Fennimore and Gerda*](https://en.wikipedia.org/wiki/Fennimore_and_Gerda) (1919) — Frederick Delius · words: Frederick Delius · German ✎ ♫
+- [*Irmelin*](https://en.wikipedia.org/wiki/Irmelin) (1953) — Frederick Delius · English ✎ ♫
+- [*The Magic Fountain*](https://en.wikipedia.org/wiki/The_Magic_Fountain_(opera%29) — Frederick Delius · words: Frederick Delius ✎ ♫
+- [*Kung Karls jakt*](https://en.wikipedia.org/wiki/Kung_Karls_jakt) — Fredrik Pacius · words: Zachris Topelius · Swedish ✎ ♫
+- [*Prinsessan av Cypern*](https://en.wikipedia.org/wiki/Prinsessan_av_Cypern_(Pacius%29) — Fredrik Pacius · Swedish
+- [*Lulu*](https://en.wikipedia.org/wiki/Lulu_(Kuhlau_opera%29) — Friedrich Kuhlau ✎
+- [*Der Schmied von Ruhla*](https://en.wikipedia.org/wiki/Der_Schmied_von_Ruhla) — Friedrich Lux · words: Ludwig Bauer · German
+- [*The Duchess of Athens*](https://en.wikipedia.org/wiki/The_Duchess_of_Athens) — Friedrich Lux · words: Wilhelm Jacoby · German
+- [*Bettina*](https://en.wikipedia.org/wiki/Bettina_(opera%29) (1987) — Friedrich Schenker · words: Karl Mickel ✎
+- [*Alessandro Stradella*](https://en.wikipedia.org/wiki/Alessandro_Stradella_(opera%29) (1844) — Friedrich von Flotow · words: Friedrich Wilhelm Riese · German ✎ ♫
+- [*Martha*](https://en.wikipedia.org/wiki/Martha_(opera%29) (1847) — Friedrich von Flotow · words: Friedrich Wilhelm Riese, Crevel de Charlemagne · German ✎ ♫
+- [*Le Roi et le batelier*](https://en.wikipedia.org/wiki/Le_Roi_et_le_batelier) (1827) — Fromental Halévy · words: Jules-Henri Vernoy de Saint-Georges · French ✎ ♫
+- [*Clari*](https://en.wikipedia.org/wiki/Clari) (1828) — Fromental Halévy · words: Pietro Giannone · Italian ✎ ♫
+- [*Le dilettante d'Avignon*](https://en.wikipedia.org/wiki/Le_dilettante_d%27Avignon) (1829) — Fromental Halévy · words: Léon Halévy · French ✎ ♫
+- [*La tentation*](https://en.wikipedia.org/wiki/La_tentation) (1832) — Fromental Halévy · words: Edmond Cavé, Henri Duponchel · French ✎ ♫
+- [*Ludovic*](https://en.wikipedia.org/wiki/Ludovic_(opera%29) (1833) — Fromental Halévy, Ferdinand Hérold · words: Jules-Henri Vernoy de Saint-Georges · French ✎ ♫
+- [*L'éclair*](https://en.wikipedia.org/wiki/L%27%C3%89clair) (1835) — Fromental Halévy · words: Jules-Henri Vernoy de Saint-Georges, Eugène de Planard · French ✎ ♫
+- [*La Juive*](https://en.wikipedia.org/wiki/La_Juive) (1835) — Fromental Halévy · words: Eugène Scribe · French ✎ ♫
+- [*Guido et Ginevra*](https://en.wikipedia.org/wiki/Guido_et_Ginevra) (1838) — Fromental Halévy · words: Eugène Scribe · French ✎ ♫
+- [*Le Shérif*](https://en.wikipedia.org/wiki/Le_sh%C3%A9rif) (1839) — Fromental Halévy · words: Eugène Scribe ♫
+- [*La reine de Chypre*](https://en.wikipedia.org/wiki/La_reine_de_Chypre) (1841) — Fromental Halévy · words: Jules-Henri Vernoy de Saint-Georges · French ✎ ♫
+- [*Charles VI*](https://en.wikipedia.org/wiki/Charles_VI_(opera%29) (1843) — Fromental Halévy · words: Casimir Delavigne, Germain Delavigne · French ✎ ♫
+- [*Le lazzarone*](https://en.wikipedia.org/wiki/Le_lazzarone) (1844) — Fromental Halévy · words: Jules-Henri Vernoy de Saint-Georges · French ✎ ♫
+- [*Le val d'Andorre*](https://en.wikipedia.org/wiki/Le_val_d%27Andorre) (1845) — Fromental Halévy, Giovanni Pacini · words: Francesco Maria Piave, Jules-Henri Vernoy de Saint-Georges · French ✎ ♫
+- [*Le Juif errant*](https://en.wikipedia.org/wiki/Le_Juif_errant_(opera%29) (1852) — Fromental Halévy · words: Eugène Scribe, Jules-Henri Vernoy de Saint-Georges · French ♫
+- [*Valentine d'Aubigny*](https://en.wikipedia.org/wiki/Valentine_d%27Aubigny) (1856) — Fromental Halévy · words: Jules Barbier ✎ ♫
+- [*La magicienne*](https://en.wikipedia.org/wiki/La_magicienne) (1858) — Fromental Halévy · words: Jules-Henri Vernoy de Saint-Georges · French ✎ ♫
+- [*L'artisan*](https://en.wikipedia.org/wiki/L%27artisan) — Fromental Halévy · words: Jules-Henri Vernoy de Saint-Georges · French
+- [*La tempesta*](https://en.wikipedia.org/wiki/La_tempesta_(opera%29) — Fromental Halévy
+- [*Le nabab*](https://en.wikipedia.org/wiki/Le_nabab) — Fromental Halévy · French ✎ ♫
+- [*Les mousquetaires de la reine*](https://en.wikipedia.org/wiki/Les_mousquetaires_de_la_reine_(opera%29) — Fromental Halévy · French
+- [*Prométhée*](https://en.wikipedia.org/wiki/Prom%C3%A9th%C3%A9e_(Faur%C3%A9%29) (1900) — Gabriel Fauré · French ✎ ♫
+- [*Pénélope*](https://en.wikipedia.org/wiki/P%C3%A9n%C3%A9lope_(Faur%C3%A9%29) (1913) — Gabriel Fauré · words: René Fauchois · French ✎ ♫
+- [*Xochicuicatl cuecuechtli*](https://en.wikipedia.org/wiki/Xochicuicatl_cuecuechtli) (2014) — Gabriel Pareyon
+- [*The Caliph's Magician*](https://en.wikipedia.org/wiki/The_Caliph%27s_Magician) — Gabriel von Wayditch · words: Gabriel von Wayditch · Hungarian ✎ ♫
+- [*Enrico di Borgogna*](https://en.wikipedia.org/wiki/Enrico_di_Borgogna) (1818) — Gaetano Donizetti · words: Bartolomeo Merelli · Italian ✎ ♫
+- [*Una follia*](https://en.wikipedia.org/wiki/Una_follia) (1818) — Gaetano Donizetti · words: Bartolomeo Merelli · Italian ♫
+- [*Il falegname di Livonia*](https://en.wikipedia.org/wiki/Il_falegname_di_Livonia) (1819) — Gaetano Donizetti · words: Gherardo Bevilacqua-Aldobrandini · Italian ✎ ♫
+- [*Le nozze in villa*](https://en.wikipedia.org/wiki/Le_nozze_in_villa) (1820) — Gaetano Donizetti · words: Bartolomeo Merelli · Italian ✎ ♫
+- [*Chiara e Serafina*](https://en.wikipedia.org/wiki/Chiara_e_Serafina) (1822) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*La lettera anonima*](https://en.wikipedia.org/wiki/La_lettera_anonima) (1822) — Gaetano Donizetti · words: Giulio Genoino · Italian ✎ ♫
+- [*La zingara*](https://en.wikipedia.org/wiki/La_zingara) (1822) — Gaetano Donizetti · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Zoraida di Granata*](https://en.wikipedia.org/wiki/Zoraida_di_Granata) (1822) — Gaetano Donizetti · words: Bartolomeo Merelli, Jacopo Ferretti · Italian ✎ ♫
+- [*Alfredo il Grande*](https://en.wikipedia.org/wiki/Alfredo_il_grande) (1823) — Gaetano Donizetti · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Il fortunato inganno*](https://en.wikipedia.org/wiki/Il_fortunato_inganno) (1823) — Gaetano Donizetti · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Emilia di Liverpool*](https://en.wikipedia.org/wiki/Emilia_di_Liverpool) (1824) — Gaetano Donizetti · words: Giuseppe Ceccherini · Italian ✎ ♫
+- [*L'ajo nell'imbarazzo*](https://en.wikipedia.org/wiki/L%27ajo_nell%27imbarazzo) (1824) — Gaetano Donizetti · words: Jacopo Ferretti · Italian ✎ ♫
+- [*Alahor in Granata*](https://en.wikipedia.org/wiki/Alahor_in_Granata) (1826) — Gaetano Donizetti · words: M.A. · Italian ✎ ♫
+- [*Don Gregorio*](https://en.wikipedia.org/wiki/Don_Gregorio_(opera%29) (1826) — Gaetano Donizetti · words: Jacopo Ferretti · Italian ✎ ♫
+- [*Elvida*](https://en.wikipedia.org/wiki/Elvida) (1826) — Gaetano Donizetti · words: Giovanni Schmidt · Italian ✎ ♫
+- [*Il borgomastro di Saardam*](https://en.wikipedia.org/wiki/Il_borgomastro_di_Saardam) (1827) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Le convenienze ed inconvenienze teatrali*](https://en.wikipedia.org/wiki/Le_convenienze_ed_inconvenienze_teatrali) (1827) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Olivo e Pasquale*](https://en.wikipedia.org/wiki/Olivo_e_Pasquale) (1827) — Gaetano Donizetti · words: Jacopo Ferretti · Italian ✎ ♫
+- [*Otto mesi in due ore*](https://en.wikipedia.org/wiki/Otto_mesi_in_due_ore) (1827) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Alina, regina di Golconda*](https://en.wikipedia.org/wiki/Alina,_regina_di_Golconda) (1828) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*Gianni di Calais*](https://en.wikipedia.org/wiki/Gianni_di_Calais) (1828) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Il giovedì grasso, o Il nuovo Pourceaugnac*](https://en.wikipedia.org/wiki/Il_gioved%C3%AC_grasso) (1828) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*L'esule di Roma*](https://en.wikipedia.org/wiki/L%27esule_di_Roma) (1828) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Il castello di Kenilworth*](https://en.wikipedia.org/wiki/Il_castello_di_Kenilworth) (1829) — Gaetano Donizetti · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Il paria*](https://en.wikipedia.org/wiki/Il_paria) (1829) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Anna Bolena*](https://en.wikipedia.org/wiki/Anna_Bolena) (1830) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*I pazzi per progetto*](https://en.wikipedia.org/wiki/I_pazzi_per_progetto) (1830) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Il diluvio universale*](https://en.wikipedia.org/wiki/Il_diluvio_universale) (1830) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*Imelda de' Lambertazzi*](https://en.wikipedia.org/wiki/Imelda_de%27_Lambertazzi) (1830) — Gaetano Donizetti · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Francesca di Foix*](https://en.wikipedia.org/wiki/Francesca_di_Foix) (1831) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ✎ ♫
+- [*La romanziera e l'uomo nero*](https://en.wikipedia.org/wiki/La_romanziera_e_l%27uomo_nero) (1831) — Gaetano Donizetti · words: Domenico Gilardoni · Italian ♫
+- [*Fausta*](https://en.wikipedia.org/wiki/Fausta_(opera%29) (1832) — Gaetano Donizetti · words: Gaetano Donizetti, Domenico Gilardoni · Italian ✎ ♫
+- [*L'elisir d'amore*](https://en.wikipedia.org/wiki/L%27elisir_d%27amore) (1832) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*Sancia di Castiglia*](https://en.wikipedia.org/wiki/Sancia_di_Castiglia) (1832) — Gaetano Donizetti · words: Pietro Saladino · Italian ✎ ♫
+- [*Ugo, conte di Parigi*](https://en.wikipedia.org/wiki/Ugo,_conte_di_Parigi) (1832) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*Il furioso all'isola di San Domingo*](https://en.wikipedia.org/wiki/Il_furioso_all%27isola_di_San_Domingo) (1833) — Gaetano Donizetti · words: Jacopo Ferretti · Italian ✎ ♫
+- [*Lucrezia Borgia*](https://en.wikipedia.org/wiki/Lucrezia_Borgia_(opera%29) (1833) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*Parisina*](https://en.wikipedia.org/wiki/Parisina_(Donizetti%29) (1833) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*Torquato Tasso*](https://en.wikipedia.org/wiki/Torquato_Tasso_(opera%29) (1833) — Gaetano Donizetti · words: Jacopo Ferretti · Italian ✎ ♫
+- [*Gemma di Vergy*](https://en.wikipedia.org/wiki/Gemma_di_Vergy) (1834) — Gaetano Donizetti · words: Giovanni Emanuele Bidera · Italian ♫
+- [*Rosmonda d'Inghilterra*](https://en.wikipedia.org/wiki/Rosmonda_d%27Inghilterra) (1834) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*Lucia di Lammermoor*](https://en.wikipedia.org/wiki/Lucia_di_Lammermoor) (1835) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Lucie de Lammermoor*](https://en.wikipedia.org/wiki/Lucie_de_Lammermoor) (1835) — Gaetano Donizetti · words: Salvadore Cammarano · French ✎ ♫
+- [*Maria Stuarda*](https://en.wikipedia.org/wiki/Maria_Stuarda) (1835) — Gaetano Donizetti · words: Giuseppe Bardari · Italian ✎ ♫
+- [*Marino Faliero*](https://en.wikipedia.org/wiki/Marino_Faliero_(opera%29) (1835) — Gaetano Donizetti · words: Giovanni Emanuele Bidera · Italian ✎ ♫
+- [*Belisario*](https://en.wikipedia.org/wiki/Belisario) (1836) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Betly, o sia La capanna svizzera*](https://en.wikipedia.org/wiki/Betly) (1836) — Gaetano Donizetti · words: Gaetano Donizetti · Italian ✎ ♫
+- [*Il campanello*](https://en.wikipedia.org/wiki/Il_campanello) (1836) — Gaetano Donizetti · words: Gaetano Donizetti · Italian ✎ ♫
+- [*L'assedio di Calais*](https://en.wikipedia.org/wiki/L%27assedio_di_Calais) (1836) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Pia de' Tolomei*](https://en.wikipedia.org/wiki/Pia_de%27_Tolomei_(opera%29) (1837) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Roberto Devereux*](https://en.wikipedia.org/wiki/Roberto_Devereux) (1837) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Maria de Rudenz*](https://en.wikipedia.org/wiki/Maria_de_Rudenz) (1838) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Gianni di Parigi*](https://en.wikipedia.org/wiki/Gianni_di_Parigi) (1839) — Gaetano Donizetti · words: Felice Romani · Italian ✎ ♫
+- [*La favorite*](https://en.wikipedia.org/wiki/La_favorite) (1840) — Gaetano Donizetti · words: Eugène Scribe, Gustave Vaëz, Alphonse Royer · French ✎ ♫
+- [*La Fille du régiment*](https://en.wikipedia.org/wiki/La_fille_du_r%C3%A9giment) (1840) — Gaetano Donizetti · words: Jules-Henri Vernoy de Saint-Georges, Jean-François Bayard · French ✎ ♫
+- [*Les martyrs*](https://en.wikipedia.org/wiki/Les_martyrs) (1840) — Gaetano Donizetti · words: Eugène Scribe ✎ ♫
+- [*Adelia*](https://en.wikipedia.org/wiki/Adelia_(opera%29) (1841) — Gaetano Donizetti · words: Felice Romani, Girolamo Maria Marini · Italian ✎ ♫
+- [*Maria Padilla*](https://en.wikipedia.org/wiki/Maria_Padilla) (1841) — Gaetano Donizetti · words: Gaetano Rossi · Italian ✎ ♫
+- [*Linda di Chamounix*](https://en.wikipedia.org/wiki/Linda_di_Chamounix) (1842) — Gaetano Donizetti · words: Gaetano Rossi · Italian ✎ ♫
+- [*Dom Sébastien*](https://en.wikipedia.org/wiki/Dom_S%C3%A9bastien) (1843) — Gaetano Donizetti · words: Eugène Scribe · French ✎ ♫
+- [*Don Pasquale*](https://en.wikipedia.org/wiki/Don_Pasquale) (1843) — Gaetano Donizetti · words: Giovanni Ruffini, Michele Accursi · Italian ✎ ♫
+- [*Maria di Rohan*](https://en.wikipedia.org/wiki/Maria_di_Rohan) (1843) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Caterina Cornaro*](https://en.wikipedia.org/wiki/Caterina_Cornaro_(opera%29) (1844) — Gaetano Donizetti · words: Giacomo Sacchero · Italian ✎ ♫
+- [*Poliuto*](https://en.wikipedia.org/wiki/Poliuto) (1848) — Gaetano Donizetti · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Rita*](https://en.wikipedia.org/wiki/Rita_(opera%29) (1860) — Gaetano Donizetti · words: Gustave Vaëz · French ✎ ♫
+- [*Gabriella di Vergy*](https://en.wikipedia.org/wiki/Gabriella_di_Vergy) (1869) — Gaetano Donizetti · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Le duc d'Albe*](https://en.wikipedia.org/wiki/Le_duc_d%27Albe) (1882) — Gaetano Donizetti · words: Charles Duveyrier, Eugène Scribe · French/Italian ✎ ♫
+- [*Il Pigmalione*](https://en.wikipedia.org/wiki/Il_Pigmalione) (1960) — Gaetano Donizetti · words: unknown · Italian ✎ ♫
+- [*L'ange de Nisida*](https://en.wikipedia.org/wiki/L%27Ange_de_Nisida) (2018) — Gaetano Donizetti · words: Gustave Vaëz, Alphonse Royer · French ✎
+- [*Ezio*](https://en.wikipedia.org/wiki/Ezio_(Latilla%29) (1758) — Gaetano Latilla · Italian
+- [*Soyazhe*](https://en.wikipedia.org/wiki/Soyazhe) (1979) — Garland Anderson · words: Jamie Lee Cooper ♫
+- [*Teseo riconosciuto*](https://en.wikipedia.org/wiki/Teseo_riconosciuto) (1798) — Gaspare Spontini · words: Cosimo Giotti · Italian ♫
+- [*La fuga in maschera*](https://en.wikipedia.org/wiki/La_fuga_in_maschera) (1800) — Gaspare Spontini · words: Giuseppe Palomba · Italian ♫
+- [*Le metamorfosi di Pasquale*](https://en.wikipedia.org/wiki/Le_metamorfosi_di_Pasquale) (1802) — Gaspare Spontini · words: Giuseppe Maria Foppa · Italian
+- [*Milton*](https://en.wikipedia.org/wiki/Milton_(opera%29) (1804) — Gaspare Spontini · words: Victor-Joseph Étienne de Jouy · French ✎ ♫
+- [*Julie, ou Le Pot de fleurs*](https://en.wikipedia.org/wiki/Julie,_ou_Le_pot_de_fleurs) (1805) — Gaspare Spontini · French ✎ ♫
+- [*La vestale*](https://en.wikipedia.org/wiki/La_vestale_(Spontini%29) (1807) — Gaspare Spontini · words: Victor-Joseph Étienne de Jouy, Michel Dieulafoy · French/Italian ✎ ♫
+- [*Fernand Cortez*](https://en.wikipedia.org/wiki/Fernand_Cortez) (1809) — Gaspare Spontini · words: Victor-Joseph Étienne de Jouy, G.A. Esmérard · French/Italian ✎ ♫
+- [*Olimpie*](https://en.wikipedia.org/wiki/Olimpie) (1819) — Gaspare Spontini · words: Charles Brifaut, Michel Dieulafoy · French ✎ ♫
+- [*Agnes von Hohenstaufen*](https://en.wikipedia.org/wiki/Agnes_von_Hohenstaufen) (1829) — Gaspare Spontini · words: Ernst Raupach · German ✎ ♫
+- [*Doctor Ox's Experiment*](https://en.wikipedia.org/wiki/Doctor_Ox%27s_Experiment_(opera%29) (1998) — Gavin Bryars · words: Blake Morrison ✎ ♫
+- [*Irma*](https://en.wikipedia.org/wiki/Irma_(opera%29) — Gavin Bryars, Fred Orton, Tom Phillips
+- [*Dragaredokko*](https://en.wikipedia.org/wiki/Dragaredokko) — Geirr Tveitt
+- [*Scipione in Cartagine nuova*](https://en.wikipedia.org/wiki/Scipione_in_Cartagine_nuova) (1730) — Geminiano Giacomelli · words: Carlo Innocenzo Frugoni · Italian ♫
+- [*Merope*](https://en.wikipedia.org/wiki/Merope_(Giacomelli%29) (1734) — Geminiano Giacomelli · words: Apostolo Zeno · Italian ♫
+- [*Finn Varra Maa*](https://en.wikipedia.org/wiki/Finn_Varra_Maa) (1917) — Geoffrey Molyneux Palmer · words: Thomas Henry Nally
+- [*The Red Pen*](https://en.wikipedia.org/wiki/The_Red_Pen) — Geoffrey Toye · words: A. P. Herbert ✎ ♫
+- [*Ariadne auf Naxos*](https://en.wikipedia.org/wiki/Ariadne_auf_Naxos_(Benda%29) (1775) — Georg Benda · words: Johann Christian Brandes · German ✎ ♫
+- [*Medea*](https://en.wikipedia.org/wiki/Medea_(Benda%29) (1775) — Georg Benda · words: Friedrich Wilhelm Gotter · German ♫
+- [*Romeo und Julie*](https://en.wikipedia.org/wiki/Romeo_und_Julie) (1776) — Georg Benda · words: Friedrich Wilhelm Gotter · German ✎ ♫
+- [*Pygmalion*](https://en.wikipedia.org/wiki/Pygmalion_(Benda%29) (1779) — Georg Benda · words: Friedrich Wilhelm Gotter · German ✎
+- [*Morgen und Abend*](https://en.wikipedia.org/wiki/Morgen_und_Abend) — Georg Friedrich Haas ✎ ♫
+- [*Antigone oder die Stadt*](https://en.wikipedia.org/wiki/Antigone_oder_die_Stadt) (1991) — Georg Katzer · words: Gerhard Müller
+- [*Germanicus*](https://en.wikipedia.org/wiki/Germanicus_(opera%29) (1704) — Georg Philipp Telemann · words: Christine Dorothea Lachs · German
+- [*Der geduldige Socrates*](https://en.wikipedia.org/wiki/Der_geduldige_Socrates) (1721) — Georg Philipp Telemann · words: Johann Ulrich von König
+- [*Sieg der Schönheit*](https://en.wikipedia.org/wiki/Sieg_der_Sch%C3%B6nheit) (1722) — Georg Philipp Telemann · words: Christian Heinrich Postel ✎
+- [*Der neumodische Liebhaber Damon*](https://en.wikipedia.org/wiki/Der_neumodische_Liebhaber_Damon) (1724) — Georg Philipp Telemann
+- [*Pimpinone*](https://en.wikipedia.org/wiki/Pimpinone) (1725) — Georg Philipp Telemann · words: Johann Philipp Praetorius · German/Italian ✎ ♫
+- [*Orpheus*](https://en.wikipedia.org/wiki/Orpheus_(Telemann%29) (1726) — Georg Philipp Telemann · words: Georg Philipp Telemann · German ✎ ♫
+- [*Emma und Eginhard*](https://en.wikipedia.org/wiki/Emma_und_Eginhard) (1728) — Georg Philipp Telemann · words: Christoph Gottlieb Wend
+- [*Miriways*](https://en.wikipedia.org/wiki/Miriways) (1728) — Georg Philipp Telemann · words: Johann Samuel Müller · German
+- [*Flavius Bertaridus*](https://en.wikipedia.org/wiki/Flavius_Bertaridus) (1729) — Georg Philipp Telemann · words: Christoph Gottlieb Wend · German
+- [*Don Quichotte auf der Hochzeit des Comacho*](https://en.wikipedia.org/wiki/Don_Quichotte_auf_der_Hochzeit_des_Comacho) (1761) — Georg Philipp Telemann · words: Daniel Schiebeler · German ♫
+- [*Helvellyn*](https://en.wikipedia.org/wiki/Helvellyn_(opera%29) (1864) — George Alexander Macfarren · words: John Oxenford · English ✎ ♫
+- [*Volpone*](https://en.wikipedia.org/wiki/Volpone_(opera%29) (1953) — George Antheil · English ✎
+- [*Helen Retires*](https://en.wikipedia.org/wiki/Helen_Retires) — George Antheil ✎
+- [*Transatlantic*](https://en.wikipedia.org/wiki/Transatlantic_(opera%29) — George Antheil ✎
+- [*Into the Little Hill*](https://en.wikipedia.org/wiki/Into_the_Little_Hill) (2006) — George Benjamin · words: Martin Crimp · English ✎ ♫
+- [*Written on Skin*](https://en.wikipedia.org/wiki/Written_on_Skin) (2012) — George Benjamin · words: Martin Crimp · English ✎ ♫
+- [*Lessons in Love and Violence*](https://en.wikipedia.org/wiki/Lessons_in_Love_and_Violence) (2018) — George Benjamin · words: Martin Crimp · English ✎ ♫
+- [*Almira*](https://en.wikipedia.org/wiki/Almira) (1705) — George Frideric Handel · words: Friedrich Christian Feustking · German ✎ ♫
+- [*Rodrigo*](https://en.wikipedia.org/wiki/Rodrigo_(opera%29) (1707) — George Frideric Handel · Italian ✎ ♫
+- [*Aci, Galatea e Polifemo*](https://en.wikipedia.org/wiki/Aci,_Galatea_e_Polifemo) (1708) — George Frideric Handel · Italian
+- [*Der beglückte Florindo*](https://en.wikipedia.org/wiki/Florindo) (1708) — George Frideric Handel · words: Heinrich Hinsch · German ✎ ♫
+- [*Die verwandelte Daphne*](https://en.wikipedia.org/wiki/Daphne_(Handel%29) (1708) — George Frideric Handel · words: Heinrich Hinsch · German ✎ ♫
+- [*Agrippina*](https://en.wikipedia.org/wiki/Agrippina_(opera%29) (1709) — George Frideric Handel · words: Vincenzo Grimani · Italian ✎ ♫
+- [*Rinaldo*](https://en.wikipedia.org/wiki/Rinaldo_(opera%29) (1711) — George Frideric Handel · words: Giacomo Rossi · Italian ✎ ♫
+- [*Il pastor fido*](https://en.wikipedia.org/wiki/Il_pastor_fido_(Handel%29) (1712) — George Frideric Handel · words: Giacomo Rossi · Italian ✎ ♫
+- [*Silla*](https://en.wikipedia.org/wiki/Silla_(Handel%29) (1713) — George Frideric Handel · words: Giacomo Rossi · Italian ✎ ♫
+- [*Teseo*](https://en.wikipedia.org/wiki/Teseo) (1713) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Amadigi di Gaula*](https://en.wikipedia.org/wiki/Amadigi_di_Gaula) (1715) — George Frideric Handel · words: (debated) · Italian ✎ ♫
+- [*Acis and Galatea*](https://en.wikipedia.org/wiki/Acis_and_Galatea_(Handel%29) (1718) — George Frideric Handel · words: Alexander Pope, John Gay, John Hughes · English ✎ ♫
+- [*Radamisto*](https://en.wikipedia.org/wiki/Radamisto_(Handel%29) (1720) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Floridante*](https://en.wikipedia.org/wiki/Floridante) (1721) — George Frideric Handel · words: Paolo Antonio Rolli · Italian ✎ ♫
+- [*Muzio Scevola*](https://en.wikipedia.org/wiki/Muzio_Scevola) (1721) — George Frideric Handel, Giovanni Bononcini, Filippo Amadei · words: Paolo Antonio Rolli · Italian ✎ ♫
+- [*Flavio*](https://en.wikipedia.org/wiki/Flavio) (1723) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Ottone*](https://en.wikipedia.org/wiki/Ottone) (1723) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Giulio Cesare in Egitto*](https://en.wikipedia.org/wiki/Giulio_Cesare) (1724) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Tamerlano*](https://en.wikipedia.org/wiki/Tamerlano) (1724) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Rodelinda*](https://en.wikipedia.org/wiki/Rodelinda_(opera%29) (1725) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Alessandro*](https://en.wikipedia.org/wiki/Alessandro_(opera%29) (1726) — George Frideric Handel · words: Paolo Antonio Rolli · Italian ✎ ♫
+- [*Scipione*](https://en.wikipedia.org/wiki/Scipione_(opera%29) (1726) — George Frideric Handel · words: Paolo Antonio Rolli · Italian ♫
+- [*Admeto*](https://en.wikipedia.org/wiki/Admeto) (1727) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Riccardo Primo*](https://en.wikipedia.org/wiki/Riccardo_Primo) (1727) — George Frideric Handel · words: Paolo Antonio Rolli · Italian ✎ ♫
+- [*Siroe*](https://en.wikipedia.org/wiki/Siroe_(Handel%29) (1728) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Tolomeo*](https://en.wikipedia.org/wiki/Tolomeo) (1728) — George Frideric Handel · words: Nicola Francesco Haym · Italian ✎ ♫
+- [*Lotario*](https://en.wikipedia.org/wiki/Lotario_(Handel%29) (1729) — George Frideric Handel · words: Giacomo Rossi · Italian ✎ ♫
+- [*Partenope*](https://en.wikipedia.org/wiki/Partenope) (1730) — George Frideric Handel · words: Silvio Stampiglia · Italian ✎ ♫
+- [*Poro*](https://en.wikipedia.org/wiki/Poro_(opera%29) (1731) — George Frideric Handel · words: Pietro Metastasio · Italian ✎ ♫
+- [*Catone*](https://en.wikipedia.org/wiki/Catone_(Handel%29) (1732) — George Frideric Handel · words: Pietro Metastasio · Italian ✎ ♫
+- [*Ezio*](https://en.wikipedia.org/wiki/Ezio_(Handel%29) (1732) — George Frideric Handel · words: Pietro Metastasio · Italian ✎ ♫
+- [*Sosarme*](https://en.wikipedia.org/wiki/Sosarme) (1732) — George Frideric Handel · words: Antonio Salvi · Italian ✎ ♫
+- [*Orlando*](https://en.wikipedia.org/wiki/Orlando_(opera%29) (1733) — George Frideric Handel · words: Carlo Sigismondo Capece · Italian ✎ ♫
+- [*Arianna in Creta*](https://en.wikipedia.org/wiki/Arianna_in_Creta) (1734) — George Frideric Handel · words: Pietro Pariati, Francis Colman · Italian ✎ ♫
+- [*Oreste*](https://en.wikipedia.org/wiki/Oreste_(Handel%29) (1734) — George Frideric Handel · Italian ✎ ♫
+- [*Parnasso in Festa*](https://en.wikipedia.org/wiki/Parnasso_in_festa) (1734) — George Frideric Handel · Italian ✎ ♫
+- [*Alcina*](https://en.wikipedia.org/wiki/Alcina) (1735) — George Frideric Handel · Italian ✎ ♫
+- [*Ariodante*](https://en.wikipedia.org/wiki/Ariodante) (1735) — George Frideric Handel · words: Antonio Salvi · Italian ✎ ♫
+- [*Atalanta*](https://en.wikipedia.org/wiki/Atalanta_(opera%29) (1736) — George Frideric Handel · Italian ✎ ♫
+- [*Arminio*](https://en.wikipedia.org/wiki/Arminio) (1737) — George Frideric Handel · words: Antonio Salvi · Italian ✎ ♫
+- [*Berenice*](https://en.wikipedia.org/wiki/Berenice_(opera%29) (1737) — George Frideric Handel · words: Antonio Salvi · Italian ✎ ♫
+- [*Giustino*](https://en.wikipedia.org/wiki/Giustino_(Handel%29) (1737) — George Frideric Handel · words: Pietro Pariati, Nicolò Beregan · Italian ✎ ♫
+- [*Alessandro Severo*](https://en.wikipedia.org/wiki/Alessandro_Severo) (1738) — George Frideric Handel · words: Apostolo Zeno · Italian ✎ ♫
+- [*Faramondo*](https://en.wikipedia.org/wiki/Faramondo) (1738) — George Frideric Handel · Italian ✎ ♫
+- [*Serse*](https://en.wikipedia.org/wiki/Serse) (1738) — George Frideric Handel · Italian ✎ ♫
+- [*Giove in Argo*](https://en.wikipedia.org/wiki/Giove_in_Argo) (1739) — George Frideric Handel · words: Antonio Maria Lucchini · Italian ♫
+- [*Imeneo*](https://en.wikipedia.org/wiki/Imeneo) (1740) — George Frideric Handel · words: Silvio Stampiglia · Italian ✎ ♫
+- [*Deidamia*](https://en.wikipedia.org/wiki/Deidamia_(opera%29) (1741) — George Frideric Handel · words: Paolo Antonio Rolli · Italian ✎ ♫
+- [*Germanico*](https://en.wikipedia.org/wiki/Germanico_(Handel%29) — George Frideric Handel · Italian
+- [*Handel's lost Hamburg operas*](https://en.wikipedia.org/wiki/Handel%27s_lost_Hamburg_operas) — George Frideric Handel ✎ ♫
+- [*Blue Monday*](https://en.wikipedia.org/wiki/Blue_Monday_(opera%29) (1922) — George Gershwin · words: Buddy DeSylva ✎ ♫
+- [*Porgy and Bess*](https://en.wikipedia.org/wiki/Porgy_and_Bess) (1935) — George Gershwin · words: DuBose Heyward · English ✎ ♫
+- [*Uncle Samuel*](https://en.wikipedia.org/wiki/Uncle_Samuel) (1881) — George Grossmith · words: Arthur Law ✎
+- [*Haste to the Wedding*](https://en.wikipedia.org/wiki/Haste_to_the_Wedding) (1892) — George Grossmith · words: W. S. Gilbert · English ✎
+- [*Le duc de Guise*](https://en.wikipedia.org/wiki/Le_duc_de_Guise) (1837) — George Onslow · words: Eugène de Planard · French ♫
+- [*Burlesque Opera of Tabasco*](https://en.wikipedia.org/wiki/Tabasco_(burlesque_opera%29) — George Whitefield Chadwick · English ✎ ♫
+- [*La maison du docteur*](https://en.wikipedia.org/wiki/La_maison_du_docteur) (1855) — Georges Bizet · words: Henry Boisseaux · French
+- [*The Pearl Fishers*](https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles) (1863) — Georges Bizet · words: Michel Carré, Eugène Cormon, P. E. Cormon · French ✎ ♫
+- [*La jolie fille de Perth*](https://en.wikipedia.org/wiki/La_jolie_fille_de_Perth) (1867) — Georges Bizet · words: Jules Adenis, Jules-Henri Vernoy de Saint-Georges · French ✎ ♫
+- [*Carmen*](https://en.wikipedia.org/wiki/Carmen) (1875) — Georges Bizet · words: Ludovic Halévy · French ✎ ♫
+- [*Don Procopio*](https://en.wikipedia.org/wiki/Don_Procopio) (1906) — Georges Bizet · words: Carlo Cambiaggio · Italian ✎ ♫
+- [*Ivan IV*](https://en.wikipedia.org/wiki/Ivan_IV_(opera%29) (1951) — Georges Bizet · words: Henri Trianon, François-Hippolyte Leroy · French ✎ ♫
+- [*Noé*](https://en.wikipedia.org/wiki/No%C3%A9_(opera%29) (2004) — Georges Bizet, Fromental Halévy · words: Jules-Henri Vernoy de Saint-Georges · French
+- [*Œdipe*](https://en.wikipedia.org/wiki/%C5%92dipe_(opera%29) (1936) — Georges Enescou · words: Edmond Fleg · French ✎ ♫
+- [*The Importance of Being Earnest*](https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest_(opera%29) (2011) — Gerald Barry · words: Gerald Barry · English ✎ ♫
+- [*Alice's Adventures Under Ground*](https://en.wikipedia.org/wiki/Alice%27s_Adventures_Under_Ground_(opera%29) (2016) — Gerald Barry · words: Gerald Barry ✎ ♫
+- [*The Bitter Tears of Petra von Kant*](https://en.wikipedia.org/wiki/The_Bitter_Tears_of_Petra_von_Kant_(opera%29) — Gerald Barry · English
+- [*L'incoronazione di Dario*](https://en.wikipedia.org/wiki/L%27incoronazione_di_Dario_(Perti%29) (1686) — Giacomo Antonio Perti · words: Giorgio Maria Rapparini, Adriano Morselli · Italian ♫
+- [*Jephtas Gelübde*](https://en.wikipedia.org/wiki/Jephtas_Gel%C3%BCbde) (1812) — Giacomo Meyerbeer · words: Aloys Schreiber · German ♫
+- [*Emma di Resburgo*](https://en.wikipedia.org/wiki/Emma_di_Resburgo) (1819) — Giacomo Meyerbeer · words: Gaetano Rossi · Italian ✎ ♫
+- [*Semiramide riconosciuta*](https://en.wikipedia.org/wiki/Semiramide_riconosciuta_(Meyerbeer%29) (1819) — Giacomo Meyerbeer · words: Pietro Metastasio, Gaetano Rossi · Italian ✎ ♫
+- [*Margherita d'Anjou*](https://en.wikipedia.org/wiki/Margherita_d%27Anjou) (1820) — Giacomo Meyerbeer · words: Felice Romani · Italian ✎ ♫
+- [*L'esule di Granata*](https://en.wikipedia.org/wiki/L%27esule_di_Granata) (1822) — Giacomo Meyerbeer · words: Felice Romani · Italian ✎ ♫
+- [*Il crociato in Egitto*](https://en.wikipedia.org/wiki/Il_crociato_in_Egitto) (1824) — Giacomo Meyerbeer · words: Gaetano Rossi · Italian ✎ ♫
+- [*Robert le diable*](https://en.wikipedia.org/wiki/Robert_le_diable) (1831) — Giacomo Meyerbeer · words: Eugène Scribe, Germain Delavigne · French ✎ ♫
+- [*Les Huguenots*](https://en.wikipedia.org/wiki/Les_Huguenots) (1836) — Giacomo Meyerbeer · words: Eugène Scribe, Émile Deschamps, Germain Delavigne · French ✎ ♫
+- [*Ein Feldlager in Schlesien*](https://en.wikipedia.org/wiki/Ein_Feldlager_in_Schlesien) (1844) — Giacomo Meyerbeer · words: Ludwig Rellstab, Eugène Scribe · German ✎ ♫
+- [*Le prophète*](https://en.wikipedia.org/wiki/Le_proph%C3%A8te) (1849) — Giacomo Meyerbeer · words: Eugène Scribe, Émile Deschamps · French ✎ ♫
+- [*L'étoile du nord*](https://en.wikipedia.org/wiki/L%27%C3%A9toile_du_nord) (1854) — Giacomo Meyerbeer · words: Eugène Scribe · French ✎ ♫
+- [*Dinorah*](https://en.wikipedia.org/wiki/Dinorah) (1859) — Giacomo Meyerbeer · words: Jules Barbier, Michel Carré · French ✎ ♫
+- [*L'Africaine*](https://en.wikipedia.org/wiki/L%27Africaine) (1865) — Giacomo Meyerbeer · words: Eugène Scribe · French ✎ ♫
+- [*Chopin*](https://en.wikipedia.org/wiki/Chopin_(opera%29) (1901) — Giacomo Orefice · words: Angiolo Orvieto · Italian ✎ ♫
+- [*Edgar*](https://en.wikipedia.org/wiki/Edgar_(opera%29) (1889) — Giacomo Puccini · words: Ferdinando Fontana · Italian ♫
+- [*Manon Lescaut*](https://en.wikipedia.org/wiki/Manon_Lescaut_(Puccini%29) (1893) — Giacomo Puccini · words: Ruggero Leoncavallo, Giuseppe Giacosa, Luigi Illica, Marco Praga, Domenico Oliva · Italian ✎ ♫
+- [*La bohème*](https://en.wikipedia.org/wiki/La_boh%C3%A8me) (1896) — Giacomo Puccini · words: Giuseppe Giacosa, Luigi Illica · Italian ✎ ♫
+- [*Tosca*](https://en.wikipedia.org/wiki/Tosca) (1900) — Giacomo Puccini · words: Luigi Illica, Giuseppe Giacosa · Italian ✎ ♫
+- [*Madama Butterfly*](https://en.wikipedia.org/wiki/Madama_Butterfly) (1904) — Giacomo Puccini · words: Giuseppe Giacosa, Luigi Illica · Italian ✎ ♫
+- [*La fanciulla del West*](https://en.wikipedia.org/wiki/La_fanciulla_del_West) (1910) — Giacomo Puccini · words: Carlo Zangarini, Guelfo Civinini · Italian ✎ ♫
+- [*Gianni Schicchi*](https://en.wikipedia.org/wiki/Gianni_Schicchi) (1918) — Giacomo Puccini · words: Giovacchino Forzano · Italian ✎ ♫
+- [*Il tabarro*](https://en.wikipedia.org/wiki/Il_tabarro) (1918) — Giacomo Puccini · words: Giuseppe Adami · Italian ✎ ♫
+- [*Suor Angelica*](https://en.wikipedia.org/wiki/Suor_Angelica) (1918) — Giacomo Puccini · words: Giovacchino Forzano · Italian ✎ ♫
+- [*Turandot*](https://en.wikipedia.org/wiki/Turandot) (1926) — Giacomo Puccini · words: Giuseppe Adami, Renato Simoni · Italian ✎ ♫
+- [*Amelia Goes to the Ball*](https://en.wikipedia.org/wiki/Amelia_Goes_to_the_Ball) (1937) — Gian Carlo Menotti · words: Gian Carlo Menotti · Italian ✎ ♫
+- [*The Old Maid and the Thief*](https://en.wikipedia.org/wiki/The_Old_Maid_and_the_Thief) (1939) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Island God*](https://en.wikipedia.org/wiki/The_Island_God) (1942) — Gian Carlo Menotti · words: Gian Carlo Menotti · Italian ✎ ♫
+- [*The Medium*](https://en.wikipedia.org/wiki/The_Medium) (1946) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Telephone*](https://en.wikipedia.org/wiki/The_Telephone_(opera%29) (1947) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Consul*](https://en.wikipedia.org/wiki/The_Consul) (1950) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*Amahl and the Night Visitors*](https://en.wikipedia.org/wiki/Amahl_and_the_Night_Visitors) (1951) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Saint of Bleecker Street*](https://en.wikipedia.org/wiki/The_Saint_of_Bleecker_Street) (1954) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Unicorn, the Gorgon, and the Manticore*](https://en.wikipedia.org/wiki/The_Unicorn,_the_Gorgon,_and_the_Manticore) (1956) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎
+- [*Maria Golovin*](https://en.wikipedia.org/wiki/Maria_Golovin) (1958) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ♫
+- [*Labyrinth*](https://en.wikipedia.org/wiki/Labyrinth_(opera%29) (1963) — Gian Carlo Menotti · words: Gian Carlo Menotti · English
+- [*The Last Savage*](https://en.wikipedia.org/wiki/The_Last_Savage) (1963) — Gian Carlo Menotti · words: Gian Carlo Menotti · Italian ✎ ♫
+- [*Martin's Lie*](https://en.wikipedia.org/wiki/Martin%27s_Lie) (1964) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*Help, Help, the Globolinks!*](https://en.wikipedia.org/wiki/Help,_Help,_the_Globolinks!) (1968) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Most Important Man*](https://en.wikipedia.org/wiki/The_Most_Important_Man) (1971) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Hero*](https://en.wikipedia.org/wiki/The_Hero_(opera%29) (1976) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ♫
+- [*La Loca*](https://en.wikipedia.org/wiki/La_Loca_(opera%29) (1979) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ✎ ♫
+- [*The Boy Who Grew Too Fast*](https://en.wikipedia.org/wiki/The_Boy_Who_Grew_Too_Fast) (1982) — Gian Carlo Menotti · words: Gian Carlo Menotti · English ♫
+- [*Ifigenia in Tauride*](https://en.wikipedia.org/wiki/Ifigenia_in_Tauride_(Majo%29) (1764) — Gian Francesco de Majo · words: Mattia Verazi · Italian
+- [*Torneo notturno*](https://en.wikipedia.org/wiki/Torneo_notturno) (1931) — Gian Francesco Malipiero · words: Gian Francesco Malipiero · Italian ♫
+- [*L'Orfeide*](https://en.wikipedia.org/wiki/L%27Orfeide) — Gian Francesco Malipiero · Italian
+- [*The Child Dreams*](https://en.wikipedia.org/wiki/The_Child_Dreams_(opera%29) — Gil Shohat ✎ ♫
+- [*La cambiale di matrimonio*](https://en.wikipedia.org/wiki/La_cambiale_di_matrimonio) (1810) — Gioachino Rossini · words: Gaetano Rossi · Italian ✎ ♫
+- [*L'equivoco stravagante*](https://en.wikipedia.org/wiki/L%27equivoco_stravagante) (1811) — Gioachino Rossini · words: Gaetano Gasbarri · Italian ✎ ♫
+- [*Ciro in Babilonia*](https://en.wikipedia.org/wiki/Ciro_in_Babilonia) (1812) — Gioachino Rossini · words: Giuseppe Aventi · Italian ✎ ♫
+- [*Demetrio e Polibio*](https://en.wikipedia.org/wiki/Demetrio_e_Polibio) (1812) — Gioachino Rossini · words: Vincenza Viganò-Mombelli · Italian ✎ ♫
+- [*L'inganno felice*](https://en.wikipedia.org/wiki/L%27inganno_felice) (1812) — Gioachino Rossini · words: Giuseppe Maria Foppa · Italian ✎ ♫
+- [*L'occasione fa il ladro*](https://en.wikipedia.org/wiki/L%27occasione_fa_il_ladro) (1812) — Gioachino Rossini · words: Luigi Prividali · Italian ✎ ♫
+- [*La pietra del paragone*](https://en.wikipedia.org/wiki/La_pietra_del_paragone) (1812) — Gioachino Rossini · words: Luigi Romanelli · Italian ✎ ♫
+- [*La scala di seta*](https://en.wikipedia.org/wiki/La_scala_di_seta) (1812) — Gioachino Rossini · words: Giuseppe Maria Foppa · Italian ✎ ♫
+- [*Aureliano in Palmira*](https://en.wikipedia.org/wiki/Aureliano_in_Palmira) (1813) — Gioachino Rossini · words: Felice Romani · Italian ✎ ♫
+- [*Il signor Bruschino*](https://en.wikipedia.org/wiki/Il_signor_Bruschino) (1813) — Gioachino Rossini · words: Giuseppe Maria Foppa · Italian ✎ ♫
+- [*L'italiana in Algeri*](https://en.wikipedia.org/wiki/L%27italiana_in_Algeri) (1813) — Gioachino Rossini · words: Angelo Anelli · Italian ✎ ♫
+- [*Tancredi*](https://en.wikipedia.org/wiki/Tancredi) (1813) — Gioachino Rossini · words: Gaetano Rossi · Italian ✎ ♫
+- [*Il turco in Italia*](https://en.wikipedia.org/wiki/Il_turco_in_Italia) (1814) — Gioachino Rossini · words: Felice Romani · Italian ✎ ♫
+- [*Sigismondo*](https://en.wikipedia.org/wiki/Sigismondo) (1814) — Gioachino Rossini · words: Giuseppe Maria Foppa · Italian ✎ ♫
+- [*Elisabetta, regina d'Inghilterra*](https://en.wikipedia.org/wiki/Elisabetta,_regina_d%27Inghilterra) (1815) — Gioachino Rossini · words: Giovanni Schmidt · Italian ✎ ♫
+- [*Torvaldo e Dorliska*](https://en.wikipedia.org/wiki/Torvaldo_e_Dorliska) (1815) — Gioachino Rossini · words: Cesare Sterbini · Italian ✎ ♫
+- [*La gazzetta*](https://en.wikipedia.org/wiki/La_gazzetta) (1816) — Gioachino Rossini · words: Giuseppe Palomba · Italian ✎ ♫
+- [*Otello*](https://en.wikipedia.org/wiki/Otello_(Rossini%29) (1816) — Gioachino Rossini · words: Francesco Berio di Salsa · Italian ✎ ♫
+- [*The Barber of Seville*](https://en.wikipedia.org/wiki/The_Barber_of_Seville) (1816) — Gioachino Rossini · words: Cesare Sterbini · Italian ✎ ♫
+- [*Adelaide di Borgogna*](https://en.wikipedia.org/wiki/Adelaide_di_Borgogna) (1817) — Gioachino Rossini · words: Giovanni Schmidt · Italian ♫
+- [*Armida*](https://en.wikipedia.org/wiki/Armida_(Rossini%29) (1817) — Gioachino Rossini · words: Giovanni Schmidt · Italian ✎ ♫
+- [*La Cenerentola*](https://en.wikipedia.org/wiki/La_Cenerentola) (1817) — Gioachino Rossini · words: Jacopo Ferretti · Italian ✎ ♫
+- [*La gazza ladra*](https://en.wikipedia.org/wiki/La_gazza_ladra) (1817) — Gioachino Rossini · words: Giovanni Gherardini · Italian ✎ ♫
+- [*Mosè in Egitto*](https://en.wikipedia.org/wiki/Mos%C3%A8_in_Egitto) (1818) — Gioachino Rossini · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Ricciardo e Zoraide*](https://en.wikipedia.org/wiki/Ricciardo_e_Zoraide) (1818) — Gioachino Rossini · words: Francesco Berio di Salsa · Italian ✎ ♫
+- [*Bianca e Falliero, o sia Il consiglio di tre*](https://en.wikipedia.org/wiki/Bianca_e_Falliero) (1819) — Gioachino Rossini · words: Felice Romani · Italian ✎ ♫
+- [*Eduardo e Cristina*](https://en.wikipedia.org/wiki/Eduardo_e_Cristina) (1819) — Gioachino Rossini · words: Andrea Leone Tottola, Gherardo Bevilacqua-Aldobrandini · Italian ✎ ♫
+- [*Ermione*](https://en.wikipedia.org/wiki/Ermione) (1819) — Gioachino Rossini · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*La donna del lago*](https://en.wikipedia.org/wiki/La_donna_del_lago) (1819) — Gioachino Rossini · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Maometto II*](https://en.wikipedia.org/wiki/Maometto_II) (1820) — Gioachino Rossini · words: Cesare della Valle · Italian ✎ ♫
+- [*Matilde di Shabran*](https://en.wikipedia.org/wiki/Matilde_di_Shabran) (1821) — Gioachino Rossini · words: Jacopo Ferretti · Italian ✎ ♫
+- [*Zelmira*](https://en.wikipedia.org/wiki/Zelmira) (1822) — Gioachino Rossini · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Semiramide*](https://en.wikipedia.org/wiki/Semiramide) (1823) — Gioachino Rossini · words: Gaetano Rossi · Italian ✎ ♫
+- [*Il viaggio a Reims*](https://en.wikipedia.org/wiki/Il_viaggio_a_Reims) (1825) — Gioachino Rossini · words: Luigi Balocchi · Italian ✎ ♫
+- [*Adina*](https://en.wikipedia.org/wiki/Adina_(opera%29) (1826) — Gioachino Rossini · words: Gherardo Bevilacqua-Aldobrandini · Italian ♫
+- [*Ivanhoé*](https://en.wikipedia.org/wiki/Ivanho%C3%A9) (1826) — Gioachino Rossini · words: Émile Deschamps, Gustave de Wailly · French ♫
+- [*Le siège de Corinthe*](https://en.wikipedia.org/wiki/Le_si%C3%A8ge_de_Corinthe) (1826) — Gioachino Rossini · words: Alexandre Soumet, Luigi Balocchi · French ✎ ♫
+- [*Le comte Ory*](https://en.wikipedia.org/wiki/Le_comte_Ory) (1828) — Gioachino Rossini · words: Eugène Scribe · French ✎ ♫
+- [*William Tell*](https://en.wikipedia.org/wiki/William_Tell_(opera%29) (1829) — Gioachino Rossini · words: Armand Marrast, Victor-Joseph Étienne de Jouy, Hippolyte Bis · French ✎ ♫
+- [*Robert Bruce*](https://en.wikipedia.org/wiki/Robert_Bruce_(opera%29) (1846) — Gioachino Rossini · words: Alphonse Royer, Gustave Vaëz · French ♫
+- [*Ugo, re d'Italia*](https://en.wikipedia.org/wiki/Ugo,_re_d%27Italia) — Gioachino Rossini · Italian
+- [*Auf den Marmorklippen*](https://en.wikipedia.org/wiki/Auf_den_Marmorklippen_(opera%29) (2002) — Giorgio Battistelli · words: Giorgio Battistelli, Giorgio van Straten · German
+- [*An Inconvenient Truth*](https://en.wikipedia.org/wiki/CO2_(opera%29) (2015) — Giorgio Battistelli · words: Robert Carsen
+- [*Wake*](https://en.wikipedia.org/wiki/Wake_(opera%29) (2018) — Giorgio Battistelli · words: Sarah Woods ♫
+- [*Calandro*](https://en.wikipedia.org/wiki/Calandro) (1726) — Giovanni Alberto Ristori · words: Stefano Benedetto Pallavicino · Italian ✎
+- [*Il Paride*](https://en.wikipedia.org/wiki/Il_Paride) (1662) — Giovanni Andrea Bontempi · words: Giovanni Andrea Bontempi · Italian
+- [*La conversione e morte di San Guglielmo*](https://en.wikipedia.org/wiki/La_conversione_e_morte_di_San_Guglielmo) (1731) — Giovanni Battista Pergolesi · words: Ignazio Mancini · Italian ✎ ♫
+- [*La Salustia*](https://en.wikipedia.org/wiki/La_Salustia) (1732) — Giovanni Battista Pergolesi · Italian ✎ ♫
+- [*Lo frate 'nnamorato*](https://en.wikipedia.org/wiki/Lo_frate_%27nnamorato) (1732) — Giovanni Battista Pergolesi · words: Gennaro Antonio Federico · Italian ✎ ♫
+- [*Il prigionier superbo*](https://en.wikipedia.org/wiki/Il_prigionier_superbo) (1733) — Giovanni Battista Pergolesi · words: Gennaro Antonio Federico · Italian ✎ ♫
+- [*La serva padrona*](https://en.wikipedia.org/wiki/La_serva_padrona) (1733) — Giovanni Battista Pergolesi · words: Gennaro Antonio Federico · Italian ✎ ♫
+- [*Adriano in Siria*](https://en.wikipedia.org/wiki/Adriano_in_Siria_(Pergolesi%29) (1734) — Giovanni Battista Pergolesi · words: Pietro Metastasio · Italian ✎ ♫
+- [*La contadina astuta*](https://en.wikipedia.org/wiki/Livietta_e_Tracollo) (1734) — Giovanni Battista Pergolesi · words: Tommaso Mariani · Italian ♫
+- [*Il Flaminio*](https://en.wikipedia.org/wiki/Il_Flaminio) (1735) — Giovanni Battista Pergolesi · words: Gennaro Antonio Federico · Italian ♫
+- [*L’olimpiade*](https://en.wikipedia.org/wiki/L%27Olimpiade_(Pergolesi%29) (1735) — Giovanni Battista Pergolesi · words: Pietro Metastasio · Italian ✎ ♫
+- [*Camilla*](https://en.wikipedia.org/wiki/Camilla_(Bononcini%29) (1696) — Giovanni Bononcini · words: Silvio Stampiglia · Italian
+- [*Griselda*](https://en.wikipedia.org/wiki/Griselda_(Giovanni_Bononcini%29) (1722) — Giovanni Bononcini · words: Paolo Antonio Rolli · Italian ✎ ♫
+- [*Xerse*](https://en.wikipedia.org/wiki/Xerse_(Bononcini%29) — Giovanni Bononcini · words: Silvio Stampiglia · Italian ♫
+- [*Zenobia e Radamisto*](https://en.wikipedia.org/wiki/Zenobia_e_Radamisto) (1665) — Giovanni Legrenzi · words: Ippolito Bentivoglio · Italian ♫
+- [*Eteocle e Polinice*](https://en.wikipedia.org/wiki/Eteocle_e_Polinice) (1674) — Giovanni Legrenzi · words: Tebaldo Fattorini · Italian ✎ ♫
+- [*La divisione del mondo*](https://en.wikipedia.org/wiki/La_divisione_del_mondo) (1675) — Giovanni Legrenzi · words: Giulio Cesare Corradi · Italian ♫
+- [*Totila*](https://en.wikipedia.org/wiki/Totila_(opera%29) (1677) — Giovanni Legrenzi · words: Matteo Noris · Italian ✎
+- [*Giustino*](https://en.wikipedia.org/wiki/Giustino_(Legrenzi%29) (1683) — Giovanni Legrenzi · words: Nicolò Beregan · Italian ♫
+- [*La schiava in Bagdad*](https://en.wikipedia.org/wiki/La_schiava_in_Bagdad) (1820) — Giovanni Pacini · words: Vittorio Pezzi · Italian ✎ ♫
+- [*Alessandro nelle Indie*](https://en.wikipedia.org/wiki/Alessandro_nelle_Indie_(Pacini%29) (1824) — Giovanni Pacini · words: Andrea Leone Tottola · Italian ♫
+- [*L'ultimo giorno di Pompei*](https://en.wikipedia.org/wiki/L%27ultimo_giorno_di_Pompei) (1825) — Giovanni Pacini · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Gli Arabi nelle Gallie*](https://en.wikipedia.org/wiki/Gli_arabi_nelle_Gallie) (1827) — Giovanni Pacini · words: Luigi Romanelli · Italian ♫
+- [*Il convitato di pietra (Pacini)*](https://en.wikipedia.org/wiki/Il_convitato_di_pietra_(Pacini%29) (1832) — Giovanni Pacini · Italian ♫
+- [*Carlo di Borgogna*](https://en.wikipedia.org/wiki/Carlo_di_Borgogna) (1835) — Giovanni Pacini · words: Gaetano Rossi · Italian ✎ ♫
+- [*Saffò*](https://en.wikipedia.org/wiki/Saffo_(Pacini%29) (1840) — Giovanni Pacini · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Maria, regina d'Inghilterra*](https://en.wikipedia.org/wiki/Maria,_regina_d%27Inghilterra) (1843) — Giovanni Pacini · words: Leopoldo Tarantini · Italian ✎ ♫
+- [*Medea*](https://en.wikipedia.org/wiki/Medea_(Pacini%29) (1843) — Giovanni Pacini · words: Benedetto Castiglia · Italian ✎ ♫
+- [*Malvina di Scozia*](https://en.wikipedia.org/wiki/Malvina_di_Scozia) (1851) — Giovanni Pacini · words: Salvadore Cammarano · Italian ✎
+- [*The Barber of Seville*](https://en.wikipedia.org/wiki/The_Barber_of_Seville_(Paisiello%29) (1782) — Giovanni Paisiello · words: Giuseppe Petrosellini · Italian ♫
+- [*Il re Teodoro in Venezia*](https://en.wikipedia.org/wiki/Il_re_Teodoro_in_Venezia) (1784) — Giovanni Paisiello · words: Giovanni Battista Casti · Italian
+- [*Nina*](https://en.wikipedia.org/wiki/Nina_(opera%29) (1789) — Giovanni Paisiello · words: Giuseppe Carpani, Giovanni Battista Lorenzi · Italian ✎ ♫
+- [*I giuochi d'Agrigento*](https://en.wikipedia.org/wiki/I_giuochi_d%27Agrigento) (1792) — Giovanni Paisiello · words: Alessandro Pepoli · Italian
+- [*Proserpine*](https://en.wikipedia.org/wiki/Proserpine_(Paisiello%29) (1803) — Giovanni Paisiello · words: Philippe Quinault, Nicolas-François Guillard · French ♫
+- [*Die Räuber*](https://en.wikipedia.org/wiki/Die_R%C3%A4uber_(opera%29) (1957) — Giselher Klebe · words: Klebe ♫
+- [*Die Ermordung Cäsars*](https://en.wikipedia.org/wiki/Die_Ermordung_C%C3%A4sars) (1959) — Giselher Klebe · words: Giselher Klebe ♫
+- [*Die tödlichen Wünsche*](https://en.wikipedia.org/wiki/Die_t%C3%B6dlichen_W%C3%BCnsche) (1959) — Giselher Klebe · words: Giselher Klebe
+- [*Alkmene*](https://en.wikipedia.org/wiki/Alkmene_(opera%29) (1961) — Giselher Klebe · words: Giselher Klebe ✎ ♫
+- [*Figaro lässt sich scheiden*](https://en.wikipedia.org/wiki/Figaro_l%C3%A4%C3%9Ft_sich_scheiden) (1963) — Giselher Klebe · words: Giselher Klebe · German
+- [*Jacobowsky und der Oberst*](https://en.wikipedia.org/wiki/Jacobowsky_und_der_Oberst_(opera%29) (1965) — Giselher Klebe · words: Klebe ♫
+- [*Das Märchen von der schönen Lilie*](https://en.wikipedia.org/wiki/Das_M%C3%A4rchen_von_der_sch%C3%B6nen_Lilie) (1969) — Giselher Klebe · words: Lore Klebe ♫
+- [*Ein wahrer Held*](https://en.wikipedia.org/wiki/Ein_wahrer_Held) (1975) — Giselher Klebe · words: Giselher Klebe, Lore Klebe ♫
+- [*Das Mädchen aus Domrémy*](https://en.wikipedia.org/wiki/Das_M%C3%A4dchen_aus_Domr%C3%A9my) (1976) — Giselher Klebe · words: Giselher Klebe, Lore Klebe ♫
+- [*Das Rendezvous*](https://en.wikipedia.org/wiki/Das_Rendezvous) (1977) — Giselher Klebe · words: Lore Klebe
+- [*Der Jüngste Tag*](https://en.wikipedia.org/wiki/Der_J%C3%BCngste_Tag) (1980) — Giselher Klebe · words: Lore Klebe
+- [*Die Fastnachtsbeichte*](https://en.wikipedia.org/wiki/Die_Fastnachtsbeichte_(opera%29) (1983) — Giselher Klebe · words: Lore Klebe
+- [*Gervaise Macquart*](https://en.wikipedia.org/wiki/Gervaise_Macquart) (1995) — Giselher Klebe · words: Lore Klebe
+- [*Chlestakows Wiederkehr*](https://en.wikipedia.org/wiki/Chlestakows_Wiederkehr) (2008) — Giselher Klebe · words: Giselher Klebe
+- [*Euridice*](https://en.wikipedia.org/wiki/Euridice_(Caccini%29) (1602) — Giulio Caccini · words: Ottavio Rinuccini · Italian ✎ ♫
+- [*Il rapimento di Cefalo*](https://en.wikipedia.org/wiki/Il_rapimento_di_Cefalo) — Giulio Caccini · words: Gabriello Chiabrera · Italian ♫
+- [*L'ebreo*](https://en.wikipedia.org/wiki/L%27ebreo) (1855) — Giuseppe Apolloni · words: Antonio Boni · Italian ✎
+- [*I riti d'Efeso*](https://en.wikipedia.org/wiki/I_riti_d%27Efeso) (1803) — Giuseppe Farinelli · words: Gaetano Rossi · Italian ♫
+- [*Calliroe*](https://en.wikipedia.org/wiki/Calliroe_(Farinelli%29) — Giuseppe Farinelli · words: Gaetano Rossi · Italian ♫
+- [*Il Cid della Spagna*](https://en.wikipedia.org/wiki/Il_Cid_della_Spagna) — Giuseppe Farinelli · Italian ♫
+- [*Don Giovanni Tenorio*](https://en.wikipedia.org/wiki/Don_Giovanni_Tenorio) (1787) — Giuseppe Gazzaniga · words: Giovanni Bertati · Italian ✎ ♫
+- [*Il barone di Trocchia*](https://en.wikipedia.org/wiki/Il_barone_di_Trocchia) — Giuseppe Gazzaniga · Italian ♫
+- [*Martino Carbonaro*](https://en.wikipedia.org/wiki/Martino_Carbonaro) — Giuseppe Gazzaniga · Italian ♫
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Sarti%29) (1762) — Giuseppe Sarti · words: Pietro Metastasio · Italian ♫
+- [*Le gelosie villane*](https://en.wikipedia.org/wiki/Le_gelosie_villane) (1776) — Giuseppe Sarti · words: Tommaso Grandi · Italian ✎ ♫
+- [*Medonte, re di Epiro*](https://en.wikipedia.org/wiki/Medonte_(Sarti%29) (1777) — Giuseppe Sarti · words: Giovanni de Gamerra · Italian ♫
+- [*Giulio Sabino*](https://en.wikipedia.org/wiki/Giulio_Sabino) (1781) — Giuseppe Sarti · words: Pietro Giovannini · Italian ✎ ♫
+- [*Fra i due litiganti il terzo gode*](https://en.wikipedia.org/wiki/Fra_i_due_litiganti_il_terzo_gode) (1782) — Giuseppe Sarti · words: Carlo Goldoni, Giovanni Battista Lorenzi · Italian ✎ ♫
+- [*Dove è amore è gelosia*](https://en.wikipedia.org/wiki/Dove_%C3%A8_amore_%C3%A8_gelosia) — Giuseppe Scarlatti · Italian ♫
+- [*Oberto, conte di San Bonifacio*](https://en.wikipedia.org/wiki/Oberto_(opera%29) (1839) — Giuseppe Verdi · words: Temistocle Solera, Antonio Piazza · Italian ✎ ♫
+- [*Un giorno di regno*](https://en.wikipedia.org/wiki/Un_giorno_di_regno) (1840) — Giuseppe Verdi · words: Felice Romani · Italian ✎ ♫
+- [*Nabucco*](https://en.wikipedia.org/wiki/Nabucco) (1842) — Giuseppe Verdi · words: Temistocle Solera · Italian ✎ ♫
+- [*I Lombardi alla prima crociata*](https://en.wikipedia.org/wiki/I_Lombardi_alla_prima_crociata) (1843) — Giuseppe Verdi · words: Temistocle Solera · Italian ✎ ♫
+- [*Ernani*](https://en.wikipedia.org/wiki/Ernani) (1844) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*I due Foscari*](https://en.wikipedia.org/wiki/I_due_Foscari) (1844) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*Alzira*](https://en.wikipedia.org/wiki/Alzira_(opera%29) (1845) — Giuseppe Verdi · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Giovanna d'Arco*](https://en.wikipedia.org/wiki/Giovanna_d%27Arco) (1845) — Giuseppe Verdi · words: Temistocle Solera · Italian ✎ ♫
+- [*Attila*](https://en.wikipedia.org/wiki/Attila_(opera%29) (1846) — Giuseppe Verdi · words: Temistocle Solera, Francesco Maria Piave · Italian ✎ ♫
+- [*I masnadieri*](https://en.wikipedia.org/wiki/I_masnadieri) (1847) — Giuseppe Verdi · words: Andrea Maffei · Italian ✎ ♫
+- [*Jérusalem*](https://en.wikipedia.org/wiki/J%C3%A9rusalem) (1847) — Giuseppe Verdi · words: Gustave Vaëz, Alphonse Royer · French ✎ ♫
+- [*Macbeth*](https://en.wikipedia.org/wiki/Macbeth_(Verdi%29) (1847) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*Il corsaro*](https://en.wikipedia.org/wiki/Il_corsaro) (1848) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*La battaglia di Legnano*](https://en.wikipedia.org/wiki/La_battaglia_di_Legnano) (1849) — Giuseppe Verdi · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Luisa Miller*](https://en.wikipedia.org/wiki/Luisa_Miller) (1849) — Giuseppe Verdi · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Stiffelio*](https://en.wikipedia.org/wiki/Stiffelio) (1850) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*Rigoletto*](https://en.wikipedia.org/wiki/Rigoletto) (1851) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*Il trovatore*](https://en.wikipedia.org/wiki/Il_trovatore) (1853) — Giuseppe Verdi · words: Leone Emanuele Bardare, Salvadore Cammarano · Italian ✎ ♫
+- [*La traviata*](https://en.wikipedia.org/wiki/La_traviata) (1853) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*I vespri siciliani*](https://en.wikipedia.org/wiki/I_vespri_siciliani) (1855) — Giuseppe Verdi · words: Eugène Scribe, Charles Duveyrier · Italian ✎ ♫
+- [*Les vêpres siciliennes*](https://en.wikipedia.org/wiki/Les_v%C3%AApres_siciliennes) (1855) — Giuseppe Verdi · words: Eugène Scribe, Charles Duveyrier · French/Italian ✎ ♫
+- [*Aroldo*](https://en.wikipedia.org/wiki/Aroldo) (1857) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*Simon Boccanegra*](https://en.wikipedia.org/wiki/Simon_Boccanegra) (1857) — Giuseppe Verdi · words: Arrigo Boito, Francesco Maria Piave · Italian ✎ ♫
+- [*Un ballo in maschera*](https://en.wikipedia.org/wiki/Un_ballo_in_maschera) (1859) — Giuseppe Verdi · words: Antonio Somma · Italian ✎ ♫
+- [*La forza del destino*](https://en.wikipedia.org/wiki/La_forza_del_destino) (1862) — Giuseppe Verdi · words: Francesco Maria Piave · Italian ✎ ♫
+- [*Don Carlos*](https://en.wikipedia.org/wiki/Don_Carlos) (1867) — Giuseppe Verdi · words: Camille du Locle, Joseph Méry · French/Italian ✎ ♫
+- [*Aida*](https://en.wikipedia.org/wiki/Aida) (1871) — Giuseppe Verdi · words: Antonio Ghislanzoni · Italian ✎ ♫
+- [*Otello*](https://en.wikipedia.org/wiki/Otello) (1887) — Giuseppe Verdi · words: Arrigo Boito · Italian ✎ ♫
+- [*Falstaff*](https://en.wikipedia.org/wiki/Falstaff_(opera%29) (1893) — Giuseppe Verdi · words: Arrigo Boito · Italian ✎ ♫
+- [*Gustavo III*](https://en.wikipedia.org/wiki/Gustavo_III_(Verdi%29) (2002) — Giuseppe Verdi · words: Antonio Somma · Italian ♫
+- [*Re Lear*](https://en.wikipedia.org/wiki/Re_Lear) — Giuseppe Verdi · Italian
+- [*Usher House*](https://en.wikipedia.org/wiki/Usher_House) (2014) — Gordon Getty · words: Gordon Getty
+- [*The Canterville Ghost*](https://en.wikipedia.org/wiki/The_Canterville_Ghost_(Getty_opera%29) — Gordon Getty · words: Gordon Getty
+- [*Dogville*](https://en.wikipedia.org/wiki/Dogville_(opera%29) (2023) — Gordon Kampe
+- [*Midnight Son*](https://en.wikipedia.org/wiki/Midnight_Son_(opera%29) (2012) — Gordon Kerry · words: Louis Nowra
+- [*Danton's Death*](https://en.wikipedia.org/wiki/Dantons_Tod_(opera%29) (1947) — Gottfried von Einem · words: Gottfried von Einem, Boris Blacher · German ✎ ♫
+- [*Der Prozeß*](https://en.wikipedia.org/wiki/Der_Proze%C3%9F_(opera%29) (1953) — Gottfried von Einem · German ✎ ♫
+- [*Der Besuch der alten Dame*](https://en.wikipedia.org/wiki/Der_Besuch_der_alten_Dame_(opera%29) (1971) — Gottfried von Einem · words: Friedrich Dürrenmatt ♫
+- [*The Parlour*](https://en.wikipedia.org/wiki/The_Parlour) (1966) — Grace Williams
+- [*The Seal Woman*](https://en.wikipedia.org/wiki/The_Seal_Woman) — Granville Bantock
+- [*Fellow Travelers*](https://en.wikipedia.org/wiki/Fellow_Travelers_(opera%29) (2016) — Gregory Spears · words: Greg Pierce · English ✎ ♫
+- [*Castor and Patience*](https://en.wikipedia.org/wiki/Castor_and_Patience) (2022) — Gregory Spears · words: Tracy K. Smith ♫
+- [*O Columbia*](https://en.wikipedia.org/wiki/O_Columbia) — Gregory Spears · English ✎ ♫
+- [*The Diary of Anne Frank*](https://en.wikipedia.org/wiki/The_Diary_of_Anne_Frank_(opera%29) (1972) — Grigory Frid · words: Grigory Frid · Russian ✎
+- [*Wolf Cub Village*](https://en.wikipedia.org/wiki/Wolf_Cub_Village) (2000) — Guo Wenjing · words: Guo Wenjing
+- [*Poet Li Bai*](https://en.wikipedia.org/wiki/Poet_Li_Bai) (2007) — Guo Wenjing
+- [*Rickshaw Boy*](https://en.wikipedia.org/wiki/Rickshaw_Boy_(opera%29) (2014) — Guo Wenjing · words: Xu Ying · Chinese
+- [*Savitri*](https://en.wikipedia.org/wiki/S%C4%81vitri_(opera%29) (1916) — Gustav Holst · words: Gustav Holst · English ✎ ♫
+- [*The Perfect Fool*](https://en.wikipedia.org/wiki/The_Perfect_Fool) (1923) — Gustav Holst · words: Gustav Holst · English ♫
+- [*At the Boar's Head*](https://en.wikipedia.org/wiki/At_the_Boar%27s_Head) (1925) — Gustav Holst · words: Gustav Holst · English ✎ ♫
+- [*The Wandering Scholar*](https://en.wikipedia.org/wiki/The_Wandering_Scholar) (1934) — Gustav Holst · words: Clifford Bax ✎ ♫
+- [*Louise*](https://en.wikipedia.org/wiki/Louise_(opera%29) (1900) — Gustave Charpentier · words: Saint-Pol-Roux · French ✎ ♫
+- [*Julien ou La Vie du poète*](https://en.wikipedia.org/wiki/Julien_(opera%29) (1913) — Gustave Charpentier · words: Gustave Charpentier · French ✎ ♫
+- [*Little Christopher Columbus*](https://en.wikipedia.org/wiki/Little_Christopher_Columbus) (1893) — Gustave Kerker, Ivan Caryll · words: George Robert Sims, Cecil Raleigh · English ♫
+- [*La casa imaginaria*](https://en.wikipedia.org/wiki/La_casa_imaginaria_(opera%29) (2018) — Gustavo Díaz-Jerez · words: Pilar Mateos · Spanish
+- [*Le Pays*](https://en.wikipedia.org/wiki/Le_Pays) (1912) — Guy Ropartz · words: Charles Le Goffic · French ✎ ♫
+- [*Fin de Partie*](https://en.wikipedia.org/wiki/Fin_de_partie_(opera%29) (2018) — György Kurtág · words: György Kurtág · French ✎ ♫
+- [*Die Stechardin*](https://en.wikipedia.org/wiki/Die_Stechardin) (2026) — György Kurtág · words: Christoph Hein · German
+- [*Le Grand Macabre*](https://en.wikipedia.org/wiki/Le_Grand_Macabre) (1978) — György Ligeti · words: György Ligeti, Michael Meschke ✎ ♫
+- [*Den Kongelige Gæst*](https://en.wikipedia.org/wiki/Den_Kongelige_G%C3%A6st) (1919) — Hakon Børresen · words: Svend Leopold · Danish
+- [*Kaddara*](https://en.wikipedia.org/wiki/Kaddara) — Hakon Børresen · words: C. M. Norman-Hansen · Danish
+- [*The Outpost*](https://en.wikipedia.org/wiki/The_Outpost_(opera%29) (1900) — Hamilton Clarke · words: Albert O'Donnell Bartholeyns · English ✎ ♫
+- [*Jeanie Deans*](https://en.wikipedia.org/wiki/Jeanie_Deans_(opera%29) (1894) — Hamish MacCunn · words: Joseph Bennett · English
+- [*The Snow Queen*](https://en.wikipedia.org/wiki/The_Snow_Queen_(Abrahamsen%29) (2019) — Hans Abrahamsen · words: Hans Abrahamsen · English/Danish ✎ ♫
+- [*Das Lied der Nacht*](https://en.wikipedia.org/wiki/Das_Lied_der_Nacht) — Hans Gál · words: Karl Michael Levetzow · German
+- [*Die heilige Ente*](https://en.wikipedia.org/wiki/Die_heilige_Ente) — Hans Gál · words: Leo Feld, Karl Michael Levetzow · German ✎ ♫
+- [*Clara*](https://en.wikipedia.org/wiki/Clara_(opera%29) (1998) — Hans Gefors · words: Jean-Claude Carrière ✎ ♫
+- [*Notorious (opera)*](https://en.wikipedia.org/wiki/Notorious_(opera%29) (2015) — Hans Gefors · words: Kerstin Perski ✎ ♫
+- [*Verlobung im Traum*](https://en.wikipedia.org/wiki/Verlobung_im_Traum) (1933) — Hans Krása · words: Rudolf Fuchs · German ✎
+- [*Brundibár*](https://en.wikipedia.org/wiki/Brundib%C3%A1r) (1943) — Hans Krása · words: Adolf Hoffmeister · Czech
+- [*Der arme Heinrich*](https://en.wikipedia.org/wiki/Der_arme_Heinrich_(opera%29) (1895) — Hans Pfitzner · German
+- [*Die Rose vom Liebesgarten*](https://en.wikipedia.org/wiki/Die_Rose_vom_Liebesgarten) (1900) — Hans Pfitzner · words: James Grun
+- [*Das Christ-Elflein*](https://en.wikipedia.org/wiki/Das_Christ-Elflein) (1906) — Hans Pfitzner · words: Ilse von Stach · German ✎ ♫
+- [*Palestrina*](https://en.wikipedia.org/wiki/Palestrina_(opera%29) (1917) — Hans Pfitzner · words: Hans Pfitzner · German ✎
+- [*Das Herz*](https://en.wikipedia.org/wiki/Das_Herz) — Hans Pfitzner · words: Hans Mahner-Mons · German
+- [*Rübezahl und der Sackpfeifer von Neisse*](https://en.wikipedia.org/wiki/R%C3%BCbezahl_und_der_Sackpfeifer_von_Neisse) (1904) — Hans Sommer · words: Eberhard König · German
+- [*The White Horse Inn*](https://en.wikipedia.org/wiki/White_Horse_Inn_(Broadway_version%29) (1936) — Hans Spialek · words: David Freedman ✎ ♫
+- [*Die Stadt hinter dem Strom*](https://en.wikipedia.org/wiki/Die_Stadt_hinter_dem_Strom_(opera%29) (1955) — Hans Vogt · words: Hermann Kasack
+- [*Ein Landarzt*](https://en.wikipedia.org/wiki/Ein_Landarzt_(opera%29) (1951) — Hans Werner Henze · words: Hans Werner Henze · German ✎ ♫
+- [*Boulevard Solitude*](https://en.wikipedia.org/wiki/Boulevard_Solitude) (1952) — Hans Werner Henze · words: Grete Weil, Hans Werner Henze ✎ ♫
+- [*Der Prinz von Homburg*](https://en.wikipedia.org/wiki/Der_Prinz_von_Homburg_(opera%29) (1960) — Hans Werner Henze · words: Ingeborg Bachmann · German ✎ ♫
+- [*Elegy for Young Lovers*](https://en.wikipedia.org/wiki/Elegy_for_Young_Lovers) (1961) — Hans Werner Henze · words: W. H. Auden, Chester Kallman ✎ ♫
+- [*Der junge Lord*](https://en.wikipedia.org/wiki/Der_junge_Lord) (1965) — Hans Werner Henze · words: Ingeborg Bachmann · German ✎ ♫
+- [*The Bassarids*](https://en.wikipedia.org/wiki/The_Bassarids) (1966) — Hans Werner Henze · words: W. H. Auden, Chester Kallman ✎ ♫
+- [*The tedious way to the place of Natascha Ungeheuer*](https://en.wikipedia.org/wiki/Der_langwierige_Weg_in_die_Wohnung_der_Natascha_Ungeheuer) (1971) — Hans Werner Henze · words: Gaston Salvatore
+- [*We Come to the River*](https://en.wikipedia.org/wiki/We_Come_to_the_River) (1976) — Hans Werner Henze · words: Edward Bond ✎ ♫
+- [*The English Cat*](https://en.wikipedia.org/wiki/The_English_Cat) (1983) — Hans Werner Henze · words: Edward Bond ✎ ♫
+- [*König Hirsch*](https://en.wikipedia.org/wiki/K%C3%B6nig_Hirsch) (1985) — Hans Werner Henze · words: Heinz von Cramer · German ✎ ♫
+- [*Das verratene Meer*](https://en.wikipedia.org/wiki/Das_verratene_Meer) (1990) — Hans Werner Henze · words: Hans-Ulrich Treichel · German ✎ ♫
+- [*Venus und Adonis*](https://en.wikipedia.org/wiki/Venus_und_Adonis) (1997) — Hans Werner Henze · words: Hans-Ulrich Treichel · German ♫
+- [*L'Upupa und der Triumph der Sohnesliebe*](https://en.wikipedia.org/wiki/L%27Upupa_und_der_Triumph_der_Sohnesliebe) (2003) — Hans Werner Henze · words: Hans Werner Henze ✎ ♫
+- [*Phaedra*](https://en.wikipedia.org/wiki/Phaedra_(opera%29) (2007) — Hans Werner Henze · words: Christian Lehnert · German ✎ ♫
+- [*Gisela!*](https://en.wikipedia.org/wiki/Gisela!) (2010) — Hans Werner Henze ✎ ♫
+- [*Stephen Climax*](https://en.wikipedia.org/wiki/Stephen_Climax) (1986) — Hans Zender · words: Hans Zender ♫
+- [*A Village Teacher*](https://en.wikipedia.org/wiki/A_Village_Teacher) (2009) — Hao Weiya · words: Liu Heng · Chinese
+- [*The Maid of the Mountains*](https://en.wikipedia.org/wiki/The_Maid_of_the_Mountains) (1917) — Harold Fraser Simson · words: Harry Graham and additional lyrics by Frank Clifford Harris and Valentine ✎
+- [*Punch and Judy*](https://en.wikipedia.org/wiki/Punch_and_Judy_(opera%29) (1968) — Harrison Birtwistle · words: Stephen Pruslin · English ✎ ♫
+- [*Down by the Greenwood Side*](https://en.wikipedia.org/wiki/Down_by_the_Greenwood_Side_(opera%29) (1969) — Harrison Birtwistle · words: Michael Nyman
+- [*The Mask of Orpheus*](https://en.wikipedia.org/wiki/The_Mask_of_Orpheus) (1986) — Harrison Birtwistle · words: Peter Zinovieff · English ✎
+- [*Yan Tan Tethera*](https://en.wikipedia.org/wiki/Yan_Tan_Tethera_(opera%29) (1986) — Harrison Birtwistle · words: Tony Harrison ♫
+- [*Gawain*](https://en.wikipedia.org/wiki/Gawain_(opera%29) (1991) — Harrison Birtwistle · words: David Harsent · English ✎ ♫
+- [*The Second Mrs Kong*](https://en.wikipedia.org/wiki/The_Second_Mrs_Kong) (1994) — Harrison Birtwistle · words: Russell Hoban ✎ ♫
+- [*The Last Supper*](https://en.wikipedia.org/wiki/The_Last_Supper_(opera%29) (2000) — Harrison Birtwistle · words: Robin Blaser · English ✎ ♫
+- [*The Io Passion*](https://en.wikipedia.org/wiki/The_Io_Passion) (2004) — Harrison Birtwistle · words: Stephen Plaice · English ✎ ♫
+- [*The Minotaur*](https://en.wikipedia.org/wiki/The_Minotaur_(opera%29) (2008) — Harrison Birtwistle · words: David Harsent · English ✎ ♫
+- [*The Corridor*](https://en.wikipedia.org/wiki/The_Corridor_(opera%29) (2009) — Harrison Birtwistle · words: David Harsent ✎
+- [*Voodoo*](https://en.wikipedia.org/wiki/Voodoo_(opera%29) (1928) — Harry Lawrence Freeman · words: Harry Lawrence Freeman · English ✎
+- [*Louis Riel*](https://en.wikipedia.org/wiki/Louis_Riel_(opera%29) (1967) — Harry Somers · words: Mavor Moore, Jacques Languirand · French ♫
+- [*The Cenci*](https://en.wikipedia.org/wiki/The_Cenci_(opera%29) — Havergal Brian
+- [*The Tigers*](https://en.wikipedia.org/wiki/The_Tigers_(opera%29) — Havergal Brian
+- [*Benvenuto Cellini*](https://en.wikipedia.org/wiki/Benvenuto_Cellini_(opera%29) (1838) — Hector Berlioz · words: Henri Auguste Barbier, Léon de Wailly · French ✎ ♫
+- [*La damnation de Faust*](https://en.wikipedia.org/wiki/La_Damnation_de_Faust) (1846) — Hector Berlioz · words: Hector Berlioz, Almire Gandonnière · French ✎ ♫
+- [*Béatrice et Bénédict*](https://en.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict) (1862) — Hector Berlioz · words: Hector Berlioz · French ✎ ♫
+- [*Les Troyens*](https://en.wikipedia.org/wiki/Les_Troyens) (1863) — Hector Berlioz · words: Hector Berlioz · French ✎ ♫
+- [*Les Francs-juges*](https://en.wikipedia.org/wiki/Les_Francs-juges) — Hector Berlioz · words: Humbert Ferrand · French
+- [*Julietta*](https://en.wikipedia.org/wiki/Julietta_(Erbse_opera%29) — Heimo Erbse
+- [*Der Vampyr*](https://en.wikipedia.org/wiki/Der_Vampyr) (1828) — Heinrich August Marschner · words: Wilhelm August Wohlbrück · German ✎ ♫
+- [*Der Templer und die Jüdin*](https://en.wikipedia.org/wiki/Der_Templer_und_die_J%C3%BCdin) (1829) — Heinrich August Marschner · words: Wilhelm August Wohlbrück · German ✎ ♫
+- [*Hans Heiling*](https://en.wikipedia.org/wiki/Hans_Heiling) (1833) — Heinrich August Marschner · words: Eduard Devrient · German ✎ ♫
+- [*Der Bäbu*](https://en.wikipedia.org/wiki/Der_B%C3%A4bu) (1838) — Heinrich August Marschner · words: Wilhelm August Wohlbrück · German ♫
+- [*Arminio*](https://en.wikipedia.org/wiki/Arminio_(Biber%29) — Heinrich Biber · Italian ✎ ♫
+- [*Dafne*](https://en.wikipedia.org/wiki/Dafne_(Opitz-Sch%C3%BCtz%29) (1627) — Heinrich Schütz · words: Martin Opitz · German ✎
+- [*Romeo und Julia*](https://en.wikipedia.org/wiki/Romeo_und_Julia_(Sutermeister_opera%29) (1940) — Heinrich Sutermeister · words: Heinrich Sutermeister · German ✎ ♫
+- [*Schneewittchen*](https://en.wikipedia.org/wiki/Schneewittchen_(opera%29) (1998) — Heinz Holliger · words: Heinz Holliger · German ✎ ♫
+- [*Yerma*](https://en.wikipedia.org/wiki/Yerma_(opera%29) — Heitor Villa-Lobos · Spanish ♫
+- [*Das Mädchen mit den Schwefelhölzern*](https://en.wikipedia.org/wiki/Das_M%C3%A4dchen_mit_den_Schwefelh%C3%B6lzern) (1997) — Helmut Lachenmann · words: Lachenmann · German
+- [*Phi-Phi*](https://en.wikipedia.org/wiki/Phi-Phi) (1918) — Henri Christiné · words: Albert Willemetz, Fabien Sollar · French ✎ ♫
+- [*Renaud*](https://en.wikipedia.org/wiki/Renaud_(Desmarets%29) (1722) — Henri Desmarets · French
+- [*Circé*](https://en.wikipedia.org/wiki/Circ%C3%A9_(Desmarets%29) — Henri Desmarets · French
+- [*Théagène et Chariclée*](https://en.wikipedia.org/wiki/Th%C3%A9ag%C3%A8ne_et_Charicl%C3%A9e) — Henri Desmarets · French
+- [*Vénus et Adonis*](https://en.wikipedia.org/wiki/V%C3%A9nus_et_Adonis) — Henri Desmarets · French ✎ ♫
+- [*Mârouf, savetier du Caire*](https://en.wikipedia.org/wiki/M%C3%A2rouf,_savetier_du_Caire) (1914) — Henri Rabaud · French ✎ ♫
+- [*La chartreuse de Parme*](https://en.wikipedia.org/wiki/La_chartreuse_de_Parme_(opera%29) (1939) — Henri Sauguet · words: Armand Lunel · French ✎ ♫
+- [*Les Caprices de Marianne*](https://en.wikipedia.org/wiki/Les_caprices_de_Marianne) — Henri Sauguet · words: Jean-Pierre Grédy · French ✎ ♫
+- [*Monna Vanna*](https://en.wikipedia.org/wiki/Monna_Vanna_(F%C3%A9vrier%29) (1909) — Henry Février · words: Maurice Maeterlinck · French ♫
+- [*Gismonda*](https://en.wikipedia.org/wiki/Gismonda_(F%C3%A9vrier%29) (1919) — Henry Février · words: Henri Caïn, Louis Payen · French
+- [*Safié*](https://en.wikipedia.org/wiki/Safi%C3%A9) (1909) — Henry Kimball Hadley · words: Edward Oxenford ✎ ♫
+- [*Cleopatra's Night*](https://en.wikipedia.org/wiki/Cleopatra%27s_Night) (1920) — Henry Kimball Hadley · words: Alice Leal Pollock · English ✎ ♫
+- [*A Night in Old Paris*](https://en.wikipedia.org/wiki/A_Night_in_Old_Paris) (1924) — Henry Kimball Hadley · words: Frederick Truesdell · English ✎
+- [*Azora, the Daughter of Montezuma*](https://en.wikipedia.org/wiki/Azora,_the_Daughter_of_Montezuma) — Henry Kimball Hadley · words: David Stevens · English ✎ ♫
+- [*Bianca*](https://en.wikipedia.org/wiki/Bianca_(opera%29) — Henry Kimball Hadley
+- [*Dido and Aeneas*](https://en.wikipedia.org/wiki/Dido_and_Aeneas) (1688) — Henry Purcell · words: Nahum Tate · English ✎ ♫
+- [*Dioclesian*](https://en.wikipedia.org/wiki/Dioclesian) (1690) — Henry Purcell · words: Thomas Betterton · English ✎
+- [*King Arthur*](https://en.wikipedia.org/wiki/King_Arthur_(opera%29) (1691) — Henry Purcell · words: John Dryden · English ✎ ♫
+- [*The Fairy-Queen*](https://en.wikipedia.org/wiki/The_Fairy-Queen) (1692) — Henry Purcell · English ✎ ♫
+- [*The Indian Queen*](https://en.wikipedia.org/wiki/The_Indian_Queen_(opera%29) (1695) — Henry Purcell · words: John Dryden, Robert Howard · English ✎ ♫
+- [*Yaroslav Mudriy*](https://en.wikipedia.org/wiki/Yaroslav_Mudriy) (1975) — Heorhii Maiboroda · words: Heorhii Maiboroda · Ukrainian ✎ ♫
+- [*Andromache*](https://en.wikipedia.org/wiki/Andromache_(opera%29) (1932) — Herbert Windt · words: Herbert Windt · German ✎ ♫
+- [*Der Widerspenstigen Zähmung*](https://en.wikipedia.org/wiki/Der_Widersp%C3%A4nstigen_Z%C3%A4hmung) (1874) — Hermann Goetz · words: Joseph Victor Widmann · German ♫
+- [*Doktor Johannes Faust*](https://en.wikipedia.org/wiki/Doktor_Johannes_Faust) (1936) — Hermann Reutter · words: Ludwig Andersen ♫
+- [*Oberst Chabert*](https://en.wikipedia.org/wiki/Oberst_Chabert) (1912) — Hermann Wolfgang von Waltershausen · German ✎ ♫
+- [*L'œil crevé*](https://en.wikipedia.org/wiki/L%27%C5%93il_crev%C3%A9) (1867) — Hervé · words: Hervé · French ✎
+- [*Le petit Faust*](https://en.wikipedia.org/wiki/Le_petit_Faust) (1869) — Hervé · words: Hector Crémieux, Adolphe Jaime · French ✎
+- [*Chilpéric*](https://en.wikipedia.org/wiki/Chilp%C3%A9ric_(operetta%29) — Hervé · French ✎ ♫
+- [*Fiskeren*](https://en.wikipedia.org/wiki/Fiskeren) — Hjalmar Borgstrøm · Norwegian
+- [*Thora on Rimol*](https://en.wikipedia.org/wiki/Thora_paa_Rimol) — Hjalmar Borgstrøm · words: Hjalmar Borgstrøm · Norwegian
+- [*Mona*](https://en.wikipedia.org/wiki/Mona_(opera%29) (1912) — Horatio Parker · words: Brian Hooker · English ♫
+- [*Mana and Mani*](https://en.wikipedia.org/wiki/Mana_and_Mani) — Hossein Dehlavi
+- [*Merry Mount*](https://en.wikipedia.org/wiki/Merry_Mount_(opera%29) (1933) — Howard Hanson · words: Richard Stokes ✎ ♫
+- [*The Fly*](https://en.wikipedia.org/wiki/The_Fly_(opera%29) (2008) — Howard Shore ♫
+- [*Wapping Old Stairs*](https://en.wikipedia.org/wiki/Wapping_Old_Stairs) (1894) — Howard Talbot · English ✎ ♫
+- [*Dr. Sun Yat-sen*](https://en.wikipedia.org/wiki/Dr._Sun_Yat-sen_(opera%29) — Huang Ruo · words: Candace Chong Mui Ngam ✎ ♫
+- [*Nine Rivers from Jordan*](https://en.wikipedia.org/wiki/Nine_Rivers_from_Jordan) (1968) — Hugo Weisgall · words: Denis Johnston ✎ ♫
+- [*Will You Marry Me?*](https://en.wikipedia.org/wiki/Will_You_Marry_Me%3F_(opera%29) (1989) — Hugo Weisgall · words: Charles Kondek · English
+- [*Esther*](https://en.wikipedia.org/wiki/Esther_(Weisgall_opera%29) — Hugo Weisgall · words: Charles Kondek ✎ ♫
+- [*The Stronger*](https://en.wikipedia.org/wiki/The_Stronger_(opera%29) — Hugo Weisgall
+- [*Der Corregidor*](https://en.wikipedia.org/wiki/Der_Corregidor) (1896) — Hugo Wolf · words: Rosa Mayreder · German ✎ ♫
+- [*Manuel Venegas*](https://en.wikipedia.org/wiki/Manuel_Venegas) — Hugo Wolf ♫
+- [*The Diary of a Madman*](https://en.wikipedia.org/wiki/The_Diary_of_a_Madman_(opera%29) (1958) — Humphrey Searle · words: Humphrey Searle ✎ ♫
+- [*Chunhyang-jeon*](https://en.wikipedia.org/wiki/Chunhyang-jeon_(opera%29) — Hyun Jae-myung · Korean
+- [*A Harlot's Progress*](https://en.wikipedia.org/wiki/A_Harlot%27s_Progress_(opera%29) (2013) — Iain Bell · words: Peter Ackroyd ✎ ♫
+- [*Stonewall*](https://en.wikipedia.org/wiki/Stonewall_(opera%29) (2019) — Iain Bell · words: Mark Campbell ✎ ♫
+- [*Anna Karenina*](https://en.wikipedia.org/wiki/Anna_Karenina_(Hamilton%29) — Iain Hamilton ♫
+- [*Madeline Lee*](https://en.wikipedia.org/wiki/Madeline_Lee_(opera%29) — Ian John Haddock ✎ ♫
+- [*Manru*](https://en.wikipedia.org/wiki/Manru) (1901) — Ignacy Jan Paderewski · words: Alfred Nossig · German
+- [*Das goldene Kreuz*](https://en.wikipedia.org/wiki/Das_goldene_Kreuz) (1875) — Ignaz Brüll · words: Salomon Hermann Mosenthal · German ♫
+- [*Il figlio delle selve*](https://en.wikipedia.org/wiki/Il_figlio_delle_selve) (1753) — Ignaz Holzbauer · words: Carlo Sigismondo Capece · Italian
+- [*Günther von Schwarzburg*](https://en.wikipedia.org/wiki/G%C3%BCnther_von_Schwarzburg_(opera%29) (1777) — Ignaz Holzbauer · German ✎ ♫
+- [*The Nightingale*](https://en.wikipedia.org/wiki/The_Nightingale_(opera%29) (1914) — Igor Stravinsky · words: Igor Stravinsky, Stepan Mitusov · Russian ✎ ♫
+- [*Mavra*](https://en.wikipedia.org/wiki/Mavra) (1922) — Igor Stravinsky · words: Boris Kochno · Russian ✎ ♫
+- [*Renard*](https://en.wikipedia.org/wiki/Renard_(Stravinsky%29) (1922) — Igor Stravinsky · words: Igor Stravinsky ✎
+- [*Oedipus Rex*](https://en.wikipedia.org/wiki/Oedipus_rex_(opera%29) (1927) — Igor Stravinsky · words: Igor Stravinsky, Jean Cocteau · Latin ✎ ♫
+- [*Perséphone*](https://en.wikipedia.org/wiki/Pers%C3%A9phone_(Stravinsky%29) (1934) — Igor Stravinsky · words: André Gide · French ✎ ♫
+- [*The Rake's Progress*](https://en.wikipedia.org/wiki/The_Rake%27s_Progress) (1951) — Igor Stravinsky · words: W. H. Auden, Chester Kallman · English ✎ ♫
+- [*Yūzuru*](https://en.wikipedia.org/wiki/Y%C5%ABzuru) (1952) — Ikuma Dan · words: Junji Kinoshita · Japanese ✎ ♫
+- [*Fedra*](https://en.wikipedia.org/wiki/Fedra_(Pizzetti%29) (1915) — Ildebrando Pizzetti · words: Gabriele D'Annunzio · Italian ✎ ♫
+- [*Dèbora e Jaéle*](https://en.wikipedia.org/wiki/D%C3%A8bora_e_Ja%C3%A9le) (1922) — Ildebrando Pizzetti · words: Ildebrando Pizzetti · Italian ✎ ♫
+- [*Fra Gherardo*](https://en.wikipedia.org/wiki/Fra_Gherardo) (1928) — Ildebrando Pizzetti · words: Ildebrando Pizzetti · Italian ✎ ♫
+- [*Lo straniero*](https://en.wikipedia.org/wiki/Lo_straniero) (1930) — Ildebrando Pizzetti · words: Ildebrando Pizzetti · Italian ♫
+- [*L'oro*](https://en.wikipedia.org/wiki/L%27oro) (1947) — Ildebrando Pizzetti · words: Ildebrando Pizzetti · Italian ✎ ♫
+- [*Ifigenia*](https://en.wikipedia.org/wiki/Ifigenia_(Pizzetti%29) (1950) — Ildebrando Pizzetti · words: Ildebrando Pizzetti and Alberto Perrini · Italian ✎ ♫
+- [*Assassinio nella cattedrale*](https://en.wikipedia.org/wiki/Assassinio_nella_cattedrale) (1958) — Ildebrando Pizzetti · words: Ildebrando Pizzetti · Italian ♫
+- [*Clitennestra*](https://en.wikipedia.org/wiki/Clitennestra) (1965) — Ildebrando Pizzetti · words: Ildebrando Pizzetti · Italian ✎ ♫
+- [*IYOV*](https://en.wikipedia.org/wiki/IYOV) (2015) — Illya Razumeiko, Roman Romanovych Hryhoriv ✎ ♫
+- [*Gormenghast*](https://en.wikipedia.org/wiki/Gormenghast_(opera%29) (1998) — Irmin Schmidt · words: Duncan Fallowell · English ♫
+- [*Pozdvižení v Efesu*](https://en.wikipedia.org/wiki/Pozdvi%C5%BEen%C3%AD_v_Efesu) (1945) — Iša Krejčí · words: Josef Bachtík · Czech
+- [*Henry Clifford*](https://en.wikipedia.org/wiki/Henry_Clifford_(opera%29) (1895) — Isaac Albéniz · words: Francis Money-Coutts ♫
+- [*Pepita Jiménez*](https://en.wikipedia.org/wiki/Pepita_Jim%C3%A9nez) (1896) — Isaac Albéniz · words: Francis Money-Coutts · Italian ✎ ♫
+- [*Merlin*](https://en.wikipedia.org/wiki/Merlin_(Alb%C3%A9niz%29) (2003) — Isaac Albéniz · words: Francis Money-Coutts ✎ ♫
+- [*Don John of Austria*](https://en.wikipedia.org/wiki/Don_John_of_Austria_(opera%29) — Isaac Nathan · English ✎ ♫
+- [*Messaline*](https://en.wikipedia.org/wiki/Messaline) (1899) — Isidore de Lara · words: Paul Armand Silvestre, Eugène Morand · French ✎ ♫
+- [*L'amore dei tre re*](https://en.wikipedia.org/wiki/L%27amore_dei_tre_re) (1913) — Italo Montemezzi · words: Sem Benelli · Italian ✎ ♫
+- [*La nave*](https://en.wikipedia.org/wiki/La_nave) (1918) — Italo Montemezzi · words: Tito Ricordi · Italian ♫
+- [*L'incantesimo*](https://en.wikipedia.org/wiki/L%27incantesimo) (1943) — Italo Montemezzi · words: Sem Benelli · Italian ✎ ♫
+- [*The Duchess of Dantzic*](https://en.wikipedia.org/wiki/The_Duchess_of_Dantzic) — Ivan Caryll ✎ ♫
+- [*The Lucky Star*](https://en.wikipedia.org/wiki/The_Lucky_Star) — Ivan Caryll ✎ ♫
+- [*Nikola Šubić Zrinjski*](https://en.wikipedia.org/wiki/Nikola_%C5%A0ubi%C4%87_Zrinski_(opera%29) (1876) — Ivan Zajc · Croatian
+- [*Lizzie Borden*](https://en.wikipedia.org/wiki/Lizzie_Borden_(opera%29) (1965) — Jack Beeson · words: Richard Plant, Kenward Elmslie · English ✎ ♫
+- [*Captain Jinks of the Horse Marines*](https://en.wikipedia.org/wiki/Captain_Jinks_of_the_Horse_Marines) (1975) — Jack Beeson · words: Sheldon Harnick, Clyde Fitch ✎ ♫
+- [*Cristina, regina di Svezia*](https://en.wikipedia.org/wiki/Cristina,_regina_di_Svezia) (1849) — Jacopo Foroni · words: Giovanni Carlo Casanova · Italian ✎ ♫
+- [*Dafne*](https://en.wikipedia.org/wiki/Dafne) (1597) — Jacopo Peri, Jacopo Corsi · words: Ottavio Rinuccini · Italian ✎
+- [*Euridice*](https://en.wikipedia.org/wiki/Euridice_(Peri%29) (1600) — Jacopo Peri · words: Ottavio Rinuccini · Italian ✎ ♫
+- [*La Flora*](https://en.wikipedia.org/wiki/La_Flora) (1628) — Jacopo Peri, Marco da Gagliano · words: Andrea Salvadori · Italian ✎ ♫
+- [*Persée et Andromède*](https://en.wikipedia.org/wiki/Pers%C3%A9e_et_Androm%C3%A8de) (1929) — Jacques Ibert · French
+- [*Pépito*](https://en.wikipedia.org/wiki/P%C3%A9pito_(opera%29) (1853) — Jacques Offenbach · words: Jules Moinaux, Léon Battu · French ✎ ♫
+- [*La bonne d'enfant*](https://en.wikipedia.org/wiki/La_bonne_d%27enfant) (1856) — Jacques Offenbach · words: Eugène Bercioux · French ✎ ♫
+- [*Le 66*](https://en.wikipedia.org/wiki/Le_66) (1856) — Jacques Offenbach · words: Auguste Pittaud de Forges, Paul-Aimé Fromage · French ✎ ♫
+- [*Croquefer, ou Le dernier des paladins*](https://en.wikipedia.org/wiki/Croquefer,_ou_Le_dernier_des_paladins) (1857) — Jacques Offenbach · words: Étienne Tréfeu, Adolphe Jaime · French ✎ ♫
+- [*Orpheus in the Underworld*](https://en.wikipedia.org/wiki/Orpheus_in_the_Underworld) (1858) — Jacques Offenbach · words: Ludovic Halévy, Hector Crémieux · French ✎ ♫
+- [*Geneviève de Brabant*](https://en.wikipedia.org/wiki/Genevi%C3%A8ve_de_Brabant_(Offenbach%29) (1859) — Jacques Offenbach · words: Hector Crémieux, Adolphe Jaime, Étienne Tréfeu · French ♫
+- [*Barkouf*](https://en.wikipedia.org/wiki/Barkouf) (1860) — Jacques Offenbach · words: Eugène Scribe, Henry Boisseaux · French ✎ ♫
+- [*M. Choufleuri restera chez lui le . . .*](https://en.wikipedia.org/wiki/M._Choufleuri_restera_chez_lui_le_._._.) (1861) — Jacques Offenbach · words: Charles de Morny, Duke of Morny · French ✎ ♫
+- [*Les bavards*](https://en.wikipedia.org/wiki/Les_bavards) (1862) — Jacques Offenbach · words: Charles Nuitter · French ✎ ♫
+- [*Il signor Fagotto*](https://en.wikipedia.org/wiki/Il_signor_Fagotto) (1863) — Jacques Offenbach · words: Charles Nuitter, Étienne Tréfeu · French ✎ ♫
+- [*Die Rheinnixen*](https://en.wikipedia.org/wiki/Die_Rheinnixen) (1864) — Jacques Offenbach · words: Charles Nuitter · French ✎ ♫
+- [*La permission de dix heures*](https://en.wikipedia.org/wiki/La_permission_de_dix_heures) (1867) — Jacques Offenbach · words: Mélesville, Pierre Carmouche · French ✎ ♫
+- [*Robinson Crusoé*](https://en.wikipedia.org/wiki/Robinson_Cruso%C3%A9) (1867) — Jacques Offenbach · words: Hector Crémieux, Eugène Cormon · French ✎ ♫
+- [*The Princess of Trébizonde*](https://en.wikipedia.org/wiki/La_princesse_de_Tr%C3%A9bizonde) (1869) — Jacques Offenbach · words: Charles Nuitter, Étienne Tréfeu · French ✎ ♫
+- [*Vert-Vert*](https://en.wikipedia.org/wiki/Vert-Vert) (1869) — Jacques Offenbach · words: Charles Nuitter ✎ ♫
+- [*Boule-de-Neige*](https://en.wikipedia.org/wiki/Boule-de-Neige) (1871) — Jacques Offenbach · words: Charles Nuitter, Étienne Tréfeu · French ✎ ♫
+- [*Fantasio*](https://en.wikipedia.org/wiki/Fantasio_(Offenbach%29) (1872) — Jacques Offenbach · words: Paul de Musset · French ✎ ♫
+- [*Le roi Carotte*](https://en.wikipedia.org/wiki/Le_roi_Carotte) (1872) — Jacques Offenbach · words: Victorien Sardou · French ✎ ♫
+- [*La jolie parfumeuse*](https://en.wikipedia.org/wiki/La_jolie_parfumeuse) (1873) — Jacques Offenbach · words: Hector Crémieux, Ernest Blum · French ✎ ♫
+- [*Bagatelle*](https://en.wikipedia.org/wiki/Bagatelle_(opera%29) (1874) — Jacques Offenbach · words: Ernest Blum, Hector Crémieux · French ✎ ♫
+- [*Madame l'archiduc*](https://en.wikipedia.org/wiki/Madame_l%27archiduc) (1874) — Jacques Offenbach · words: Albert Millaud · French ✎ ♫
+- [*Whittington*](https://en.wikipedia.org/wiki/Whittington_(opera%29) (1874) — Jacques Offenbach · words: Henry Brougham Farnie · English ✎ ♫
+- [*Le docteur Ox*](https://en.wikipedia.org/wiki/Le_docteur_Ox) (1877) — Jacques Offenbach · words: Philippe Gille, Arnold Mortier · French ✎ ♫
+- [*Maître Péronilla*](https://en.wikipedia.org/wiki/Ma%C3%AEtre_P%C3%A9ronilla) (1878) — Jacques Offenbach · words: Charles Nuitter, Paul Ferrier · French ✎ ♫
+- [*La fille du tambour-major*](https://en.wikipedia.org/wiki/La_fille_du_tambour-major) (1879) — Jacques Offenbach · words: Henri Chivot, Alfred Duru · French ✎ ♫
+- [*Belle Lurette*](https://en.wikipedia.org/wiki/Belle_Lurette) (1880) — Jacques Offenbach · words: Édouard Blau, Ernest Blum, Raoul Toché · French ✎ ♫
+- [*The Tales of Hoffmann*](https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann) (1881) — Jacques Offenbach · words: Jules Barbier · French ✎ ♫
+- [*L'alcôve*](https://en.wikipedia.org/wiki/L%27alc%C3%B4ve) — Jacques Offenbach · French
+- [*Dead Man Walking*](https://en.wikipedia.org/wiki/Dead_Man_Walking_(opera%29) (2000) — Jake Heggie · words: Terrence McNally · English ✎ ♫
+- [*The End of the Affair*](https://en.wikipedia.org/wiki/The_End_of_the_Affair_(opera%29) (2004) — Jake Heggie · words: Leonard Foglia, Heggie ♫
+- [*Last Acts*](https://en.wikipedia.org/wiki/Three_Decembers) (2008) — Jake Heggie · words: Gene Scheer ✎ ♫
+- [*Moby-Dick*](https://en.wikipedia.org/wiki/Moby-Dick_(opera%29) (2010) — Jake Heggie · words: Gene Scheer · English ✎ ♫
+- [*Great Scott*](https://en.wikipedia.org/wiki/Great_Scott_(opera%29) (2015) — Jake Heggie · words: Terrence McNally ♫
+- [*It's a Wonderful Life*](https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life_(opera%29) (2016) — Jake Heggie · words: Gene Scheer · English
+- [*Der Tyroler Wastel*](https://en.wikipedia.org/wiki/Der_Tyroler_Wastel) (1796) — Jakob Haibel · words: Emanuel Schikaneder · German ✎ ♫
+- [*Ero s onoga svijeta*](https://en.wikipedia.org/wiki/Ero_s_onoga_svijeta) (1935) — Jakov Gotovac · words: Milan Begović · Croatian ✎ ♫
+- [*The Sacrifice*](https://en.wikipedia.org/wiki/The_Sacrifice_(opera%29) (2007) — James MacMillan · words: Michael Symmons Roberts ♫
+- [*Beatrice Chancy*](https://en.wikipedia.org/wiki/Beatrice_Chancy) (1998) — James Rolfe · words: George Elliott Clarke
+- [*Vzkriesenie*](https://en.wikipedia.org/wiki/Vzkriesenie) (1962) — Ján Cikker · words: Ján Cikker · Slovak
+- [*Sub olea pacis et palma virtutis*](https://en.wikipedia.org/wiki/Sub_olea_pacis_et_palma_virtutis) (1723) — Jan Dismas Zelenka · words: Matous Zill · Latin
+- [*Wieland der Schmied*](https://en.wikipedia.org/wiki/Wieland_der_Schmied_(Bella%29) (1926) — Ján Levoslav Bella · German ✎ ♫
+- [*Esther*](https://en.wikipedia.org/wiki/Esther_(Meyerowitz_opera%29) — Jan Meyerowitz · words: Langston Hughes · English
+- [*Schwanda the Bagpiper*](https://en.wikipedia.org/wiki/Schwanda_the_Bagpiper) (1927) — Jaromír Weinberger · words: Miloš Kareš · Czech ✎ ♫
+- [*Wallenstein*](https://en.wikipedia.org/wiki/Wallenstein_(Weinberger%29) — Jaromír Weinberger · words: Miloš Kareš · Czech
+- [*The Floating Box: A Story in Chinatown*](https://en.wikipedia.org/wiki/The_Floating_Box:_A_Story_in_Chinatown) — Jason Kao Hwang · words: Catherine Filloux
+- [*Nora at the Altar-Rail*](https://en.wikipedia.org/wiki/Nora_at_the_Altar-Rail) (2008) — Jay Anthony Gach · words: Royce Vavrek ♫
+- [*Phèdre*](https://en.wikipedia.org/wiki/Ph%C3%A8dre_(opera%29) (1786) — Jean Baptiste Lemoyne · words: François-Benoît Hoffman · French ♫
+- [*Électre*](https://en.wikipedia.org/wiki/%C3%89lectre_(opera%29) — Jean Baptiste Lemoyne · words: Nicolas-François Guillard · French ♫
+- [*Polyphème*](https://en.wikipedia.org/wiki/Polyph%C3%A8me) — Jean Cras · words: Albert Samain · French ✎ ♫
+- [*Jungfrun i tornet*](https://en.wikipedia.org/wiki/The_Maiden_in_the_Tower) (1896) — Jean Sibelius · words: Rafael Hertzberg · Swedish ✎
+- [*Veneen luominen*](https://en.wikipedia.org/wiki/The_Building_of_the_Boat) — Jean Sibelius
+- [*Omphale (Cardonne)*](https://en.wikipedia.org/wiki/Omphale_(Cardonne%29) — Jean-Baptiste Cardonne · French
+- [*Cadmus et Hermione*](https://en.wikipedia.org/wiki/Cadmus_et_Hermione) (1673) — Jean-Baptiste Lully · words: Philippe Quinault · French
+- [*Alceste*](https://en.wikipedia.org/wiki/Alceste_(Lully%29) (1674) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Thésée*](https://en.wikipedia.org/wiki/Th%C3%A9s%C3%A9e_(Lully%29) (1675) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Atys*](https://en.wikipedia.org/wiki/Atys_(Lully%29) (1676) — Jean-Baptiste Lully · words: Philippe Quinault · French ♫
+- [*Isis*](https://en.wikipedia.org/wiki/Isis_(Lully%29) (1677) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Psyché*](https://en.wikipedia.org/wiki/Psych%C3%A9_(opera%29) (1678) — Jean-Baptiste Lully · words: Thomas Corneille · French ✎ ♫
+- [*Bellérophon*](https://en.wikipedia.org/wiki/Bell%C3%A9rophon) (1679) — Jean-Baptiste Lully · words: Bernard Le Bovier de Fontenelle, Thomas Corneille · French ✎ ♫
+- [*Proserpine*](https://en.wikipedia.org/wiki/Proserpine_(Lully%29) (1680) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Persée*](https://en.wikipedia.org/wiki/Pers%C3%A9e_(Lully%29) (1682) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Phaëton*](https://en.wikipedia.org/wiki/Pha%C3%ABton_(Lully%29) (1683) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Amadis*](https://en.wikipedia.org/wiki/Amadis_(Lully%29) (1684) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Roland*](https://en.wikipedia.org/wiki/Roland_(Lully%29) (1685) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Acis et Galatée*](https://en.wikipedia.org/wiki/Acis_et_Galat%C3%A9e) (1686) — Jean-Baptiste Lully · words: Jean Galbert de Campistron · French ✎ ♫
+- [*Armide*](https://en.wikipedia.org/wiki/Armide_(Lully%29) (1686) — Jean-Baptiste Lully · words: Philippe Quinault · French ✎ ♫
+- [*Achille et Polyxène*](https://en.wikipedia.org/wiki/Achille_et_Polyx%C3%A8ne) (1687) — Jean-Baptiste Lully, Pascal Collasse · words: Jean Galbert de Campistron · French ✎ ♫
+- [*Polydore*](https://en.wikipedia.org/wiki/Polydore) — Jean-Baptiste Stuck · words: Jean-Louis-Ignace de La Serre · French
+- [*La caverne*](https://en.wikipedia.org/wiki/La_caverne) (1793) — Jean-François Le Sueur · words: Paul Dercy · French ✎ ♫
+- [*La mort d'Adam*](https://en.wikipedia.org/wiki/La_mort_d%27Adam) (1809) — Jean-François Le Sueur · words: Nicolas-François Guillard · French ♫
+- [*Ossian, ou Les bardes*](https://en.wikipedia.org/wiki/Ossian,_ou_Les_bardes) — Jean-François Le Sueur · words: Jacques Marie Deschamps · French ✎ ♫
+- [*Le devin du village*](https://en.wikipedia.org/wiki/Le_devin_du_village) (1752) — Jean-Jacques Rousseau · words: Jean-Jacques Rousseau · French ✎ ♫
+- [*Isbé*](https://en.wikipedia.org/wiki/Isb%C3%A9) (1742) — Jean-Joseph de Mondonville · words: Henri-François de La Rivière · French
+- [*Titon et l'Aurore*](https://en.wikipedia.org/wiki/Titon_et_l%27Aurore) (1753) — Jean-Joseph de Mondonville · words: Antoine Houdar de La Motte, Abbé de La Marre · French ✎ ♫
+- [*Daphnis et Alcimadure*](https://en.wikipedia.org/wiki/Daphnis_et_Alcimadure) (1754) — Jean-Joseph de Mondonville · words: Mondonville and Claude-Henri de Fusée de Voisenon · Occitan ✎ ♫
+- [*Thésée*](https://en.wikipedia.org/wiki/Th%C3%A9s%C3%A9e_(Mondonville%29) — Jean-Joseph de Mondonville · words: Philippe Quinault · French ♫
+- [*Ariane*](https://en.wikipedia.org/wiki/Ariane_(Mouret%29) — Jean-Joseph Mouret · French
+- [*Scylla et Glaucus*](https://en.wikipedia.org/wiki/Scylla_et_Glaucus) (1746) — Jean-Marie Leclair · words: d'Albaret · French ✎ ♫
+- [*Hippolyte et Aricie*](https://en.wikipedia.org/wiki/Hippolyte_et_Aricie) (1733) — Jean-Philippe Rameau · words: Simon-Joseph Pellegrin · French ✎ ♫
+- [*Castor et Pollux*](https://en.wikipedia.org/wiki/Castor_et_Pollux) (1737) — Jean-Philippe Rameau · words: Pierre-Joseph-Justin Bernard · French ✎ ♫
+- [*Dardanus*](https://en.wikipedia.org/wiki/Dardanus_(Rameau%29) (1739) — Jean-Philippe Rameau · words: Charles-Antoine Leclerc de La Bruère · French ♫
+- [*La princesse de Navarre*](https://en.wikipedia.org/wiki/La_princesse_de_Navarre) (1745) — Jean-Philippe Rameau · words: Voltaire · French ✎ ♫
+- [*Les fêtes de Ramire*](https://en.wikipedia.org/wiki/Les_f%C3%AAtes_de_Ramire) (1745) — Jean-Philippe Rameau · words: Voltaire · French ✎ ♫
+- [*Pigmalion*](https://en.wikipedia.org/wiki/Pygmalion_(Rameau%29) (1748) — Jean-Philippe Rameau · words: Ballot de Sauvot · French ✎ ♫
+- [*Zaïs*](https://en.wikipedia.org/wiki/Za%C3%AFs) (1748) — Jean-Philippe Rameau · words: Louis de Cahusac · French ✎ ♫
+- [*Naïs*](https://en.wikipedia.org/wiki/Na%C3%AFs) (1749) — Jean-Philippe Rameau · words: Louis de Cahusac · French ✎ ♫
+- [*Zoroastre*](https://en.wikipedia.org/wiki/Zoroastre) (1749) — Jean-Philippe Rameau · words: Louis de Cahusac · French ✎ ♫
+- [*Acante et Céphise*](https://en.wikipedia.org/wiki/Acante_et_C%C3%A9phise) (1751) — Jean-Philippe Rameau · words: Jean-François Marmontel · French ✎ ♫
+- [*La guirlande*](https://en.wikipedia.org/wiki/La_guirlande) (1751) — Jean-Philippe Rameau · words: Jean-François Marmontel · French ✎ ♫
+- [*Les sibarites*](https://en.wikipedia.org/wiki/Les_sibarites) (1753) — Jean-Philippe Rameau · words: Jean-François Marmontel · French ✎ ♫
+- [*Anacréon*](https://en.wikipedia.org/wiki/Anacr%C3%A9on_(Rameau,_1754%29) (1754) — Jean-Philippe Rameau · words: Louis de Cahusac · French ✎ ♫
+- [*La naissance d'Osiris*](https://en.wikipedia.org/wiki/La_naissance_d%27Osiris) (1754) — Jean-Philippe Rameau · words: Louis de Cahusac · French ✎ ♫
+- [*Anacréon*](https://en.wikipedia.org/wiki/Anacr%C3%A9on_(Rameau,_1757%29) (1757) — Jean-Philippe Rameau · words: Pierre-Joseph Bernard · French ♫
+- [*Les Paladins*](https://en.wikipedia.org/wiki/Les_Paladins) (1760) — Jean-Philippe Rameau · French ✎ ♫
+- [*Zéphire*](https://en.wikipedia.org/wiki/Z%C3%A9phire) (1967) — Jean-Philippe Rameau · words: Louis de Cahusac (attrib.) · French ✎ ♫
+- [*Nélée et Myrthis*](https://en.wikipedia.org/wiki/N%C3%A9l%C3%A9e_et_Myrthis) (1974) — Jean-Philippe Rameau · words: Louis de Cahusac (attrib.) · French ✎ ♫
+- [*Les Boréades*](https://en.wikipedia.org/wiki/Les_Bor%C3%A9ades) (1982) — Jean-Philippe Rameau · words: Louis de Cahusac · French ✎ ♫
+- [*The Enchanted Island*](https://en.wikipedia.org/wiki/The_Enchanted_Island_(2011_opera%29) (2011) — Jean-Philippe Rameau, Henry Purcell, George Frideric Handel, Antonio Vivaldi, Giovanni Battista Ferrandini, André Campra, Jean-Marie Leclair, Jean-Féry Rebel · words: Jeremy Sams · English ♫
+- [*Daphnis et Eglé*](https://en.wikipedia.org/wiki/Daphnis_et_Egl%C3%A9) — Jean-Philippe Rameau · words: Charles Collé · French ✎ ♫
+- [*lost operas by Jean-Philippe Rameau*](https://en.wikipedia.org/wiki/Lost_operas_by_Jean-Philippe_Rameau) — Jean-Philippe Rameau · French
+- [*Samson*](https://en.wikipedia.org/wiki/Samson_(opera%29) — Jean-Philippe Rameau ✎ ♫
+- [*Grounded*](https://en.wikipedia.org/wiki/Grounded_(opera%29) (2023) — Jeanine Tesori · words: George Brant ✎ ♫
+- [*The Hunger Art*](https://en.wikipedia.org/wiki/The_Hunger_Art) (2008) — Jeff Myers · words: Royce Vavrek ✎
+- [*Cold Mountain*](https://en.wikipedia.org/wiki/Cold_Mountain_(opera%29) (2015) — Jennifer Higdon · words: Gene Scheer · English ✎ ♫
+- [*Hōhepa*](https://en.wikipedia.org/wiki/H%C5%8Dhepa) (2012) — Jenny McLeod · words: Jenny McLeod · English/Māori ✎
+- [*Anna Karenina*](https://en.wikipedia.org/wiki/Anna_Karenina_(Hubay%29) (1923) — Jenö Hubay · words: Andor Gábor, Sándor Góth
+- [*Tilos a Bemenet*](https://en.wikipedia.org/wiki/Tilos_a_Bemenet) (1899) — Jenő Huszka · words: Adolf Mérei · Hungarian
+- [*Prince Bob*](https://en.wikipedia.org/wiki/Prince_Bob) (1902) — Jenő Huszka · words: Károly Bakonyi, Ferenc Martos · Hungarian ✎
+- [*Gül Baba*](https://en.wikipedia.org/wiki/G%C3%BCl_Baba_(operetta%29) (1905) — Jenő Huszka · words: Ferenc Martos · Hungarian ✎
+- [*Baroness Lili*](https://en.wikipedia.org/wiki/Baroness_Lili) (1919) — Jenő Huszka · words: Ferenc Martos · Hungarian ✎
+- [*Christopher Columbus*](https://en.wikipedia.org/wiki/Christopher_Columbus_(Zador%29) (1939) — Jenő Zádor · words: Archduke Joseph Francis of Austria · German ✎
+- [*Bel Canto*](https://en.wikipedia.org/wiki/Bel_Canto_(opera%29) (2015) — Jimmy López · words: Nilo Cruz ♫
+- [*Sunrise*](https://en.wikipedia.org/wiki/Sunrise_(opera%29) — Jin Xiang · words: Wan Fang
+- [*The Savage Land*](https://en.wikipedia.org/wiki/The_Savage_Land_(opera%29) — Jin Xiang · words: Wan Fang
+- [*Dobře placená procházka*](https://en.wikipedia.org/wiki/Dob%C5%99e_placen%C3%A1_proch%C3%A1zka) (1964) — Jiří Šlitr · words: Jiří Suchý · Czech
+- [*Benedetto Marcello*](https://en.wikipedia.org/wiki/Benedetto_Marcello_(opera%29) — Joachim Raff
+- [*El estreno de una artista*](https://en.wikipedia.org/wiki/El_estreno_de_una_artista) (1852) — Joaquín Gaztambide · words: Ventura de la Vega · Spanish ✎ ♫
+- [*Un pleito*](https://en.wikipedia.org/wiki/Un_pleito) (1858) — Joaquín Gaztambide · words: Francisco Camprodón · Spanish ✎ ♫
+- [*Una vieja*](https://en.wikipedia.org/wiki/Una_vieja) (1860) — Joaquín Gaztambide · words: Francisco Camprodón · Spanish ✎ ♫
+- [*Margot*](https://en.wikipedia.org/wiki/Margot_(opera%29) (1914) — Joaquin Turina · words: Gregorio Martínez Sierra · Spanish ♫
+- [*Jardín de Oriente*](https://en.wikipedia.org/wiki/Jard%C3%ADn_de_Oriente) (1923) — Joaquin Turina · words: Gregorio Martínez Sierra, María Lejárraga · Spanish ♫
+- [*Everest*](https://en.wikipedia.org/wiki/Everest_(opera%29) (2015) — Joby Talbot · words: Gene Scheer · English ✎
+- [*The Fix*](https://en.wikipedia.org/wiki/The_Fix_(opera%29) (2019) — Joel Puckett · words: Eric Simonson ✎ ♫
+- [*Het Rattenkasteel*](https://en.wikipedia.org/wiki/Het_Rattenkasteel_(opera%29) (1984) — Johan De Smet · words: Arne Sierens ♫
+- [*Liden Kirsten*](https://en.wikipedia.org/wiki/Liden_Kirsten) — Johan Peter Emilius Hartmann · words: Hans Christian Andersen · Danish
+- [*Die Jagd*](https://en.wikipedia.org/wiki/Die_Jagd) (1770) — Johann Adam Hiller · words: Christian Felix Weiße · German ✎ ♫
+- [*Die verwandelten Weiber*](https://en.wikipedia.org/wiki/Die_verwandelten_Weiber) — Johann Adam Hiller ♫
+- [*Lisuart und Dariolette*](https://en.wikipedia.org/wiki/Lisuart_und_Dariolette) — Johann Adam Hiller ✎ ♫
+- [*Lottchen am Hofe*](https://en.wikipedia.org/wiki/Lottchen_am_Hofe) — Johann Adam Hiller ✎ ♫
+- [*Artaserse*](https://en.wikipedia.org/wiki/Artaserse_(Hasse%29) (1730) — Johann Adolf Hasse · words: Pietro Metastasio · Italian ✎
+- [*Cleofide*](https://en.wikipedia.org/wiki/Cleofide) (1731) — Johann Adolf Hasse · words: Pietro Metastasio (adapted by M. Boccardi) · Italian ✎ ♫
+- [*Siroe*](https://en.wikipedia.org/wiki/Siroe_(Hasse%29) (1733) — Johann Adolf Hasse · words: Pietro Metastasio · Italian ✎ ♫
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Hasse%29) (1742) — Johann Adolf Hasse · words: Pietro Metastasio · Italian
+- [*Ipermestra*](https://en.wikipedia.org/wiki/Ipermestra_(Hasse%29) (1744) — Johann Adolf Hasse · Italian
+- [*Leucippo*](https://en.wikipedia.org/wiki/Leucippo_(Hasse%29) (1747) — Johann Adolf Hasse · words: Giovanni Claudio Pasquini · Italian
+- [*Attilio Regolo*](https://en.wikipedia.org/wiki/Attilio_Regolo_(Hasse%29) (1750) — Johann Adolf Hasse · words: Pietro Metastasio · Italian ✎ ♫
+- [*Solimano*](https://en.wikipedia.org/wiki/Solimano) (1753) — Johann Adolf Hasse · words: Giannambrogio Migliavacca · Italian ♫
+- [*Zenobia*](https://en.wikipedia.org/wiki/Zenobia_(Hasse%29) (1761) — Johann Adolf Hasse
+- [*Romolo ed Ersilia*](https://en.wikipedia.org/wiki/Romolo_ed_Ersilia_(Hasse%29) (1765) — Johann Adolf Hasse · words: Pietro Metastasio · Italian ♫
+- [*Piramo e Tisbe*](https://en.wikipedia.org/wiki/Piramo_e_Tisbe) (1768) — Johann Adolf Hasse · words: Marco Coltellini · Italian ♫
+- [*Il Ruggiero*](https://en.wikipedia.org/wiki/Il_Ruggiero) (1771) — Johann Adolf Hasse · words: Pietro Metastasio · Italian ♫
+- [*Belmont und Constanze*](https://en.wikipedia.org/wiki/Belmont_und_Constanze) (1781) — Johann André · words: Christoph Friedrich Bretzner · German
+- [*Zanaida*](https://en.wikipedia.org/wiki/Zanaida) (1763) — Johann Christian Bach · words: Giovan Gualberto Bottarelli · Italian
+- [*Temistocle*](https://en.wikipedia.org/wiki/Temistocle_(J.C._Bach%29) (1772) — Johann Christian Bach · words: Pietro Metastasio, Mattia Verazi · Italian ✎ ♫
+- [*Amadis de Gaule*](https://en.wikipedia.org/wiki/Amadis_de_Gaule_(J._C._Bach%29) (1779) — Johann Christian Bach · words: Philippe Quinault, Alphonse-Marie-Denis Devismes de Saint-Alphonse · French ✎ ♫
+- [*The Beggar's Opera*](https://en.wikipedia.org/wiki/The_Beggar%27s_Opera) (1728) — Johann Christoph Pepusch · words: John Gay · English ✎ ♫
+- [*Gustaf Wasa*](https://en.wikipedia.org/wiki/Gustaf_Wasa) (1786) — Johann Gottlieb Naumann · words: Johan Henric Kellgren · Swedish
+- [*Ekkehard*](https://en.wikipedia.org/wiki/Ekkehard_(opera%29) (1878) — Johann Joseph Abert · German
+- [*Dafne in lauro*](https://en.wikipedia.org/wiki/Dafne_in_lauro) (1714) — Johann Joseph Fux · words: Pietro Pariati · Italian ♫
+- [*Boris Goudenow*](https://en.wikipedia.org/wiki/Boris_Goudenow) (2005) — Johann Mattheson · words: Johann Mattheson · German
+- [*Das Pfauenfest*](https://en.wikipedia.org/wiki/Das_Pfauenfest) (1801) — Johann Rudolf Zumsteeg · words: F. A. C. Werthes ✎
+- [*Saffo*](https://en.wikipedia.org/wiki/Saffo_(Mayr%29) (1794) — Johann Simon Mayr · words: Antonio Simeone Sografi · Italian
+- [*La Lodoiska*](https://en.wikipedia.org/wiki/La_Lodoiska) (1796) — Johann Simon Mayr · words: Francesco Gonella · Italian ✎ ♫
+- [*Amor ingegnoso*](https://en.wikipedia.org/wiki/Amor_ingegnoso_(Mayr%29) (1798) — Johann Simon Mayr · words: Caterino Mazzolà · Italian
+- [*Che originali!*](https://en.wikipedia.org/wiki/Che_originali!) (1798) — Johann Simon Mayr · words: Gaetano Rossi · Italian
+- [*Adelaide di Guesclino*](https://en.wikipedia.org/wiki/Adelaide_di_Guesclino) (1799) — Johann Simon Mayr · words: Gaetano Rossi · Italian ✎ ♫
+- [*Ginevra di Scozia*](https://en.wikipedia.org/wiki/Ginevra_di_Scozia) (1801) — Johann Simon Mayr · words: Gaetano Rossi · Italian ♫
+- [*L'amor coniugale*](https://en.wikipedia.org/wiki/L%27amor_coniugale) (1805) — Johann Simon Mayr · words: Gaetano Rossi · Italian ♫
+- [*I Cherusci*](https://en.wikipedia.org/wiki/I_cherusci) (1808) — Johann Simon Mayr · words: Gaetano Rossi · Italian ♫
+- [*La rosa bianca e la rosa rossa*](https://en.wikipedia.org/wiki/La_rosa_bianca_e_la_rosa_rossa) (1813) — Johann Simon Mayr · words: Felice Romani · Italian
+- [*Medea in Corinto*](https://en.wikipedia.org/wiki/Medea_in_Corinto) (1813) — Johann Simon Mayr · words: Felice Romani · Italian ✎ ♫
+- [*Le due duchesse*](https://en.wikipedia.org/wiki/Le_due_duchesse,_ossia_La_caccia_dei_lupi) (1814) — Johann Simon Mayr · words: Felice Romani · Italian
+- [*Fedra*](https://en.wikipedia.org/wiki/Fedra_(Mayr%29) (1820) — Johann Simon Mayr · words: Luigi Romanelli · Italian
+- [*Atalia*](https://en.wikipedia.org/wiki/Atalia_(Mayr%29) (1822) — Johann Simon Mayr · words: Felice Romani · Italian
+- [*Demetrio*](https://en.wikipedia.org/wiki/Demetrio_(Mayr%29) (1823) — Johann Simon Mayr · words: Pietro Metastasio · Italian
+- [*Alfredo il grande*](https://en.wikipedia.org/wiki/Alfredo_il_grande_(Mayr%29) — Johann Simon Mayr
+- [*Sisara*](https://en.wikipedia.org/wiki/Sisara_(Mayr%29) — Johann Simon Mayr
+- [*Telemaco*](https://en.wikipedia.org/wiki/Telemaco_(Mayr%29) — Johann Simon Mayr
+- [*Démophon*](https://en.wikipedia.org/wiki/D%C3%A9mophon) (1789) — Johann Vogel · French ♫
+- [*Het pand der goden*](https://en.wikipedia.org/wiki/Het_pand_der_goden) (1906) — Johannes Nicolaas Helstone · words: Johannes Nicolaas Helstone · Dutch ✎
+- [*Nixon in China*](https://en.wikipedia.org/wiki/Nixon_in_China) (1987) — John Adams · words: Alice Goodman · English ✎ ♫
+- [*The Death of Klinghoffer*](https://en.wikipedia.org/wiki/The_Death_of_Klinghoffer) (1991) — John Adams · words: Alice Goodman · English ✎ ♫
+- [*El Niño*](https://en.wikipedia.org/wiki/El_Ni%C3%B1o_(opera%29) (2000) — John Adams · words: John Adams · English
+- [*Doctor Atomic*](https://en.wikipedia.org/wiki/Doctor_Atomic) (2005) — John Adams · words: Peter Sellars · English ♫
+- [*A Flowering Tree*](https://en.wikipedia.org/wiki/A_Flowering_Tree) (2006) — John Adams · words: John Adams, Peter Sellars ✎
+- [*The Gospel According to the Other Mary*](https://en.wikipedia.org/wiki/The_Gospel_According_to_the_Other_Mary) (2012) — John Adams · words: Peter Sellars ♫
+- [*Girls of the Golden West*](https://en.wikipedia.org/wiki/Girls_of_the_Golden_West_(opera%29) (2017) — John Adams · words: Peter Sellars ♫
+- [*Antony and Cleopatra*](https://en.wikipedia.org/wiki/Antony_and_Cleopatra_(Adams%29) (2022) — John Adams · words: John Adams
+- [*Venus and Adonis*](https://en.wikipedia.org/wiki/Venus_and_Adonis_(opera%29) (1683) — John Blow · words: Aphra Behn or Anne Kingsmill ✎ ♫
+- [*Europeras*](https://en.wikipedia.org/wiki/Europeras) — John Cage
+- [*Golem*](https://en.wikipedia.org/wiki/Golem_(Casken_opera%29) (1989) — John Casken · words: John Casken ✎
+- [*The Ghosts of Versailles*](https://en.wikipedia.org/wiki/The_Ghosts_of_Versailles) (1991) — John Corigliano · words: William M. Hoffman · English ✎ ♫
+- [*The Lady Slavey*](https://en.wikipedia.org/wiki/The_Lady_Slavey) (1894) — John Crook · words: George Dance ✎
+- [*Semele*](https://en.wikipedia.org/wiki/Semele_(Eccles%29) (1964) — John Eccles · words: William Congreve · English ✎ ♫
+- [*Pyramus and Thisbe*](https://en.wikipedia.org/wiki/Pyramus_and_Thisbe_(opera%29) (1745) — John Frederick Lampe
+- [*The Great Gatsby*](https://en.wikipedia.org/wiki/The_Great_Gatsby_(opera%29) (1999) — John Harbison · English ♫
+- [*Jane Eyre*](https://en.wikipedia.org/wiki/Jane_Eyre_(Joubert%29) (2016) — John Joubert · words: Kenneth Birkin
+- [*Azara*](https://en.wikipedia.org/wiki/Azara_(opera%29) (1903) — John Knowles Paine · words: John Knowles Paine · English ✎ ♫
+- [*Tangier Tattoo*](https://en.wikipedia.org/wiki/Tangier_Tattoo) — John Lunn
+- [*Tornrak*](https://en.wikipedia.org/wiki/Tornrak) (1990) — John Metcalf · words: Michael Wilcox · English/Inuktitut ✎ ♫
+- [*Under Milk Wood: An Opera*](https://en.wikipedia.org/wiki/Under_Milk_Wood:_An_Opera) (2014) — John Metcalf ♫
+- [*Chris and the Wonderful Lamp*](https://en.wikipedia.org/wiki/Chris_and_the_Wonderful_Lamp) (1900) — John Philip Sousa ♫
+- [*Désirée*](https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9e_(operetta%29) — John Philip Sousa
+- [*Bang!*](https://en.wikipedia.org/wiki/Bang!_(opera%29) — John Rutter ✎
+- [*Flight*](https://en.wikipedia.org/wiki/Flight_(opera%29) (1998) — Jonathan Dove · words: April De Angelis · English ✎ ♫
+- [*Tobias and the Angel*](https://en.wikipedia.org/wiki/Tobias_and_the_Angel_(opera%29) (1999) — Jonathan Dove · words: David Lan · English ✎ ♫
+- [*Man on the Moon*](https://en.wikipedia.org/wiki/Man_on_the_Moon_(opera%29) (2006) — Jonathan Dove · words: Nicholas Wright · English ✎ ♫
+- [*The Adventures of Pinocchio*](https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio_(opera%29) (2007) — Jonathan Dove · words: Alasdair Middleton · English ♫
+- [*Mansfield Park*](https://en.wikipedia.org/wiki/Mansfield_Park_(opera%29) (2011) — Jonathan Dove · words: Alasdair Middleton · English ✎ ♫
+- [*Wagner Dream*](https://en.wikipedia.org/wiki/Wagner_Dream) (2007) — Jonathan Harvey · words: Jean-Claude Carrière ♫
+- [*The Eternity Man*](https://en.wikipedia.org/wiki/The_Eternity_Man) (2003) — Jonathan Mills · words: Dorothy Porter · English
+- [*The Last Temptations*](https://en.wikipedia.org/wiki/The_Last_Temptations) (1975) — Joonas Kokkonen · words: Lauri Kokkonen · Finnish ✎ ♫
+- [*Das Gesicht im Spiegel*](https://en.wikipedia.org/wiki/Das_Gesicht_im_Spiegel) (2003) — Jörg Widmann · words: Roland Schimmelpfennig ✎
+- [*Babylon*](https://en.wikipedia.org/wiki/Babylon_(opera%29) (2012) — Jörg Widmann · words: Peter Sloterdijk · German ✎
+- [*Olga*](https://en.wikipedia.org/wiki/Olga_(opera%29) (2006) — Jorge Antunes · words: Gerson Valle
+- [*Jaakko Ilkka*](https://en.wikipedia.org/wiki/Jaakko_Ilkka_(opera%29) (1978) — Jorma Panula · words: Aarni Krohn · Finnish
+- [*Virginia*](https://en.wikipedia.org/wiki/Virginia_(Montero%29) (1873) — José Ángel Montero · words: Domenico Bancalari · Italian
+- [*Luna*](https://en.wikipedia.org/wiki/Luna_(opera%29) (1998) — José María Cano · Spanish
+- [*Mendi-mendiyan*](https://en.wikipedia.org/wiki/Mendi_Mendiyan) (1911) — José María Usandizaga · words: José Power · Basque
+- [*Las golondrinas*](https://en.wikipedia.org/wiki/Las_golondrinas_(zarzuela%29) (1914) — José María Usandizaga · words: Gregorio Martínez Sierra, María de la O Lejárraga · Spanish
+- [*La llama*](https://en.wikipedia.org/wiki/La_llama_(opera%29) (1918) — José María Usandizaga · words: María de la O Lejárraga · Spanish
+- [*Le portefaix*](https://en.wikipedia.org/wiki/Le_portefaix) — José Melchor Gomis · words: Eugène Scribe ♫
+- [*Eva*](https://en.wikipedia.org/wiki/Eva_(opera%29) (1899) — Josef Bohuslav Foerster · words: Josef Bohuslav Foerster · Czech
+- [*Jessica*](https://en.wikipedia.org/wiki/Jessika_(opera%29) (1905) — Josef Bohuslav Foerster · words: Jaroslav Vrchlický · Czech
+- [*Záboj*](https://en.wikipedia.org/wiki/Z%C3%A1boj) (1863) — Josef Leopold Zvonař · words: Alois Vojtěch Šmilovský · Czech
+- [*Semiramide*](https://en.wikipedia.org/wiki/Semiramide_(Myslive%C4%8Dek%29) (1766) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*Farnace*](https://en.wikipedia.org/wiki/Farnace_(Myslive%C4%8Dek%29) (1767) — Josef Mysliveček · words: Antonio Maria Lucchini · Italian ✎ ♫
+- [*Il Bellerofonte*](https://en.wikipedia.org/wiki/Il_Bellerofonte) (1767) — Josef Mysliveček · words: Giuseppe Bonecchi · Italian ✎ ♫
+- [*Il trionfo di Clelia*](https://en.wikipedia.org/wiki/Il_trionfo_di_Clelia_(Myslive%C4%8Dek%29) (1767) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*Demofoonte*](https://en.wikipedia.org/wiki/Demofoonte_(Myslive%C4%8Dek,_1769%29) (1769) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*L'Ipermestra*](https://en.wikipedia.org/wiki/Ipermestra_(Myslive%C4%8Dek%29) (1769) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*La Nitteti*](https://en.wikipedia.org/wiki/La_Nitteti) (1770) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*Il gran Tamerlano*](https://en.wikipedia.org/wiki/Il_gran_Tamerlano) (1771) — Josef Mysliveček · Italian ✎ ♫
+- [*Motezuma*](https://en.wikipedia.org/wiki/Motezuma_(Myslive%C4%8Dek%29) (1771) — Josef Mysliveček · words: Vittorio Amedeo Cigna-Santi · Italian ♫
+- [*Antigona*](https://en.wikipedia.org/wiki/Antigona_(Myslive%C4%8Dek%29) (1773) — Josef Mysliveček · Italian ♫
+- [*Demetrio*](https://en.wikipedia.org/wiki/Demetrio_(1773%29) (1773) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*La clemenza di Tito*](https://en.wikipedia.org/wiki/La_clemenza_di_Tito_(Myslive%C4%8Dek%29) (1773) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*Romolo ed Ersilia*](https://en.wikipedia.org/wiki/Romolo_ed_Ersilia) (1773) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*Artaserse*](https://en.wikipedia.org/wiki/Artaserse_(Myslive%C4%8Dek%29) (1774) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*Atide*](https://en.wikipedia.org/wiki/Atide) (1774) — Josef Mysliveček · Italian ♫
+- [*Demofoonte*](https://en.wikipedia.org/wiki/Demofoonte_(Myslive%C4%8Dek,_1775%29) (1775) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*Ezio*](https://en.wikipedia.org/wiki/Ezio_(Myslive%C4%8Dek,_1775%29) (1775) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*Adriano in Siria*](https://en.wikipedia.org/wiki/Adriano_in_Siria_(Myslive%C4%8Dek%29) (1776) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*Ezio*](https://en.wikipedia.org/wiki/Ezio_(Myslive%C4%8Dek,_1777%29) (1777) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*L'Olimpiade*](https://en.wikipedia.org/wiki/L%27Olimpiade_(Myslive%C4%8Dek%29) (1778) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*La Calliroe*](https://en.wikipedia.org/wiki/La_Calliroe) (1778) — Josef Mysliveček · Italian ♫
+- [*Armida*](https://en.wikipedia.org/wiki/Armida_(Myslive%C4%8Dek%29) (1779) — Josef Mysliveček · Italian ♫
+- [*Demetrio*](https://en.wikipedia.org/wiki/Demetrio_(1779%29) (1779) — Josef Mysliveček · words: Pietro Metastasio · Italian ♫
+- [*La Circe*](https://en.wikipedia.org/wiki/La_Circe_(Myslive%C4%8Dek%29) (1779) — Josef Mysliveček · Italian ♫
+- [*Antigono*](https://en.wikipedia.org/wiki/Antigono_(Myslive%C4%8Dek%29) (1780) — Josef Mysliveček · words: Pietro Metastasio · Italian ✎ ♫
+- [*Il Medonte*](https://en.wikipedia.org/wiki/Medonte_(Myslive%C4%8Dek%29) (1780) — Josef Mysliveček · words: Giovanni de Gamerra · Italian ♫
+- [*St John's Rapids*](https://en.wikipedia.org/wiki/St_John%27s_Rapids_(opera%29) (1871) — Josef Richard Rozkošný · words: František Adolf Šubert · Czech ♫
+- [*Ashmedai*](https://en.wikipedia.org/wiki/Ashmedai_(opera%29) (1971) — Josef Tal · words: Israel Eliraz · Hebrew
+- [*Don Quichotte chez la Duchesse*](https://en.wikipedia.org/wiki/Don_Quichotte_chez_la_Duchesse) (1743) — Joseph Bodin de Boismortier · words: Charles Simon Favart · French ✎ ♫
+- [*The Legend*](https://en.wikipedia.org/wiki/The_Legend_(opera%29) (1919) — Joseph Carl Breil · words: Jacques Byrne ✎ ♫
+- [*Médée et Jason*](https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_et_Jason) (1713) — Joseph François Salomon · words: Simon-Joseph Pellegrin · French
+- [*Der krumme Teufel*](https://en.wikipedia.org/wiki/Der_krumme_Teufel) (1751) — Joseph Haydn · words: Joseph Felix Kurz · German
+- [*La canterina*](https://en.wikipedia.org/wiki/La_canterina) (1766) — Joseph Haydn · Italian ✎ ♫
+- [*Lo speziale*](https://en.wikipedia.org/wiki/Lo_speziale) (1768) — Joseph Haydn · words: Carlo Goldoni · Italian ✎ ♫
+- [*Le pescatrici*](https://en.wikipedia.org/wiki/Le_pescatrici) (1770) — Joseph Haydn · words: Carlo Goldoni · Italian ✎ ♫
+- [*L'infedeltà delusa*](https://en.wikipedia.org/wiki/L%27infedelt%C3%A0_delusa) (1773) — Joseph Haydn · words: Marco Coltellini · Italian ✎ ♫
+- [*Philemon und Baucis*](https://en.wikipedia.org/wiki/Philemon_und_Baucis_(Haydn%29) (1773) — Joseph Haydn · words: Gottlieb Konrad Pfeffel · German ✎ ♫
+- [*L'incontro improvviso*](https://en.wikipedia.org/wiki/L%27incontro_improvviso) (1775) — Joseph Haydn · words: Karl Friberth · Italian ✎ ♫
+- [*Il mondo della luna*](https://en.wikipedia.org/wiki/Il_mondo_della_luna) (1777) — Joseph Haydn · words: Carlo Goldoni · Italian ✎ ♫
+- [*L'isola disabitata*](https://en.wikipedia.org/wiki/L%27isola_disabitata) (1779) — Joseph Haydn · words: Metastasio · Italian ✎ ♫
+- [*La vera costanza*](https://en.wikipedia.org/wiki/La_vera_costanza) (1779) — Joseph Haydn · words: Francesco Puttini · Italian ✎ ♫
+- [*La fedeltà premiata*](https://en.wikipedia.org/wiki/La_fedelt%C3%A0_premiata) (1781) — Joseph Haydn · Italian ✎ ♫
+- [*Orlando paladino*](https://en.wikipedia.org/wiki/Orlando_paladino) (1782) — Joseph Haydn · words: Nunziato Porta · Italian ✎ ♫
+- [*Armida*](https://en.wikipedia.org/wiki/Armida_(Haydn%29) (1784) — Joseph Haydn · words: Nunziato Porta · Italian ✎ ♫
+- [*L'anima del filosofo*](https://en.wikipedia.org/wiki/L%27anima_del_filosofo) (1951) — Joseph Haydn · words: Carlo Francesco Badini · Italian ♫
+- [*Proserpin*](https://en.wikipedia.org/wiki/Proserpin_(Kraus%29) (1781) — Joseph Martin Kraus · words: Gustav III of Sweden, Johan Henric Kellgren · Swedish ✎ ♫
+- [*Blodwen*](https://en.wikipedia.org/wiki/Blodwen) (1878) — Joseph Parry · words: Richard Davies · Welsh ✎
+- [*Kleider machen Leute*](https://en.wikipedia.org/wiki/Kleider_machen_Leute_(Suder%29) (1964) — Joseph Suder · German
+- [*The Scarecrow*](https://en.wikipedia.org/wiki/The_Scarecrow_(opera%29) (2006) — Joseph Turrin · words: Bernard Stambler ♫
+- [*Die Schweizer Familie*](https://en.wikipedia.org/wiki/Die_Schweizer_Familie) (1809) — Joseph Weigl · German ✎ ♫
+- [*Eyes and No Eyes*](https://en.wikipedia.org/wiki/Eyes_and_No_Eyes) — Joseph Williams, Thomas German Reed · words: W. S. Gilbert ✎ ♫
+- [*Celos aun del aire matan*](https://en.wikipedia.org/wiki/Celos_aun_del_aire_matan) — Juan Hidalgo de Polanco · words: Pedro Calderón de la Barca · Spanish
+- [*Veinticinco de agosto, 1983*](https://en.wikipedia.org/wiki/Veinticinco_de_agosto,_1983) — Juan María Solare · words: Javier Adúriz · Spanish ♫
+- [*A Marvelous Order*](https://en.wikipedia.org/wiki/A_Marvelous_Order) — Judd Greenstein · words: Tracy K. Smith ✎ ♫
+- [*King Harald's Saga*](https://en.wikipedia.org/wiki/King_Harald%27s_Saga) (1979) — Judith Weir · words: Weir ✎
+- [*The Black Spider*](https://en.wikipedia.org/wiki/The_Black_Spider_(opera%29) (1985) — Judith Weir · words: Judith Weir · English ✎
+- [*The Consolations of Scholarship*](https://en.wikipedia.org/wiki/The_Consolations_of_Scholarship) (1985) — Judith Weir · words: Weir ✎
+- [*A Night at the Chinese Opera*](https://en.wikipedia.org/wiki/A_Night_at_the_Chinese_Opera) (1987) — Judith Weir · words: Judith Weir · English ✎ ♫
+- [*The Vanishing Bridegroom*](https://en.wikipedia.org/wiki/The_Vanishing_Bridegroom) (1990) — Judith Weir · words: Judith Weir · English ✎
+- [*Blond Eckbert*](https://en.wikipedia.org/wiki/Blond_Eckbert) (1994) — Judith Weir · words: Weir ✎ ♫
+- [*Armida*](https://en.wikipedia.org/wiki/Armida_(Weir%29) (2005) — Judith Weir · words: Weir ♫
+- [*Miss Fortune*](https://en.wikipedia.org/wiki/Miss_Fortune_(opera%29) (2011) — Judith Weir
+- [*Rockland the Opera*](https://en.wikipedia.org/wiki/Rockland_the_Opera) (2011) — Jukka Linkola ✎ ♫
+- [*La grand'tante*](https://en.wikipedia.org/wiki/La_grand%27tante) (1867) — Jules Massenet · words: Jules Adenis · French ✎ ♫
+- [*Don César de Bazan*](https://en.wikipedia.org/wiki/Don_C%C3%A9sar_de_Bazan) (1872) — Jules Massenet · words: Adolphe d'Ennery, Dumanoir, Jules-Gustave-Adolphe Chantepie · French ✎ ♫
+- [*Marie-Magdeleine*](https://en.wikipedia.org/wiki/Marie-Magdeleine) (1873) — Jules Massenet · words: Louis Gallet · French
+- [*Le roi de Lahore*](https://en.wikipedia.org/wiki/Le_roi_de_Lahore) (1877) — Jules Massenet · words: Louis Gallet · French ✎ ♫
+- [*Hérodiade*](https://en.wikipedia.org/wiki/H%C3%A9rodiade) (1881) — Jules Massenet · words: Georges Hartmann, Paul Milliet · French ✎ ♫
+- [*Manon*](https://en.wikipedia.org/wiki/Manon) (1884) — Jules Massenet · words: Philippe Gille · French ✎ ♫
+- [*Le Cid*](https://en.wikipedia.org/wiki/Le_Cid_(opera%29) (1885) — Jules Massenet · words: Adolphe d'Ennery, Louis Gallet, Édouard Blau · French ✎ ♫
+- [*Esclarmonde*](https://en.wikipedia.org/wiki/Esclarmonde) (1889) — Jules Massenet · words: Louis de Gramont, Alfred Blau · French ✎ ♫
+- [*Le mage*](https://en.wikipedia.org/wiki/Le_Mage) (1891) — Jules Massenet · words: Jean Richepin · French ✎ ♫
+- [*Werther*](https://en.wikipedia.org/wiki/Werther) (1892) — Jules Massenet · words: Édouard Blau, Paul Milliet, Georges Hartmann · French ✎ ♫
+- [*La Navarraise*](https://en.wikipedia.org/wiki/La_Navarraise) (1894) — Jules Massenet · words: Arsène Arnaud Claretie, Henri Caïn · French ✎ ♫
+- [*Le portrait de Manon*](https://en.wikipedia.org/wiki/Le_portrait_de_Manon) (1894) — Jules Massenet · words: Georges Boyer · French ✎ ♫
+- [*Thaïs*](https://en.wikipedia.org/wiki/Tha%C3%AFs_(opera%29) (1894) — Jules Massenet · words: Louis Gallet · French ✎ ♫
+- [*Sapho*](https://en.wikipedia.org/wiki/Sapho_(Massenet%29) (1897) — Jules Massenet · words: Arthur Bernède, Henri Caïn · French ✎ ♫
+- [*Cendrillon*](https://en.wikipedia.org/wiki/Cendrillon_(Massenet%29) (1899) — Jules Massenet · words: Henri Caïn · French ✎ ♫
+- [*Grisélidis*](https://en.wikipedia.org/wiki/Gris%C3%A9lidis) (1901) — Jules Massenet · words: Armand Silvestre, Eugène Morand · French ✎ ♫
+- [*Le jongleur de Notre-Dame*](https://en.wikipedia.org/wiki/Le_jongleur_de_Notre-Dame_(opera%29) (1902) — Jules Massenet · words: Maurice Léna · French ✎ ♫
+- [*Chérubin*](https://en.wikipedia.org/wiki/Ch%C3%A9rubin) (1905) — Jules Massenet · words: Francis de Croisset, Henri Caïn · French ✎ ♫
+- [*Ariane*](https://en.wikipedia.org/wiki/Ariane_(Massenet%29) (1906) — Jules Massenet · words: Catulle Mendès · French ✎ ♫
+- [*Thérèse*](https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_(opera%29) (1907) — Jules Massenet · words: Arsène Arnaud Claretie · French ✎
+- [*Bacchus*](https://en.wikipedia.org/wiki/Bacchus_(opera%29) (1909) — Jules Massenet · words: Catulle Mendès · French ♫
+- [*Don Quichotte*](https://en.wikipedia.org/wiki/Don_Quichotte) (1910) — Jules Massenet · words: Henri Caïn · French ✎ ♫
+- [*Roma*](https://en.wikipedia.org/wiki/Roma_(opera%29) (1912) — Jules Massenet · words: Henri Caïn · French ✎ ♫
+- [*Panurge*](https://en.wikipedia.org/wiki/Panurge_(opera%29) (1913) — Jules Massenet · words: Maurice Couyba, Georges Spitzmuller · French ✎ ♫
+- [*Cléopâtre*](https://en.wikipedia.org/wiki/Cl%C3%A9op%C3%A2tre) (1914) — Jules Massenet · words: Louis Payen · French ✎ ♫
+- [*Amadis*](https://en.wikipedia.org/wiki/Amadis_(Massenet%29) (1922) — Jules Massenet · words: Arsène Arnaud Claretie · French ✎ ♫
+- [*Méditation*](https://en.wikipedia.org/wiki/M%C3%A9ditation_(Tha%C3%AFs%29) — Jules Massenet
+- [*The Wedding Day*](https://en.wikipedia.org/wiki/The_Wedding_Day_(opera%29) (1896) — Julian Edwards · words: Stanislaus Stange · English
+- [*The Yellow Sofa*](https://en.wikipedia.org/wiki/The_Yellow_Sofa) (2009) — Julian Philips · words: Edward Kemp ✎ ♫
+- [*The Tale of Januarie*](https://en.wikipedia.org/wiki/The_Tale_of_Januarie) (2017) — Julian Philips · words: Stephen Plaice ✎ ♫
+- [*Knight Crew*](https://en.wikipedia.org/wiki/Knight_Crew) — Julian Philips
+- [*Another Brick in the Wall: The Opera*](https://en.wikipedia.org/wiki/Another_Brick_in_the_Wall:_The_Opera) (2017) — Julien Bilodeau · words: Roger Waters · English ✎ ♫
+- [*Gražina*](https://en.wikipedia.org/wiki/Gra%C5%BEina_(opera%29) (1933) — Jurgis Karnavičius · words: Kazys Inčiūra · Lithuanian
+- [*Radvila Perkūnas*](https://en.wikipedia.org/wiki/Radvila_Perk%C5%ABnas) (1937) — Jurgis Karnavičius · Lithuanian ✎ ♫
+- [*L'Amour de loin*](https://en.wikipedia.org/wiki/L%27Amour_de_loin) (2000) — Kaija Saariaho · words: Amin Maalouf · French ✎ ♫
+- [*Adriana Mater*](https://en.wikipedia.org/wiki/Adriana_Mater) (2006) — Kaija Saariaho · words: Amin Maalouf · French ✎ ♫
+- [*Émilie*](https://en.wikipedia.org/wiki/%C3%89milie_(opera%29) (2010) — Kaija Saariaho · words: Amin Maalouf · French
+- [*Innocence*](https://en.wikipedia.org/wiki/Innocence_(opera%29) (2021) — Kaija Saariaho · words: Sofi Oksanen, Aleksi Barrière · French/German/Finnish/English/Romanian/Swedish/Czech/Greek ✎ ♫
+- [*Leila*](https://en.wikipedia.org/wiki/Lejla_(opera%29) (1868) — Karel Bendl · words: Eliška Krásnohorská · Czech
+- [*Aquarius*](https://en.wikipedia.org/wiki/Aquarius_(opera%29) — Karel Goeyvaerts · words: Karel Goeyvaerts ✎
+- [*The Dogheads*](https://en.wikipedia.org/wiki/Psohlavci_(opera%29) (1898) — Karel Kovařovic · words: Karel Šípek · Czech ♫
+- [*At the Old Bleachery*](https://en.wikipedia.org/wiki/Na_Star%C3%A9m_b%C4%9Blidle) (1901) — Karel Kovařovic · words: Karel Šípek · Czech
+- [*Simplicius Simplicissimus*](https://en.wikipedia.org/wiki/Simplicius_Simplicissimus_(opera%29) (1948) — Karl Amadeus Hartmann · words: Hermann Scherchen, Karl Amadeus Hartmann · German
+- [*Die Königin von Saba*](https://en.wikipedia.org/wiki/Die_K%C3%B6nigin_von_Saba) (1875) — Karl Goldmark · words: Salomon Hermann Mosenthal · German ✎ ♫
+- [*Merlin*](https://en.wikipedia.org/wiki/Merlin_(Goldmark%29) — Karl Goldmark
+- [*Die Kalewainen in Pochjola*](https://en.wikipedia.org/wiki/Die_Kalewainen_in_Pochjola) (2017) — Karl Müller-Berghaus · words: Fritz W. O. Spengler · German
+- [*Aniara*](https://en.wikipedia.org/wiki/Aniara_(opera%29) (1959) — Karl-Birger Blomdahl · words: Erik Lindegren · Swedish ✎ ♫
+- [*Donnerstag aus Licht*](https://en.wikipedia.org/wiki/Donnerstag_aus_Licht) (1981) — Karlheinz Stockhausen · words: Stockhausen ✎ ♫
+- [*Samstag aus Licht*](https://en.wikipedia.org/wiki/Samstag_aus_Licht) (1984) — Karlheinz Stockhausen · words: Stockhausen ✎ ♫
+- [*Montag aus Licht*](https://en.wikipedia.org/wiki/Montag_aus_Licht) (1988) — Karlheinz Stockhausen · words: Stockhausen ✎ ♫
+- [*Dienstag aus Licht*](https://en.wikipedia.org/wiki/Dienstag_aus_Licht) (1993) — Karlheinz Stockhausen · words: Stockhausen ✎ ♫
+- [*Freitag aus Licht*](https://en.wikipedia.org/wiki/Freitag_aus_Licht) (1996) — Karlheinz Stockhausen · words: Karlheinz Stockhausen · German ✎ ♫
+- [*Sonntag aus Licht*](https://en.wikipedia.org/wiki/Sonntag_aus_Licht) (2011) — Karlheinz Stockhausen · words: Stockhausen ✎ ♫
+- [*Mittwoch aus Licht*](https://en.wikipedia.org/wiki/Mittwoch_aus_Licht) (2012) — Karlheinz Stockhausen · words: Stockhausen ✎
+- [*Atmen gibt das Leben*](https://en.wikipedia.org/wiki/Atmen_gibt_das_Leben) — Karlheinz Stockhausen
+- [*Lucifer's Palace*](https://en.wikipedia.org/wiki/Lucifer%27s_Palace) (1811) — Karol Kurpiński · words: Fortunat Alojzy Gonzaga Żółkowski ✎ ♫
+- [*A Dispute over a Bet*](https://en.wikipedia.org/wiki/K%C5%82%C3%B3tnia_przez_zak%C5%82ad) — Karol Lipiński · words: Jan Nepomucen Kamiński · Polish ♫
+- [*Hagith*](https://en.wikipedia.org/wiki/Hagith_(opera%29) (1922) — Karol Szymanowski · words: Felix Dörmann · German ✎ ♫
+- [*King Roger*](https://en.wikipedia.org/wiki/King_Roger_(opera%29) (1926) — Karol Szymanowski · words: Karol Szymanowski, Jarosław Iwaszkiewicz · Polish ✎ ♫
+- [*Jūratė and Kastytis*](https://en.wikipedia.org/wiki/J%C5%ABrat%C4%97_and_Kastytis_(opera%29) — Kazimieras Viktoras Banaitis · words: Brone Buivydaite · Lithuanian
+- [*Manifest Destiny*](https://en.wikipedia.org/wiki/Manifest_Destiny_(opera%29) (2004) — Keith Burstein · words: Dic Edwards ✎ ♫
+- [*Manifest Destiny 2011*](https://en.wikipedia.org/wiki/Manifest_Destiny_2011) (2011) — Keith Burstein · words: Dic Edwards, Keith Burstein ✎ ♫
+- [*Silent Night*](https://en.wikipedia.org/wiki/Silent_Night_(opera%29) (2011) — Kevin Puts · words: Mark Campbell · French ✎ ♫
+- [*The Hours*](https://en.wikipedia.org/wiki/The_Hours_(opera%29) (2022) — Kevin Puts · words: Greg Pierce · English ✎ ♫
+- [*A True Daughter Of The Party*](https://en.wikipedia.org/wiki/A_True_Daughter_of_the_Party) (1971) — Kim Jong Il · words: Kim Jong Il · Korean ✎
+- [*Tell O' The Forest!*](https://en.wikipedia.org/wiki/Tell_O%27_The_Forest!) (1972) — Kim Jong-il · words: Kim Jong-il · Korean ✎
+- [*The Song of Mount Kumgang*](https://en.wikipedia.org/wiki/The_Song_of_Mount_Kumgang) (1973) — Kim Jong-il · words: Kim Jong-il · Korean ✎
+- [*Sea of Blood*](https://en.wikipedia.org/wiki/Sea_of_Blood) (1971) — Kim Won-gyun · words: Kim Il Sung (attributed) · North Korean standard
+- [*The Dawns Here Are Quiet*](https://en.wikipedia.org/wiki/The_Dawns_Here_Are_Quiet_(opera%29) — Kirill Molchanov
+- [*Tartuffe*](https://en.wikipedia.org/wiki/Tartuffe_(Mechem%29) (1980) — Kirke Mechem · words: Kirke Mechem · English ✎ ♫
+- [*Kurofune*](https://en.wikipedia.org/wiki/Kurofune_(opera%29) (1940) — Kōsaku Yamada · words: Kōsaku Yamada · Japanese
+- [*Cyberiada*](https://en.wikipedia.org/wiki/Cyberiada_(opera%29) (1986) — Krzysztof Meyer · words: Krzysztof Meyer ✎ ♫
+- [*The Devils of Loudun*](https://en.wikipedia.org/wiki/The_Devils_of_Loudun_(opera%29) (1969) — Krzysztof Penderecki · words: Krzysztof Penderecki · German/Polish ✎ ♫
+- [*Paradise Lost*](https://en.wikipedia.org/wiki/Paradise_Lost_(Penderecki%29) (1978) — Krzysztof Penderecki · words: Christopher Fry · English ♫
+- [*Die schwarze Maske*](https://en.wikipedia.org/wiki/Die_schwarze_Maske) (1986) — Krzysztof Penderecki · words: Krzysztof Penderecki, Harry Kupfer · German ♫
+- [*Ubu Rex*](https://en.wikipedia.org/wiki/Ubu_Rex) (1991) — Krzysztof Penderecki · words: Penderecki, Jerzy Jarocki · German ✎
+- [*Aladdin*](https://en.wikipedia.org/wiki/Aladdin_(Atterberg_opera%29) (1941) — Kurt Atterberg · words: Ignaz Michael Welleminsky, Bruno Hardt-Warden · Swedish
+- [*Der Protagonist*](https://en.wikipedia.org/wiki/Der_Protagonist) (1926) — Kurt Weill · words: Georg Kaiser · German ♫
+- [*Mahagonny-Songspiel*](https://en.wikipedia.org/wiki/Mahagonny-Songspiel) (1927) — Kurt Weill · words: Bertolt Brecht
+- [*Royal Palace*](https://en.wikipedia.org/wiki/Royal_Palace_(opera%29) (1927) — Kurt Weill · words: Yvan Goll · German ♫
+- [*Der Zar lässt sich photographieren*](https://en.wikipedia.org/wiki/Der_Zar_l%C3%A4sst_sich_photographieren) (1928) — Kurt Weill · words: Georg Kaiser ✎ ♫
+- [*Der Jasager*](https://en.wikipedia.org/wiki/Der_Jasager) (1930) — Kurt Weill · words: Bertolt Brecht, Elisabeth Hauptmann · German ✎ ♫
+- [*Rise and Fall of the City of Mahagonny*](https://en.wikipedia.org/wiki/Rise_and_Fall_of_the_City_of_Mahagonny) (1930) — Kurt Weill · words: Bertolt Brecht, Caspar Neher, Elisabeth Hauptmann · German ✎ ♫
+- [*Die Bürgschaft*](https://en.wikipedia.org/wiki/Die_B%C3%BCrgschaft_(opera%29) (1932) — Kurt Weill · words: Kurt Weill, Caspar Neher · German ♫
+- [*Der Silbersee*](https://en.wikipedia.org/wiki/Der_Silbersee) (1933) — Kurt Weill · words: Georg Kaiser · German ✎ ♫
+- [*The Eternal Road*](https://en.wikipedia.org/wiki/The_Eternal_Road_(opera%29) (1937) — Kurt Weill · words: Franz Werfel ♫
+- [*Down in the Valley*](https://en.wikipedia.org/wiki/Down_in_the_Valley_(opera%29) (1948) — Kurt Weill · words: Arnold Sundgaard · English ✎ ♫
+- [*Sangdugong Panaguinip*](https://en.wikipedia.org/wiki/Sangdugong_Panaguinip) (1902) — Ladislao Bonus · words: Roman G. Reyes · Tagalog ✎
+- [*Phou-oibi, the rice goddess*](https://en.wikipedia.org/wiki/Phou-oibi,_the_Rice_Goddess) (2013) — Laihui Ensemble ✎
+- [*Wenji: Eighteen Songs of a Nomad Flute*](https://en.wikipedia.org/wiki/Wenji:_Eighteen_Songs_of_a_Nomad_Flute) — Lam Bun-Ching · words: Xu Ying
+- [*Prinsessan av Cypern*](https://en.wikipedia.org/wiki/Prinsessan_av_Cypern_(Larsson%29) (1937) — Lars-Erik Larsson · words: Zachris Topelius ✎
+- [*As One*](https://en.wikipedia.org/wiki/As_One_(opera%29) (2014) — Laura Kaminsky · words: Mark Campbell, Kimberly Reed ✎ ♫
+- [*Cleopatra*](https://en.wikipedia.org/wiki/Cleopatra_(Rossi%29) (1876) — Lauro Rossi · Italian
+- [*The Scarf*](https://en.wikipedia.org/wiki/The_Scarf_(opera%29) (1958) — Lee Hoiby
+- [*The Tempest*](https://en.wikipedia.org/wiki/The_Tempest_(Hoiby%29) (1986) — Lee Hoiby
+- [*The Ostrobothnians*](https://en.wikipedia.org/wiki/The_Ostrobothnians) (1924) — Leevi Madetoja · words: Leevi Madetoja · Finnish ✎ ♫
+- [*Juha*](https://en.wikipedia.org/wiki/Juha_(Madetoja%29) (1935) — Leevi Madetoja · words: Aino Ackté · Finnish ✎ ♫
+- [*The Chinese Orphan*](https://en.wikipedia.org/wiki/The_Chinese_Orphan) (2011) — Lei Lei · words: Zou Jingzhi
+- [*Visitors on the Icy Mountain*](https://en.wikipedia.org/wiki/Visitors_on_the_Icy_Mountain_(opera%29) — Lei Lei
+- [*Xi Shi*](https://en.wikipedia.org/wiki/Xi_Shi_(opera%29) — Lei Lei
+- [*Nelson*](https://en.wikipedia.org/wiki/Nelson_(opera%29) (1954) — Lennox Berkeley · English ✎ ♫
+- [*A Dinner Engagement*](https://en.wikipedia.org/wiki/A_Dinner_Engagement) — Lennox Berkeley · words: Paul Dehn ✎ ♫
+- [*Ruth*](https://en.wikipedia.org/wiki/Ruth_(opera%29) — Lennox Berkeley · words: Eric Crozier · English
+- [*Hoheit tanzt Walzer*](https://en.wikipedia.org/wiki/Hoheit_tanzt_Walzer) (1912) — Leo Ascher · words: Alfred Grünwald, Julius Brammer · German ✎ ♫
+- [*Le roi l'a dit*](https://en.wikipedia.org/wiki/Le_roi_l%27a_dit) (1873) — Léo Delibes · words: Edmond Gondinet · French ✎ ♫
+- [*Jean de Nivelle*](https://en.wikipedia.org/wiki/Jean_de_Nivelle_(opera%29) (1880) — Léo Delibes · words: Philippe Gille, Edmond Gondinet · French ✎ ♫
+- [*Lakmé*](https://en.wikipedia.org/wiki/Lakm%C3%A9) (1883) — Léo Delibes · words: Philippe Gille, Edmond Gondinet · French ✎ ♫
+- [*Kassya*](https://en.wikipedia.org/wiki/Kassya_(opera%29) — Léo Delibes · words: Philippe Gille · French
+- [*Trouble in Tahiti*](https://en.wikipedia.org/wiki/Trouble_in_Tahiti) (1952) — Leonard Bernstein · words: Leonard Bernstein ✎ ♫
+- [*A Quiet Place*](https://en.wikipedia.org/wiki/A_Quiet_Place_(opera%29) (1983) — Leonard Bernstein · words: Stephen Wadsworth · English ✎ ♫
+- [*Five Anniversaries*](https://en.wikipedia.org/wiki/Five_Anniversaries) — Leonard Bernstein
+- [*Amor vuol sofferenza*](https://en.wikipedia.org/wiki/Amor_vuol_sofferenza) (1739) — Leonardo Leo · Italian ♫
+- [*L’Alidoro*](https://en.wikipedia.org/wiki/L%27Alidoro) (1740) — Leonardo Leo · words: Gennaro Antonio Federico · Italian ✎
+- [*L'ambizione delusa*](https://en.wikipedia.org/wiki/L%27ambizione_delusa_(Leo%29) (1742) — Leonardo Leo · words: Domenico Canicà · Italian
+- [*Li zite 'ngalera*](https://en.wikipedia.org/wiki/Li_zite_%27ngalera) (1722) — Leonardo Vinci · Neapolitan ✎ ♫
+- [*L'Eraclea*](https://en.wikipedia.org/wiki/L%27Eraclea) (1724) — Leonardo Vinci · words: Silvio Stampiglia ♫
+- [*La Rosmira fedele*](https://en.wikipedia.org/wiki/Partenope_(Vinci%29) (1725) — Leonardo Vinci · words: Silvio Stampiglia · Italian
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Vinci%29) (1726) — Leonardo Vinci · words: Metastasio · Italian
+- [*Gismondo, re di Polonia*](https://en.wikipedia.org/wiki/Gismondo,_Re_di_Polonia) (1727) — Leonardo Vinci · words: Francesco Briani · Italian ✎ ♫
+- [*Catone in Utica*](https://en.wikipedia.org/wiki/Catone_in_Utica_(Vinci%29) (1728) — Leonardo Vinci · words: Pietro Metastasio · Italian
+- [*Artaserse*](https://en.wikipedia.org/wiki/Artaserse_(Vinci%29) (1730) — Leonardo Vinci · words: Pietro Metastasio · Italian ✎ ♫
+- [*The Children of Rosenthal*](https://en.wikipedia.org/wiki/The_Children_of_Rosenthal) (2005) — Leonid Desyatnikov · words: Vladimir Sorokin · Russian ✎
+- [*The Beginning of a Romance*](https://en.wikipedia.org/wiki/The_Beginning_of_a_Novel) (1894) — Leoš Janáček · words: František Jaroslav Rypáček · Czech ✎
+- [*Jenůfa*](https://en.wikipedia.org/wiki/Jen%C5%AFfa) (1904) — Leoš Janáček · words: Leoš Janáček · Czech ✎ ♫
+- [*The Excursions of Mr. Brouček to the Moon and to the 15th Century*](https://en.wikipedia.org/wiki/The_Excursions_of_Mr._Brou%C4%8Dek_to_the_Moon_and_to_the_15th_Century) (1920) — Leoš Janáček · words: Viktor Dyk, Leoš Janáček, František Serafínský Procházka · Czech ✎ ♫
+- [*Káťa Kabanová*](https://en.wikipedia.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1) (1921) — Leoš Janáček · words: Vincenc Červinka · Czech ✎ ♫
+- [*The Cunning Little Vixen*](https://en.wikipedia.org/wiki/The_Cunning_Little_Vixen) (1924) — Leoš Janáček · words: Leoš Janáček · Czech ✎ ♫
+- [*Šárka*](https://en.wikipedia.org/wiki/%C5%A0%C3%A1rka_(Jan%C3%A1%C4%8Dek%29) (1925) — Leoš Janáček · words: Julius Zeyer · Czech ✎ ♫
+- [*The Makropulos Affair*](https://en.wikipedia.org/wiki/The_Makropulos_Affair_(opera%29) (1926) — Leoš Janáček · words: Leoš Janáček · Czech ✎ ♫
+- [*From the House of the Dead*](https://en.wikipedia.org/wiki/From_the_House_of_the_Dead) (1930) — Leoš Janáček · words: Leoš Janáček · Czech ✎ ♫
+- [*Destiny*](https://en.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek%29) (1958) — Leoš Janáček · words: Leoš Janáček, Fedora Bartošová · Czech ✎ ♫
+- [*Life is a Dream*](https://en.wikipedia.org/wiki/Life_Is_a_Dream_(opera%29) (2010) — Lewis Spratlan · words: James Maraniss ♫
+- [*Putao xianzi*](https://en.wikipedia.org/wiki/Putao_xianzi) — Li Jinhui · Chinese
+- [*Cecilia*](https://en.wikipedia.org/wiki/Cecilia_(Refice_opera%29) (1934) — Licinio Refice · words: Emidio Mucci · Italian ♫
+- [*Sun & Sea (Marina)*](https://en.wikipedia.org/wiki/Sun_%26_Sea_(Marina%29) — Lina Lapelytė · words: Vaiva Grainytė
+- [*The Navigator*](https://en.wikipedia.org/wiki/The_Navigator_(opera%29) (2008) — Liza Lim · words: Patricia Sykes ♫
+- [*Marilyn*](https://en.wikipedia.org/wiki/Marilyn_(opera%29) (1980) — Lorenzo Ferrero · words: Lorenzo Ferrero, Floriana Bossi · Italian/English ✎ ♫
+- [*La figlia del mago*](https://en.wikipedia.org/wiki/La_figlia_del_mago) (1981) — Lorenzo Ferrero · words: Marco Ravasini · Italian ✎ ♫
+- [*Mare nostro*](https://en.wikipedia.org/wiki/Mare_nostro_(opera%29) (1985) — Lorenzo Ferrero · words: Marco Ravasini · Italian ✎ ♫
+- [*Salvatore Giuliano*](https://en.wikipedia.org/wiki/Salvatore_Giuliano_(opera%29) (1986) — Lorenzo Ferrero · words: Giuseppe Di Leva · Italian ✎ ♫
+- [*Charlotte Corday*](https://en.wikipedia.org/wiki/Charlotte_Corday_(opera%29) (1989) — Lorenzo Ferrero · words: Giuseppe Di Leva · Italian ✎ ♫
+- [*La Conquista*](https://en.wikipedia.org/wiki/La_Conquista_(opera%29) (2005) — Lorenzo Ferrero · words: Lorenzo Ferrero · Spanish/English/Nahuatl ✎ ♫
+- [*Le piccole storie*](https://en.wikipedia.org/wiki/Le_piccole_storie) (2007) — Lorenzo Ferrero · words: Giuseppe Di Leva · Italian ✎ ♫
+- [*Risorgimento!*](https://en.wikipedia.org/wiki/Risorgimento!) (2011) — Lorenzo Ferrero · words: Dario Oliveri · Italian ✎ ♫
+- [*1984*](https://en.wikipedia.org/wiki/1984_(opera%29) (2005) — Lorin Maazel · words: J. D. McClatchy, Thomas Meehan · English ♫
+- [*Rostam and Sohrab*](https://en.wikipedia.org/wiki/Rostam_and_Sohrab_(opera%29) — Loris Tjeknavorian · Persian
+- [*Young Caesar*](https://en.wikipedia.org/wiki/Young_Caesar_(opera%29) — Lou Harrison
+- [*Writing to Vermeer*](https://en.wikipedia.org/wiki/Writing_to_Vermeer) (1999) — Louis Andriessen · words: Peter Greenaway ♫
+- [*La Commedia*](https://en.wikipedia.org/wiki/La_Commedia) (2008) — Louis Andriessen · words: Louis Andriessen ♫
+- [*Theatre of the World*](https://en.wikipedia.org/wiki/Theatre_of_the_World) (2016) — Louis Andriessen · words: Helmut Krausser ✎ ♫
+- [*Rosa – A Horse Drama*](https://en.wikipedia.org/wiki/Rosa_%E2%80%93_A_Horse_Drama) — Louis Andriessen ✎ ♫
+- [*Philomèle*](https://en.wikipedia.org/wiki/Philom%C3%A8le) (1705) — Louis de La Coste · words: Pierre-Charles Roy · French
+- [*Orion*](https://en.wikipedia.org/wiki/Orion_(Lacoste%29) (1728) — Louis de La Coste · words: Joseph de La Font, Simon-Joseph Pellegrin · French ✎ ♫
+- [*Créuse l'athénienne*](https://en.wikipedia.org/wiki/Cr%C3%A9use_l%27ath%C3%A9nienne) — Louis de La Coste · words: Pierre-Charles Roy · French
+- [*Les saltimbanques*](https://en.wikipedia.org/wiki/Les_saltimbanques) (1899) — Louis Ganne · words: Maurice Ordonneau · French ✎ ♫
+- [*Albion and Albanius*](https://en.wikipedia.org/wiki/Albion_and_Albanius) (1685) — Louis Grabu · words: John Dryden · Early Modern English
+- [*The Emperor Jones*](https://en.wikipedia.org/wiki/The_Emperor_Jones_(opera%29) (1933) — Louis Gruenberg · words: Gruenberg, Kathleen de Jaffa \| language = English ✎ ♫
+- [*Romulus*](https://en.wikipedia.org/wiki/Romulus_(opera%29) (2007) — Louis Karchin
+- [*Jane Eyre*](https://en.wikipedia.org/wiki/Jane_Eyre_(Karchin%29) — Louis Karchin · words: Diane Osen ♫
+- [*Orphée*](https://en.wikipedia.org/wiki/Orph%C3%A9e_(Louis_Lully%29) (1690) — Louis Lully · French
+- [*Stradella*](https://en.wikipedia.org/wiki/Stradella_(Niedermeyer%29) (1837) — Louis Niedermeyer · words: Émile Deschamps, Émilien Pacini · French ✎ ♫
+- [*Marie Stuart*](https://en.wikipedia.org/wiki/Marie_Stuart_(opera%29) (1844) — Louis Niedermeyer · words: Théodore Annie · French ♫
+- [*Faust*](https://en.wikipedia.org/wiki/Faust_(Spohr%29) (1816) — Louis Spohr · words: Joseph Carl Bernard · German ✎ ♫
+- [*Jessonda*](https://en.wikipedia.org/wiki/Jessonda) (1823) — Louis Spohr · words: Eduard Heinrich Gehe · German ✎ ♫
+- [*Électre*](https://en.wikipedia.org/wiki/%C3%89lectre_(Gouvy%29) — Louis Théodore Gouvy · French
+- [*Le Loup-garou*](https://en.wikipedia.org/wiki/Le_loup-garou) (1827) — Louise Bertin · words: Eugène Scribe, Édouard Mazères · French · opéra comique ✎
+- [*Fausto*](https://en.wikipedia.org/wiki/Fausto_(opera%29) (1831) — Louise Bertin · words: Luigi Balocchi, Louise Bertin · Italian ✎ ♫
+- [*La Esmeralda*](https://en.wikipedia.org/wiki/La_Esmeralda_(opera%29) (1836) — Louise Bertin · words: Victor Hugo · French ✎ ♫
+- [*The Alcestiad*](https://en.wikipedia.org/wiki/The_Alcestiad) (1962) — Louise Talma · words: Thornton Wilder ♫
+- [*The Picture of Dorian Gray*](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray_(opera%29) — Lowell Liebermann ✎ ♫
+- [*Signor Goldoni*](https://en.wikipedia.org/wiki/Signor_Goldoni) — Luca Mosca
+- [*Inferno*](https://en.wikipedia.org/wiki/Inferno_(opera%29) (2021) — Lucia Ronchetti · words: Lucia Ronchetti ♫
+- [*Un re in ascolto*](https://en.wikipedia.org/wiki/Un_re_in_ascolto) (1984) — Luciano Berio · words: Berio · Italian ✎ ♫
+- [*Cronaca del luogo*](https://en.wikipedia.org/wiki/Cronaca_del_luogo) (1999) — Luciano Berio · words: Talia Berio Pecker · Italian ♫
+- [*Fidelio*](https://en.wikipedia.org/wiki/Fidelio) (1805) — Ludwig van Beethoven · words: Joseph Sonnleithner, Georg Friedrich Treitschke · German ✎ ♫
+- [*Vestas Feuer*](https://en.wikipedia.org/wiki/Vestas_Feuer) — Ludwig van Beethoven
+- [*La Clementina*](https://en.wikipedia.org/wiki/Clementina_(zarzuela%29) (1786) — Luigi Boccherini · words: Ramón de la Cruz · Spanish ✎ ♫
+- [*Démophoon*](https://en.wikipedia.org/wiki/D%C3%A9mophoon) (1788) — Luigi Cherubini · words: Jean-François Marmontel · French ♫
+- [*Lodoïska*](https://en.wikipedia.org/wiki/Lodo%C3%AFska_(Cherubini%29) (1791) — Luigi Cherubini · words: Claude-François Fillette-Loraux · French/Italian ✎ ♫
+- [*Elisa, ou Le voyage aux glaciers du Mont St-Bernard*](https://en.wikipedia.org/wiki/Eliza_(Cherubini%29) (1794) — Luigi Cherubini · words: Jacques-Antoine de Révérony Saint-Cyr · French ✎ ♫
+- [*Le congrès des rois*](https://en.wikipedia.org/wiki/Le_congr%C3%A8s_des_rois) (1794) — Luigi Cherubini, André Grétry, Jean Pierre Solié, Louis Emmanuel Jadin, Nicolas Dalayrac, Rodolphe Kreutzer, Étienne Méhul, Henri-Montan Berton, Prosper-Didier Deshayes, Armand Emmanuel Trial, Frédéric Blasius, François Devienne · words: Antoine-François Ève · French
+- [*Médée*](https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini%29) (1797) — Luigi Cherubini · words: François-Benoît Hoffman · French ✎ ♫
+- [*L'hôtellerie portugaise*](https://en.wikipedia.org/wiki/L%27h%C3%B4tellerie_portugaise) (1798) — Luigi Cherubini · words: Étienne Aignan · French ♫
+- [*Les deux journées, ou Le porteur de l'eau*](https://en.wikipedia.org/wiki/Les_deux_journ%C3%A9es) (1800) — Luigi Cherubini · words: Jean-Nicolas Bouilly · French ✎ ♫
+- [*Anacréon*](https://en.wikipedia.org/wiki/Anacr%C3%A9on_(Cherubini%29) (1803) — Luigi Cherubini · French ✎ ♫
+- [*Faniska*](https://en.wikipedia.org/wiki/Faniska) (1806) — Luigi Cherubini · words: Joseph Sonnleithner · German ✎ ♫
+- [*Pimmalione*](https://en.wikipedia.org/wiki/Pimmalione) (1809) — Luigi Cherubini · words: Stefano Vestris · Italian ✎ ♫
+- [*Le crescendo*](https://en.wikipedia.org/wiki/Le_crescendo) (1810) — Luigi Cherubini · words: Sewrin · French ✎ ♫
+- [*Les Abencérages*](https://en.wikipedia.org/wiki/Les_Abenc%C3%A9rages) (1813) — Luigi Cherubini · words: Victor-Joseph Étienne de Jouy · French ✎ ♫
+- [*La marquise de Brinvilliers*](https://en.wikipedia.org/wiki/La_marquise_de_Brinvilliers_(opera%29) (1831) — Luigi Cherubini, Daniel François Esprit Auber, François Adrien Boieldieu, Ferdinand Hérold, Ferdinando Paër, Michele Carafa, Désiré-Alexandre Batton, Henri-Montan Berton, Felice Blangini · words: Eugène Scribe, Castil-Blaze · French ✎ ♫
+- [*Ali Baba*](https://en.wikipedia.org/wiki/Ali_Baba_(Cherubini%29) (1833) — Luigi Cherubini · words: Eugène Scribe, Mélesville · French ✎ ♫
+- [*Koukourgi*](https://en.wikipedia.org/wiki/Koukourgi) (2010) — Luigi Cherubini · words: Honoré-Nicolas-Marie Duveyrier · French
+- [*Épicure*](https://en.wikipedia.org/wiki/%C3%89picure_(opera%29) — Luigi Cherubini, Étienne Méhul ✎ ♫
+- [*Volo di notte*](https://en.wikipedia.org/wiki/Volo_di_notte) (1940) — Luigi Dallapiccola · words: Luigi Dallapiccola · Italian ✎ ♫
+- [*Il prigioniero*](https://en.wikipedia.org/wiki/Il_prigioniero) (1950) — Luigi Dallapiccola · words: Luigi Dallapiccola · Italian ✎ ♫
+- [*Ulisse*](https://en.wikipedia.org/wiki/Ulisse_(opera%29) (1968) — Luigi Dallapiccola · words: Luigi Dallapiccola · Italian ♫
+- [*Intolleranza 1960*](https://en.wikipedia.org/wiki/Intolleranza_1960) (1961) — Luigi Nono · words: Nono · Italian ✎ ♫
+- [*Al gran sole carico d'amore*](https://en.wikipedia.org/wiki/Al_gran_sole_carico_d%27amore) (1975) — Luigi Nono · words: Luigi Nono, Yury Lyubimov · French ✎ ♫
+- [*Prometeo*](https://en.wikipedia.org/wiki/Prometeo) (1984) — Luigi Nono · words: Massimo Cacciari · German/Italian/Ancient Greek
+- [*Crispino e la comare*](https://en.wikipedia.org/wiki/Crispino_e_la_comare) (1850) — Luigi Ricci, Federico Ricci · words: Francesco Maria Piave · Italian ✎ ♫
+- [*Tarantella Napoletana*](https://en.wikipedia.org/wiki/Tarantella_Napoletana) — Luigi Ricci · Neapolitan
+- [*Il palazzo incantato*](https://en.wikipedia.org/wiki/Il_palazzo_incantato) (1642) — Luigi Rossi · words: Clement IX · Italian ✎ ♫
+- [*Orfeo*](https://en.wikipedia.org/wiki/Orfeo_(Rossi%29) (1647) — Luigi Rossi · words: Francesco Buti · Italian ✎ ♫
+- [*The Jumping Frog of Calaveras County*](https://en.wikipedia.org/wiki/The_Jumping_Frog_of_Calaveras_County) (1950) — Lukas Foss · words: Jean Karsavina · English ✎ ♫
+- [*Griffelkin*](https://en.wikipedia.org/wiki/Griffelkin) (1955) — Lukas Foss · words: Alastair Reid ✎ ♫
+- [*Caoyuan zhi ge*](https://en.wikipedia.org/wiki/Caoyuan_Zhi_Ge) — Luo Zongxian · Chinese
+- [*Mináǧi kiŋ dowáŋ: A Zitkála-Šá Opera*](https://en.wikipedia.org/wiki/Min%C3%A1%C7%A7i_ki%C5%8B_dow%C3%A1%C5%8B) — Lyz Jaakola (composer), Hannah Johnson (librettist) · English/Dakota ✎ ♫
+- [*Poverty Made Happy*](https://en.wikipedia.org/wiki/N%C4%99dza_uszcz%C4%99%C5%9Bliwiona) (1778) — Maciej Kamieński · words: Wojciech Bogusławski, Franciszek Bohomolec · Polish ♫
+- [*Demofonte*](https://en.wikipedia.org/wiki/Demofonte_(Berezovsky%29) (1773) — Maksym Berezovsky · words: Pietro Metastasio · Italian ✎ ♫
+- [*The Dancing Master*](https://en.wikipedia.org/wiki/The_Dancing_Master_(opera%29) — Malcolm Arnold · words: Joe Mendoza · English ✎ ♫
+- [*Our Man in Havana*](https://en.wikipedia.org/wiki/Our_Man_in_Havana_(opera%29) (1963) — Malcolm Williamson · words: Sidney Gilliat ♫
+- [*The Violins of Saint-Jacques*](https://en.wikipedia.org/wiki/The_Violins_of_Saint-Jacques) (1966) — Malcolm Williamson · words: William Chappell ✎ ♫
+- [*Lucky-Peter's Journey*](https://en.wikipedia.org/wiki/Lucky-Peter%27s_Journey) (1969) — Malcolm Williamson ✎ ♫
+- [*Wozzeck*](https://en.wikipedia.org/wiki/Wozzeck_(Gurlitt%29) (1926) — Manfred Gurlitt · words: Manfred Gurlitt · German
+- [*Soldaten*](https://en.wikipedia.org/wiki/Soldaten_(Gurlitt%29) (1930) — Manfred Gurlitt
+- [*Nana*](https://en.wikipedia.org/wiki/Nana_(opera%29) — Manfred Gurlitt · words: Max Brod · German
+- [*La vida breve*](https://en.wikipedia.org/wiki/La_vida_breve_(opera%29) (1913) — Manuel de Falla · words: Carlos Fernández Shaw · Spanish ✎ ♫
+- [*El retablo de maese Pedro*](https://en.wikipedia.org/wiki/El_retablo_de_maese_Pedro) (1923) — Manuel de Falla · words: Manuel de Falla · Spanish ✎ ♫
+- [*Atlàntida*](https://en.wikipedia.org/wiki/Atl%C3%A1ntida_(opera%29) (1961) — Manuel de Falla, Ernesto Halffter · words: Manuel de Falla · Catalan ✎ ♫
+- [*Partenope*](https://en.wikipedia.org/wiki/Partenope_(Zumaya%29) (1711) — Manuel de Zumaya · words: Zumaya · Spanish ✎ ♫
+- [*Le cinesi*](https://en.wikipedia.org/wiki/Le_cinesi_(Garc%C3%ADa%29) (1831) — Manuel García · words: Pietro Metastasio · Italian
+- [*El ciudadano Simón*](https://en.wikipedia.org/wiki/El_ciudadano_Sim%C3%B3n) (1900) — Manuel Manrique de Lara y Berry · words: Eduardo Lustonó, Antonio Palomero Dechado · Spanish ♫
+- [*El gato montés*](https://en.wikipedia.org/wiki/El_gato_mont%C3%A9s) (1916) — Manuel Penella · Spanish ♫
+- [*Triple-Sec*](https://en.wikipedia.org/wiki/Triple-Sec) (1929) — Marc Blitzstein · words: Ronald Jeans · English ✎ ♫
+- [*I've Got the Tune*](https://en.wikipedia.org/wiki/I%27ve_Got_the_Tune) (1937) — Marc Blitzstein · words: Marc Blitzstein · English ✎
+- [*Reuben, Reuben*](https://en.wikipedia.org/wiki/Reuben,_Reuben_(opera%29) (1955) — Marc Blitzstein ✎ ♫
+- [*Tales of Malamud*](https://en.wikipedia.org/wiki/Tales_of_Malamud) (1977) — Marc Blitzstein
+- [*Sacco and Vanzetti*](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti_(Blitzstein_opera%29) (2001) — Marc Blitzstein, Leonard Lehrman
+- [*Regina*](https://en.wikipedia.org/wiki/Regina_(Blitzstein%29) — Marc Blitzstein · English ✎ ♫
+- [*Charlotte Salomon*](https://en.wikipedia.org/wiki/Charlotte_Salomon_(opera%29) (2014) — Marc-André Dalbavie · words: Barbara Honigmann · French/German ♫
+- [*Les plaisirs de Versailles*](https://en.wikipedia.org/wiki/Les_plaisirs_de_Versailles) (1682) — Marc-Antoine Charpentier · French
+- [*Les arts florissants*](https://en.wikipedia.org/wiki/Les_arts_florissants_(opera%29) (1685) — Marc-Antoine Charpentier · French ♫
+- [*David et Jonathas*](https://en.wikipedia.org/wiki/David_et_Jonathas) (1688) — Marc-Antoine Charpentier · words: François de Paule Bretonneau · French ✎ ♫
+- [*Médée*](https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Charpentier%29) (1693) — Marc-Antoine Charpentier · words: Thomas Corneille · French ✎ ♫
+- [*Actéon*](https://en.wikipedia.org/wiki/Act%C3%A9on_(opera%29) — Marc-Antoine Charpentier · French ♫
+- [*La descente d'Orphée aux enfers*](https://en.wikipedia.org/wiki/La_descente_d%27Orph%C3%A9e_aux_enfers) — Marc-Antoine Charpentier · French ✎ ♫
+- [*Puck*](https://en.wikipedia.org/wiki/Puck_(opera%29) (1949) — Marcel Delannoy · French
+- [*Krapp, ou, La dernière bande*](https://en.wikipedia.org/wiki/Krapp,_ou,_La_derni%C3%A8re_bande) (1961) — Marcel Mihalovici · words: Samuel Beckett · French
+- [*Dafne*](https://en.wikipedia.org/wiki/La_Dafne) (1608) — Marco da Gagliano · words: Ottavio Rinuccini · Italian ✎ ♫
+- [*Le braci*](https://en.wikipedia.org/wiki/Le_braci) (2015) — Marco Tutino
+- [*The Witches*](https://en.wikipedia.org/wiki/The_Witches_(opera%29) (2008) — Marcus Paus · words: Ole Paus · Norwegian
+- [*The Ash-Lad – Pål's Story*](https://en.wikipedia.org/wiki/The_Ash-Lad_%E2%80%93_P%C3%A5l%27s_Story) (2011) — Marcus Paus · words: Ole Paus
+- [*The Teacher Who Was Not To Be*](https://en.wikipedia.org/wiki/The_Teacher_Who_Was_Not_To_Be) (2013) — Marcus Paus · words: Olav Anton Thommessen · Norwegian
+- [*Children of Ginko*](https://en.wikipedia.org/wiki/Children_of_Ginko) (2020) — Marcus Paus · words: Oda Fiskum · English/Norwegian
+- [*Rappaccini's Daughter*](https://en.wikipedia.org/wiki/Rappaccini%27s_Daughter_(Garwood_opera%29) (1980) — Margaret Garwood · words: Margaret Garwood ✎ ♫
+- [*The Young Kabbarli*](https://en.wikipedia.org/wiki/The_Young_Kabbarli) (1965) — Margaret Sutherland · words: Maie Casey
+- [*Ciro in Armenia*](https://en.wikipedia.org/wiki/Ciro_in_Armenia) (1753) — Maria Teresa Agnesi Pinottini · words: Pinottini · Italian ✎ ♫
+- [*Alcide*](https://en.wikipedia.org/wiki/Alcide_(Marais%29) (1693) — Marin Marais, Louis Lully · words: Jean Galbert de Campistron · French
+- [*Ariane et Bacchus*](https://en.wikipedia.org/wiki/Ariane_et_Bacchus) (1696) — Marin Marais · words: Saint-Jean · French
+- [*Alcyone*](https://en.wikipedia.org/wiki/Alcyone_(opera%29) (1706) — Marin Marais · words: Antoine Houdar de La Motte · French ✎ ♫
+- [*Sémélé*](https://en.wikipedia.org/wiki/S%C3%A9m%C3%A9l%C3%A9) (1709) — Marin Marais · words: Antoine Houdar de la Motte · French
+- [*Equinox*](https://en.wikipedia.org/wiki/Equinox_(opera%29) (1956) — Marjan Kozina · words: Marjan Kozina · Slovene
+- [*Little Women*](https://en.wikipedia.org/wiki/Little_Women_(opera%29) (1998) — Mark Adamo · words: Mark Adamo ♫
+- [*Lysistrata*](https://en.wikipedia.org/wiki/Lysistrata_(opera%29) (2005) — Mark Adamo · words: Mark Adamo ♫
+- [*Becoming Santa Claus*](https://en.wikipedia.org/wiki/Becoming_Santa_Claus) — Mark Adamo ♫
+- [*Tale for a Deaf Ear*](https://en.wikipedia.org/wiki/Tale_for_a_Deaf_Ear) (1957) — Mark Bucci ✎ ♫
+- [*Tailor Wibbel*](https://en.wikipedia.org/wiki/Tailor_Wibbel) (1938) — Mark Lothar ✎
+- [*Greek*](https://en.wikipedia.org/wiki/Greek_(opera%29) (1988) — Mark-Anthony Turnage · words: Turnage, Jonathan Moore
+- [*Twice Through the Heart*](https://en.wikipedia.org/wiki/Twice_Through_the_Heart) (1997) — Mark-Anthony Turnage · words: Jackie Kay · English
+- [*The Silver Tassie*](https://en.wikipedia.org/wiki/The_Silver_Tassie_(opera%29) (2000) — Mark-Anthony Turnage · words: Amanda Holden ✎ ♫
+- [*Anna Nicole*](https://en.wikipedia.org/wiki/Anna_Nicole) (2011) — Mark-Anthony Turnage · words: Richard Thomas · English ✎ ♫
+- [*Coraline*](https://en.wikipedia.org/wiki/Coraline_(opera%29) (2018) — Mark-Anthony Turnage · words: Rory Mullarkey ♫
+- [*Festen*](https://en.wikipedia.org/wiki/Festen_(opera%29) (2025) — Mark-Anthony Turnage · words: Lee Hall · English ✎
+- [*The Railway Children*](https://en.wikipedia.org/wiki/The_Railway_Children_(opera%29) (2025) — Mark-Anthony Turnage · words: Rachael Hewer
+- [*Mourning Becomes Electra*](https://en.wikipedia.org/wiki/Mourning_Becomes_Electra_(opera%29) (1967) — Marvin David Levy · English ♫
+- [*Seyfal mulk*](https://en.wikipedia.org/wiki/Seyfal_mulk) (1915) — Mashadi Jamil Amirov · Azerbaijani
+- [*The (R)evolution of Steve Jobs*](https://en.wikipedia.org/wiki/The_(R%29evolution_of_Steve_Jobs) (2017) — Mason Bates · words: Mark Campbell · English ✎ ♫
+- [*The Amazing Adventures of Kavalier & Clay*](https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay_(opera%29) (2025) — Mason Bates · words: Gene Scheer ✎ ♫
+- [*Fat Pig*](https://en.wikipedia.org/wiki/Fat_Pig_(opera%29) (2022) — Matt Boehler
+- [*Crossing*](https://en.wikipedia.org/wiki/Crossing_(opera%29) (2015) — Matthew Aucoin · words: Matthew Aucoin · English ✎ ♫
+- [*Eurydice*](https://en.wikipedia.org/wiki/Eurydice_(Aucoin%29) (2020) — Matthew Aucoin · words: Sarah Ruhl · English ✎ ♫
+- [*On London Fields*](https://en.wikipedia.org/wiki/On_London_Fields) — Matthew King · words: Alasdair Middleton
+- [*The Snow Queen*](https://en.wikipedia.org/wiki/The_Snow_Queen_(King%29) — Matthew King ✎
+- [*Psyche*](https://en.wikipedia.org/wiki/Psyche_(Locke%29) (1675) — Matthew Locke · words: Thomas Shadwell · English ✎
+- [*The Cruelty of the Spaniards in Peru*](https://en.wikipedia.org/wiki/The_Cruelty_of_the_Spaniards_in_Peru) — Matthew Locke
+- [*The History of Sir Francis Drake*](https://en.wikipedia.org/wiki/The_History_of_Sir_Francis_Drake) — Matthew Locke · words: William Davenant
+- [*L'heure espagnole*](https://en.wikipedia.org/wiki/L%27heure_espagnole) (1911) — Maurice Ravel · words: Franc-Nohain · French ✎ ♫
+- [*L'enfant et les sortilèges*](https://en.wikipedia.org/wiki/L%27enfant_et_les_sortil%C3%A8ges) (1925) — Maurice Ravel · words: Colette · French ✎ ♫
+- [*The Public*](https://en.wikipedia.org/wiki/The_Public_(opera%29) (2015) — Mauricio Sotelo · words: Andrés Ibáñez · Spanish ✎ ♫
+- [*Die Loreley*](https://en.wikipedia.org/wiki/Die_Loreley) (1863) — Max Bruch · words: Emanuel Geibel · German
+- [*Mona Lisa*](https://en.wikipedia.org/wiki/Mona_Lisa_(opera%29) (1915) — Max von Schillings · words: Beatrice von Dovsky ✎ ♫
+- [*Victorine*](https://en.wikipedia.org/wiki/Victorine_(opera%29) (1982) — Mayo Thompson · words: Art & Language · French/English
+- [*Fang Zhimin*](https://en.wikipedia.org/wiki/Fang_Zhimin_(opera%29) (2015) — Meng Weidong
+- [*Atlas*](https://en.wikipedia.org/wiki/Atlas_(opera%29) — Meredith Monk ✎ ♫
+- [*Faust and Marguerite*](https://en.wikipedia.org/wiki/Faust_and_Marguerite_(opera%29) (1855) — Meyer Lutz · English
+- [*Jane Eyre*](https://en.wikipedia.org/wiki/Jane_Eyre_(Berkeley%29) — Michael Berkeley · words: David Malouf ♫
+- [*A Scholar Under Siege*](https://en.wikipedia.org/wiki/A_Scholar_Under_Siege) — Michael Braz · words: Michael Braz · English
+- [*Jackie O*](https://en.wikipedia.org/wiki/Jackie_O_(opera%29) (1997) — Michael Daugherty · English ✎ ♫
+- [*The Juniper Passion*](https://en.wikipedia.org/wiki/The_Juniper_Passion) — Michael F. Williams ♫
+- [*A Life for the Tsar*](https://en.wikipedia.org/wiki/A_Life_for_the_Tsar) (1836) — Michael Glinka · words: Karl Georg Woldemar von Rosen, Sergey Gorodetsky, Vassilij Jukovskij · Russian ✎ ♫
+- [*Ruslan and Lyudmila*](https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera%29) (1842) — Michael Glinka · words: Alexander Pushkin, Nestor Kukolnik · Russian ✎ ♫
+- [*Cassandre*](https://en.wikipedia.org/wiki/Cassandre_(Jarrell%29) (1994) — Michael Jarrell · words: Gerhard Wolf, Alain Lance (translator)
+- [*The Man Who Mistook His Wife for a Hat*](https://en.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat_(opera%29) (1986) — Michael Nyman · English ✎ ♫
+- [*Facing Goya*](https://en.wikipedia.org/wiki/Facing_Goya) — Michael Nyman · English ♫
+- [*Tristram Shandy*](https://en.wikipedia.org/wiki/Tristram_Shandy_(opera%29) — Michael Nyman
+- [*Robin Hood*](https://en.wikipedia.org/wiki/Robin_Hood_(Tippett_opera%29) (1934) — Michael Tippett · words: Tippett
+- [*The Midsummer Marriage*](https://en.wikipedia.org/wiki/The_Midsummer_Marriage) (1955) — Michael Tippett · words: Michael Tippett · English ✎ ♫
+- [*King Priam*](https://en.wikipedia.org/wiki/King_Priam) (1962) — Michael Tippett · words: Michael Tippett · English ✎ ♫
+- [*The Knot Garden*](https://en.wikipedia.org/wiki/The_Knot_Garden) (1970) — Michael Tippett · words: Michael Tippett ✎ ♫
+- [*The Ice Break*](https://en.wikipedia.org/wiki/The_Ice_Break) (1977) — Michael Tippett · words: Michael Tippett ✎ ♫
+- [*New Year*](https://en.wikipedia.org/wiki/New_Year_(opera%29) (1989) — Michael Tippett · words: Michael Tippett ✎ ♫
+- [*The Maid of Artois*](https://en.wikipedia.org/wiki/The_Maid_of_Artois) (1836) — Michael William Balfe · words: Alfred Bunn ♫
+- [*Falstaff*](https://en.wikipedia.org/wiki/Falstaff_(Balfe%29) (1838) — Michael William Balfe · words: Manfredo Maggioni · Italian
+- [*The Bohemian Girl*](https://en.wikipedia.org/wiki/The_Bohemian_Girl) (1843) — Michael William Balfe · words: Jules-Henri Vernoy de Saint-Georges, Alfred Bunn · English ✎ ♫
+- [*L'étoile de Seville*](https://en.wikipedia.org/wiki/L%27%C3%A9toile_de_S%C3%A9ville) (1845) — Michael William Balfe · words: Hippolyte Lucas · French ♫
+- [*The Rose of Castille*](https://en.wikipedia.org/wiki/The_Rose_of_Castille) (1857) — Michael William Balfe · words: Augustus Glossop Harris, Edmund Falconer ✎ ♫
+- [*Satanella*](https://en.wikipedia.org/wiki/Satanella_(Balfe%29) (1858) — Michael William Balfe · words: Augustus Glossop Harris and Edmund Falconer
+- [*The Armourer of Nantes*](https://en.wikipedia.org/wiki/The_Armourer_of_Nantes) (1863) — Michael William Balfe · words: J. V. Bridgman ✎ ♫
+- [*Jephté*](https://en.wikipedia.org/wiki/Jepht%C3%A9) (1732) — Michel Pignolet de Montéclair · words: Simon-Joseph Pellegrin · French ✎ ♫
+- [*One*](https://en.wikipedia.org/wiki/One_(opera%29) (2003) — Michel van der Aa · words: Michel van der Aa
+- [*Upload*](https://en.wikipedia.org/wiki/Upload_(opera%29) (2021) — Michel van der Aa · words: Michel van der Aa · English ✎ ♫
+- [*I due Figaro*](https://en.wikipedia.org/wiki/I_due_Figaro_(Carafa%29) (1820) — Michele Carafa · words: Felice Romani · Italian
+- [*La belle au bois dormant*](https://en.wikipedia.org/wiki/La_Belle_au_bois_dormant_(Carafa%29) (1825) — Michele Carafa · words: Eugène de Planard · French
+- [*Pozdravlyayem!*](https://en.wikipedia.org/wiki/Congratulations!) (1983) — Mieczysław Weinberg · words: Weinberg
+- [*The Portrait*](https://en.wikipedia.org/wiki/The_Portrait_(opera%29) (1983) — Mieczysław Weinberg · words: Alexandr Medvedev · Russian ♫
+- [*The Idiot*](https://en.wikipedia.org/wiki/The_Idiot_(opera%29) (1991) — Mieczysław Weinberg · words: Alexandr Medvedev · Russian
+- [*The Passenger*](https://en.wikipedia.org/wiki/The_Passenger_(opera%29) (2006) — Mieczysław Weinberg · words: Alexandr Medvedev · Russian ✎ ♫
+- [*Lady Magnesia*](https://en.wikipedia.org/wiki/Lady_Magnesia) (2009) — Mieczysław Weinberg · words: Weinberg · Russian
+- [*Tata Vasco*](https://en.wikipedia.org/wiki/Tata_Vasco_(opera%29) — Miguel Bernal Jiménez · Spanish ✎ ♫
+- [*Perla*](https://en.wikipedia.org/wiki/Perla_(zarzuela%29) (1871) — Miguel Marqués · words: Juan José Herranz · Spanish ✎ ♫
+- [*El reloj de Lucerna*](https://en.wikipedia.org/wiki/El_reloj_de_Lucerna) (1884) — Miguel Marqués · words: Marcos Zapata Mañas · Spanish ✎ ♫
+- [*El zortzico*](https://en.wikipedia.org/wiki/El_zortzico) (1891) — Miguel Marqués · words: Emilio Sánchez Pastor · Spanish ✎ ♫
+- [*Graf Cagliostro*](https://en.wikipedia.org/wiki/Graf_Cagliostro) — Mikael Tariverdiev · words: Nikolai Kemarski ♫
+- [*Birutė*](https://en.wikipedia.org/wiki/Birut%C4%97_(opera%29) (1906) — Mikas Petrauskas · Lithuanian ✎
+- [*Victory over the Sun*](https://en.wikipedia.org/wiki/Victory_over_the_Sun) (1913) — Mikhail Matyushin · words: Aleksei Kruchenykh · Russian
+- [*The miller who was a wizard, a cheat and a matchmaker*](https://en.wikipedia.org/wiki/The_miller_who_was_a_wizard,_a_cheat_and_a_matchmaker) (1779) — Mikhail Sokolovsky · words: Alexander Ablesimov · Russian ✎ ♫
+- [*Jōruri*](https://en.wikipedia.org/wiki/J%C5%8Druri_(opera%29) (1985) — Minoru Miki · words: Colin Graham · Japanese ✎ ♫
+- [*Genji monogatari*](https://en.wikipedia.org/wiki/Genji_monogatari_(opera%29) — Minoru Miki · words: Colin Graham ♫
+- [*Shunkinshō*](https://en.wikipedia.org/wiki/Shunkinsh%C5%8D_(opera%29) — Minoru Miki · Japanese ✎ ♫
+- [*Breaking the Waves*](https://en.wikipedia.org/wiki/Breaking_the_Waves_(opera%29) (2016) — Missy Mazzoli · words: Royce Vavrek · English ✎ ♫
+- [*The Listeners*](https://en.wikipedia.org/wiki/The_Listeners_(opera%29) (2022) — Missy Mazzoli · words: Royce Vavrek · English ✎ ♫
+- [*Song from the Uproar: The Lives and Deaths of Isabelle Eberhardt*](https://en.wikipedia.org/wiki/Song_from_the_Uproar:_The_Lives_and_Deaths_of_Isabelle_Eberhardt) — Missy Mazzoli ♫
+- [*Thunderstorm*](https://en.wikipedia.org/wiki/Thunderstorm_(opera%29) — Mo Fan
+- [*Boris Godunov*](https://en.wikipedia.org/wiki/Boris_Godunov_(opera%29) (1874) — Modest Petrovich Mussorgsky · words: Modest Petrovich Mussorgsky · Russian ✎ ♫
+- [*Zhenitba*](https://en.wikipedia.org/wiki/Zhenitba) (1908) — Modest Petrovich Mussorgsky · words: Modest Petrovich Mussorgsky · Russian ✎ ♫
+- [*The Fair at Sorochyntsi*](https://en.wikipedia.org/wiki/The_Fair_at_Sorochyntsi) (1917) — Modest Petrovich Mussorgsky, Vissarion Shebalin, César Cui · words: Arseny Golenishchev-Kutuzov, Modest Petrovich Mussorgsky · Russian ✎ ♫
+- [*Salammbô*](https://en.wikipedia.org/wiki/Salammb%C3%B4_(Mussorgsky%29) (1980) — Modest Petrovich Mussorgsky · words: Modest Petrovich Mussorgsky · Russian ✎ ♫
+- [*Sumeida's Song*](https://en.wikipedia.org/wiki/Sumeida%27s_Song) — Mohammed Fairouz ✎ ♫
+- [*Neither*](https://en.wikipedia.org/wiki/Neither_(opera%29) (1977) — Morton Feldman · words: Samuel Beckett · English
+- [*Lindy*](https://en.wikipedia.org/wiki/Lindy_(opera%29) (2002) — Moya Henderson · words: Judith Rodriguez · English ♫
+- [*Birzhan and Sara*](https://en.wikipedia.org/wiki/Birzhan_and_Sara) (1946) — Mukan Tulebaev · words: Qajym Jumalīev · Kazakh ✎ ♫
+- [*Shah Ismayil*](https://en.wikipedia.org/wiki/Shah_Ismayil_(opera%29) (1919) — Muslim Magomayev · words: Mammad Said Ordubadi, Mirza Abdulqadir Vusaqi · Azerbaijani ♫
+- [*Nargiz*](https://en.wikipedia.org/wiki/Nargiz_(opera%29) (1935) — Muslim Magomayev · words: Mammad Said Ordubadi · Azerbaijani
+- [*Christmas night*](https://en.wikipedia.org/wiki/Christmas_Eve_(Lysenko%29) (1874) — Mykola Lysenko · words: Mykhailo Starytskyi · Ukrainian
+- [*Natalka Poltavka*](https://en.wikipedia.org/wiki/Natalka_Poltavka_(opera%29) (1889) — Mykola Lysenko · words: Mykhailo Starytskyi · Ukrainian ✎
+- [*Koza-Dereza*](https://en.wikipedia.org/wiki/Koza-dereza) (1890) — Mykola Lysenko · words: Dniprova Chayka · Ukrainian ✎
+- [*Pan Kotsky*](https://en.wikipedia.org/wiki/Mr_Kotsky) (1891) — Mykola Lysenko · words: Dniprova Chayka · Ukrainian
+- [*Nocturne*](https://en.wikipedia.org/wiki/Nocturne_(Lysenko%29) (1914) — Mykola Lysenko · words: Liudmyla Starytska-Cherniakhivska · Ukrainian
+- [*Taras Bulba*](https://en.wikipedia.org/wiki/Taras_Bulba_(opera%29) (1924) — Mykola Lysenko · words: Mykhailo Starytskyi · Ukrainian ✎ ♫
+- [*Moses*](https://en.wikipedia.org/wiki/Moses_(Skoryk%29) (2001) — Myroslav Skoryk · words: Myroslav Skoryk, Bohdan Stelʹmakh · Ukrainian ✎ ♫
+- [*La ville morte*](https://en.wikipedia.org/wiki/La_Ville_morte) (2005) — Nadia Boulanger, Raoul de Pugno · French ♫
+- [*Bay Önder*](https://en.wikipedia.org/wiki/Bay_%C3%96nder) (1934) — Necil Kazım Akses · words: Münir Hayri Egeli · Turkish
+- [*Miss Julie*](https://en.wikipedia.org/wiki/Miss_Julie_(Rorem_opera%29) (1965) — Ned Rorem · words: Kenward Elmslie · English ✎ ♫
+- [*Bertha*](https://en.wikipedia.org/wiki/Bertha_(opera%29) (1973) — Ned Rorem · words: Kenneth Koch · English ✎ ♫
+- [*Our Town*](https://en.wikipedia.org/wiki/Our_Town_(opera%29) (2006) — Ned Rorem · words: J. D. McClatchy ♫
+- [*Gilgamesh*](https://en.wikipedia.org/wiki/Gilgamesh_(Kodall%C4%B1_opera%29) — Nevit Kodallı · Turkish
+- [*Van Gogh*](https://en.wikipedia.org/wiki/Van_Gogh_(opera%29) — Nevit Kodallı
+- [*Nigredo Hotel*](https://en.wikipedia.org/wiki/Nigredo_Hotel) (1992) — Nic Gotham · words: Ann-Marie MacDonald ♫
+- [*A basso porto*](https://en.wikipedia.org/wiki/A_basso_porto) (1894) — Niccola Spinelli · words: Eugenio Checchi · Italian ♫
+- [*Giulietta e Romeo*](https://en.wikipedia.org/wiki/Giulietta_e_Romeo_(Zingarelli%29) (1796) — Niccolò Antonio Zingarelli · words: Giuseppe Maria Foppa · Italian ♫
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Jommelli%29) (1747) — Niccolò Jommelli · Italian
+- [*Il Vologeso*](https://en.wikipedia.org/wiki/Il_Vologeso_(Jommelli%29) (1766) — Niccolò Jommelli · words: Apostolo Zeno · Italian ✎ ♫
+- [*Armida abbandonata*](https://en.wikipedia.org/wiki/Armida_abbandonata) (1770) — Niccolò Jommelli · words: Francesco Saverio de' Rogati · Italian ✎ ♫
+- [*Ifigenia in Tauride*](https://en.wikipedia.org/wiki/Ifigenia_in_Tauride_(Jommelli%29) (1771) — Niccolò Jommelli · words: Mattia Verazi · Italian ♫
+- [*Cajo Mario*](https://en.wikipedia.org/wiki/Cajo_Mario) — Niccolò Jommelli · Italian ♫
+- [*La buona figliuola*](https://en.wikipedia.org/wiki/La_buona_figliuola) (1760) — Niccolò Piccinni · words: Carlo Goldoni · Italian ✎ ♫
+- [*Le donne vendicate*](https://en.wikipedia.org/wiki/Le_donne_vendicate) (1763) — Niccolò Piccinni · words: Carlo Goldoni · Italian ♫
+- [*L'americano*](https://en.wikipedia.org/wiki/L%27americano_(Piccinni%29) (1772) — Niccolò Piccinni · words: Angelo Lungi · Italian ✎ ♫
+- [*Roland*](https://en.wikipedia.org/wiki/Roland_(Piccinni%29) (1778) — Niccolò Piccinni · words: Jean-François Marmontel · French ✎ ♫
+- [*Atys*](https://en.wikipedia.org/wiki/Atys_(Piccinni%29) (1780) — Niccolò Piccinni · words: Jean-François Marmontel · French ♫
+- [*Adèle de Ponthieu*](https://en.wikipedia.org/wiki/Ad%C3%A8le_de_Ponthieu_(Piccinni%29) (1781) — Niccolò Piccinni · words: Jean-Paul-André Razins de Saint-Marc · French ♫
+- [*Iphigénie en Tauride*](https://en.wikipedia.org/wiki/Iphig%C3%A9nie_en_Tauride_(Piccinni%29) (1781) — Niccolò Piccinni · words: Alphonse du Congé Dubreuil · French ✎ ♫
+- [*Didon*](https://en.wikipedia.org/wiki/Didon_(Piccinni%29) (1783) — Niccolò Piccinni · words: Jean-François Marmontel · French ✎ ♫
+- [*Pénélope*](https://en.wikipedia.org/wiki/P%C3%A9n%C3%A9lope_(Piccinni%29) (1785) — Niccolò Piccinni · words: Jean-François Marmontel · French ♫
+- [*Il finto astrologo*](https://en.wikipedia.org/wiki/Il_finto_astrologo) — Niccolò Piccinni · Italian
+- [*Shell Shock*](https://en.wikipedia.org/wiki/Shell_Shock_(opera%29) (2014) — Nicholas Lens · words: Nick Cave · English ✎ ♫
+- [*Slow Man*](https://en.wikipedia.org/wiki/Slow_Man_(opera%29) (2014) — Nicholas Lens · words: J. M. Coetzee ♫
+- [*Amor Aeternus*](https://en.wikipedia.org/wiki/Amor_Aeternus) — Nicholas Lens
+- [*L.I.T.A.N.I.E.S*](https://en.wikipedia.org/wiki/L.I.T.A.N.I.E.S) — Nicholas Lens · words: Nick Cave ✎
+- [*The Rising of the Moon*](https://en.wikipedia.org/wiki/The_Rising_of_the_Moon_(opera%29) (1970) — Nicholas Maw · words: Alan Beverley Cross ✎ ♫
+- [*Sophie's Choice*](https://en.wikipedia.org/wiki/Sophie%27s_Choice_(opera%29) (2002) — Nicholas Maw · words: Nicholas Maw · English ✎ ♫
+- [*Two Boys*](https://en.wikipedia.org/wiki/Two_Boys) (2011) — Nico Muhly · words: Craig Lucas · English ♫
+- [*Marnie*](https://en.wikipedia.org/wiki/Marnie_(opera%29) (2017) — Nico Muhly · words: Nicholas Wright · English ♫
+- [*Don Checco*](https://en.wikipedia.org/wiki/Don_Checco) (1850) — Nicola De Giosa · words: Almerindo Spadetta · Italian ✎
+- [*Temistocle*](https://en.wikipedia.org/wiki/Temistocle_(Porpora%29) (1718) — Nicola Porpora · words: Apostolo Zeno · Italian
+- [*Semiramide riconosciuta*](https://en.wikipedia.org/wiki/Semiramide_riconosciuta_(Porpora%29) (1729) — Nicola Porpora · Italian ✎ ♫
+- [*Mitridate*](https://en.wikipedia.org/wiki/Mitridate_(Porpora%29) (1730) — Nicola Porpora · words: Apostolo Zeno, Filippo Vanstryp · Italian
+- [*Polifemo*](https://en.wikipedia.org/wiki/Polifemo_(opera%29) (1735) — Nicola Porpora · words: Paolo Antonio Rolli · Italian ✎ ♫
+- [*Carlo il Calvo*](https://en.wikipedia.org/wiki/Carlo_il_Calvo) (1738) — Nicola Porpora · words: Francesco Silvani · Italian
+- [*Arianna in Nasso*](https://en.wikipedia.org/wiki/Arianna_in_Nasso_(Porpora%29) — Nicola Porpora · Italian
+- [*Germanico in Germania*](https://en.wikipedia.org/wiki/Germanico_in_Germania) — Nicola Porpora · Italian
+- [*L'Angelica*](https://en.wikipedia.org/wiki/Angelica_e_Medoro_(Porpora%29) — Nicola Porpora · words: Pietro Metastasio · Italian
+- [*Giulietta e Romeo*](https://en.wikipedia.org/wiki/Giulietta_e_Romeo_(Vaccai%29) (1825) — Nicola Vaccai · words: Felice Romani · Italian ♫
+- [*Giovanna Gray*](https://en.wikipedia.org/wiki/Giovanna_Gray) (1836) — Nicola Vaccai · words: Carlo Pepoli · Italian ✎ ♫
+- [*Golem*](https://en.wikipedia.org/wiki/Golem_(Bretan_opera%29) (1924) — Nicolae Bretan · words: Nicolae Bretan · German/Romanian/Hungarian ✎ ♫
+- [*Eroii de la Rovine*](https://en.wikipedia.org/wiki/Eroii_de_la_Rovine) (1935) — Nicolae Bretan · words: Nicolae Bretan · Romanian ✎ ♫
+- [*Horia*](https://en.wikipedia.org/wiki/Horia_(Bretan%29) (1937) — Nicolae Bretan · words: Ghiță Popp · Romanian ✎ ♫
+- [*Arald (opera)*](https://en.wikipedia.org/wiki/Arald_(opera%29) (1982) — Nicolae Bretan · words: Nicolae Bretan · Romanian ✎ ♫
+- [*Luceafărul*](https://en.wikipedia.org/wiki/Luceaf%C4%83rul_(opera%29) — Nicolae Bretan ✎ ♫
+- [*L'amant statue*](https://en.wikipedia.org/wiki/L%27amant_statue) (1785) — Nicolas Dalayrac · words: Desfontaines-Lavallée · French ♫
+- [*Nina, ou La folle par amour*](https://en.wikipedia.org/wiki/Nina_(Dalayrac%29) (1786) — Nicolas Dalayrac · words: Benoît-Joseph Marsollier · French ✎ ♫
+- [*Les deux petits savoyards*](https://en.wikipedia.org/wiki/Les_deux_petits_savoyards) (1789) — Nicolas Dalayrac · words: Benoît-Joseph Marsollier · French ✎ ♫
+- [*Les rendez-vous bourgeois*](https://en.wikipedia.org/wiki/Les_rendez-vous_bourgeois) — Nicolas Isouard · words: François-Benoît Hoffman · French ✎ ♫
+- [*Love's Labour's Lost*](https://en.wikipedia.org/wiki/Love%27s_Labour%27s_Lost_(opera%29) (1973) — Nicolas Nabokov · words: W. H. Auden, Chester Kallman
+- [*The Electrification of the Soviet Union*](https://en.wikipedia.org/wiki/The_Electrification_of_the_Soviet_Union) (1987) — Nigel Osborne · words: Craig Raine · English
+- [*Till Eulenspiegel*](https://en.wikipedia.org/wiki/Till_Eulenspiegel_(Karetnikov%29) (1993) — Nikolai Karetnikov · words: Pavel Lungin, Nikolai Karetnikov · Latin/Spanish/Russian
+- [*MR*](https://en.wikipedia.org/wiki/MR_(Marina_and_Rainer%29) (1994) — Nikolai Korndorf ✎ ♫
+- [*The Maid of Pskov*](https://en.wikipedia.org/wiki/The_Maid_of_Pskov) (1873) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎ ♫
+- [*May Night*](https://en.wikipedia.org/wiki/May_Night) (1880) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎ ♫
+- [*The Snow Maiden*](https://en.wikipedia.org/wiki/The_Snow_Maiden) (1881) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎ ♫
+- [*Khovanshchina*](https://en.wikipedia.org/wiki/Khovanshchina) (1886) — Nikolai Rimsky-Korsakov, Modest Petrovich Mussorgsky · words: Modest Petrovich Mussorgsky · Russian ✎ ♫
+- [*Christmas Eve*](https://en.wikipedia.org/wiki/Christmas_Eve_(opera%29) (1895) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎ ♫
+- [*Mozart and Salieri*](https://en.wikipedia.org/wiki/Mozart_and_Salieri_(opera%29) (1898) — Nikolai Rimsky-Korsakov · words: Alexander Pushkin · Russian ✎ ♫
+- [*Sadko*](https://en.wikipedia.org/wiki/Sadko_(opera%29) (1898) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎ ♫
+- [*The Noblewoman Vera Sheloga*](https://en.wikipedia.org/wiki/The_Noblewoman_Vera_Sheloga) (1898) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎ ♫
+- [*The Tsar's Bride*](https://en.wikipedia.org/wiki/The_Tsar%27s_Bride_(opera%29) (1899) — Nikolai Rimsky-Korsakov · words: Ilia Tyumenev · Russian ✎ ♫
+- [*The Tale of Tsar Saltan*](https://en.wikipedia.org/wiki/The_Tale_of_Tsar_Saltan_(opera%29) (1900) — Nikolai Rimsky-Korsakov · words: Vladimir Belski · Russian ✎ ♫
+- [*Kashchey the Deathless*](https://en.wikipedia.org/wiki/Kashchey_the_Deathless) (1902) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎ ♫
+- [*Servilia*](https://en.wikipedia.org/wiki/Servilia_(opera%29) (1902) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov · Russian ✎
+- [*Pan Voyevoda*](https://en.wikipedia.org/wiki/Pan_Voyevoda) (1904) — Nikolai Rimsky-Korsakov · words: Ilya Tyumenev · Russian ✎
+- [*The Legend of the Invisible City of Kitezh and the Maiden Fevroniya*](https://en.wikipedia.org/wiki/The_Legend_of_the_Invisible_City_of_Kitezh_and_the_Maiden_Fevroniya) (1907) — Nikolai Rimsky-Korsakov · words: Nikolai Rimsky-Korsakov, Vladimir Belski · Russian ✎ ♫
+- [*The Golden Cockerel*](https://en.wikipedia.org/wiki/The_Golden_Cockerel) (1909) — Nikolai Rimsky-Korsakov · words: Vladimir Belski · Russian ✎ ♫
+- [*I due timidi*](https://en.wikipedia.org/wiki/I_due_timidi) (1950) — Nino Rota · words: Suso Cecchi d'Amico · Italian ♫
+- [*Il cappello di paglia di Firenze*](https://en.wikipedia.org/wiki/Il_cappello_di_paglia_di_Firenze) (1955) — Nino Rota · words: Nino Rota, Ernesta Rota Rinaldi · Italian ✎ ♫
+- [*La notte di un nevrastenico*](https://en.wikipedia.org/wiki/La_notte_di_un_nevrastenico) (1959) — Nino Rota · words: Riccardo Bacchelli · Italian
+- [*Napoli milionaria*](https://en.wikipedia.org/wiki/Napoli_milionaria_(opera%29) (1977) — Nino Rota · Italian
+- [*The Secret Garden*](https://en.wikipedia.org/wiki/The_Secret_Garden_(opera%29) (2013) — Nolan Gasser · words: Carey Harrison ♫
+- [*The Triumph of St. Joan*](https://en.wikipedia.org/wiki/The_Triumph_of_St._Joan) — Norman Dello Joio
+- [*The Dybbuk: Between Two Worlds*](https://en.wikipedia.org/wiki/The_Dybbuk:_Between_Two_Worlds) (1920) — Ofer Ben-Amots · words: Ofer Ben-Amots ✎ ♫
+- [*Fool's Paradise*](https://en.wikipedia.org/wiki/Fool%27s_Paradise_(opera%29) — Ofer Ben-Amots · words: Ofer Ben-Amots ✎ ♫
+- [*Lajla*](https://en.wikipedia.org/wiki/Lajla) — Ole Olsen · Norwegian ✎ ♫
+- [*Kateryna*](https://en.wikipedia.org/wiki/Kateryna_(opera%29) (2022) — Oleksandr Rodin · words: Oleksandr Rodin · Ukrainian ✎ ♫
+- [*Lost Highway*](https://en.wikipedia.org/wiki/Lost_Highway_(opera%29) (2003) — Olga Neuwirth · words: Elfriede Jelinek · English ♫
+- [*Monster's Paradise*](https://en.wikipedia.org/wiki/Monster%27s_Paradise) (2026) — Olga Neuwirth · words: Elfriede Jelinek · German
+- [*Where the Wild Things Are*](https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(opera%29) (1980) — Oliver Knussen · words: Maurice Sendak ✎ ♫
+- [*Last Days*](https://en.wikipedia.org/wiki/Last_Days_(opera%29) (2022) — Oliver Leith · words: Matt Copson
+- [*Saint François d'Assise*](https://en.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d%27Assise) (1983) — Olivier Messiaen · words: Olivier Messiaen · French ✎ ♫
+- [*Daddy's Girl*](https://en.wikipedia.org/wiki/Daddy%27s_Girl_(opera%29) (2007) — Olli Kortekangas · words: Michael Baran
+- [*One Night Stand*](https://en.wikipedia.org/wiki/One_Night_Stand_(opera%29) — Olli Kortekangas · words: Michael Baran
+- [*The Finnish Prisoner*](https://en.wikipedia.org/wiki/The_Finnish_Prisoner) (2007) — Orlando Gough · words: Stephen Plaice ✎ ♫
+- [*Two Merry Monarchs*](https://en.wikipedia.org/wiki/Two_Merry_Monarchs) (1910) — Orlando Morgan · English ✎ ♫
+- [*Thanks to My Eyes*](https://en.wikipedia.org/wiki/Thanks_to_My_Eyes) (2011) — Oscar Bianchi · words: Joël Pommerat ♫
+- [*Leo, the Royal Cadet*](https://en.wikipedia.org/wiki/Leo,_the_Royal_Cadet) (1889) — Oscar Ferdinand Telgmann · words: George Frederick Cameron · English ♫
+- [*Santa Maria*](https://en.wikipedia.org/wiki/Santa_Maria_(operetta%29) — Oscar Hammerstein I · words: Oscar Hammerstein I · English ✎ ♫
+- [*Maiden of the North*](https://en.wikipedia.org/wiki/The_Maiden_of_the_North) — Oskar Merikanto
+- [*Ainadamar*](https://en.wikipedia.org/wiki/Ainadamar) (2003) — Osvaldo Golijov · words: David Henry Hwang · Spanish ✎ ♫
+- [*Honzovo království*](https://en.wikipedia.org/wiki/Honzovo_kr%C3%A1lovstv%C3%AD) — Otakar Ostrčil · Czech
+- [*The Death of Vlasta*](https://en.wikipedia.org/wiki/The_Death_of_Vlasta) — Otakar Ostrčil · Czech
+- [*Mindia*](https://en.wikipedia.org/wiki/Mindia) (1961) — Otar Taktakishvili · words: Revas Tabukashvili · Georgian ✎ ♫
+- [*Venus*](https://en.wikipedia.org/wiki/Venus_(opera%29) (1922) — Othmar Schoeck · words: Armin Rüeger · German
+- [*Penthesilea*](https://en.wikipedia.org/wiki/Penthesilea_(opera%29) (1927) — Othmar Schoeck · words: Othmar Schoeck · German ✎ ♫
+- [*Das Schloss Dürande*](https://en.wikipedia.org/wiki/Das_Schlo%C3%9F_D%C3%BCrande_(opera%29) (1943) — Othmar Schoeck · words: Hermann Burte
+- [*Massimilla Doni*](https://en.wikipedia.org/wiki/Massimilla_Doni_(opera%29) — Othmar Schoeck · German
+- [*Il templario*](https://en.wikipedia.org/wiki/Il_templario) (1840) — Otto Nicolai · words: Girolamo Maria Marini · Italian ✎
+- [*Die Heimkehr des Verbannten*](https://en.wikipedia.org/wiki/Die_Heimkehr_des_Verbannten) (1844) — Otto Nicolai · words: Siegfried Kapper · German
+- [*The Merry Wives of Windsor*](https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor_(opera%29) (1849) — Otto Nicolai · words: Salomon Hermann Mosenthal · German ✎ ♫
+- [*Re Enzo*](https://en.wikipedia.org/wiki/Re_Enzo_(opera%29) (1905) — Ottorino Respighi · words: Alberto Donini · Italian ✎ ♫
+- [*Semirâma*](https://en.wikipedia.org/wiki/Semir%C3%A2ma) (1910) — Ottorino Respighi · words: Alessandro Cerè · Italian ✎ ♫
+- [*La bella dormente nel bosco*](https://en.wikipedia.org/wiki/La_bella_dormente_nel_bosco) (1922) — Ottorino Respighi · words: Gian Bistolfi · Italian ♫
+- [*Belfagor*](https://en.wikipedia.org/wiki/Belfagor) (1923) — Ottorino Respighi · words: Claudio Guastalla · Italian ✎ ♫
+- [*La campana sommersa*](https://en.wikipedia.org/wiki/La_campana_sommersa) (1927) — Ottorino Respighi · words: Claudio Guastalla · Italian ✎ ♫
+- [*Maria egiziaca*](https://en.wikipedia.org/wiki/Maria_egiziaca) (1932) — Ottorino Respighi · words: Claudio Guastalla · Italian ✎ ♫
+- [*La fiamma*](https://en.wikipedia.org/wiki/La_fiamma) (1934) — Ottorino Respighi · words: Claudio Guastalla · Italian ✎ ♫
+- [*Lucrezia*](https://en.wikipedia.org/wiki/Lucrezia_(opera%29) (1937) — Ottorino Respighi · words: Claudio Guastalla · Italian ✎ ♫
+- [*Marie Victoire*](https://en.wikipedia.org/wiki/Marie_Victoire) (2004) — Ottorino Respighi · words: Edmond Guiraud · French ✎ ♫
+- [*The Abduction of Figaro*](https://en.wikipedia.org/wiki/The_Abduction_of_Figaro) (1984) — P. D. Q. Bach · words: P. D. Q. Bach · English ✎ ♫
+- [*La tabernera del puerto*](https://en.wikipedia.org/wiki/La_tabernera_del_puerto) (1936) — Pablo Sorozábal · words: Federico Romero · Spanish ♫
+- [*Thétis et Pélée*](https://en.wikipedia.org/wiki/Th%C3%A9tis_et_P%C3%A9l%C3%A9e) (1689) — Pascal Collasse · words: Bernard Le Bovier de Fontenelle · French/Swedish
+- [*Astrée*](https://en.wikipedia.org/wiki/Astr%C3%A9e_(Collasse%29) — Pascal Collasse · words: Jean de La Fontaine · French
+- [*Canente (Collasse)*](https://en.wikipedia.org/wiki/Canente_(Collasse%29) — Pascal Collasse · words: Antoine Houdar de La Motte · French ✎ ♫
+- [*Énée et Lavinie*](https://en.wikipedia.org/wiki/%C3%89n%C3%A9e_et_Lavinie_(Collasse%29) — Pascal Collasse · words: Bernard Le Bovier de Fontenelle · French ✎ ♫
+- [*Jason*](https://en.wikipedia.org/wiki/Jason_(opera%29) — Pascal Collasse · words: Jean-Baptiste Rousseau · French
+- [*Polyxène et Pirrhus*](https://en.wikipedia.org/wiki/Polyx%C3%A8ne_et_Pirrhus) — Pascal Collasse · French
+- [*Perelà, uomo di fumo*](https://en.wikipedia.org/wiki/Perel%C3%A0,_uomo_di_fumo) (2003) — Pascal Dusapin · French ✎ ♫
+- [*Faustus, the Last Night*](https://en.wikipedia.org/wiki/Faustus,_the_Last_Night) (2006) — Pascal Dusapin · words: Pascal Dusapin
+- [*La finta giardiniera*](https://en.wikipedia.org/wiki/La_finta_giardiniera_(Anfossi%29) (1774) — Pasquale Anfossi · Italian
+- [*L'avaro*](https://en.wikipedia.org/wiki/L%27avaro_(Anfossi%29) (1775) — Pasquale Anfossi · words: Giovanni Bertati · Italian ♫
+- [*La vera costanza*](https://en.wikipedia.org/wiki/La_vera_costanza_(Anfossi%29) (1776) — Pasquale Anfossi · words: Francesco Puttini · Italian ✎ ♫
+- [*Il curioso indiscreto*](https://en.wikipedia.org/wiki/Il_curioso_indiscreto) (1777) — Pasquale Anfossi · words: Giovanni Bertati · Italian ✎ ♫
+- [*Siroe, re di Persia*](https://en.wikipedia.org/wiki/Siroe_(Errichelli%29) (1758) — Pasquale Errichelli · Italian ♫
+- [*Viki*](https://en.wikipedia.org/wiki/Viki_(operetta%29) (1935) — Paul Abraham · Hungarian ✎
+- [*Die Verurteilung des Lukullus*](https://en.wikipedia.org/wiki/Die_Verurteilung_des_Lukullus) (1951) — Paul Dessau · words: Bertolt Brecht · German ♫
+- [*Puntila*](https://en.wikipedia.org/wiki/Puntila_(opera%29) (1966) — Paul Dessau · words: Peter Palitzsch, Manfred Wekwerth · German
+- [*Lanzelot*](https://en.wikipedia.org/wiki/Lanzelot) (1969) — Paul Dessau · words: Heiner Müller · German
+- [*Einstein*](https://en.wikipedia.org/wiki/Einstein_(opera%29) (1974) — Paul Dessau · words: Karl Mickel · German ✎
+- [*Leonce und Lena*](https://en.wikipedia.org/wiki/Leonce_und_Lena_(opera%29) — Paul Dessau · German
+- [*Ariane et Barbe-bleue*](https://en.wikipedia.org/wiki/Ariane_et_Barbe-bleue) (1907) — Paul Dukas · words: Maurice Maeterlinck · French ✎ ♫
+- [*Love in the Age of Therapy*](https://en.wikipedia.org/wiki/Love_in_the_Age_of_Therapy) (2002) — Paul Grabowsky · words: Joanna Murray-Smith · English
+- [*Das Nusch-Nuschi*](https://en.wikipedia.org/wiki/Das_Nusch-Nuschi) (1921) — Paul Hindemith · words: Franz Blei · German ♫
+- [*Mörder, Hoffnung der Frauen*](https://en.wikipedia.org/wiki/M%C3%B6rder,_Hoffnung_der_Frauen) (1921) — Paul Hindemith · words: Oskar Kokoschka · German ♫
+- [*Sancta Susanna*](https://en.wikipedia.org/wiki/Sancta_Susanna) (1922) — Paul Hindemith · words: August Stramm · German ✎ ♫
+- [*Cardillac*](https://en.wikipedia.org/wiki/Cardillac) (1926) — Paul Hindemith · words: Ferdinand Lion · German ✎ ♫
+- [*Hin und zurück*](https://en.wikipedia.org/wiki/Hin_und_zur%C3%BCck) (1927) — Paul Hindemith · words: Marcellus Schiffer · German ✎ ♫
+- [*Neues vom Tage*](https://en.wikipedia.org/wiki/Neues_vom_Tage) (1929) — Paul Hindemith · words: Marcellus Schiffer · German ♫
+- [*The Flight across the Ocean*](https://en.wikipedia.org/wiki/The_Flight_Across_the_Ocean) (1929) — Paul Hindemith, Kurt Weill · German
+- [*Mathis der Maler*](https://en.wikipedia.org/wiki/Mathis_der_Maler_(opera%29) (1938) — Paul Hindemith · words: Paul Hindemith · German ✎
+- [*Die Harmonie der Welt*](https://en.wikipedia.org/wiki/Die_Harmonie_der_Welt) (1957) — Paul Hindemith · words: Paul Hindemith · German ✎ ♫
+- [*The Long Christmas Dinner*](https://en.wikipedia.org/wiki/The_Long_Christmas_Dinner_(opera%29) (1961) — Paul Hindemith · words: Thornton Wilder ✎ ♫
+- [*Aucassin et Nicolette*](https://en.wikipedia.org/wiki/Aucassin_et_Nicolette_(Le_Flem_opera%29) (1909) — Paul Le Flem · French
+- [*The Letter*](https://en.wikipedia.org/wiki/The_Letter_(opera%29) (2009) — Paul Moravec · words: Terry Teachout ✎ ♫
+- [*The Shining*](https://en.wikipedia.org/wiki/The_Shining_(opera%29) (2016) — Paul Moravec · words: Mark Campbell ✎ ♫
+- [*Patience and Sarah*](https://en.wikipedia.org/wiki/Patience_and_Sarah_(opera%29) (1998) — Paula M. Kimper · words: Wende Persons ✎ ♫
+- [*Cendrillon*](https://en.wikipedia.org/wiki/Cendrillon_(Viardot%29) (1904) — Pauline Viardot · French ✎ ♫
+- [*Šarlatán*](https://en.wikipedia.org/wiki/%C5%A0arlat%C3%A1n) (1938) — Pavel Haas · words: Pavel Haas · Czech ✎ ♫
+- [*Isabella d'Aspeno*](https://en.wikipedia.org/wiki/Isabella_d%27Aspeno) (1854) — Pavlos Carrer · words: "R.G.S." · Italian ♫
+- [*The Transposed Heads*](https://en.wikipedia.org/wiki/The_Transposed_Heads_(opera%29) (1954) — Peggy Glanville-Hicks · words: Thomas Mann · English ✎ ♫
+- [*Nausicaa*](https://en.wikipedia.org/wiki/Nausicaa_(opera%29) (1961) — Peggy Glanville-Hicks · words: Robert Graves, Alastair Reid ✎ ♫
+- [*Blenda (opera)*](https://en.wikipedia.org/wiki/Blenda_(opera%29) (1876) — Per August Ölander · Swedish
+- [*Gilgamesh*](https://en.wikipedia.org/wiki/Gilgamesh_(N%C3%B8rg%C3%A5rd_opera%29) (1973) — Per Norgård · words: Per Nørgård
+- [*Der göttliche Tivoli*](https://en.wikipedia.org/wiki/Der_g%C3%B6ttliche_Tivoli) — Per Norgård · Danish
+- [*Nuit des Hommes*](https://en.wikipedia.org/wiki/Nuit_des_Hommes_(N%C3%B8rg%C3%A5rd%29) — Per Norgård
+- [*Siddhartha*](https://en.wikipedia.org/wiki/Siddhartha_(N%C3%B8rg%C3%A5rd%29) — Per Norgård · words: Ole Sarvig
+- [*A Private Wire*](https://en.wikipedia.org/wiki/A_Private_Wire) (1883) — Percy Reeve · words: Frank Desprez ✎ ♫
+- [*Drot og marsk*](https://en.wikipedia.org/wiki/Drot_og_marsk) (1878) — Peter Arnold Heise · words: Christian Richardt ✎ ♫
+- [*The Golden Ticket*](https://en.wikipedia.org/wiki/The_Golden_Ticket_(opera%29) (2010) — Peter Ash
+- [*The Transports*](https://en.wikipedia.org/wiki/The_Transports) (1978) — Peter Bellamy ✎
+- [*Der Barbier von Bagdad*](https://en.wikipedia.org/wiki/Der_Barbier_von_Bagdad) (1858) — Peter Cornelius · words: Peter Cornelius · German ✎ ♫
+- [*Gunlöd*](https://en.wikipedia.org/wiki/Gunl%C3%B6d_(opera%29) (1891) — Peter Cornelius, Eduard Lassen · German ✎ ♫
+- [*Three Sisters*](https://en.wikipedia.org/wiki/Tri_sestry_(opera%29) (1998) — Péter Eötvös · words: Péter Eötvös, Claus H. Henneberg · Russian
+- [*Lady Sarashina*](https://en.wikipedia.org/wiki/Lady_Sarashina_(opera%29) (2008) — Péter Eötvös · words: Mari Mezei · English ♫
+- [*Love and Other Demons*](https://en.wikipedia.org/wiki/Love_and_Other_Demons) (2008) — Péter Eötvös · words: Kornél Hamvai ✎ ♫
+- [*Der goldene Drache*](https://en.wikipedia.org/wiki/Der_goldene_Drache) (2014) — Péter Eötvös · words: Roland Schimmelpfennig · German ♫
+- [*Senza sangue*](https://en.wikipedia.org/wiki/Senza_sangue) (2016) — Péter Eötvös · words: Mari Mezei · Italian ✎ ♫
+- [*Die sizilianische Vesper*](https://en.wikipedia.org/wiki/Die_sizilianische_Vesper) (1843) — Peter Josef von Lindpainter · German
+- [*Der Vampyr*](https://en.wikipedia.org/wiki/Der_Vampyr_(Lindpaintner%29) — Peter Josef von Lindpainter · words: Cäsar Max Heigel · German ✎ ♫
+- [*Taverner*](https://en.wikipedia.org/wiki/Taverner_(opera%29) (1972) — Peter Maxwell Davies · words: Peter Maxwell Davies ✎ ♫
+- [*The Martyrdom of St Magnus*](https://en.wikipedia.org/wiki/The_Martyrdom_of_St_Magnus) (1977) — Peter Maxwell Davies · words: Peter Maxwell Davies ✎ ♫
+- [*The Lighthouse*](https://en.wikipedia.org/wiki/The_Lighthouse_(opera%29) (1980) — Peter Maxwell Davies · words: Peter Maxwell Davies · English ✎ ♫
+- [*Resurrection*](https://en.wikipedia.org/wiki/Resurrection_(opera%29) (1987) — Peter Maxwell Davies · English ✎
+- [*The Doctor of Myddfai*](https://en.wikipedia.org/wiki/The_Doctor_of_Myddfai) (1996) — Peter Maxwell Davies · words: David Pountney ✎ ♫
+- [*Mr Emmet Takes a Walk*](https://en.wikipedia.org/wiki/Mr_Emmet_Takes_a_Walk) (2000) — Peter Maxwell Davies · words: David Pountney ♫
+- [*Kommilitonen!*](https://en.wikipedia.org/wiki/Kommilitonen!) (2011) — Peter Maxwell Davies · words: David Pountney ✎ ♫
+- [*Sands of Time*](https://en.wikipedia.org/wiki/Sands_of_Time_(opera%29) (1993) — Peter Reynolds · English ✎
+- [*The Stoned Guest*](https://en.wikipedia.org/wiki/The_Stoned_Guest) — Peter Schickele
+- [*Bum Phillips*](https://en.wikipedia.org/wiki/Bum_Phillips_(opera%29) (2014) — Peter Stopschinski · words: Kirk Lynn ♫
+- [*Das unterbrochene Opferfest*](https://en.wikipedia.org/wiki/Das_unterbrochene_Opferfest) (1796) — Peter von Winter · words: Franz Xaver Huber · German
+- [*The Labyrinth or the Battle with the Elements*](https://en.wikipedia.org/wiki/Das_Labyrinth) (1798) — Peter von Winter · words: Emanuel Schikaneder ✎ ♫
+- [*Maometto*](https://en.wikipedia.org/wiki/Maometto_(Winter%29) (1817) — Peter von Winter · words: Felice Romani · Italian
+- [*Legende*](https://en.wikipedia.org/wiki/Legende_(opera%29) — Peter-Jan Wagemans · Dutch
+- [*The Cumnor Affair*](https://en.wikipedia.org/wiki/The_Cumnor_Affair) — Philip Cashian ♫
+- [*Einstein on the Beach*](https://en.wikipedia.org/wiki/Einstein_on_the_Beach) (1976) — Philip Glass · words: Philip Glass, Robert Wilson · English ✎
+- [*Satyagraha*](https://en.wikipedia.org/wiki/Satyagraha_(opera%29) (1980) — Philip Glass · words: Philip Glass, Constance DeJong · Sanskrit ✎ ♫
+- [*The Photographer*](https://en.wikipedia.org/wiki/The_Photographer_(opera%29) (1982) — Philip Glass · words: David Byrne ✎ ♫
+- [*Akhnaten*](https://en.wikipedia.org/wiki/Akhnaten_(opera%29) (1984) — Philip Glass · words: Philip Glass · English/Egyptian ✎ ♫
+- [*The Civil Wars: A Tree Is Best Measured When It Is Down*](https://en.wikipedia.org/wiki/The_Civil_Wars:_A_Tree_Is_Best_Measured_When_It_Is_Down) (1984) — Philip Glass · words: Robert Wilson · English
+- [*The Juniper Tree*](https://en.wikipedia.org/wiki/The_Juniper_Tree_(opera%29) (1985) — Philip Glass, Robert Moran · words: Arthur Yorinks · English ✎ ♫
+- [*1000 Airplanes on the Roof*](https://en.wikipedia.org/wiki/1000_Airplanes_on_the_Roof) (1988) — Philip Glass · English ✎
+- [*The Fall of the House of Usher*](https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(Glass_opera%29) (1988) — Philip Glass · English
+- [*The Making of the Representative for Planet 8*](https://en.wikipedia.org/wiki/The_Making_of_the_Representative_for_Planet_8_(opera%29) (1988) — Philip Glass · words: Doris Lessing · English ✎ ♫
+- [*Hydrogen Jukebox*](https://en.wikipedia.org/wiki/Hydrogen_Jukebox) (1990) — Philip Glass · words: Allen Ginsberg · English
+- [*The Voyage*](https://en.wikipedia.org/wiki/The_Voyage_(opera%29) (1992) — Philip Glass · words: David Henry Hwang · English ✎ ♫
+- [*La Belle et la Bête*](https://en.wikipedia.org/wiki/La_Belle_et_la_B%C3%AAte_(opera%29) (1994) — Philip Glass · words: Philip Glass · French ♫
+- [*Les Enfants terribles*](https://en.wikipedia.org/wiki/Les_Enfants_terribles_(opera%29) (1996) — Philip Glass · French ✎ ♫
+- [*Monsters of Grace*](https://en.wikipedia.org/wiki/Monsters_of_Grace) (1998) — Philip Glass · words: Rumi · English
+- [*White Raven*](https://en.wikipedia.org/wiki/White_Raven_(opera%29) (1998) — Philip Glass · words: Luísa Costa Gomes
+- [*In the Penal Colony*](https://en.wikipedia.org/wiki/In_the_Penal_Colony_(opera%29) (2000) — Philip Glass · words: Rudy Wurlitzer · English ✎ ♫
+- [*Galileo Galilei*](https://en.wikipedia.org/wiki/Galileo_Galilei_(opera%29) (2002) — Philip Glass · words: Mary Zimmerman, Arnold Weinstein · English ✎
+- [*The Sound of a Voice*](https://en.wikipedia.org/wiki/The_Sound_of_a_Voice_(opera%29) (2003) — Philip Glass · words: David Henry Hwang · English
+- [*Waiting for the Barbarians*](https://en.wikipedia.org/wiki/Waiting_for_the_Barbarians_(opera%29) (2005) — Philip Glass · words: Christopher Hampton · English ✎
+- [*Appomattox*](https://en.wikipedia.org/wiki/Appomattox_(opera%29) (2007) — Philip Glass · words: Christopher Hampton · English ♫
+- [*Kepler*](https://en.wikipedia.org/wiki/Kepler_(opera%29) (2009) — Philip Glass · words: Martina Winkel · German ✎
+- [*The Perfect American*](https://en.wikipedia.org/wiki/The_Perfect_American) (2013) — Philip Glass · words: Philip Glass · English ✎ ♫
+- [*The Trial*](https://en.wikipedia.org/wiki/The_Trial_(2014_opera%29) (2014) — Philip Glass · words: Christopher Hampton ✎ ♫
+- [*Orphée*](https://en.wikipedia.org/wiki/Orph%C3%A9e_(Glass%29) — Philip Glass · French ♫
+- [*A Welsh Sunset*](https://en.wikipedia.org/wiki/A_Welsh_Sunset) (1908) — Philip Michael Faraday · words: Frederick Fenn · English ✎
+- [*Denis & Katya*](https://en.wikipedia.org/wiki/Denis_%26_Katya) (2019) — Philip Venables ♫
+- [*We Are The Lucky Ones*](https://en.wikipedia.org/wiki/We_Are_The_Lucky_Ones) (2025) — Philip Venables · words: Ted Huffman · English ♫
+- [*Scherz, List und Rache*](https://en.wikipedia.org/wiki/Scherz,_List_und_Rache) — Philipp Christoph Kayser · words: Johann Wolfgang von Goethe
+- [*Reigen*](https://en.wikipedia.org/wiki/Reigen_(opera%29) (1993) — Philippe Boesmans · words: Luc Bondy · German ♫
+- [*Wintermärchen*](https://en.wikipedia.org/wiki/Winterm%C3%A4rchen) (1999) — Philippe Boesmans · words: Luc Bondy, Marie-Louise Bischofberger · German/English
+- [*Julie*](https://en.wikipedia.org/wiki/Julie_(opera%29) (2005) — Philippe Boesmans · words: Luc Bondy · German
+- [*Yvonne, princesse de Bourgogne*](https://en.wikipedia.org/wiki/Yvonne,_princesse_de_Bourgogne) (2009) — Philippe Boesmans · words: Luc Bondy
+- [*Au monde*](https://en.wikipedia.org/wiki/Au_monde) (2014) — Philippe Boesmans · words: Joël Pommerat · French ♫
+- [*Pinocchio*](https://en.wikipedia.org/wiki/Pinocchio_(opera%29) (2017) — Philippe Boesmans · words: Joël Pommerat · French
+- [*Les Éclairs*](https://en.wikipedia.org/wiki/Les_%C3%89clairs) (2021) — Philippe Hersant · words: Jean Echenoz · French ♫
+- [*Le Château des Carpathes*](https://en.wikipedia.org/wiki/Le_Ch%C3%A2teau_des_Carpathes_(opera%29) — Philippe Hersant · words: Jorge Silva Melo · French ♫
+- [*The Lodger*](https://en.wikipedia.org/wiki/The_Lodger_(opera%29) (1960) — Phyllis Tate · words: David Franklin ✎ ♫
+- [*Éros vainqueur*](https://en.wikipedia.org/wiki/%C3%89ros_vainqueur) (1910) — Pierre de Breville · words: Jean Lorrain · French ♫
+- [*Léonore, ou L’amour conjugal*](https://en.wikipedia.org/wiki/L%C3%A9onore,_ou_L%27amour_conjugal) (1798) — Pierre Gaveaux · words: Jean-Nicolas Bouilly · French
+- [*Adèle de Ponthieu*](https://en.wikipedia.org/wiki/Ad%C3%A8le_de_Ponthieu_(La_Borde_and_Berton%29) — Pierre Montan Berton, Jean-Benjamin de La Borde · words: Jean-Paul-André Razins de Saint-Marc · French ♫
+- [*Amadis de Gaule*](https://en.wikipedia.org/wiki/Amadis_de_Gaule_(La_Borde_and_Berton%29) — Pierre Montan Berton, Jean-Benjamin de La Borde · French
+- [*Le roi et le fermier*](https://en.wikipedia.org/wiki/Le_roi_et_le_fermier) (1762) — Pierre-Alexandre Monsigny · words: Michel-Jean Sedaine · French
+- [*Rose et Colas*](https://en.wikipedia.org/wiki/Rose_et_Colas) (1764) — Pierre-Alexandre Monsigny · words: Michel-Jean Sedaine · French
+- [*Le déserteur*](https://en.wikipedia.org/wiki/Le_d%C3%A9serteur_(opera%29) (1769) — Pierre-Alexandre Monsigny · words: Michel-Jean Sedaine · French ✎ ♫
+- [*La belle Arsène*](https://en.wikipedia.org/wiki/La_belle_Ars%C3%A8ne) (1773) — Pierre-Alexandre Monsigny · words: Charles Simon Favart · French
+- [*Le Vaisseau fantôme*](https://en.wikipedia.org/wiki/Le_vaisseau_fant%C3%B4me) (1842) — Pierre-Louis Dietsch · words: Paul Foucher, Bénédict-Henry Révoil · French ✎ ♫
+- [*La sposa fedele*](https://en.wikipedia.org/wiki/La_sposa_fedele) (1767) — Pietro Alessandro Guglielmi · words: Pietro Chiari · Italian ✎ ♫
+- [*La pastorella nobile*](https://en.wikipedia.org/wiki/La_pastorella_nobile) (1788) — Pietro Alessandro Guglielmi · words: Francesco Saverio Zini · Italian ✎ ♫
+- [*Il ratto della sposa*](https://en.wikipedia.org/wiki/Il_ratto_della_sposa) — Pietro Alessandro Guglielmi · Italian ♫
+- [*Lo spirito di contradizione*](https://en.wikipedia.org/wiki/Lo_spirito_di_contradizione) — Pietro Alessandro Guglielmi · Italian ✎ ♫
+- [*Adelina*](https://en.wikipedia.org/wiki/Adelina_(opera%29) (1810) — Pietro Generali · words: Gaetano Rossi · Italian ✎ ♫
+- [*Cavalleria rusticana*](https://en.wikipedia.org/wiki/Cavalleria_rusticana) (1890) — Pietro Mascagni · words: Guido Menasci, Giovanni Targoni-Tozzetti · Italian ✎ ♫
+- [*L'amico Fritz*](https://en.wikipedia.org/wiki/L%27amico_Fritz) (1891) — Pietro Mascagni · words: Nicola Daspuro · Italian ✎ ♫
+- [*I Rantzau*](https://en.wikipedia.org/wiki/I_Rantzau) (1892) — Pietro Mascagni · words: Guido Menasci, Giovanni Targoni-Tozzetti · Italian ♫
+- [*Guglielmo Ratcliff*](https://en.wikipedia.org/wiki/Guglielmo_Ratcliff) (1895) — Pietro Mascagni · words: Andrea Maffei · Italian ✎ ♫
+- [*Silvano*](https://en.wikipedia.org/wiki/Silvano_(opera%29) (1895) — Pietro Mascagni · words: Giovanni Targoni-Tozzetti · Italian ♫
+- [*Zanetto*](https://en.wikipedia.org/wiki/Zanetto) (1896) — Pietro Mascagni · words: Giovanni Targoni-Tozzetti, Guido Menasci · Italian ✎ ♫
+- [*Iris*](https://en.wikipedia.org/wiki/Iris_(opera%29) (1898) — Pietro Mascagni · words: Luigi Illica · Italian ✎ ♫
+- [*Le maschere*](https://en.wikipedia.org/wiki/Le_maschere) (1901) — Pietro Mascagni · words: Luigi Illica · Italian ✎ ♫
+- [*Amica*](https://en.wikipedia.org/wiki/Amica_(opera%29) (1905) — Pietro Mascagni · words: Paul de Choudens, Giovanni Targoni-Tozzetti · French/Italian ♫
+- [*Isabeau*](https://en.wikipedia.org/wiki/Isabeau) (1911) — Pietro Mascagni · words: Luigi Illica · Italian ✎ ♫
+- [*Parisina*](https://en.wikipedia.org/wiki/Parisina_(Mascagni%29) (1913) — Pietro Mascagni · words: Gabriele D'Annunzio · Italian ♫
+- [*Lodoletta*](https://en.wikipedia.org/wiki/Lodoletta) (1917) — Pietro Mascagni · words: Giovacchino Forzano · Italian ✎ ♫
+- [*Sì*](https://en.wikipedia.org/wiki/S%C3%AC_(operetta%29) (1919) — Pietro Mascagni · words: Carlo Lombardo · Italian ♫
+- [*Il piccolo Marat*](https://en.wikipedia.org/wiki/Il_piccolo_Marat) (1921) — Pietro Mascagni · words: Giovacchino Forzano · Italian ✎ ♫
+- [*Pinotta*](https://en.wikipedia.org/wiki/Pinotta) (1932) — Pietro Mascagni · words: Giovanni Targoni-Tozzetti · Italian ♫
+- [*Nerone*](https://en.wikipedia.org/wiki/Nerone_(Mascagni%29) (1935) — Pietro Mascagni · words: Giovanni Targoni-Tozzetti · Italian ♫
+- [*Belisa*](https://en.wikipedia.org/wiki/Belisa_(Olsen%29) — Poul Rovsing Olsen · Danish
+- [*The Handmaid's Tale*](https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(opera%29) (2000) — Poul Ruders · words: Paul Bentley · English/Danish ✎
+- [*Kafka's Trial*](https://en.wikipedia.org/wiki/Kafka%27s_Trial) (2005) — Poul Ruders · words: Paul Bentley ✎ ♫
+- [*The Thirteenth Child*](https://en.wikipedia.org/wiki/The_Thirteenth_Child) (2019) — Poul Ruders · words: David Starobin · English ♫
+- [*Selma Ježková*](https://en.wikipedia.org/wiki/Selma_Je%C5%BEkov%C3%A1_(opera%29) — Poul Ruders
+- [*Fête galante*](https://en.wikipedia.org/wiki/F%C3%AAte_galante_(Schierbeck%29) — Poul Schierbeck · words: Max Lobedanz · Danish
+- [*Agni*](https://en.wikipedia.org/wiki/Agni_(opera%29) (2007) — Premasiri Khemadasa · words: Eric Illayapparachchi · Sinhala ✎ ♫
+- [*Mrika*](https://en.wikipedia.org/wiki/Mrika) — Prenkë Jakova · words: Llazar Siliqi · Albanian
+- [*La casa disabitata*](https://en.wikipedia.org/wiki/La_casa_disabitata) (1835) — Princess Maria Amalie of Saxony · words: Princess Amalie of Saxony · Italian ✎ ♫
+- [*The Voyevoda*](https://en.wikipedia.org/wiki/The_Voyevoda_(opera%29) (1869) — Pyotr Ilyich Tchaikovsky · words: Alexander Ostrovsky, Pyotr Ilyich Tchaikovsky · Russian ✎ ♫
+- [*Undina*](https://en.wikipedia.org/wiki/Undina_(Tchaikovsky%29) (1870) — Pyotr Ilyich Tchaikovsky · words: Vladimir Sollogub · Russian ♫
+- [*The Oprichnik*](https://en.wikipedia.org/wiki/The_Oprichnik) (1874) — Pyotr Ilyich Tchaikovsky · words: Pyotr Ilyich Tchaikovsky · Russian ✎ ♫
+- [*Vakula the Smith*](https://en.wikipedia.org/wiki/Vakula_the_Smith) (1876) — Pyotr Ilyich Tchaikovsky · words: Yakov Polonsky · Russian ✎ ♫
+- [*Eugene Onegin*](https://en.wikipedia.org/wiki/Eugene_Onegin_(opera%29) (1879) — Pyotr Ilyich Tchaikovsky · words: Pyotr Ilyich Tchaikovsky, Konstantin Shilovsky · Russian ✎ ♫
+- [*The Maid of Orleans*](https://en.wikipedia.org/wiki/The_Maid_of_Orleans_(opera%29) (1881) — Pyotr Ilyich Tchaikovsky · words: Pyotr Ilyich Tchaikovsky · Russian ✎ ♫
+- [*Mazeppa*](https://en.wikipedia.org/wiki/Mazeppa_(opera%29) (1884) — Pyotr Ilyich Tchaikovsky · words: Victor Burenin · Russian ✎ ♫
+- [*Cherevichki*](https://en.wikipedia.org/wiki/Cherevichki) (1887) — Pyotr Ilyich Tchaikovsky · words: Yakov Polonsky · Russian ✎ ♫
+- [*The Enchantress*](https://en.wikipedia.org/wiki/The_Enchantress_(opera%29) (1887) — Pyotr Ilyich Tchaikovsky · words: Ippolit Shpazhinsky · Russian ✎ ♫
+- [*The Queen of Spades*](https://en.wikipedia.org/wiki/The_Queen_of_Spades_(opera%29) (1890) — Pyotr Ilyich Tchaikovsky · words: Modest Tchaikovsky · Russian ✎ ♫
+- [*Iolanta*](https://en.wikipedia.org/wiki/Iolanta) (1892) — Pyotr Ilyich Tchaikovsky · words: Modest Tchaikovsky · Russian ✎ ♫
+- [*Trapped in the Closet*](https://en.wikipedia.org/wiki/Trapped_in_the_Closet) — R. Kelly · English ✎ ♫
+- [*The Princess of the Stars*](https://en.wikipedia.org/wiki/The_Princess_of_the_Stars) — R. Murray Schafer ✎
+- [*The Little Prince*](https://en.wikipedia.org/wiki/The_Little_Prince_(opera%29) (2003) — Rachel Portman · words: Nicholas Wright ♫
+- [*Castle Agrazant*](https://en.wikipedia.org/wiki/Castle_Agrazant) (1926) — Ralph Lyford ✎ ♫
+- [*Hugh the Drover*](https://en.wikipedia.org/wiki/Hugh_the_Drover) (1924) — Ralph Vaughan Williams · words: Harold Child ✎ ♫
+- [*Sir John in Love*](https://en.wikipedia.org/wiki/Sir_John_in_Love) (1929) — Ralph Vaughan Williams · words: Vaughan Williams ✎ ♫
+- [*The Poisoned Kiss*](https://en.wikipedia.org/wiki/The_Poisoned_Kiss) (1936) — Ralph Vaughan Williams · words: Evelyn Sharp · English ♫
+- [*Riders to the Sea*](https://en.wikipedia.org/wiki/Riders_to_the_Sea_(opera%29) (1937) — Ralph Vaughan Williams · words: John Millington Synge ✎ ♫
+- [*The Pilgrim's Progress*](https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress_(opera%29) (1951) — Ralph Vaughan Williams · words: Vaughan Williams ✎
+- [*Sweet Land*](https://en.wikipedia.org/wiki/Sweet_Land_(opera%29) (2020) — Raven Chacon, Du Yun
+- [*Sukanya*](https://en.wikipedia.org/wiki/Sukanya_(opera%29) (2017) — Ravi Shankar · words: Amit Chaudhuri
+- [*Robin Hood*](https://en.wikipedia.org/wiki/Robin_Hood_(De_Koven_opera%29) (1890) — Reginald De Koven · English ✎ ♫
+- [*The Canterbury Pilgrims*](https://en.wikipedia.org/wiki/The_Canterbury_Pilgrims_(De_Koven%29) (1917) — Reginald De Koven · words: Percy MacKaye ✎ ♫
+- [*The Mountaineers*](https://en.wikipedia.org/wiki/The_Mountaineers_(opera%29) (1909) — Reginald Somerville · English ✎ ♫
+- [*Pomona*](https://en.wikipedia.org/wiki/Pomona_(opera%29) (1702) — Reinhard Keiser · words: Christian Heinrich Postel · German
+- [*Octavia*](https://en.wikipedia.org/wiki/Octavia_(opera%29) (1705) — Reinhard Keiser · words: Barthold Feind · German ♫
+- [*Croesus*](https://en.wikipedia.org/wiki/Croesus_(opera%29) (1711) — Reinhard Keiser · words: Lucas Bostel · German ✎ ♫
+- [*Uno sguardo dal ponte*](https://en.wikipedia.org/wiki/Uno_sguardo_dal_ponte) (1961) — Renzo Rossellini · words: Gerardo Guerrieri · Italian ♫
+- [*L'île du rêve*](https://en.wikipedia.org/wiki/L%27%C3%AEle_du_r%C3%AAve) (1898) — Reynaldo Hahn · words: Pierre Loti, Georges Hartmann, André Alexandre · French
+- [*Mozart*](https://en.wikipedia.org/wiki/Mozart_(com%C3%A9die_musicale%29) (1925) — Reynaldo Hahn · words: Sacha Guitry · French ✎ ♫
+- [*Le marchand de Venise*](https://en.wikipedia.org/wiki/Le_marchand_de_Venise) (1935) — Reynaldo Hahn · words: Miguel Zamacoïs · French ✎ ♫
+- [*La Carmélite*](https://en.wikipedia.org/wiki/La_Carm%C3%A9lite) — Reynaldo Hahn · words: Catulle Mendès · French ♫
+- [*Atzimba*](https://en.wikipedia.org/wiki/Atzimba) — Ricardo Castro Herrera · words: Alberto Michel & Alejandro Cuevas · Spanish
+- [*Idaspe*](https://en.wikipedia.org/wiki/Idaspe) — Riccardo Broschi · Italian ♫
+- [*Il grillo del focolare*](https://en.wikipedia.org/wiki/Il_grillo_del_focolare) (1908) — Riccardo Zandonai · words: Cesare Hanau · Italian ♫
+- [*Conchita*](https://en.wikipedia.org/wiki/Conchita_(opera%29) (1911) — Riccardo Zandonai · words: Carlo Zangarini, Maurice Vaucaire · Italian ✎ ♫
+- [*Francesca da Rimini*](https://en.wikipedia.org/wiki/Francesca_da_Rimini_(Zandonai%29) (1914) — Riccardo Zandonai · words: Gabriele D'Annunzio · Italian ✎ ♫
+- [*I cavalieri di Ekebù*](https://en.wikipedia.org/wiki/I_cavalieri_di_Ekeb%C3%B9) (1925) — Riccardo Zandonai · words: Arturo Rossato · Italian ♫
+- [*La farsa amorosa*](https://en.wikipedia.org/wiki/La_farsa_amorosa) (1933) — Riccardo Zandonai · words: Arturo Rossato · Italian ♫
+- [*Margaret Garner*](https://en.wikipedia.org/wiki/Margaret_Garner_(opera%29) (2005) — Richard Danielpour · words: Toni Morrison ✎ ♫
+- [*The Origin*](https://en.wikipedia.org/wiki/The_Origin_(Einhorn%29) (2009) — Richard Einhorn · words: Richard Einhorn, Catherine Barnett
+- [*Der schlimm-heilige Vitalis*](https://en.wikipedia.org/wiki/Der_schlimm-heilige_Vitalis_(opera%29) — Richard Flury
+- [*Die helle Nacht*](https://en.wikipedia.org/wiki/Die_helle_Nacht) — Richard Flury · words: Paul Zifferer
+- [*Voss*](https://en.wikipedia.org/wiki/Voss_(opera%29) (1986) — Richard Meale · words: David Malouf · English ♫
+- [*Mer de glace*](https://en.wikipedia.org/wiki/Mer_de_glace_(opera%29) (1991) — Richard Meale · words: David Malouf
+- [*Batavia*](https://en.wikipedia.org/wiki/Batavia_(opera%29) (2001) — Richard Mills · words: Peter Goldsworthy
+- [*Rain*](https://en.wikipedia.org/wiki/Rain_(opera%29) (2003) — Richard Owen
+- [*The Mines of Sulphur*](https://en.wikipedia.org/wiki/The_Mines_of_Sulphur) — Richard Rodney Bennett · English ✎ ♫
+- [*Guntram*](https://en.wikipedia.org/wiki/Guntram_(opera%29) (1894) — Richard Strauss · words: Richard Strauss · German ✎ ♫
+- [*Feuersnot*](https://en.wikipedia.org/wiki/Feuersnot) (1901) — Richard Strauss · words: Ernst von Wolzogen · German ✎ ♫
+- [*Salome*](https://en.wikipedia.org/wiki/Salome_(opera%29) (1905) — Richard Strauss · words: Hedwig Lachmann, Richard Strauss · German ✎ ♫
+- [*Elektra*](https://en.wikipedia.org/wiki/Elektra_(opera%29) (1909) — Richard Strauss · words: Hugo von Hofmannsthal · German ✎ ♫
+- [*Der Rosenkavalier*](https://en.wikipedia.org/wiki/Der_Rosenkavalier) (1911) — Richard Strauss · words: Hugo von Hofmannsthal · Austrian German ✎ ♫
+- [*Ariadne auf Naxos*](https://en.wikipedia.org/wiki/Ariadne_auf_Naxos) (1912) — Richard Strauss · words: Hugo von Hofmannsthal · German ✎ ♫
+- [*Die Frau ohne Schatten*](https://en.wikipedia.org/wiki/Die_Frau_ohne_Schatten) (1919) — Richard Strauss · words: Hugo von Hofmannsthal · German ✎ ♫
+- [*Intermezzo*](https://en.wikipedia.org/wiki/Intermezzo_(opera%29) (1924) — Richard Strauss · words: Richard Strauss · German ✎ ♫
+- [*Die ägyptische Helena*](https://en.wikipedia.org/wiki/Die_%C3%A4gyptische_Helena) (1928) — Richard Strauss · words: Hugo von Hofmannsthal · German ✎ ♫
+- [*Arabella*](https://en.wikipedia.org/wiki/Arabella) (1933) — Richard Strauss · words: Hugo von Hofmannsthal · German ✎ ♫
+- [*Die schweigsame Frau*](https://en.wikipedia.org/wiki/Die_schweigsame_Frau) (1935) — Richard Strauss · words: Stefan Zweig · German ✎ ♫
+- [*Daphne*](https://en.wikipedia.org/wiki/Daphne_(opera%29) (1938) — Richard Strauss · words: Joseph Gregor · German ✎ ♫
+- [*Friedenstag*](https://en.wikipedia.org/wiki/Friedenstag) (1938) — Richard Strauss · words: Joseph Gregor · German ✎ ♫
+- [*Capriccio*](https://en.wikipedia.org/wiki/Capriccio_(opera%29) (1942) — Richard Strauss · words: Richard Strauss, Clemens Krauss, Hans Swarowsky, Stefan Zweig, Joseph Gregor · German ✎ ♫
+- [*Die Liebe der Danae*](https://en.wikipedia.org/wiki/Die_Liebe_der_Danae) (1952) — Richard Strauss · words: Joseph Gregor · German ✎ ♫
+- [*Das Liebesverbot*](https://en.wikipedia.org/wiki/Das_Liebesverbot) (1836) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Rienzi*](https://en.wikipedia.org/wiki/Rienzi) (1842) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*The Flying Dutchman*](https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder) (1843) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Tannhäuser*](https://en.wikipedia.org/wiki/Tannh%C3%A4user_(opera%29) (1845) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Lohengrin*](https://en.wikipedia.org/wiki/Lohengrin_(opera%29) (1850) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Tristan und Isolde*](https://en.wikipedia.org/wiki/Tristan_und_Isolde) (1865) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Die Meistersinger von Nürnberg*](https://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg) (1868) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Das Rheingold*](https://en.wikipedia.org/wiki/Das_Rheingold) (1869) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Die Walküre*](https://en.wikipedia.org/wiki/Die_Walk%C3%BCre) (1870) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Der Ring des Nibelungen*](https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen) (1876) — Richard Wagner · words: Richard Wagner · German ✎
+- [*Götterdämmerung*](https://en.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung) (1876) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Siegfried*](https://en.wikipedia.org/wiki/Siegfried_(opera%29) (1876) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Parsifal*](https://en.wikipedia.org/wiki/Parsifal) (1882) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Die Feen*](https://en.wikipedia.org/wiki/Die_Feen) (1888) — Richard Wagner · words: Richard Wagner · German ✎ ♫
+- [*Die Hochzeit*](https://en.wikipedia.org/wiki/Die_Hochzeit) (1938) — Richard Wagner · words: Richard Wagner · German ✎
+- [*Die Laune des Verliebten*](https://en.wikipedia.org/wiki/Die_Laune_des_Verliebten) — Richard Wagner · words: Richard Wagner · German
+- [*Die Sieger*](https://en.wikipedia.org/wiki/Die_Sieger) — Richard Wagner · German
+- [*Männerlist grösser als Frauenlist*](https://en.wikipedia.org/wiki/M%C3%A4nnerlist_gr%C3%B6%C3%9Fer_als_Frauenlist) — Richard Wagner · words: Richard Wagner · German
+- [*The Tibetan Book of the Dead*](https://en.wikipedia.org/wiki/The_Tibetan_Book_of_the_Dead_(opera%29) (1996) — Ricky Ian Gordon ✎ ♫
+- [*The Grapes of Wrath*](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(opera%29) (2007) — Ricky Ian Gordon · words: Michael Korie · English ✎ ♫
+- [*27*](https://en.wikipedia.org/wiki/27_(opera%29) (2014) — Ricky Ian Gordon · words: Royce Vavrek ♫
+- [*A Coffin in Egypt*](https://en.wikipedia.org/wiki/A_Coffin_in_Egypt) (2014) — Ricky Ian Gordon · words: Leonard Foglia
+- [*Morning Star*](https://en.wikipedia.org/wiki/Morning_Star_(opera%29) (2015) — Ricky Ian Gordon · words: William M. Hoffman ✎
+- [*Elmer Gantry*](https://en.wikipedia.org/wiki/Elmer_Gantry_(opera%29) (2007) — Robert Aldridge · words: Herschel Garfein ✎ ♫
+- [*Sister Carrie*](https://en.wikipedia.org/wiki/Sister_Carrie_(opera%29) (2016) — Robert Aldridge · words: Herschel Garfein
+- [*Perfect Lives*](https://en.wikipedia.org/wiki/Perfect_Lives) (1983) — Robert Ashley · words: Robert Ashley · English ✎ ♫
+- [*Pomone*](https://en.wikipedia.org/wiki/Pomone_(opera%29) (1671) — Robert Cambert · words: Pierre Perrin · French ✎ ♫
+- [*.Gabriel*](https://en.wikipedia.org/wiki/.Gabriel) (2010) — Robert J. Bradshaw · words: Robert J. Bradshaw ♫
+- [*The Good Soldier Schweik*](https://en.wikipedia.org/wiki/The_Good_Soldier_Schweik_(opera%29) (1958) — Robert Kurka · words: Abel Meeropol · English ♫
+- [*From the Towers of the Moon*](https://en.wikipedia.org/wiki/From_the_Towers_of_the_Moon) (1992) — Robert Moran · words: Michael John LaChiusa ✎
+- [*Les cloches de Corneville*](https://en.wikipedia.org/wiki/Les_cloches_de_Corneville) (1877) — Robert Planquette · words: Louis François Clairville, Charles Gabet · French ✎ ♫
+- [*Nell Gwynne*](https://en.wikipedia.org/wiki/Nell_Gwynne_(operetta%29) — Robert Planquette · words: Henry Brougham Farnie ♫
+- [*Rip Van Winkle*](https://en.wikipedia.org/wiki/Rip_Van_Winkle_(operetta%29) — Robert Planquette · words: Henry Brougham Farnie ♫
+- [*Surcouf (opéra comique)*](https://en.wikipedia.org/wiki/Surcouf_(op%C3%A9ra_comique%29) — Robert Planquette · French ✎ ♫
+- [*Genoveva*](https://en.wikipedia.org/wiki/Genoveva) (1850) — Robert Schumann · words: Robert Schumann, Robert Reinick · German ✎ ♫
+- [*He Who Gets Slapped*](https://en.wikipedia.org/wiki/He_Who_Gets_Slapped_(opera%29) (1956) — Robert Ward · words: Bernard Stambler · English ✎ ♫
+- [*The Crucible*](https://en.wikipedia.org/wiki/The_Crucible_(opera%29) (1961) — Robert Ward · words: Bernard Stambler · English ✎ ♫
+- [*The Duenna*](https://en.wikipedia.org/wiki/The_Duenna_(Gerhard_opera%29) — Roberto Gerhard ✎ ♫
+- [*Not Love Alone*](https://en.wikipedia.org/wiki/Not_Love_Alone) (1961) — Rodion Shchedrin · words: Vasily Katanyan · Russian
+- [*Dead Souls*](https://en.wikipedia.org/wiki/Dead_Souls_(opera%29) (1977) — Rodion Shchedrin · words: Rodion Shchedrin · Russian
+- [*Lolita*](https://en.wikipedia.org/wiki/Lolita_(opera%29) (1994) — Rodion Shchedrin · words: Rodion Shchedrin ✎ ♫
+- [*The Enchanted Wanderer*](https://en.wikipedia.org/wiki/The_Enchanted_Wanderer_(opera%29) (2002) — Rodion Shchedrin · words: Rodion Shchedrin
+- [*Boyarina Morozova*](https://en.wikipedia.org/wiki/Boyarina_Morozova_(opera%29) (2006) — Rodion Shchedrin · words: Rodion Shchedrin
+- [*Levsha*](https://en.wikipedia.org/wiki/The_Left-Hander_(opera%29) (2013) — Rodion Shchedrin · words: Shchedrin ✎
+- [*La mort d'Abel*](https://en.wikipedia.org/wiki/La_mort_d%27Abel) — Rodolphe Kreutzer · words: François-Benoît Hoffman · French ♫
+- [*Violet*](https://en.wikipedia.org/wiki/Violet_(opera%29) (2005) — Roger Scruton · words: Roger Scruton ✎ ♫
+- [*Die Schule der Frauen*](https://en.wikipedia.org/wiki/Die_Schule_der_Frauen_(opera%29) (1955) — Rolf Liebermann
+- [*Sirenen*](https://en.wikipedia.org/wiki/Sirenen) (2014) — Rolf Riehm · words: Rolf Riehm ♫
+- [*Maria*](https://en.wikipedia.org/wiki/Maria_(opera%29) — Roman Statkowski
+- [*Die ersten Menschen*](https://en.wikipedia.org/wiki/Die_ersten_Menschen) (1920) — Rudi Stephan · words: Otto Borngräber ✎
+- [*Gilgamesh*](https://en.wikipedia.org/wiki/Gilgamesh_(Brucci_opera%29) (1986) — Rudolf Brucci · Kurdish ♫
+- [*Rose-Marie*](https://en.wikipedia.org/wiki/Rose-Marie) (1924) — Rudolf Friml, Herbert Stothart · words: Oscar Hammerstein II, Otto Harbach ✎
+- [*The Vagabond King*](https://en.wikipedia.org/wiki/The_Vagabond_King) (1925) — Rudolf Friml · words: Brian Hooker ✎ ♫
+- [*Katinka*](https://en.wikipedia.org/wiki/Katinka_(operetta%29) — Rudolf Friml · words: Otto Harbach ✎ ♫
+- [*Der Kirschgarten*](https://en.wikipedia.org/wiki/Der_Kirschgarten) (1984) — Rudolf Kelterborn · words: Rudolf Kelterborn ♫
+- [*Prometheus*](https://en.wikipedia.org/wiki/Prometheus_(Wagner-R%C3%A9geny%29) (1959) — Rudolf Wagner-Régeny · words: Rudolf Wagner-Régeny ✎ ♫
+- [*Antikrist*](https://en.wikipedia.org/wiki/Antikrist) (1980) — Rued Langgaard · words: Rued Langgaard · Danish ✎
+- [*Prima Donna*](https://en.wikipedia.org/wiki/Prima_Donna_(opera%29) (2009) — Rufus Wainwright · words: Rufus Wainwright · French ✎ ♫
+- [*Hadrian*](https://en.wikipedia.org/wiki/Hadrian_(opera%29) (2018) — Rufus Wainwright · words: Daniel MacIvor ♫
+- [*Pagliacci*](https://en.wikipedia.org/wiki/Pagliacci) (1892) — Ruggero Leoncavallo · words: Ruggero Leoncavallo · Italian ✎ ♫
+- [*I Medici*](https://en.wikipedia.org/wiki/I_Medici) (1893) — Ruggero Leoncavallo · words: Ruggero Leoncavallo · Italian ✎ ♫
+- [*Chatterton*](https://en.wikipedia.org/wiki/Chatterton_(opera%29) (1896) — Ruggero Leoncavallo · words: Ruggero Leoncavallo · Italian ✎ ♫
+- [*La bohème*](https://en.wikipedia.org/wiki/La_boh%C3%A8me_(Leoncavallo%29) (1897) — Ruggero Leoncavallo · words: Ruggero Leoncavallo · Italian ✎ ♫
+- [*Zazà*](https://en.wikipedia.org/wiki/Zaz%C3%A0) (1900) — Ruggero Leoncavallo · words: Ruggero Leoncavallo · Italian ♫
+- [*Der Roland von Berlin*](https://en.wikipedia.org/wiki/Der_Roland_von_Berlin_(opera%29) (1904) — Ruggero Leoncavallo · words: Ruggero Leoncavallo · Italian
+- [*Zingari*](https://en.wikipedia.org/wiki/Zingari) (1912) — Ruggero Leoncavallo · words: Enrico Cavacchioli, Guglielmo Emanuel · Italian ✎ ♫
+- [*Are You There?*](https://en.wikipedia.org/wiki/Are_You_There%3F) (1913) — Ruggero Leoncavallo · words: Edgar Wallace ✎
+- [*Edipo re*](https://en.wikipedia.org/wiki/Edipo_re_(opera%29) (1920) — Ruggero Leoncavallo · words: Giovacchino Forzano · Italian
+- [*Roger de Flor*](https://en.wikipedia.org/wiki/Roger_de_Flor_(opera%29) (1878) — Ruperto Chapí · words: Mariano Capdepón · Spanish ✎ ♫
+- [*La serenata*](https://en.wikipedia.org/wiki/La_serenata) (1881) — Ruperto Chapí · words: José Estremera · Spanish ✎ ♫
+- [*El puñao de rosas*](https://en.wikipedia.org/wiki/El_pu%C3%B1ao_de_rosas) (1902) — Ruperto Chapí · words: Carlos Arniches, Ramón Asensio Mas · Spanish ♫
+- [*Margarita la tornera*](https://en.wikipedia.org/wiki/Margarita_la_tornera) (1909) — Ruperto Chapí · words: Carlos Fernández Shaw · Spanish ✎
+- [*The Immortal Hour*](https://en.wikipedia.org/wiki/The_Immortal_Hour) (1914) — Rutland Boughton · words: Boughton ✎ ♫
+- [*The Winter's Tale*](https://en.wikipedia.org/wiki/The_Winter%27s_Tale_(opera%29) (2017) — Ryan Wigglesworth · words: Ryan Wigglesworth ✎ ♫
+- [*Bamboo Princess*](https://en.wikipedia.org/wiki/Bamboo_Princess) (2014) — Ryūsuke Numajiri · words: Ryūsuke Numajiri ✎ ♫
+- [*Ayodhya*](https://en.wikipedia.org/wiki/Ayodhya_(opera%29) (2006) — S. P. Somtow
+- [*Mae Naak*](https://en.wikipedia.org/wiki/Mae_Naak_(opera%29) — S. P. Somtow
+- [*Lohengrin*](https://en.wikipedia.org/wiki/Lohengrin_(Sciarrino%29) (1983) — Salvatore Sciarrino · Italian ✎ ♫
+- [*Luci mie traditrici*](https://en.wikipedia.org/wiki/Luci_mie_traditrici) (1998) — Salvatore Sciarrino · words: Salvatore Sciarrino · Italian ✎ ♫
+- [*Macbeth*](https://en.wikipedia.org/wiki/Macbeth_(Sciarrino%29) (2002) — Salvatore Sciarrino · words: Salvatore Sciarrino · Italian
+- [*Da gelo a gelo*](https://en.wikipedia.org/wiki/Da_gelo_a_gelo) (2006) — Salvatore Sciarrino · words: Sciarrino · Italian ♫
+- [*The Disappointment*](https://en.wikipedia.org/wiki/The_Disappointment) (1976) — Samuel Adler ✎ ♫
+- [*The Agreeable Surprise*](https://en.wikipedia.org/wiki/The_Agreeable_Surprise) (1781) — Samuel Arnold · words: John O'Keeffe · English ✎
+- [*The Baron Kinkvervankotsdorsprakingatchdern*](https://en.wikipedia.org/wiki/The_Baron_Kinkvervankotsdorsprakingatchdern) (1781) — Samuel Arnold · words: Miles Peter Andrews ✎ ♫
+- [*The Castle of Andalusia*](https://en.wikipedia.org/wiki/The_Castle_of_Andalusia) (1782) — Samuel Arnold · words: John O'Keeffe · English
+- [*The Battle of Hexham*](https://en.wikipedia.org/wiki/The_Battle_of_Hexham) (1789) — Samuel Arnold · English
+- [*Vanessa*](https://en.wikipedia.org/wiki/Vanessa_(opera%29) (1958) — Samuel Barber · words: Gian Carlo Menotti · English ✎ ♫
+- [*A Hand of Bridge*](https://en.wikipedia.org/wiki/A_Hand_of_Bridge) (1959) — Samuel Barber · words: Gian Carlo Menotti · English ♫
+- [*Antony and Cleopatra*](https://en.wikipedia.org/wiki/Antony_and_Cleopatra_(Barber%29) (1966) — Samuel Barber · words: Franco Zeffirelli · English ♫
+- [*Elisa e Claudio*](https://en.wikipedia.org/wiki/Elisa_e_Claudio) (1821) — Saverio Mercadante · words: Luigi Romanelli · Italian ✎ ♫
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Mercadante%29) (1823) — Saverio Mercadante · words: Andrea Leone Tottola · Italian
+- [*Nitocri*](https://en.wikipedia.org/wiki/Nitocri) (1824) — Saverio Mercadante · words: Apostolo Zeno · Italian ♫
+- [*Caritea, regina di Spagna*](https://en.wikipedia.org/wiki/Caritea,_regina_di_Spagna) (1826) — Saverio Mercadante · Italian ✎ ♫
+- [*I due Figaro*](https://en.wikipedia.org/wiki/I_due_Figaro_(Mercadante%29) (1835) — Saverio Mercadante · words: Felice Romani · Italian ✎ ♫
+- [*The Robbers*](https://en.wikipedia.org/wiki/I_briganti_(Mercadante%29) (1836) — Saverio Mercadante · words: Jacopo Crescini · Italian ♫
+- [*Il giuramento*](https://en.wikipedia.org/wiki/Il_giuramento) (1837) — Saverio Mercadante · words: Gaetano Rossi · Italian ✎ ♫
+- [*Elena da Feltre*](https://en.wikipedia.org/wiki/Elena_da_Feltre) (1839) — Saverio Mercadante · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Il bravo, ossia La veneziana*](https://en.wikipedia.org/wiki/Il_bravo) (1839) — Saverio Mercadante · words: Gaetano Rossi, Marco Marcelliano Marcello · Italian ✎ ♫
+- [*La vestale*](https://en.wikipedia.org/wiki/La_vestale_(Mercadante%29) (1840) — Saverio Mercadante · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Il proscritto*](https://en.wikipedia.org/wiki/Il_proscritto) (1842) — Saverio Mercadante · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Orazi e Curiazi*](https://en.wikipedia.org/wiki/Orazi_e_Curiazi) (1846) — Saverio Mercadante · words: Salvadore Cammarano · Italian ♫
+- [*Pelagio*](https://en.wikipedia.org/wiki/Pelagio_(opera%29) (1857) — Saverio Mercadante · words: Marco D'Arienzo · Italian ✎ ♫
+- [*Virginia*](https://en.wikipedia.org/wiki/Virginia_(Mercadante%29) (1866) — Saverio Mercadante · words: Salvadore Cammarano · Italian ✎ ♫
+- [*Francesca da Rimini*](https://en.wikipedia.org/wiki/Francesca_da_Rimini_(Mercadante%29) (2016) — Saverio Mercadante · words: Felice Romani · Italian ♫
+- [*Blind Injustice*](https://en.wikipedia.org/wiki/Blind_Injustice_(opera%29) (2019) — Scott Davenport Richards · words: David Cote · English ✎ ♫
+- [*A Guest of Honor*](https://en.wikipedia.org/wiki/A_Guest_of_Honor_(opera%29) (1903) — Scott Joplin · English
+- [*Treemonisha*](https://en.wikipedia.org/wiki/Treemonisha) (1972) — Scott Joplin · English ✎ ♫
+- [*Döbeln*](https://en.wikipedia.org/wiki/D%C3%B6beln_(opera%29) (2009) — Sebastian Fagerlund · words: Jusa Peltoniemi ♫
+- [*Höstsonaten*](https://en.wikipedia.org/wiki/Autumn_Sonata_(opera%29) (2017) — Sebastian Fagerlund · Swedish ♫
+- [*The Devil to Pay*](https://en.wikipedia.org/wiki/The_Devil_to_Pay_(opera%29) (1731) — Seedo · words: Charles Coffey, John Mottley · English
+- [*Zaporozhets za Dunayem*](https://en.wikipedia.org/wiki/Zaporozhets_za_Dunayem) (1863) — Semen Hulak-Artemovsky · words: Semen Hulak-Artemovsky · Ukrainian ✎ ♫
+- [*Oresteia*](https://en.wikipedia.org/wiki/Oresteia_(opera%29) (1895) — Sergei Ivanovich Taneyev · words: Aleksei Wenkstern · Russian ✎ ♫
+- [*Kuratov*](https://en.wikipedia.org/wiki/Kuratov) (2009) — Sergei Noskov · words: Sergei Noskov, Albert Vaneyev · Russian/Komi
+- [*The Giant*](https://en.wikipedia.org/wiki/The_Giant_(opera%29) (1901) — Sergei Prokofiev · words: Sergei Prokofiev · Russian ✎ ♫
+- [*The Love for Three Oranges*](https://en.wikipedia.org/wiki/The_Love_for_Three_Oranges) (1921) — Sergei Prokofiev · words: Sergei Prokofiev · French/Russian ✎ ♫
+- [*The Gambler*](https://en.wikipedia.org/wiki/The_Gambler_(Prokofiev%29) (1929) — Sergei Prokofiev · words: Prokofiev · Russian ✎ ♫
+- [*Semyon Kotko*](https://en.wikipedia.org/wiki/Semyon_Kotko) (1940) — Sergei Prokofiev · words: Sergei Prokofiev, Valentin Kataev · Russian ✎ ♫
+- [*Betrothal in a Monastery*](https://en.wikipedia.org/wiki/Betrothal_in_a_Monastery) (1946) — Sergei Prokofiev · words: Sergei Prokofiev, Mira Mendelssohn · Russian ✎ ♫
+- [*War and Peace*](https://en.wikipedia.org/wiki/War_and_Peace_(opera%29) (1946) — Sergei Prokofiev · words: Sergei Prokofiev, Mira Mendelssohn · Russian ✎ ♫
+- [*The Story of a Real Man*](https://en.wikipedia.org/wiki/The_Story_of_a_Real_Man) (1948) — Sergei Prokofiev · words: Sergei Prokofiev, Mira Mendelssohn · Russian
+- [*The Fiery Angel*](https://en.wikipedia.org/wiki/The_Fiery_Angel_(opera%29) (1954) — Sergei Prokofiev · words: Sergei Prokofiev · Russian ✎
+- [*Maddalena*](https://en.wikipedia.org/wiki/Maddalena_(opera%29) (1981) — Sergei Prokofiev · words: Magda Lieven-Orlov · Russian ✎ ♫
+- [*Aleko*](https://en.wikipedia.org/wiki/Aleko_(Rachmaninoff%29) (1893) — Sergei Rachmaninoff · words: Vladimir Nemirovich-Danchenko · Russian ✎ ♫
+- [*Francesca da Rimini*](https://en.wikipedia.org/wiki/Francesca_da_Rimini_(Rachmaninoff%29) (1906) — Sergei Rachmaninoff · words: Modest Tchaikovsky · Russian ✎ ♫
+- [*The Miserly Knight*](https://en.wikipedia.org/wiki/The_Miserly_Knight) (1906) — Sergei Rachmaninoff · words: Sergei Rachmaninoff · Russian ✎ ♫
+- [*Monna Vanna*](https://en.wikipedia.org/wiki/Monna_Vanna) (1984) — Sergei Rachmaninoff · words: Vladimir Nemirovich-Danchenko · Russian ✎ ♫
+- [*Salammbô*](https://en.wikipedia.org/wiki/Salammb%C3%B4_(Rachmaninoff%29) — Sergei Rachmaninoff · Russian
+- [*A Thousand Splendid Suns*](https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns_(opera%29) (2023) — Sheila Silver ✎ ♫
+- [*Judith*](https://en.wikipedia.org/wiki/Judith_(Matthus%29) (1985) — Siegfried Matthus · words: Siegfried Matthus · German
+- [*Der Bärenhäuter*](https://en.wikipedia.org/wiki/Der_B%C3%A4renh%C3%A4uter_(opera%29) (1899) — Siegfried Wagner ✎ ♫
+- [*An allem ist Hütchen schuld!*](https://en.wikipedia.org/wiki/An_allem_ist_H%C3%BCtchen_schuld!) (1917) — Siegfried Wagner · words: Siegfried Wagner · German ♫
+- [*Schwarzschwanenreich*](https://en.wikipedia.org/wiki/Schwarzschwanenreich) (1918) — Siegfried Wagner · words: Siegfried Wagner ♫
+- [*Biedermann und die Brandstifter*](https://en.wikipedia.org/wiki/Biedermann_und_die_Brandstifter_(opera%29) (2013) — Šimon Voseček · words: Šimon Voseček
+- [*Les Deux Jaloux*](https://en.wikipedia.org/wiki/Les_Deux_Jaloux) (1813) — Sophie Gail · words: Jean-Baptiste-Charles Vial · French ♫
+- [*Oryx and Crake*](https://en.wikipedia.org/wiki/Oryx_and_Crake_(opera%29) (2023) — Søren Nils Eichberg · words: Hannah Dübgen
+- [*Flora mirabilis*](https://en.wikipedia.org/wiki/Flora_mirabilis) (1886) — Spiro Samara · words: Ferdinando Fontana · Italian ♫
+- [*Mademoiselle de Belle-Isle*](https://en.wikipedia.org/wiki/Mademoiselle_de_Belle-Isle_(opera%29) — Spiro Samara · words: Paul Milliet · French
+- [*Baron Trenck*](https://en.wikipedia.org/wiki/Baron_Trenck) — Srećko Albini · words: Alfred Maria Willner, Robert Bodanzky · German ✎ ♫
+- [*Mala Pasqua!*](https://en.wikipedia.org/wiki/Mala_Pasqua!) (1890) — Stanislao Gastaldon · words: Gian Domenico Bartocci Fontana · Italian ✎ ♫
+- [*Halka*](https://en.wikipedia.org/wiki/Halka) (1848) — Stanisław Moniuszko · words: Włodzimierz Wolski · Polish ✎ ♫
+- [*Flis*](https://en.wikipedia.org/wiki/Flis_(opera%29) (1858) — Stanisław Moniuszko · words: Stanisław Bogusławski · Polish ♫
+- [*The Countess*](https://en.wikipedia.org/wiki/Hrabina_(opera%29) (1860) — Stanisław Moniuszko · words: Włodzimierz Wolski · Polish ✎ ♫
+- [*Verbum nobile*](https://en.wikipedia.org/wiki/Verbum_nobile) (1861) — Stanisław Moniuszko · words: Jan Chęciński · Polish ✎ ♫
+- [*The Haunted Manor*](https://en.wikipedia.org/wiki/The_Haunted_Manor_(opera%29) (1865) — Stanisław Moniuszko · words: Jan Chęciński · Polish ✎ ♫
+- [*Paria*](https://en.wikipedia.org/wiki/Paria_(opera%29) (1869) — Stanisław Moniuszko · words: Jan Chęciński · Polish ♫
+- [*The Bonfire of the Vanities: The Opera*](https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities:_The_Opera) (2015) — Stefania Maria De Kenessey · words: Michael Bergmann
+- [*Il Sant'Alessio*](https://en.wikipedia.org/wiki/Il_Sant%27Alessio) (1632) — Stefano Landi · words: Clement IX · Italian ♫
+- [*La morte d'Orfeo*](https://en.wikipedia.org/wiki/La_morte_d%27Orfeo) — Stefano Landi · Italian ✎ ♫
+- [*Ser Marcantonio*](https://en.wikipedia.org/wiki/Ser_Marcantonio) (1808) — Stefano Pavesi · words: Angelo Anelli · Italian
+- [*The Francis Bacon Opera*](https://en.wikipedia.org/wiki/The_Francis_Bacon_Opera) (2012) — Stephen Crowe · words: Stephen Crowe ♫
+- [*Margaret Catchpole*](https://en.wikipedia.org/wiki/Margaret_Catchpole_(opera%29) (1979) — Stephen Dodgson ♫
+- [*The Greater Good, or the Passion of Boule de Suif*](https://en.wikipedia.org/wiki/The_Greater_Good,_or_the_Passion_of_Boule_de_Suif) (2006) — Stephen Hartke · words: Philip Littell ✎ ♫
+- [*The Duchess of Malfi*](https://en.wikipedia.org/wiki/The_Duchess_of_Malfi_(opera%29) (1971) — Stephen Oliver ✎
+- [*The Postman Always Rings Twice*](https://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(opera%29) (1982) — Stephen Paulus · words: Colin Graham ✎ ♫
+- [*Séance on a Wet Afternoon*](https://en.wikipedia.org/wiki/S%C3%A9ance_on_a_Wet_Afternoon_(opera%29) (2009) — Stephen Schwartz · words: Stephen Schwartz · English ✎ ♫
+- [*Gli equivoci*](https://en.wikipedia.org/wiki/Gli_equivoci) (1786) — Stephen Storace · words: Lorenzo Da Ponte · Italian · opera buffa ♫
+- [*Dido, Queen of Carthage*](https://en.wikipedia.org/wiki/Dido,_Queen_of_Carthage_(opera%29) (1792) — Stephen Storace · English ✎ ♫
+- [*The Siege of Belgrade*](https://en.wikipedia.org/wiki/The_Siege_of_Belgrade) — Stephen Storace · English ♫
+- [*Welcome to the Voice*](https://en.wikipedia.org/wiki/Welcome_to_the_Voice) — Steve Nieve · words: Muriel Teodori · French ✎
+- [*The Cave*](https://en.wikipedia.org/wiki/The_Cave_(opera%29) (1993) — Steve Reich · words: Beryl Korot · English ✎
+- [*Three Tales*](https://en.wikipedia.org/wiki/Three_Tales_(opera%29) (2002) — Steve Reich · words: Steve Reich · English ✎
+- [*Where's Dick?*](https://en.wikipedia.org/wiki/Where%27s_Dick%3F) (1987) — Stewart Wallace · words: Michael Korie
+- [*Harvey Milk (opera)*](https://en.wikipedia.org/wiki/Harvey_Milk_(opera%29) (1995) — Stewart Wallace · words: Michael Korie ♫
+- [*Ghost Patrol*](https://en.wikipedia.org/wiki/Ghost_Patrol_(opera%29) (2012) — Stuart MacRae · words: Louise Welsh ♫
+- [*Í Óðamansgarði*](https://en.wikipedia.org/wiki/The_Madman%27s_Garden) (2006) — Sunleif Rasmussen · words: Dánial Hoydal · Faroese ✎ ♫
+- [*Jeppe: The Cruel Comedy*](https://en.wikipedia.org/wiki/Jeppe:_The_Cruel_Comedy) — Sven-David Sandström · words: Claes Fellbom ✎ ♫
+- [*The Lawsuit*](https://en.wikipedia.org/wiki/The_Lawsuit_(opera%29) (2009) — Svetlana Nesterova ♫
+- [*Momo and the Time Thieves*](https://en.wikipedia.org/wiki/Momo_and_the_Time_Thieves) (2017) — Svitlana Azarova · words: Anna Bro ♫
+- [*Marco Polo*](https://en.wikipedia.org/wiki/Marco_Polo_(opera%29) (1996) — Tan Dun · words: Paul Griffiths · English ✎ ♫
+- [*Tea: A Mirror of Soul*](https://en.wikipedia.org/wiki/Tea:_A_Mirror_of_Soul) (2002) — Tan Dun · words: Xu Ying · English/Chinese ✎
+- [*The First Emperor*](https://en.wikipedia.org/wiki/The_First_Emperor) (2006) — Tan Dun · words: Ha Jin, Tan Dun · English ✎ ♫
+- [*The Peony Pavilion*](https://en.wikipedia.org/wiki/The_Peony_Pavilion_(opera%29) — Tan Dun
+- [*Heart of Darkness*](https://en.wikipedia.org/wiki/Heart_of_Darkness_(opera%29) (2011) — Tarik O'Regan · words: Tom Phillips ✎ ♫
+- [*Champion*](https://en.wikipedia.org/wiki/Champion_(opera%29) (2013) — Terence Blanchard · words: Michael Cristofer · English ✎ ♫
+- [*Fire Shut Up in My Bones*](https://en.wikipedia.org/wiki/Fire_Shut_Up_in_My_Bones) (2019) — Terence Blanchard · words: Kasi Lemmons · English ✎ ♫
+- [*The Lunch Box*](https://en.wikipedia.org/wiki/The_Lunch_Box) (2009) — Thanapoom Sirichang
+- [*Mary, Queen of Scots*](https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots_(opera%29) (1977) — Thea Musgrave · words: Thea Musgrave ✎ ♫
+- [*An Occurrence at Owl Creek Bridge*](https://en.wikipedia.org/wiki/An_Occurrence_at_Owl_Creek_Bridge_(opera%29) (1982) — Thea Musgrave · words: Musgrave ✎ ♫
+- [*Harriet, the Woman Called Moses*](https://en.wikipedia.org/wiki/Harriet,_the_Woman_Called_Moses) (1985) — Thea Musgrave · words: Thea Musgrave ✎ ♫
+- [*Simón Bolívar*](https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_(opera%29) (1995) — Thea Musgrave · words: Thea Musgrave · English ✎ ♫
+- [*Pontalba*](https://en.wikipedia.org/wiki/Pontalba) (2003) — Thea Musgrave · words: Thea Musgrave ♫
+- [*Scylla*](https://en.wikipedia.org/wiki/Scylla_(Gatti%29) — Theobaldo di Gatti · French
+- [*Oscar*](https://en.wikipedia.org/wiki/Oscar_(opera%29) (2013) — Theodore Morrison · words: Theodore Morrison, John Cox ✎ ♫
+- [*Powder Her Face*](https://en.wikipedia.org/wiki/Powder_Her_Face) (1995) — Thomas Adès · words: Philip Hensher · English ✎ ♫
+- [*The Tempest*](https://en.wikipedia.org/wiki/The_Tempest_(opera%29) (2004) — Thomas Adès · words: Meredith Oakes · English ✎ ♫
+- [*The Exterminating Angel*](https://en.wikipedia.org/wiki/The_Exterminating_Angel_(opera%29) (2016) — Thomas Adès · words: Tom Cairns · English ✎ ♫
+- [*Comus*](https://en.wikipedia.org/wiki/Comus_(Arne%29) (1739) — Thomas Arne · words: John Dalton ✎ ♫
+- [*Alfred*](https://en.wikipedia.org/wiki/Alfred_(Arne_opera%29) (1740) — Thomas Arne · words: David Mallet, James Thomson ✎ ♫
+- [*Eliza*](https://en.wikipedia.org/wiki/Eliza_(Arne%29) (1754) — Thomas Arne · words: Richard Rolt ✎ ♫
+- [*Thomas and Sally*](https://en.wikipedia.org/wiki/Thomas_and_Sally) (1760) — Thomas Arne · words: Isaac Bickerstaffe · English ✎ ♫
+- [*Artaxerxes*](https://en.wikipedia.org/wiki/Artaxerxes_(opera%29) (1762) — Thomas Arne · words: probably Arne · English ✎ ♫
+- [*Love in a Village*](https://en.wikipedia.org/wiki/Love_in_a_Village) (1762) — Thomas Arne · words: Isaac Bickerstaffe · English ✎ ♫
+- [*The Fairy Prince*](https://en.wikipedia.org/wiki/The_Fairy_Prince) (1771) — Thomas Arne · words: George Colman the Elder
+- [*The Cooper*](https://en.wikipedia.org/wiki/The_Cooper) (1772) — Thomas Arne · words: Arne ✎ ♫
+- [*Alzuma*](https://en.wikipedia.org/wiki/Alzuma) (1773) — Thomas Arne · English
+- [*Rosamond*](https://en.wikipedia.org/wiki/Rosamond_(Clayton%29) (1707) — Thomas Clayton · words: Joseph Addison · English
+- [*Esther*](https://en.wikipedia.org/wiki/Esther_(de_Hartmann_opera%29) — Thomas de Hartmann ✎ ♫
+- [*Tantivy Towers*](https://en.wikipedia.org/wiki/Tantivy_Towers) (1931) — Thomas Dunhill · words: A. P. Herbert
+- [*A Sensation Novel*](https://en.wikipedia.org/wiki/A_Sensation_Novel) (1871) — Thomas German Reed · words: W. S. Gilbert ✎ ♫
+- [*Das Jagdgewehr*](https://en.wikipedia.org/wiki/Das_Jagdgewehr) (2018) — Thomas Larcher · words: Friederike Gösweiner ♫
+- [*The Duenna*](https://en.wikipedia.org/wiki/The_Duenna) (1775) — Thomas Linley · words: Richard Brinsley Sheridan · English ✎ ♫
+- [*Muirgheis*](https://en.wikipedia.org/wiki/Muirgheis) (1903) — Thomas O'Brien Butler · Irish
+- [*The Inman Diaries*](https://en.wikipedia.org/wiki/The_Inman_Diaries) (2007) — Thomas Oboe Lee ✎ ♫
+- [*Black Widow*](https://en.wikipedia.org/wiki/Black_Widow_(opera%29) (1972) — Thomas Pasatieri · words: Thomas Pasatieri ✎ ♫
+- [*The Trial of Mary Lincoln*](https://en.wikipedia.org/wiki/The_Trial_of_Mary_Lincoln) (1972) — Thomas Pasatieri · words: Anne Howard Bailey
+- [*Signor Deluso*](https://en.wikipedia.org/wiki/Signor_Deluso) (1974) — Thomas Pasatieri · words: Thomas Pasatieri ✎ ♫
+- [*The Seagull*](https://en.wikipedia.org/wiki/The_Seagull_(opera%29) (1974) — Thomas Pasatieri · words: Kenward Elmslie ♫
+- [*Frau Margot*](https://en.wikipedia.org/wiki/Frau_Margot) (2007) — Thomas Pasatieri · words: Frank Corsaro · English ♫
+- [*Arshak II*](https://en.wikipedia.org/wiki/Arshak_II_(opera%29) (1945) — Tigran Chukhajian · words: Tovmas Terzian · Italian/Armenian ✎ ♫
+- [*Arif'in Hilesi*](https://en.wikipedia.org/wiki/Arif%27in_Hilesi) — Tigran Chukhajian
+- [*Into the Storm (opera)*](https://en.wikipedia.org/wiki/Into_the_Storm_(opera%29) (1939) — Tikhon Khrennikov · words: Nikolai Virta, Aleksey Fayko · Russian
+- [*The Corley Conspiracy*](https://en.wikipedia.org/wiki/The_Corley_Conspiracy) (2007) — Tim Benjamin ♫
+- [*Emmeline*](https://en.wikipedia.org/wiki/Emmeline_(opera%29) (1996) — Tobias Picker · words: J. D. McClatchy · English ✎ ♫
+- [*Fantastic Mr. Fox*](https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_(opera%29) (1998) — Tobias Picker · words: Donald Sturrock · English ✎ ♫
+- [*Thérèse Raquin*](https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin_(opera%29) (2001) — Tobias Picker · words: Gene Scheer ✎ ♫
+- [*An American Tragedy*](https://en.wikipedia.org/wiki/An_American_Tragedy_(opera%29) (2005) — Tobias Picker · words: Gene Scheer ✎ ♫
+- [*Dolores Claiborne*](https://en.wikipedia.org/wiki/Dolores_Claiborne_(opera%29) (2013) — Tobias Picker · words: J. D. McClatchy ✎ ♫
+- [*Awakenings*](https://en.wikipedia.org/wiki/Awakenings_(opera%29) (2022) — Tobias Picker · words: Aryeh Lev Stollman ♫
+- [*Lili Elbe*](https://en.wikipedia.org/wiki/Lili_Elbe_(opera%29) (2023) — Tobias Picker · words: Aryeh Lev Stollman · English ♫
+- [*Pauline*](https://en.wikipedia.org/wiki/Pauline_(Stokes_opera%29) (2014) — Tobin Stokes · words: Margaret Atwood ♫
+- [*Alban*](https://en.wikipedia.org/wiki/Alban_(opera%29) (2009) — Tom Wiggall · words: John Mole ✎ ♫
+- [*La verbena de la Paloma*](https://en.wikipedia.org/wiki/La_verbena_de_la_Paloma) (1894) — Tomás Bretón · words: Ricardo de la Vega · Spanish ✎ ♫
+- [*La Dolores*](https://en.wikipedia.org/wiki/La_Dolores) (1895) — Tomás Bretón · words: Tomás Bretón · Spanish ✎ ♫
+- [*La púrpura de la rosa*](https://en.wikipedia.org/wiki/La_p%C3%BArpura_de_la_rosa) (1701) — Tomás de Torrejón y Velasco · words: Pedro Calderón de la Barca · Spanish ✎ ♫
+- [*Zenobia, regina de' Palmireni*](https://en.wikipedia.org/wiki/Zenobia_(Albinoni%29) (1694) — Tomaso Albinoni · words: Antonio Marchi · Italian
+- [*Didone abbandonata*](https://en.wikipedia.org/wiki/Didone_abbandonata_(Albinoni%29) (1724) — Tomaso Albinoni · words: Pietro Metastasio · Italian ✎ ♫
+- [*La Statira*](https://en.wikipedia.org/wiki/La_Statira) (1726) — Tomaso Albinoni · words: Apostolo Zeno, Pietro Pariati · Italian
+- [*Artamene*](https://en.wikipedia.org/wiki/Artamene) — Tomaso Albinoni · Italian
+- [*Buovo d'Antona*](https://en.wikipedia.org/wiki/Buovo_d%27Antona_(Traetta%29) (1758) — Tommaso Traetta · words: Carlo Goldoni · Italian ✎
+- [*Ippolito ed Aricia*](https://en.wikipedia.org/wiki/Ippolito_ed_Aricia) (1759) — Tommaso Traetta · words: Carlo Innocenzo Frugoni · Italian
+- [*Ifigenia in Tauride*](https://en.wikipedia.org/wiki/Ifigenia_in_Tauride_(Traetta%29) (1763) — Tommaso Traetta · words: Marco Coltellini · Italian ♫
+- [*Le serve rivali*](https://en.wikipedia.org/wiki/Le_serve_rivali) (1766) — Tommaso Traetta · words: Pietro Chiari · Italian ♫
+- [*Antigona*](https://en.wikipedia.org/wiki/Antigona_(Traetta%29) (1772) — Tommaso Traetta · words: Marco Coltellini · Italian ✎ ♫
+- [*Vision of Lear*](https://en.wikipedia.org/wiki/Vision_of_Lear) (1998) — Toshio Hosokawa · words: Tadashi Suzuki · English ✎ ♫
+- [*Ajax*](https://en.wikipedia.org/wiki/Ajax_(opera%29) — Toussaint Bertin de la Doué · French
+- [*Diomède*](https://en.wikipedia.org/wiki/Diom%C3%A8de_(opera%29) — Toussaint Bertin de la Doué · French
+- [*Paavo the Great. Great Race. Great Dream.*](https://en.wikipedia.org/wiki/Paavo_the_Great._Great_Race._Great_Dream.) — Tuomas Kantelinen · words: Paavo Haavikko ♫
+- [*Weiße Rose*](https://en.wikipedia.org/wiki/Wei%C3%9Fe_Rose_(opera%29) (1967) — Udo Zimmermann · words: Ingo Zimmermann · German ♫
+- [*Der Schuhu und die fliegende Prinzessin*](https://en.wikipedia.org/wiki/Der_Schuhu_und_die_fliegende_Prinzessin) (1976) — Udo Zimmermann · words: Udo Zimmermann · German ✎ ♫
+- [*Die wundersame Schustersfrau*](https://en.wikipedia.org/wiki/Die_wundersame_Schustersfrau) (1982) — Udo Zimmermann · words: Udo Zimmermann · German ♫
+- [*The Juggler of Our Lady*](https://en.wikipedia.org/wiki/The_Juggler_of_Our_Lady_(opera%29) (1962) — Ulysses Kay · words: Alexander King · English
+- [*The Boor*](https://en.wikipedia.org/wiki/The_Boor) (1968) — Ulysses Kay · words: Ulysses Kay ♫
+- [*The Capitoline Venus*](https://en.wikipedia.org/wiki/The_Capitoline_Venus_(opera%29) (1971) — Ulysses Kay · words: Judith Dvorkin
+- [*Jubilee*](https://en.wikipedia.org/wiki/Jubilee_(opera%29) (1976) — Ulysses Kay
+- [*Frederick Douglass*](https://en.wikipedia.org/wiki/Frederick_Douglass_(Ulysses_Kay_opera%29) (1991) — Ulysses Kay · words: Donald Dorr ♫
+- [*Mala vita*](https://en.wikipedia.org/wiki/Mala_vita) (1892) — Umberto Giordano · words: Nicola Daspuro · Italian ✎ ♫
+- [*Regina Diaz*](https://en.wikipedia.org/wiki/Regina_Diaz) (1894) — Umberto Giordano · words: Giovanni Targoni-Tozzetti · Italian ✎ ♫
+- [*Andrea Chénier*](https://en.wikipedia.org/wiki/Andrea_Ch%C3%A9nier) (1896) — Umberto Giordano · words: Luigi Illica · Italian ✎ ♫
+- [*Fedora*](https://en.wikipedia.org/wiki/Fedora_(opera%29) (1898) — Umberto Giordano · words: Arturo Colautti · Italian ✎ ♫
+- [*Siberia*](https://en.wikipedia.org/wiki/Siberia_(opera%29) (1903) — Umberto Giordano · words: Luigi Illica · Italian ✎ ♫
+- [*Marcella (Giordano)*](https://en.wikipedia.org/wiki/Marcella_(Giordano%29) (1907) — Umberto Giordano · Italian
+- [*Mese mariano*](https://en.wikipedia.org/wiki/Mese_mariano) (1910) — Umberto Giordano · words: Salvatore Di Giacomo · Italian ✎ ♫
+- [*Madame Sans-Gêne*](https://en.wikipedia.org/wiki/Madame_Sans-G%C3%AAne_(opera%29) (1915) — Umberto Giordano · words: Renato Simoni · Italian ✎ ♫
+- [*La cena delle beffe*](https://en.wikipedia.org/wiki/La_cena_delle_beffe) (1924) — Umberto Giordano · words: Sem Benelli · Italian ✎ ♫
+- [*Il re*](https://en.wikipedia.org/wiki/Il_re) (1929) — Umberto Giordano · words: Giovacchino Forzano · Italian ♫
+- [*Alice in Wonderland*](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(opera%29) (2007) — Unsuk Chin · words: David Henry Hwang · English ♫
+- [*Leyli and Majnun*](https://en.wikipedia.org/wiki/Leyli_and_Majnun_(opera%29) (1908) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov, Jeyhoun Bey Hajibeyli · Azerbaijani ✎ ♫
+- [*Sheikh Sanan (opera)*](https://en.wikipedia.org/wiki/Sheikh_Sanan_(opera%29) (1909) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov · Azerbaijani
+- [*Husband and Wife*](https://en.wikipedia.org/wiki/Husband_and_Wife_(operetta%29) (1910) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov · Azerbaijani
+- [*Rustam and Zohrab*](https://en.wikipedia.org/wiki/Rustam_and_Zohrab) (1910) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov · Azerbaijani
+- [*Asli and Kerem*](https://en.wikipedia.org/wiki/Asli_and_Kerem) (1912) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov · Azerbaijani
+- [*Shah Abbas and Khurshid Banu*](https://en.wikipedia.org/wiki/Shah_Abbas_and_Khurshid_Banu) (1912) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov · Azerbaijani
+- [*Koroghlu*](https://en.wikipedia.org/wiki/Koroghlu_(opera%29) (1937) — Uzeyir Hajibeyov · words: Mammad Said Ordubadi, Habib İsmayılov · Azerbaijani ✎ ♫
+- [*Harun and Leyla*](https://en.wikipedia.org/wiki/Harun_and_Leyla) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov · Azerbaijani
+- [*Le cantatrici villane*](https://en.wikipedia.org/wiki/Le_cantatrici_villane) (1799) — Valentino Fioravanti · words: Giuseppe Palomba · Italian ✎ ♫
+- [*The Great Friendship*](https://en.wikipedia.org/wiki/The_Great_Friendship) (1947) — Vano Muradeli · words: Georgi Mdivani · Russian ✎ ♫
+- [*Fevey*](https://en.wikipedia.org/wiki/Fevey) (1786) — Vasily Pashkevich · words: Catherine II of Russia
+- [*Love and Malice*](https://en.wikipedia.org/wiki/Love_and_Malice) (1846) — Vatroslav Lisinski · words: Dimitrios Demeter · Croatian ✎
+- [*Porin*](https://en.wikipedia.org/wiki/Porin_(opera%29) (1897) — Vatroslav Lisinski · words: Dimitrios Demeter · Croatian
+- [*Il burbero di buon cuore*](https://en.wikipedia.org/wiki/Il_burbero_di_buon_cuore) (1786) — Vicente Martín y Soler · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*Una cosa rara*](https://en.wikipedia.org/wiki/Una_cosa_rara) (1786) — Vicente Martín y Soler · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*L'arbore di Diana*](https://en.wikipedia.org/wiki/L%27arbore_di_Diana) (1787) — Vicente Martín y Soler · words: Lorenzo Da Ponte · Italian ♫
+- [*La capricciosa corretta*](https://en.wikipedia.org/wiki/La_capricciosa_corretta) (1795) — Vicente Martín y Soler · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*Keto and Kote*](https://en.wikipedia.org/wiki/Keto_and_Kote) (1919) — Victor Dolidze · words: Ioseb Grishashvili, Victor Dolidze · Georgian ✎
+- [*The Wizard of the Nile*](https://en.wikipedia.org/wiki/The_Wizard_of_the_Nile) (1895) — Victor Herbert · words: Harry B. Smith ✎ ♫
+- [*The Serenade*](https://en.wikipedia.org/wiki/The_Serenade) (1897) — Victor Herbert · words: Victor Herbert ✎ ♫
+- [*The Fortune Teller*](https://en.wikipedia.org/wiki/The_Fortune_Teller_(operetta%29) (1898) — Victor Herbert · words: Harry B. Smith ✎ ♫
+- [*The Red Mill*](https://en.wikipedia.org/wiki/The_Red_Mill) (1906) — Victor Herbert · words: Henry Blossom ✎
+- [*The Prima Donna*](https://en.wikipedia.org/wiki/The_Prima_Donna) (1908) — Victor Herbert · words: Henry Blossom
+- [*Naughty Marietta*](https://en.wikipedia.org/wiki/Naughty_Marietta_(operetta%29) (1910) — Victor Herbert · words: Rida Johnson Young · English ✎ ♫
+- [*Natoma*](https://en.wikipedia.org/wiki/Natoma_(opera%29) (1911) — Victor Herbert · words: Joseph D. Redding ♫
+- [*Sweethearts*](https://en.wikipedia.org/wiki/Sweethearts_(musical%29) (1913) — Victor Herbert · words: Harry B. Smith, Fred de Gresac · English ✎ ♫
+- [*The Princess Pat*](https://en.wikipedia.org/wiki/The_Princess_Pat) (1915) — Victor Herbert · words: Henry Blossom ✎ ♫
+- [*Dream City*](https://en.wikipedia.org/wiki/Dream_City) — Victor Herbert · words: Edgar Smith
+- [*Madeleine*](https://en.wikipedia.org/wiki/Madeleine_(opera%29) — Victor Herbert · French ✎ ♫
+- [*Prince Ananias*](https://en.wikipedia.org/wiki/Prince_Ananias) — Victor Herbert · words: Francis Neilson ✎ ♫
+- [*The Dream Girl*](https://en.wikipedia.org/wiki/The_Dream_Girl_(operetta%29) — Victor Herbert · words: Harold R. Atteridge, Rida Johnson Young ♫
+- [*The Magic Knight*](https://en.wikipedia.org/wiki/The_Magic_Knight) — Victor Herbert ✎ ♫
+- [*The Haughty Princess*](https://en.wikipedia.org/wiki/The_Haughty_Princess) (1904) — Victor Jacobi · words: Jenő Heltai · Hungarian ✎
+- [*Paso del Norte*](https://en.wikipedia.org/wiki/Paso_del_Norte_(opera%29) — Victor Rasgado · Spanish
+- [*Dimitri*](https://en.wikipedia.org/wiki/Dimitri_(Jonci%C3%A8res%29) (1876) — Victorin de Joncières · words: Armand Silvestre, Henri de Bornier · French ✎
+- [*Lancelot*](https://en.wikipedia.org/wiki/Lancelot_(opera%29) (1900) — Victorin de Joncières
+- [*The Trumpeter of Säckingen*](https://en.wikipedia.org/wiki/Der_Trompeter_von_S%C3%A4ckingen) (1884) — Viktor Nessler · words: Rudolf Bunge · German ✎ ♫
+- [*Der Kaiser von Atlantis*](https://en.wikipedia.org/wiki/Der_Kaiser_von_Atlantis) (1975) — Viktor Ullmann · words: Peter Kien · German ✎ ♫
+- [*In the Well*](https://en.wikipedia.org/wiki/In_the_Well) (1867) — Vilém Blodek · words: Karel Sabina · Czech ✎ ♫
+- [*Fervaal*](https://en.wikipedia.org/wiki/Fervaal) (1897) — Vincent d'Indy · words: Vincent d'Indy · French ✎ ♫
+- [*Lurline*](https://en.wikipedia.org/wiki/Lurline_(opera%29) (1860) — Vincent Wallace · words: Edward Fitzball · English ✎ ♫
+- [*The Desert Flower*](https://en.wikipedia.org/wiki/The_Desert_Flower) (1863) — Vincent Wallace · words: Henri Saint-Georges, Adolphe de Leuven · English ✎
+- [*Maritana*](https://en.wikipedia.org/wiki/Maritana) — Vincent Wallace · English ✎ ♫
+- [*Esmeralda*](https://en.wikipedia.org/wiki/Esmeralda_(Battista%29) (1855) — Vincenzo Battista · words: Domenico Bolognese · Italian
+- [*Adelson e Salvini*](https://en.wikipedia.org/wiki/Adelson_e_Salvini) (1825) — Vincenzo Bellini · words: Andrea Leone Tottola · Italian ✎ ♫
+- [*Bianca e Fernando*](https://en.wikipedia.org/wiki/Bianca_e_Fernando) (1826) — Vincenzo Bellini · words: Felice Romani · Italian ✎ ♫
+- [*Il pirata*](https://en.wikipedia.org/wiki/Il_pirata) (1827) — Vincenzo Bellini · words: Felice Romani · Italian ✎ ♫
+- [*La straniera*](https://en.wikipedia.org/wiki/La_straniera) (1829) — Vincenzo Bellini · words: Felice Romani · Italian ✎ ♫
+- [*Zaira*](https://en.wikipedia.org/wiki/Zaira_(opera%29) (1829) — Vincenzo Bellini · words: Felice Romani · Italian ✎ ♫
+- [*I Capuleti e i Montecchi*](https://en.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi) (1830) — Vincenzo Bellini · words: Felice Romani · Italian ✎ ♫
+- [*La sonnambula*](https://en.wikipedia.org/wiki/La_sonnambula) (1831) — Vincenzo Bellini · words: Felice Romani · Italian ✎ ♫
+- [*Norma*](https://en.wikipedia.org/wiki/Norma_(opera%29) (1831) — Vincenzo Bellini · words: Felice Romani · Italian ♫
+- [*Beatrice di Tenda*](https://en.wikipedia.org/wiki/Beatrice_di_Tenda) (1833) — Vincenzo Bellini · words: Felice Romani · Italian ✎ ♫
+- [*I puritani*](https://en.wikipedia.org/wiki/I_puritani) (1835) — Vincenzo Bellini · words: Carlo Pepoli · Italian ✎ ♫
+- [*I granatieri*](https://en.wikipedia.org/wiki/I_granatieri) — Vincenzo Valente · Italian ♫
+- [*Eréndira*](https://en.wikipedia.org/wiki/Er%C3%A9ndira_(opera%29) (1992) — Violeta Dinescu · German
+- [*Four Saints in Three Acts*](https://en.wikipedia.org/wiki/Four_Saints_in_Three_Acts) (1934) — Virgil Thomson · words: Gertrude Stein · English ✎ ♫
+- [*The Mother of Us All*](https://en.wikipedia.org/wiki/The_Mother_of_Us_All) (1947) — Virgil Thomson · words: Gertrude Stein · English ✎ ♫
+- [*Lord Byron*](https://en.wikipedia.org/wiki/Lord_Byron_(opera%29) — Virgil Thomson · words: Jack Larson ✎
+- [*Chi soffre, speri*](https://en.wikipedia.org/wiki/Chi_soffre,_speri) (1637) — Virgilio Mazzocchi · words: Clement IX · Italian ✎ ♫
+- [*The Taming of the Shrew*](https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew_(Shebalin%29) (1957) — Vissarion Shebalin · words: Abram Gozenpud · Russian ✎ ♫
+- [*Forest Song*](https://en.wikipedia.org/wiki/Forest_Song_(opera%29) (1957) — Vitalii Kyreiko · words: Vitalii Kyreiko · Ukrainian
+- [*Karlštejn*](https://en.wikipedia.org/wiki/Karl%C5%A1tejn_(opera%29) (1916) — Vítězslav Novák · words: Otokar Fischer · Czech ♫
+- [*Blühen*](https://en.wikipedia.org/wiki/Bl%C3%BChen) (2023) — Vito Žuraj · words: Klaus Händl · German/English ♫
+- [*Blennerhassett*](https://en.wikipedia.org/wiki/Blennerhassett_(opera%29) (1939) — Vittorio Giannini · words: Norman Corwin · English ✎ ♫
+- [*The Taming of the Shrew*](https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew_(Giannini%29) (1953) — Vittorio Giannini · English ♫
+- [*Marius et Fanny*](https://en.wikipedia.org/wiki/Marius_et_Fanny) — Vladimir Cosma · French ✎ ♫
+- [*The Carriage*](https://en.wikipedia.org/wiki/The_Carriage_(opera%29) (2009) — Vyacheslav Kruglik ♫
+- [*Pilėnai*](https://en.wikipedia.org/wiki/Pil%C4%97nai_(opera%29) — Vytautas Klova · words: Jonas Mackonis · Lithuanian ✎ ♫
+- [*Prinzessin Brambilla*](https://en.wikipedia.org/wiki/Prinzessin_Brambilla) (1909) — Walter Braunfels · words: Walter Braunfels · German ✎ ♫
+- [*Ulenspiegel*](https://en.wikipedia.org/wiki/Ulenspiegel_(opera%29) (1913) — Walter Braunfels · words: Walter Braunfels · German
+- [*Die Vögel*](https://en.wikipedia.org/wiki/Die_V%C3%B6gel_(opera%29) (1920) — Walter Braunfels · words: Walter Braunfels · German ✎ ♫
+- [*Verkündigung*](https://en.wikipedia.org/wiki/Verk%C3%BCndigung_(Braunfels%29) (1948) — Walter Braunfels · words: Walter Braunfels · German ♫
+- [*Der Traum ein Leben*](https://en.wikipedia.org/wiki/Der_Traum_ein_Leben_(opera%29) (2001) — Walter Braunfels · words: Walter Braunfels · German
+- [*Szenen aus dem Leben der Heiligen Johanna*](https://en.wikipedia.org/wiki/Szenen_aus_dem_Leben_der_Heiligen_Johanna) (2001) — Walter Braunfels · words: Walter Braunfels · German ♫
+- [*The Scarlet Letter*](https://en.wikipedia.org/wiki/The_Scarlet_Letter_(Damrosch_opera%29) (1896) — Walter Damrosch · words: George Parsons Lathrop · English ♫
+- [*Cyrano*](https://en.wikipedia.org/wiki/Cyrano_(Damrosch%29) (1913) — Walter Damrosch · words: William James Henderson · English ✎ ♫
+- [*The Man Without a Country*](https://en.wikipedia.org/wiki/The_Man_Without_a_Country_(opera%29) (1937) — Walter Damrosch · words: Arthur Guiterman · English ✎ ♫
+- [*Ihre Hoheit, die Tänzerin*](https://en.wikipedia.org/wiki/Ihre_Hoheit,_die_T%C3%A4nzerin_(operetta%29) (1919) — Walter Goetze · words: Richard Bars · German ✎ ♫
+- [*Filmzauber*](https://en.wikipedia.org/wiki/Filmzauber) (1912) — Walter Kollo, Willy Bredschneider · words: Rudolf Bernauer, Rudolf Schanzer ✎
+- [*Eli*](https://en.wikipedia.org/wiki/Eli_(opera%29) (1967) — Walter Steffens · German ♫
+- [*Iphigenia*](https://en.wikipedia.org/wiki/Iphigenia_(opera%29) (2021) — Wayne Shorter · words: Esperanza Spalding · English ✎ ♫
+- [*The Sun Also Rises*](https://en.wikipedia.org/wiki/The_Sun_Also_Rises_(opera%29) (2000) — Webster A. Young · words: Webster A. Young
+- [*Theodor Körner*](https://en.wikipedia.org/wiki/Theodor_K%C3%B6rner_(opera%29) (1872) — Wendelin Weißheimer · words: Louise Otto-Peters
+- [*Columbus (opera)*](https://en.wikipedia.org/wiki/Columbus_(Egk%29) (1933) — Werner Egk · words: Werner Egk · German
+- [*Die Zaubergeige*](https://en.wikipedia.org/wiki/Die_Zaubergeige) (1935) — Werner Egk · words: Ludwig Strecker · German
+- [*Peer Gynt*](https://en.wikipedia.org/wiki/Peer_Gynt_(opera%29) (1938) — Werner Egk · words: Werner Egk · German ♫
+- [*Circe*](https://en.wikipedia.org/wiki/Circe_(Egk%29) (1948) — Werner Egk · words: Werner Egk · German
+- [*Irische Legende*](https://en.wikipedia.org/wiki/Irische_Legende) (1955) — Werner Egk · words: Werner Egk · German ✎ ♫
+- [*Der Revisor*](https://en.wikipedia.org/wiki/Der_Revisor) (1957) — Werner Egk · words: Werner Egk · German
+- [*Die Verlobung in San Domingo*](https://en.wikipedia.org/wiki/Die_Verlobung_in_San_Domingo) (1963) — Werner Egk · German
+- [*Der Goggolori*](https://en.wikipedia.org/wiki/Der_Goggolori) (1985) — Wilfried Hiller · words: Michael Ende · German ♫
+- [*Der Evangelimann*](https://en.wikipedia.org/wiki/Der_Evangelimann) (1895) — Wilhelm Kienzl · words: Kienzl · German ✎ ♫
+- [*Don Quixote*](https://en.wikipedia.org/wiki/Don_Quixote_(opera%29) (1898) — Wilhelm Kienzl · words: Wilhelm Kienzl · German ✎ ♫
+- [*Der Kuhreigen*](https://en.wikipedia.org/wiki/Der_Kuhreigen) (1911) — Wilhelm Kienzl · words: Richard Batka · German ✎ ♫
+- [*Das Testament*](https://en.wikipedia.org/wiki/Das_Testament_(opera%29) (1916) — Wilhelm Kienzl · words: Kienzl
+- [*The Doomsday Prophets*](https://en.wikipedia.org/wiki/The_Doomsday_Prophets) (1919) — Wilhelm Peterson-Berger · words: Wilhelm Peterson-Berger · Swedish ✎ ♫
+- [*Ran*](https://en.wikipedia.org/wiki/Ran_(opera%29) — Wilhelm Peterson-Berger · Swedish
+- [*Gillet på Solhaug*](https://en.wikipedia.org/wiki/Gillet_p%C3%A5_Solhaug) — Wilhelm Stenhammar
+- [*Tirfing*](https://en.wikipedia.org/wiki/Tirfing_(opera%29) — Wilhelm Stenhammar · words: Anna Boberg · Swedish
+- [*A Friend So Lovely as You*](https://en.wikipedia.org/wiki/A_Friend_So_Lovely_as_You) (1930) — Will Meisel · words: Willy Rosen, Marcel Lion · German
+- [*Hôtel de Pékin*](https://en.wikipedia.org/wiki/H%C3%B4tel_de_P%C3%A9kin) (2008) — Willem Jeths · words: Friso Haverkamp
+- [*Ritratto*](https://en.wikipedia.org/wiki/Ritratto_(opera%29) (2020) — Willem Jeths · words: Frank Siera ✎ ♫
+- [*Miss Julie*](https://en.wikipedia.org/wiki/Miss_Julie_(Alwyn_opera%29) (1977) — William Alwyn ✎ ♫
+- [*Bombastes Furioso*](https://en.wikipedia.org/wiki/Bombastes_Furioso) — William Barnes Rhodes ✎ ♫
+- [*McTeague*](https://en.wikipedia.org/wiki/McTeague_(opera%29) (1992) — William Bolcom · words: Robert Altman, Arnold Weinstein ♫
+- [*Dinner at Eight*](https://en.wikipedia.org/wiki/Dinner_at_Eight_(opera%29) (2017) — William Bolcom · words: Mark Campbell
+- [*A Wedding*](https://en.wikipedia.org/wiki/A_Wedding_(opera%29) — William Bolcom · English ✎ ♫
+- [*The Sun Dance Opera*](https://en.wikipedia.org/wiki/The_Sun_Dance_Opera) — William F. Hanson, Zitkala-Sa · words: Zitkala-Sa
+- [*Troubled Island*](https://en.wikipedia.org/wiki/Troubled_Island) (1949) — William Grant Still · words: Langston Hughes, Verna Arvey ♫
+- [*Highway 1 USA*](https://en.wikipedia.org/wiki/Highway_1,_USA_(Still%29) (1963) — William Grant Still · words: Verna Arvey ✎ ♫
+- [*A Bayou Legend*](https://en.wikipedia.org/wiki/A_Bayou_Legend) (1974) — William Grant Still · words: Verna Arvey ✎ ♫
+- [*Blue Steel*](https://en.wikipedia.org/wiki/Blue_Steel_(Still%29) — William Grant Still
+- [*Amilie, or the Love Test*](https://en.wikipedia.org/wiki/Amilie,_or_the_Love_Test) (1837) — William Michael Rooke · words: John Thomas Haines ♫
+- [*Rosina*](https://en.wikipedia.org/wiki/Rosina_(opera%29) (1782) — William Shield · words: Frances Brooke · English
+- [*Love in a Camp*](https://en.wikipedia.org/wiki/Love_in_a_Camp) (1786) — William Shield · words: John O'Keeffe · English
+- [*The Amber Witch*](https://en.wikipedia.org/wiki/The_Amber_Witch_(opera%29) (1861) — William Vincent Wallace · words: Henry Fothergill Chorley ✎ ♫
+- [*Troilus and Cressida*](https://en.wikipedia.org/wiki/Troilus_and_Cressida_(opera%29) (1954) — William Walton · words: Christopher Hassall ✎ ♫
+- [*The Bear*](https://en.wikipedia.org/wiki/The_Bear_(opera%29) (1967) — William Walton · words: William Walton, Paul Dehn ✎ ♫
+- [*Das Opfer*](https://en.wikipedia.org/wiki/Das_Opfer_(Zillig%29) (1937) — Winfried Zillig · words: Reinhard Goering ✎ ♫
+- [*Goplana*](https://en.wikipedia.org/wiki/Goplana_(opera%29) (1896) — Władysław Żeleński · words: Ludomił German · Polish ✎
+- [*Janek*](https://en.wikipedia.org/wiki/Janek_(opera%29) (1900) — Władysław Żeleński · words: Ludomił German · Polish ✎ ♫
+- [*Konrad Wallenrod*](https://en.wikipedia.org/wiki/Konrad_Wallenrod_(opera%29) — Władysław Żeleński · words: Władysław Noskowski, Zygmunt Sarnecki · Polish ✎ ♫
+- [*Apollo et Hyacinthus*](https://en.wikipedia.org/wiki/Apollo_et_Hyacinthus) (1767) — Wolfgang Amadeus Mozart · words: Rufinus Widl · Latin ✎ ♫
+- [*Bastien und Bastienne*](https://en.wikipedia.org/wiki/Bastien_und_Bastienne) (1768) — Wolfgang Amadeus Mozart · words: Johann H. F. Mueller, Friedrich Wilhelm Weiskern, Johann Heinrich Friedrich Müller · German ✎ ♫
+- [*La finta semplice*](https://en.wikipedia.org/wiki/La_finta_semplice) (1769) — Wolfgang Amadeus Mozart · words: Carlo Goldoni · Italian ✎ ♫
+- [*Mitridate, re di Ponto*](https://en.wikipedia.org/wiki/Mitridate,_re_di_Ponto) (1770) — Wolfgang Amadeus Mozart · words: Vittorio Amedeo Cigna-Santi · Italian ✎ ♫
+- [*Ascanio in Alba*](https://en.wikipedia.org/wiki/Ascanio_in_Alba) (1771) — Wolfgang Amadeus Mozart · words: Giuseppe Parini · Italian ✎ ♫
+- [*Il sogno di Scipione*](https://en.wikipedia.org/wiki/Il_sogno_di_Scipione) (1772) — Wolfgang Amadeus Mozart · words: Pietro Metastasio · Italian ✎ ♫
+- [*Lucio Silla*](https://en.wikipedia.org/wiki/Lucio_Silla) (1772) — Wolfgang Amadeus Mozart · words: Giovanni de Gamerra · Latin/Italian ✎ ♫
+- [*Thamos, King of Egypt*](https://en.wikipedia.org/wiki/Thamos,_King_of_Egypt) (1773) — Wolfgang Amadeus Mozart · words: Tobias Philipp Gebler · German ✎
+- [*Il re pastore*](https://en.wikipedia.org/wiki/Il_re_pastore) (1775) — Wolfgang Amadeus Mozart · words: Pietro Metastasio · Italian ✎ ♫
+- [*La finta giardiniera*](https://en.wikipedia.org/wiki/La_finta_giardiniera) (1775) — Wolfgang Amadeus Mozart · words: Ranieri de' Calzabigi, Marco Coltellini, Giuseppe Petrosellini · Italian ✎ ♫
+- [*Idomeneo*](https://en.wikipedia.org/wiki/Idomeneo) (1781) — Wolfgang Amadeus Mozart · words: Giambattista Varesco · Italian ✎ ♫
+- [*Die Entführung aus dem Serail*](https://en.wikipedia.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail) (1782) — Wolfgang Amadeus Mozart · words: Gottlieb Stephanie, Christoph Friedrich Bretzner · German ✎ ♫
+- [*Der Schauspieldirektor*](https://en.wikipedia.org/wiki/Der_Schauspieldirektor) (1786) — Wolfgang Amadeus Mozart · words: Gottlieb Stephanie · German ✎ ♫
+- [*The Marriage of Figaro*](https://en.wikipedia.org/wiki/The_Marriage_of_Figaro) (1786) — Wolfgang Amadeus Mozart · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*Don Giovanni*](https://en.wikipedia.org/wiki/Don_Giovanni) (1787) — Wolfgang Amadeus Mozart · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*Così fan tutte*](https://en.wikipedia.org/wiki/Cos%C3%AC_fan_tutte) (1790) — Wolfgang Amadeus Mozart · words: Lorenzo Da Ponte · Italian ✎ ♫
+- [*Der Stein der Weisen*](https://en.wikipedia.org/wiki/Der_Stein_der_Weisen) (1790) — Wolfgang Amadeus Mozart, Benedikt Schack, Emanuel Schikaneder, Johann Baptist Henneberg, Franz Xaver Gerl · words: Emanuel Schikaneder · German
+- [*La clemenza di Tito*](https://en.wikipedia.org/wiki/La_clemenza_di_Tito) (1791) — Wolfgang Amadeus Mozart · words: Pietro Metastasio, Caterino Mazzolà · Italian ✎ ♫
+- [*The Magic Flute*](https://en.wikipedia.org/wiki/The_Magic_Flute) (1791) — Wolfgang Amadeus Mozart · words: Emanuel Schikaneder · German ✎ ♫
+- [*Lo sposo deluso*](https://en.wikipedia.org/wiki/Lo_sposo_deluso) (1797) — Wolfgang Amadeus Mozart · words: unknown poet · Italian ♫
+- [*Zaide*](https://en.wikipedia.org/wiki/Zaide) (1866) — Wolfgang Amadeus Mozart · words: Johann Andreas Schachtner · German ✎ ♫
+- [*L'oca del Cairo*](https://en.wikipedia.org/wiki/L%27oca_del_Cairo) (1867) — Wolfgang Amadeus Mozart · words: Giambattista Varesco · Italian ✎ ♫
+- [*The Jewel Box*](https://en.wikipedia.org/wiki/The_Jewel_Box) (1991) — Wolfgang Amadeus Mozart ✎ ♫
+- [*Covid fan tutte*](https://en.wikipedia.org/wiki/Covid_fan_tutte) (2020) — Wolfgang Amadeus Mozart, Karita Mattila, Esa-Pekka Salonen · words: Minna Lindgren · Finnish ✎ ♫
+- [*Alexandre et Roxane*](https://en.wikipedia.org/wiki/Alexandre_et_Roxane) — Wolfgang Amadeus Mozart · French
+- [*Il pesceballo*](https://en.wikipedia.org/wiki/Il_pesceballo) — Wolfgang Amadeus Mozart, Gioachino Rossini, Gaetano Donizetti, Vincenzo Bellini · Italian ♫
+- [*Bluthochzeit*](https://en.wikipedia.org/wiki/Bluthochzeit) (1957) — Wolfgang Fortner · words: Wolfgang Fortner · German ♫
+- [*In seinem Garten liebt Don Perlimplin Belisa*](https://en.wikipedia.org/wiki/In_seinem_Garten_liebt_Don_Perlimplin_Belisa) (1962) — Wolfgang Fortner · words: Fortner
+- [*Jakob Lenz*](https://en.wikipedia.org/wiki/Jakob_Lenz_(opera%29) (1979) — Wolfgang Rihm · words: Michael Fröhling · German
+- [*Die Hamletmaschine*](https://en.wikipedia.org/wiki/Die_Hamletmaschine_(opera%29) (1987) — Wolfgang Rihm · words: Wolfgang Rihm ♫
+- [*Oedipus*](https://en.wikipedia.org/wiki/Oedipus_(opera%29) (1987) — Wolfgang Rihm · words: Wolfgang Rihm · German ♫
+- [*Die Eroberung von Mexico*](https://en.wikipedia.org/wiki/Die_Eroberung_von_Mexico) (1992) — Wolfgang Rihm · words: Wolfgang Rihm ✎ ♫
+- [*Dionysos*](https://en.wikipedia.org/wiki/Dionysos_(opera%29) (2010) — Wolfgang Rihm · words: Wolfgang Rihm · German ✎
+- [*Astarté (opera)*](https://en.wikipedia.org/wiki/Astart%C3%A9_(opera%29) (1901) — Xavier Leroux · words: Louis de Gramont · French ✎ ♫
+- [*La reine Fiammette*](https://en.wikipedia.org/wiki/La_reine_Fiammette) (1903) — Xavier Leroux · words: Catulle Mendès · French ♫
+- [*Les cadeaux de Noël*](https://en.wikipedia.org/wiki/Les_cadeaux_de_No%C3%ABl) (1915) — Xavier Leroux · words: Émile Fabre · French ✎ ♫
+- [*Farewell My Concubine*](https://en.wikipedia.org/wiki/Farewell_My_Concubine_(modern_opera%29) — Xiao Bai
+- [*The White-haired Girl*](https://en.wikipedia.org/wiki/The_White-Haired_Girl) — Yan Jinxuan · words: Ding Yi, He Jingzhi · Chinese ✎
+- [*When the Fern Blooms*](https://en.wikipedia.org/wiki/When_the_Fern_Blooms) (2011) — Yevhen Stankovych · Ukrainian
+- [*The Canal Ballad*](https://en.wikipedia.org/wiki/The_Ballad_of_the_Canal) (2012) — Yin Qing
+- [*Der Meister und Margarita*](https://en.wikipedia.org/wiki/Der_Meister_und_Margarita) (1989) — York Höller · words: York Höller ♫
+- [*Young Guard (opera)*](https://en.wikipedia.org/wiki/The_Young_Guard_(opera%29) (1947) — Yulii Meitus · words: Mikhail Isakovsky, Andrii Malyshko · Russian/Ukrainian
+- [*The Decembrists*](https://en.wikipedia.org/wiki/The_Decembrists_(opera%29) (1953) — Yuri Shaporin · words: Vsevolod Rozhdestvensky · Russian ✎ ♫
+- [*Salawat Yulayev*](https://en.wikipedia.org/wiki/Salawat_Yulayev_(opera%29) (1955) — Zagir Ismagilov · words: Bayezit Bikbay · Bashkir
+- [*Abesalom da Eteri*](https://en.wikipedia.org/wiki/Abesalom_da_Eteri) (1919) — Zakaria Paliashvili · words: Petre Mirianashvili · Georgian ✎
+- [*The Bride of Messina*](https://en.wikipedia.org/wiki/The_Bride_of_Messina_(opera%29) (1884) — Zdeněk Fibich · words: Otakar Hostinský · Czech ✎ ♫
+- [*The Tempest*](https://en.wikipedia.org/wiki/Bou%C5%99e) (1895) — Zdeněk Fibich · words: Jaroslav Vrchlický · Czech
+- [*Hedy*](https://en.wikipedia.org/wiki/Hedy_(opera%29) (1896) — Zdeněk Fibich · words: Anežka Schulzová · Czech
+- [*Šárka*](https://en.wikipedia.org/wiki/%C5%A0%C3%A1rka_(Fibich%29) (1897) — Zdeněk Fibich · words: Anežka Schulzová · Czech ♫
+- [*Tawawa House*](https://en.wikipedia.org/wiki/Tawawa_House) (1987) — Zenobia Powell Perry · words: Zenobia Powell Perry · American English
+- [*The Tale of Huai Yin*](https://en.wikipedia.org/wiki/The_Tale_of_Huai_Yin) — Zhang Dinghe · Chinese
+- [*Madame White Snake*](https://en.wikipedia.org/wiki/Madame_White_Snake_(opera%29) (2010) — Zhou Long · words: Cerise Lim Jacobs
+- [*Notre-Dame de Paris (operatic melodrama)*](https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_(operatic_melodrama%29) — Zigmars Liepiņš · Latvian
+- [*Háry János*](https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos) (1926) — Zoltán Kodály · words: Zsolt Harsányi, Béla Paulini ✎ ♫
+- [*The Transylvanian Spinning-room*](https://en.wikipedia.org/wiki/Sz%C3%A9kely_fon%C3%B3) — Zoltán Kodály · Hungarian ✎ ♫
+- [*Ashiq Qarib*](https://en.wikipedia.org/wiki/Ashig_Garib_(opera%29) (1916) — Zulfugar Hajibeyov · words: Zulfugar Hajibeyov · Azerbaijani
+
+## Operettas & Zarzuelas (200)
+
+- [*H.M.S. Parliament*](https://en.wikipedia.org/wiki/H.M.S._Parliament) (1880) — Composer unknown
+- [*Baron Golosh*](https://en.wikipedia.org/wiki/Baron_Golosh) (1895) — Composer unknown · English
+- [*Arlette (musical)*](https://en.wikipedia.org/wiki/Arlette_(musical%29) (1917) — Composer unknown · words: Austen Hurgon ✎ ♫
+- [*La petite mariée*](https://en.wikipedia.org/wiki/La_Petite_Mari%C3%A9e) — Composer unknown ✎ ♫
+- [*The Love Song*](https://en.wikipedia.org/wiki/The_Love_Song_(operetta%29) — Composer unknown
+- [*The Mandarin*](https://en.wikipedia.org/wiki/The_Mandarin_(operetta%29) — Composer unknown
+- [*Shulamith*](https://en.wikipedia.org/wiki/Shulamith_(play%29) — Abraham Goldfaden · Yiddish
+- [*Le testament de la tante Caroline*](https://en.wikipedia.org/wiki/Le_testament_de_la_tante_Caroline) (1936) — Albert Roussel · words: Michel Veber · French/Czech ✎ ♫
+- [*Princess Charming*](https://en.wikipedia.org/wiki/Princess_Charming_(operetta%29) (1926) — Albert Szirmai · words: Arthur Wimperis, Lauri Wylie · English
+- [*The Ship of Heaven*](https://en.wikipedia.org/wiki/The_Ship_of_Heaven) (1933) — Alfred Hill · words: Hugh McCrae
+- [*Coups de roulis*](https://en.wikipedia.org/wiki/Coups_de_roulis) (1928) — André Messager · words: Albert Willemetz · French ✎ ♫
+- [*Les aventures du roi Pausole*](https://en.wikipedia.org/wiki/Les_aventures_du_roi_Pausole) (1930) — Arthur Honegger · words: Albert Willemetz · French ✎ ♫
+- [*Virginia*](https://en.wikipedia.org/wiki/Virginia_(operetta%29) (1937) — Arthur Schwartz · words: Albert Batchellor
+- [*Trial by Jury*](https://en.wikipedia.org/wiki/Trial_by_Jury) (1875) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*H.M.S. Pinafore*](https://en.wikipedia.org/wiki/H.M.S._Pinafore) (1878) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*The Pirates of Penzance*](https://en.wikipedia.org/wiki/The_Pirates_of_Penzance) (1879) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*Patience*](https://en.wikipedia.org/wiki/Patience_(opera%29) (1881) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*The Mikado*](https://en.wikipedia.org/wiki/The_Mikado) (1885) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*Ruddigore*](https://en.wikipedia.org/wiki/Ruddigore) (1887) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*The Gondoliers*](https://en.wikipedia.org/wiki/The_Gondoliers) (1889) — Arthur Sullivan · words: W. S. Gilbert · English ✎ ♫
+- [*The Yeomen of the Guard*](https://en.wikipedia.org/wiki/The_Yeomen_of_the_Guard) — Arthur Sullivan ✎ ♫
+- [*Paul Bunyan*](https://en.wikipedia.org/wiki/Paul_Bunyan_(operetta%29) (1941) — Benjamin Britten · words: W. H. Auden ✎ ♫
+- [*Abu Hassan*](https://en.wikipedia.org/wiki/Abu_Hassan) (1811) — Carl Maria von Weber · words: Franz Carl Hiemer · German ✎ ♫
+- [*Die Landstreicher*](https://en.wikipedia.org/wiki/Die_Landstreicher) (1899) — Carl Michael Ziehrer ♫
+- [*Gräfin Dubarry*](https://en.wikipedia.org/wiki/Gr%C3%A4fin_Dubarry) (1879) — Carl Millöcker · words: Camillo Walzel, Richard Genée ✎ ♫
+- [*Der Bettelstudent*](https://en.wikipedia.org/wiki/Der_Bettelstudent) (1882) — Carl Millöcker · words: Camillo Walzel, Richard Genée · German ✎ ♫
+- [*Der Feldprediger*](https://en.wikipedia.org/wiki/The_Black_Hussar_(operetta%29) (1884) — Carl Millöcker · words: Hugo Wittmann, Alois Wohlmuth · German ✎ ♫
+- [*Gasparone*](https://en.wikipedia.org/wiki/Gasparone) (1884) — Carl Millöcker · words: Camillo Walzel, Richard Genée · German ✎ ♫
+- [*Der Vogelhändler*](https://en.wikipedia.org/wiki/Der_Vogelh%C3%A4ndler) (1891) — Carl Zeller · words: Moritz West, Ludwig Held · German ✎ ♫
+- [*Der Obersteiger*](https://en.wikipedia.org/wiki/The_Mine_Foreman_(operetta%29) (1894) — Carl Zeller · words: Ludwig Held
+- [*The Luxurious Life*](https://en.wikipedia.org/wiki/The_Luxurious_Life) — Cemal Reşit Rey · words: Ekrem Reşit Rey · Turkish
+- [*Fleur-de-Thé*](https://en.wikipedia.org/wiki/Fleur-de-Th%C3%A9) (1868) — Charles Lecocq · words: Henri Chivot, Alfred Duru · French ✎ ♫
+- [*Giroflé-Girofla*](https://en.wikipedia.org/wiki/Girofl%C3%A9-Girofla) (1874) — Charles Lecocq · French ✎
+- [*La Camargo*](https://en.wikipedia.org/wiki/La_Camargo_(opera%29) (1878) — Charles Lecocq · words: Albert Vanloo, Eugène Leterrier · French ✎ ♫
+- [*L'égyptienne*](https://en.wikipedia.org/wiki/L%27%C3%89gyptienne_(Lecocq%29) (1890) — Charles Lecocq · words: Charles Nuitter, Henri Chivot, Alexandre Beaumont · French ✎ ♫
+- [*Stolthet och fördom*](https://en.wikipedia.org/wiki/Stolthet_och_f%C3%B6rdom) — Daniel Nelson · words: Sofia Fredén · Swedish ♫
+- [*Moscow, Cheryomushki*](https://en.wikipedia.org/wiki/Moscow,_Cheryomushki) (1959) — Dmitri Shostakovich · words: Vladimir Mass, Mikhail Chervinsky ✎ ♫
+- [*The Twelve Chairs*](https://en.wikipedia.org/wiki/The_Twelve_Chairs_(Shostakovich%29) — Dmitri Shostakovich
+- [*Gillette de Narbonne*](https://en.wikipedia.org/wiki/Gillette_de_Narbonne) (1882) — Edmond Audran · words: Henri Chivot, Alfred Duru · French ✎ ♫
+- [*La poupée*](https://en.wikipedia.org/wiki/La_poup%C3%A9e) (1896) — Edmond Audran · words: Maurice Ordonneau · French ✎ ♫
+- [*Le grand mogol*](https://en.wikipedia.org/wiki/Le_grand_mogol) — Edmond Audran ✎ ♫
+- [*Miss Helyett (opera)*](https://en.wikipedia.org/wiki/Miss_Helyett_(opera%29) — Edmond Audran ✎ ♫
+- [*Bruder Straubinger*](https://en.wikipedia.org/wiki/Bruder_Straubinger) (1903) — Edmund Eysler · words: Ignaz Schnitzer, Moritz West
+- [*Das kleine Hofkonzert*](https://en.wikipedia.org/wiki/Das_kleine_Hofkonzert) (1935) — Edmund Nick · words: Paul Verhoeven, Toni Impekoven ✎ ♫
+- [*The Cousin from Nowhere (operetta)*](https://en.wikipedia.org/wiki/The_Cousin_from_Nowhere_(operetta%29) (1921) — Eduard Künneke · words: Herman Haller, Fritz Oliven · German
+- [*Song of Norway*](https://en.wikipedia.org/wiki/Song_of_Norway) (1944) — Edvard Grieg, George Forrest, Robert Wright · words: Milton Lazarus · English
+- [*Pickwick*](https://en.wikipedia.org/wiki/Pickwick_(operetta%29) — Edward Solomon · English ✎ ♫
+- [*Une éducation manquée*](https://en.wikipedia.org/wiki/Une_%C3%A9ducation_manqu%C3%A9e) (1879) — Emmanuel Chabrier · words: Eugène Leterrier, Albert Vanloo · French ✎ ♫
+- [*The Gay Hussars*](https://en.wikipedia.org/wiki/The_Gay_Hussars) (1908) — Emmerich Kálmán · Hungarian ♫
+- [*Der Zigeunerprimas*](https://en.wikipedia.org/wiki/Der_Zigeunerprimas) (1912) — Emmerich Kálmán · words: Fritz Grünbaum · German ✎ ♫
+- [*The Gipsy Princess*](https://en.wikipedia.org/wiki/Die_Cs%C3%A1rd%C3%A1sf%C3%BCrstin) (1915) — Emmerich Kálmán · words: Leo Stein, Béla Jenbach · German ✎ ♫
+- [*Zsuzsi kisasszony*](https://en.wikipedia.org/wiki/Zsuzsi_kisasszony) (1915) — Emmerich Kálmán · words: Alfred Maria Willner · German ✎
+- [*Countess Maritza*](https://en.wikipedia.org/wiki/Countess_Maritza) (1924) — Emmerich Kálmán · words: Alfred Grünwald, Julius Brammer ✎ ♫
+- [*Die Zirkusprinzessin*](https://en.wikipedia.org/wiki/Die_Zirkusprinzessin) (1926) — Emmerich Kálmán · words: Alfred Grünwald, Julius Brammer · German ✎ ♫
+- [*Die Herzogin von Chicago*](https://en.wikipedia.org/wiki/Die_Herzogin_von_Chicago) (1928) — Emmerich Kálmán · words: Alfred Grünwald, Julius Brammer · German ✎ ♫
+- [*Kaiserin Josephine*](https://en.wikipedia.org/wiki/Kaiserin_Josephine) (1936) — Emmerich Kálmán ✎ ♫
+- [*Marinka*](https://en.wikipedia.org/wiki/Marinka_(operetta%29) (1945) — Emmerich Kálmán · English ✎
+- [*Az obsitos*](https://en.wikipedia.org/wiki/Az_obsitos) — Emmerich Kálmán ✎ ♫
+- [*Die stumme Serenade*](https://en.wikipedia.org/wiki/Die_stumme_Serenade) (1954) — Erich Wolfgang Korngold · words: Victor Clement · German
+- [*El barberillo de Lavapiés*](https://en.wikipedia.org/wiki/El_barberillo_de_Lavapi%C3%A9s) (1874) — Francisco Asenjo Barbieri · words: Luis Mariano de Larra · Spanish ✎ ♫
+- [*Der Göttergatte*](https://en.wikipedia.org/wiki/Der_G%C3%B6ttergatte) (1904) — Franz Lehár · words: Viktor Léon ♫
+- [*The Merry Widow*](https://en.wikipedia.org/wiki/The_Merry_Widow) (1905) — Franz Lehár · words: Leo Stein, Viktor Léon · German ✎ ♫
+- [*Der Graf von Luxemburg*](https://en.wikipedia.org/wiki/Der_Graf_von_Luxemburg) (1909) — Franz Lehár · words: Robert Bodanzky · German ✎ ♫
+- [*Gipsy Love*](https://en.wikipedia.org/wiki/Gypsy_Love_(operetta%29) (1910) — Franz Lehár · words: Alfred Maria Willner, Robert Bodanzky ✎
+- [*Eva*](https://en.wikipedia.org/wiki/Eva_(operetta%29) (1911) — Franz Lehár · words: Alfred Maria Willner · German ✎ ♫
+- [*Endlich allein*](https://en.wikipedia.org/wiki/Endlich_allein) (1914) — Franz Lehár · words: Alfred Maria Willner, Robert Bodanzky · German ♫
+- [*Where the Lark Sings*](https://en.wikipedia.org/wiki/Where_the_Lark_Sings_(operetta%29) (1918) — Franz Lehár · words: Alfred Maria Willner, Heinz Reichert
+- [*Die blaue Mazur*](https://en.wikipedia.org/wiki/Die_blaue_Mazur) (1920) — Franz Lehár · German ✎
+- [*Paganini*](https://en.wikipedia.org/wiki/Paganini_(operetta%29) (1925) — Franz Lehár · words: Béla Jenbach ✎ ♫
+- [*Der Zarewitsch*](https://en.wikipedia.org/wiki/Der_Zarewitsch) (1927) — Franz Lehár · words: Béla Jenbach, Heinz Reichert ✎ ♫
+- [*Friederike*](https://en.wikipedia.org/wiki/Friederike_(operetta%29) (1928) — Franz Lehár · words: Ludwig Herzer, Fritz Löhner-Beda · German ♫
+- [*The Land of Smiles*](https://en.wikipedia.org/wiki/The_Land_of_Smiles) (1929) — Franz Lehár · words: Ludwig Herzer, Fritz Löhner-Beda · German ✎ ♫
+- [*Giuditta*](https://en.wikipedia.org/wiki/Giuditta) (1934) — Franz Lehár · words: Fritz Löhner-Beda, Franz Lehár, Paul Knepler ✎ ♫
+- [*Pique Dame*](https://en.wikipedia.org/wiki/Pique_Dame_(Supp%C3%A9%29) (1864) — Franz von Suppè · words: S. Strasser · German ✎ ♫
+- [*Die schöne Galathee*](https://en.wikipedia.org/wiki/Die_sch%C3%B6ne_Galath%C3%A9e) (1865) — Franz von Suppè · words: Franz von Suppé, Leonhard Kohl von Kohlenegg · German ✎
+- [*Leichte Kavallerie*](https://en.wikipedia.org/wiki/Leichte_Kavallerie) (1866) — Franz von Suppè · words: Karl Costa ✎ ♫
+- [*Fatinitza*](https://en.wikipedia.org/wiki/Fatinitza) (1876) — Franz von Suppè · words: Richard Genée, Camillo Walzel · German ✎ ♫
+- [*Boccaccio*](https://en.wikipedia.org/wiki/Boccaccio_(operetta%29) (1879) — Franz von Suppè · words: Camillo Walzel, Richard Genée · German ✎
+- [*Donna Juanita*](https://en.wikipedia.org/wiki/Donna_Juanita) (1880) — Franz von Suppè · words: Camillo Walzel, Richard Genée
+- [*Poet and Peasant*](https://en.wikipedia.org/wiki/Dichter_und_Bauer) — Franz von Suppè · words: Karl Swiedack, K. Elmar ✎ ♫
+- [*Maske in Blau*](https://en.wikipedia.org/wiki/Maske_in_Blau) (1937) — Fred Raymond · words: Heinz Hentschke ✎ ♫
+- [*Hochzeitsnacht im Paradies*](https://en.wikipedia.org/wiki/Wedding_Night_in_Paradise_(operetta%29) (1942) — Friedrich Schröder · words: Guenter Schwenn · German
+- [*Rhapsody*](https://en.wikipedia.org/wiki/Rhapsody_(operetta%29) (1944) — Fritz Kreisler · words: John La Touche ♫
+- [*Die Försterchristl*](https://en.wikipedia.org/wiki/Die_F%C3%B6rsterchristl) (1907) — Georg Jarno · words: Bernhard Buchbinder ✎ ♫
+- [*Le docteur Miracle*](https://en.wikipedia.org/wiki/Le_docteur_Miracle) (1857) — Georges Bizet · words: Ludovic Halévy, Léon Battu · French ✎ ♫
+- [*Djamileh*](https://en.wikipedia.org/wiki/Djamileh) (1872) — Georges Bizet · words: Louis Gallet · French ✎ ♫
+- [*La rondine*](https://en.wikipedia.org/wiki/La_rondine) (1917) — Giacomo Puccini · words: Giuseppe Adami · Italian ✎ ♫
+- [*Marcelle*](https://en.wikipedia.org/wiki/Marcelle_(musical%29) (1908) — Gustav Luders ✎
+- [*A Southern Maid*](https://en.wikipedia.org/wiki/A_Southern_Maid) — Harold Fraser Simson ✎ ♫
+- [*Lord Piccolo*](https://en.wikipedia.org/wiki/Lord_Piccolo) (1910) — Henri Berény · words: Karl Lindau, Rudolf Schanzer · German ✎
+- [*Dédé*](https://en.wikipedia.org/wiki/D%C3%A9d%C3%A9_(op%C3%A9rette%29) (1921) — Henri Christiné, Marius Henri · words: Albert Willemetz · French ✎ ♫
+- [*Les Chevaliers de la Table ronde*](https://en.wikipedia.org/wiki/Les_Chevaliers_de_la_Table_ronde_(Herv%C3%A9%29) (1866) — Hervé · words: Henri Chivot, Alfred Duru · French
+- [*Little Floramye*](https://en.wikipedia.org/wiki/Little_Floramye) (1926) — Ivo Tijardović · words: Ivo Tijardović · Croatian ✎ ♫
+- [*Angélique*](https://en.wikipedia.org/wiki/Ang%C3%A9lique_(opera%29) (1927) — Jacques Ibert · French ✎ ♫
+- [*Ba-ta-clan*](https://en.wikipedia.org/wiki/Ba-ta-clan) (1855) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*Le violoneux*](https://en.wikipedia.org/wiki/Le_violoneux) (1855) — Jacques Offenbach · words: Émile Chevalet, Eugène Mestépès · French ✎ ♫
+- [*Les deux aveugles*](https://en.wikipedia.org/wiki/Les_deux_aveugles) (1855) — Jacques Offenbach · words: Jules Moinaux · French ✎ ♫
+- [*Tromb-al-ca-zar, ou Les criminels dramatiques*](https://en.wikipedia.org/wiki/Tromb-al-ca-zar,_ou_Les_criminels_dramatiques) (1855) — Jacques Offenbach · words: Ernest Bourget, Charles Dupeuty · French ✎ ♫
+- [*La rose de Saint-Flour*](https://en.wikipedia.org/wiki/La_rose_de_Saint-Flour) (1856) — Jacques Offenbach · words: Michel Carré · French ✎ ♫
+- [*Le financier et le savetier*](https://en.wikipedia.org/wiki/Le_financier_et_le_savetier) (1856) — Jacques Offenbach · words: Edmond François Valentin About, Hector Crémieux · French ✎ ♫
+- [*Le mariage aux lanternes*](https://en.wikipedia.org/wiki/Le_mariage_aux_lanternes) (1857) — Jacques Offenbach · words: Léon Battu, Michel Carré · French ✎ ♫
+- [*Une demoiselle en loterie*](https://en.wikipedia.org/wiki/Une_demoiselle_en_loterie) (1857) — Jacques Offenbach · words: Hector Crémieux, Adolphe Jaime · French ✎ ♫
+- [*Vent du soir*](https://en.wikipedia.org/wiki/Vent_du_soir,_ou_L%27horrible_festin) (1857) — Jacques Offenbach · words: Philippe Gille · French ✎ ♫
+- [*La chatte métamorphosée en femme*](https://en.wikipedia.org/wiki/La_chatte_m%C3%A9tamorphos%C3%A9e_en_femme) (1858) — Jacques Offenbach · words: Eugène Scribe · French ✎ ♫
+- [*Mesdames de la Halle*](https://en.wikipedia.org/wiki/Mesdames_de_la_Halle) (1858) — Jacques Offenbach · words: Armand Lapointe · French ✎ ♫
+- [*Un mari à la porte*](https://en.wikipedia.org/wiki/Un_mari_%C3%A0_la_porte) (1859) — Jacques Offenbach · words: Alfred Delacour, Léon Morand · French ✎ ♫
+- [*Daphnis et Chloé*](https://en.wikipedia.org/wiki/Daphnis_et_Chlo%C3%A9_(Offenbach%29) (1860) — Jacques Offenbach · words: Louis François Clairville, Éléonore Tenaille Vaulabelle · French ✎ ♫
+- [*Apothicaire et perruquier*](https://en.wikipedia.org/wiki/Apothicaire_et_perruquier) (1861) — Jacques Offenbach · words: Élie Frébault · French ✎ ♫
+- [*La chanson de Fortunio*](https://en.wikipedia.org/wiki/La_chanson_de_Fortunio) (1861) — Jacques Offenbach · words: Hector Crémieux, Ludovic Halévy · French ✎ ♫
+- [*Le pont des soupirs*](https://en.wikipedia.org/wiki/Le_pont_des_soupirs) (1861) — Jacques Offenbach · words: Ludovic Halévy, Hector Crémieux · French ✎ ♫
+- [*Monsieur et Madame Denis*](https://en.wikipedia.org/wiki/Monsieur_et_Madame_Denis) (1862) — Jacques Offenbach · words: Michel Delaporte, Paul-Aimé Fromage · French ✎ ♫
+- [*Lischen et Fritzchen*](https://en.wikipedia.org/wiki/Lischen_et_Fritzchen) (1863) — Jacques Offenbach · words: Paul Boisselot · French ✎ ♫
+- [*La Belle Hélène*](https://en.wikipedia.org/wiki/La_belle_H%C3%A9l%C3%A8ne) (1864) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*Barbe-bleue*](https://en.wikipedia.org/wiki/Barbe-bleue_(opera%29) (1866) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*La vie parisienne*](https://en.wikipedia.org/wiki/La_Vie_parisienne_(operetta%29) (1866) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*La Grande-Duchesse de Gérolstein*](https://en.wikipedia.org/wiki/La_Grande-Duchesse_de_G%C3%A9rolstein) (1867) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*L'île de Tulipatan*](https://en.wikipedia.org/wiki/L%27%C3%AEle_de_Tulipatan) (1868) — Jacques Offenbach · words: Henri Chivot, Alfred Duru · French ✎ ♫
+- [*La Périchole*](https://en.wikipedia.org/wiki/La_P%C3%A9richole) (1868) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*Le château à Toto*](https://en.wikipedia.org/wiki/Le_ch%C3%A2teau_%C3%A0_Toto) (1868) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*Les brigands*](https://en.wikipedia.org/wiki/Les_brigands) (1869) — Jacques Offenbach · words: Ludovic Halévy · French ✎ ♫
+- [*Pomme d'api*](https://en.wikipedia.org/wiki/Pomme_d%27api) (1873) — Jacques Offenbach · words: Ludovic Halévy, William Bertrand Busnach · French ✎ ♫
+- [*La créole*](https://en.wikipedia.org/wiki/La_cr%C3%A9ole) (1875) — Jacques Offenbach · words: Albert Millaud · French ✎ ♫
+- [*Le voyage dans la lune*](https://en.wikipedia.org/wiki/Le_voyage_dans_la_lune_(opera-f%C3%A9erie%29) (1875) — Jacques Offenbach · words: Arnold Mortier, Eugène Leterrier, Albert Vanloo · French ✎ ♫
+- [*Pierrette et Jacquot*](https://en.wikipedia.org/wiki/Pierrette_et_Jacquot) (1876) — Jacques Offenbach · words: Philippe Gille, Jules Noriac · French ✎ ♫
+- [*Madame Favart*](https://en.wikipedia.org/wiki/Madame_Favart) (1878) — Jacques Offenbach · words: Henri Chivot, Alfred Duru · French ✎ ♫
+- [*Die keusche Susanne*](https://en.wikipedia.org/wiki/Die_keusche_Susanne) (1910) — Jean Gilbert · German ♫
+- [*Aranyvirág*](https://en.wikipedia.org/wiki/Aranyvir%C3%A1g) (1903) — Jenő Huszka · Hungarian ✎
+- [*Indigo und die vierzig Räuber*](https://en.wikipedia.org/wiki/Indigo_und_die_vierzig_R%C3%A4uber) (1871) — Johann Strauss II · words: Maximilian Steiner · German ♫
+- [*Der Karneval in Rom*](https://en.wikipedia.org/wiki/Der_Karneval_in_Rom) (1873) — Johann Strauss II · words: Joseph Braun · German ♫
+- [*Die Fledermaus*](https://en.wikipedia.org/wiki/Die_Fledermaus) (1874) — Johann Strauss II · words: Karl Haffner, Richard Genée · German ✎ ♫
+- [*Cagliostro in Wien*](https://en.wikipedia.org/wiki/Cagliostro_in_Wien) (1875) — Johann Strauss II · words: Camillo Walzel, Richard Genée · German ♫
+- [*Prinz Methusalem*](https://en.wikipedia.org/wiki/Prinz_Methusalem) (1877) — Johann Strauss II · words: Carl Treumann · German ♫
+- [*Blindekuh*](https://en.wikipedia.org/wiki/Blindekuh_(operetta%29) (1878) — Johann Strauss II · words: Rudolf Kneisel · German ✎ ♫
+- [*Das Spitzentuch der Königin*](https://en.wikipedia.org/wiki/Das_Spitzentuch_der_K%C3%B6nigin) (1880) — Johann Strauss II · words: Richard Genée · German ✎ ♫
+- [*Der lustige Krieg*](https://en.wikipedia.org/wiki/Der_lustige_Krieg) (1881) — Johann Strauss II · words: Camillo Walzel, Richard Genée · German ✎ ♫
+- [*Eine Nacht in Venedig*](https://en.wikipedia.org/wiki/Eine_Nacht_in_Venedig) (1883) — Johann Strauss II · words: F. Zell, Richard Genée · German ✎ ♫
+- [*The Gypsy Baron*](https://en.wikipedia.org/wiki/The_Gypsy_Baron) (1885) — Johann Strauss II · words: Ignaz Schnitzer · German ✎ ♫
+- [*Simplicius*](https://en.wikipedia.org/wiki/Simplicius_(operetta%29) (1887) — Johann Strauss II · words: Viktor Léon · German ✎ ♫
+- [*Ritter Pázmán*](https://en.wikipedia.org/wiki/Ritter_P%C3%A1zm%C3%A1n) (1892) — Johann Strauss II · German ✎ ♫
+- [*Waldmeister*](https://en.wikipedia.org/wiki/Waldmeister) (1895) — Johann Strauss II · words: Gustav Davis · German ✎ ♫
+- [*Die Göttin der Vernunft*](https://en.wikipedia.org/wiki/Die_G%C3%B6ttin_der_Vernunft) (1897) — Johann Strauss II · words: Alfred Maria Willner, Bernhard Buchbinder · German ✎ ♫
+- [*Wiener Blut*](https://en.wikipedia.org/wiki/Wiener_Blut_(operetta%29) (1899) — Johann Strauss II · words: Viktor Léon · German ♫
+- [*Casanova*](https://en.wikipedia.org/wiki/Casanova_(Benatzky%29) — Johann Strauss II, Ralph Benatzky
+- [*El Capitan*](https://en.wikipedia.org/wiki/El_Capitan_(operetta%29) — John Philip Sousa · words: Charles Klein ✎
+- [*The American Maid*](https://en.wikipedia.org/wiki/The_Glass_Blowers_(operetta%29) — John Philip Sousa · words: Leonard Liebling ♫
+- [*The Smugglers*](https://en.wikipedia.org/wiki/The_Smugglers_(operetta%29) — John Philip Sousa ♫
+- [*Polnische Hochzeit*](https://en.wikipedia.org/wiki/Polnische_Hochzeit) (1937) — Joseph Beer · words: Alfred Grünwald, Fritz Löhner-Beda · German
+- [*The Princess Chic*](https://en.wikipedia.org/wiki/The_Princess_Chic) (1900) — Julian Edwards · words: Kirke La Shelle ✎
+- [*The Reward*](https://en.wikipedia.org/wiki/The_Reward_(opera%29) (1815) — Karol Kurpiński · words: Ludwik Adam Dmuszewski ♫
+- [*Der Kuhhandel*](https://en.wikipedia.org/wiki/Der_Kuhhandel) (1935) — Kurt Weill · words: Robert Vambery ✎ ♫
+- [*The Firebrand of Florence*](https://en.wikipedia.org/wiki/The_Firebrand_of_Florence) (1945) — Kurt Weill · words: Edwin Justus Mayer ✎
+- [*Die Dollarprinzessin*](https://en.wikipedia.org/wiki/Die_Dollarprinzessin) (1907) — Leo Fall · words: Alfred Maria Willner ♫
+- [*The Merry Farmer*](https://en.wikipedia.org/wiki/The_Merry_Farmer_(operetta%29) (1907) — Leo Fall · words: Viktor Léon
+- [*Die geschiedene Frau*](https://en.wikipedia.org/wiki/Die_geschiedene_Frau) (1908) — Leo Fall · words: Victor Léon ♫
+- [*The Rose of Stamboul*](https://en.wikipedia.org/wiki/The_Rose_of_Stamboul_(operetta%29) (1916) — Leo Fall · words: Alfred Grünwald, Julius Brammer · German
+- [*Madame Pompadour*](https://en.wikipedia.org/wiki/Madame_Pompadour_(operetta%29) (1922) — Leo Fall · words: Rudolf Schanzer, Ernst Welisch ✎ ♫
+- [*Schwarzwaldmädel*](https://en.wikipedia.org/wiki/Schwarzwaldm%C3%A4del) (1917) — Leon Jessel · words: August Neidhart · German ✎ ♫
+- [*Le Diable à Paris*](https://en.wikipedia.org/wiki/Le_Diable_%C3%A0_Paris) (1927) — Marcel Lattès · words: Robert de Flers, Albert Willemetz, Francis de Croisset · French
+- [*Yes*](https://en.wikipedia.org/wiki/Yes_(operetta%29) (1928) — Maurice Yvain · words: Albert Willemetz
+- [*clivia*](https://en.wikipedia.org/wiki/Clivia_(opera%29) (1933) — Nico Dostal · words: Charles Amberg · German
+- [*Monika (opera)*](https://en.wikipedia.org/wiki/Monika_(opera%29) (1937) — Nico Dostal · German
+- [*Die ungarische Hochzeit*](https://en.wikipedia.org/wiki/Die_ungarische_Hochzeit) (1939) — Nico Dostal
+- [*Manina*](https://en.wikipedia.org/wiki/Manina_(opera%29) (1942) — Nico Dostal
+- [*Die Vielgeliebte*](https://en.wikipedia.org/wiki/Die_Vielgeliebte) — Nico Dostal · German
+- [*Prinzessin Nofretete*](https://en.wikipedia.org/wiki/Prinzessin_Nofretete) — Nico Dostal
+- [*Bitter Sweet*](https://en.wikipedia.org/wiki/Bitter_Sweet_(operetta%29) — Noël Coward · words: Noël Coward · English ✎ ♫
+- [*Ein Walzertraum*](https://en.wikipedia.org/wiki/Ein_Walzertraum) (1907) — Oscar Straus ✎ ♫
+- [*The Chocolate Soldier*](https://en.wikipedia.org/wiki/The_Chocolate_Soldier) (1908) — Oscar Straus ✎ ♫
+- [*Der letzte Walzer*](https://en.wikipedia.org/wiki/Der_letzte_Walzer) (1920) — Oscar Straus ♫
+- [*Polish Blood*](https://en.wikipedia.org/wiki/Polenblut) (1913) — Oskar Nedbal · words: Leo Stein · German
+- [*The Peasant Girl*](https://en.wikipedia.org/wiki/The_Peasant_Girl) — Oskar Nedbal
+- [*Viktoria und ihr Husar*](https://en.wikipedia.org/wiki/Viktoria_und_ihr_Husar) (1930) — Paul Abraham · words: Fritz Löhner-Beda, Alfred Grünwald, Imre Harmath · German/Hungarian ✎ ♫
+- [*The Flower of Hawaii*](https://en.wikipedia.org/wiki/The_Flower_of_Hawaii) (1931) — Paul Abraham · German ✎ ♫
+- [*Ball at the Savoy*](https://en.wikipedia.org/wiki/Ball_im_Savoy) (1932) — Paul Abraham · words: Fritz Löhner-Beda, Alfred Grünwald · German ✎ ♫
+- [*Ma mie Rosette*](https://en.wikipedia.org/wiki/Ma_mie_Rosette) — Paul Lacôme · words: Jules Prével, Armand Liorat · French ✎ ♫
+- [*Le dernier sorcier*](https://en.wikipedia.org/wiki/Le_dernier_sorcier) (1867) — Pauline Viardot · words: Ivan Turgenev · French ✎ ♫
+- [*The White Horse Inn*](https://en.wikipedia.org/wiki/The_White_Horse_Inn_(operetta%29) (1930) — Ralph Benatzky · words: Erik Charell · German ✎ ♫
+- [*Bezauberndes Fräulein*](https://en.wikipedia.org/wiki/Bezauberndes_Fr%C3%A4ulein) (1933) — Ralph Benatzky · words: Ralph Benatzky · German ✎ ♫
+- [*Rob Roy*](https://en.wikipedia.org/wiki/Rob_Roy_(operetta%29) — Reginald De Koven · words: Harry B. Smith ♫
+- [*Brummell (opera)*](https://en.wikipedia.org/wiki/Brummell_(opera%29) (1931) — Reynaldo Hahn · words: Robert Dieudonné, Rip · French ✎ ♫
+- [*Ciboulette*](https://en.wikipedia.org/wiki/Ciboulette) — Reynaldo Hahn · words: Francis de Croisset, Robert de Flers · French ✎ ♫
+- [*Nanon*](https://en.wikipedia.org/wiki/Nanon_(opera%29) (1877) — Richard Genée
+- [*Der Opernball*](https://en.wikipedia.org/wiki/Der_Opernball) (1898) — Richard Heuberger · words: Viktor Léon · German ✎ ♫
+- [*Christina's World*](https://en.wikipedia.org/wiki/Christina%27s_World_(opera%29) (1987) — Ross Edwards · words: Dorothy Coade Hewett ✎ ♫
+- [*The Firefly*](https://en.wikipedia.org/wiki/The_Firefly_(operetta%29) (1912) — Rudolf Friml · words: Otto Harbach ✎ ♫
+- [*Don Cesar*](https://en.wikipedia.org/wiki/Don_Cesar_(Dellinger%29) (1885) — Rudolph Dellinger ✎ ♫
+- [*The Arab Dream*](https://en.wikipedia.org/wiki/The_Arab_Dream) — Salah El Sjarnoby · Arabic
+- [*The Student Prince*](https://en.wikipedia.org/wiki/The_Student_Prince) (1924) — Sigmund Romberg · words: Dorothy Donnelly · English ✎ ♫
+- [*The Desert Song*](https://en.wikipedia.org/wiki/The_Desert_Song) (1926) — Sigmund Romberg · words: Oscar Hammerstein II, Otto Harbach · English ✎ ♫
+- [*The New Moon*](https://en.wikipedia.org/wiki/The_New_Moon) — Sigmund Romberg · American English ✎
+- [*Leblebici Horhor Ağa*](https://en.wikipedia.org/wiki/Leblebici_hor-hor_agha) (1875) — Tigran Chukhajian · words: Takvor Nalyan · Turkish
+- [*La Principessa Liana*](https://en.wikipedia.org/wiki/La_Principessa_Liana) (1929) — Tito Schipa · words: Alcide Santoro, Ennio Neri · Italian ✎ ♫
+- [*Arshin Mal Alan*](https://en.wikipedia.org/wiki/Arshin_Mal_Alan_(operetta%29) (1913) — Uzeyir Hajibeyov · words: Uzeyir Hajibeyov · Azerbaijani ✎ ♫
+- [*Babes in Toyland*](https://en.wikipedia.org/wiki/Babes_in_Toyland_(operetta%29) (1903) — Victor Herbert · words: Glen MacDonough · English ✎ ♫
+- [*Mlle. Modiste*](https://en.wikipedia.org/wiki/Mlle._Modiste) (1905) — Victor Herbert · words: Henry Blossom · English ✎ ♫
+- [*The Enchantress*](https://en.wikipedia.org/wiki/The_Enchantress_(operetta%29) — Victor Herbert ✎ ♫
+- [*The Marriage Market*](https://en.wikipedia.org/wiki/The_Marriage_Market) (1911) — Victor Jacobi · words: Viktor Léon, Max Brody · Hungarian ✎
+- [*Les noces de Jeannette*](https://en.wikipedia.org/wiki/Les_noces_de_Jeannette) (1853) — Victor Massé · words: Michel Carré, Jules Barbier · French
+- [*Imperial Violets*](https://en.wikipedia.org/wiki/Imperial_Violets_(operetta%29) (1948) — Vincent Scotto · words: Henri Varna
+- [*Der goldene Pierrot*](https://en.wikipedia.org/wiki/Der_goldene_Pierrot) (1934) — Walter Goetze ✎ ♫
+
+## Musicals (2131)
+
+- [*The Mouth of the Nile*](https://en.wikipedia.org/wiki/The_Mouth_of_the_Nile) (1798) — Composer unknown
+- [*Po-ca-hon-tas, or The Gentle Savage*](https://en.wikipedia.org/wiki/Po-ca-hon-tas,_or_The_Gentle_Savage) (1855) — Composer unknown · words: John Brougham ✎
+- [*Robert the Devil*](https://en.wikipedia.org/wiki/Robert_the_Devil_(Gilbert%29) (1868) — Composer unknown ✎ ♫
+- [*Blue Beard, Jr.*](https://en.wikipedia.org/wiki/Blue_Beard,_Jr.) (1889) — Composer unknown · words: Clay Meredith Greene · English
+- [*The Passing Show*](https://en.wikipedia.org/wiki/The_Passing_Show) (1894) — Composer unknown
+- [*Baroness Fiddlesticks*](https://en.wikipedia.org/wiki/Baroness_Fiddlesticks) (1904) — Composer unknown ✎ ♫
+- [*The Honeymoon Express*](https://en.wikipedia.org/wiki/The_Honeymoon_Express_(musical%29) (1913) — Composer unknown ✎
+- [*Little Jessie James*](https://en.wikipedia.org/wiki/Little_Jessie_James) (1923) — Composer unknown ✎ ♫
+- [*The Street Singer*](https://en.wikipedia.org/wiki/The_Street_Singer_(musical%29) (1924) — Composer unknown
+- [*Bare Facts of 1926*](https://en.wikipedia.org/wiki/Bare_Facts_of_1926) (1926) — Composer unknown ✎ ♫
+- [*Mesa Arizona Easter Pageant*](https://en.wikipedia.org/wiki/Mesa_Arizona_Easter_Pageant) (1928) — Composer unknown
+- [*Christmas Spectacular Starring the Radio City Rockettes*](https://en.wikipedia.org/wiki/Christmas_Spectacular_Starring_the_Radio_City_Rockettes) (1933) — Composer unknown
+- [*Calling All Stars*](https://en.wikipedia.org/wiki/Calling_All_Stars_(1934_musical%29) (1934) — Composer unknown · English
+- [*The Hot Mikado*](https://en.wikipedia.org/wiki/The_Hot_Mikado_(1939_production%29) (1939) — Composer unknown · words: Mike Todd
+- [*The Streets of Paris*](https://en.wikipedia.org/wiki/The_Streets_of_Paris) (1939) — Composer unknown ♫
+- [*Mormon Miracle Pageant*](https://en.wikipedia.org/wiki/Mormon_Miracle_Pageant) (1967) — Composer unknown · English
+- [*The Last Sweet Days of Isaac*](https://en.wikipedia.org/wiki/The_Last_Sweet_Days_of_Isaac) (1970) — Composer unknown ✎
+- [*The Tooth of Crime*](https://en.wikipedia.org/wiki/The_Tooth_of_Crime) (1972) — Composer unknown · English ✎ ♫
+- [*Beach Blanket Babylon*](https://en.wikipedia.org/wiki/Beach_Blanket_Babylon) (1974) — Composer unknown ✎
+- [*Nazl el sourour*](https://en.wikipedia.org/wiki/Nazl_el_sourour) (1974) — Composer unknown · Arabic ✎ ♫
+- [*The Man from Mukinupin*](https://en.wikipedia.org/wiki/The_Man_from_Mukinupin) (1979) — Composer unknown · English ✎
+- [*Ideal Gnome Exhibition*](https://en.wikipedia.org/wiki/The_Ideal_Gnome_Expedition) (1980) — Composer unknown ✎
+- [*Chorus Girls*](https://en.wikipedia.org/wiki/Chorus_Girls_(musical%29) (1981) — Composer unknown · English
+- [*Shades of Harlem*](https://en.wikipedia.org/wiki/Shades_of_Harlem) (1983) — Composer unknown · words: Jeree Wade
+- [*Hot Shoe Shuffle*](https://en.wikipedia.org/wiki/Hot_Shoe_Shuffle) (1992) — Composer unknown · words: Larry Buttrose
+- [*Medea, the Musical*](https://en.wikipedia.org/wiki/Medea,_the_Musical) (1994) — Composer unknown · English ✎ ♫
+- [*Pokémon Live!*](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Live!) (2000) — Composer unknown ✎ ♫
+- [*Prodigal*](https://en.wikipedia.org/wiki/Prodigal_(musical%29) (2000) — Composer unknown · English ✎
+- [*Savior of the World*](https://en.wikipedia.org/wiki/Savior_of_the_World) (2000) — Composer unknown
+- [*Shock*](https://en.wikipedia.org/wiki/Shock_(musical%29) (2000) — Composer unknown · words: Johnny Kitagawa ✎ ♫
+- [*Lust 'n Rust*](https://en.wikipedia.org/wiki/Lust_%27n_Rust) (2001) — Composer unknown ✎ ♫
+- [*Shout! The Legend of The Wild One*](https://en.wikipedia.org/wiki/Shout!_The_Legend_of_The_Wild_One) (2001) — Composer unknown · words: John-Michael Howson ✎
+- [*Hello Muddah, Hello Faddah!*](https://en.wikipedia.org/wiki/Hello_Muddah,_Hello_Faddah!_(musical%29) (2002) — Composer unknown
+- [*Picon Pie*](https://en.wikipedia.org/wiki/Picon_Pie) (2002) — Composer unknown · English ♫
+- [*Zipp!*](https://en.wikipedia.org/wiki/Zipp!_(musical%29) (2003) — Composer unknown · words: Gyles Brandreth
+- [*The Protomen*](https://en.wikipedia.org/wiki/The_Protomen) (2004) — Composer unknown · American English · rock opera
+- [*Vampires Rock*](https://en.wikipedia.org/wiki/Vampires_Rock) (2004) — Composer unknown
+- [*End of the Rainbow*](https://en.wikipedia.org/wiki/End_of_the_Rainbow) (2005) — Composer unknown · words: Peter Quilter · English ✎
+- [*Letters from Lehrer*](https://en.wikipedia.org/wiki/Letters_from_Lehrer) (2006) — Composer unknown
+- [*Broadway: Three Generations*](https://en.wikipedia.org/wiki/Broadway:_Three_Generations) (2008) — Composer unknown
+- [*The Tin Pan Alley Rag*](https://en.wikipedia.org/wiki/The_Tin_Pan_Alley_Rag) (2009) — Composer unknown
+- [*I Dream*](https://en.wikipedia.org/wiki/I_Dream_(musical%29) (2010) — Composer unknown ✎
+- [*Aunt Bam's Place*](https://en.wikipedia.org/wiki/Aunt_Bam%27s_Place) (2011) — Composer unknown ✎ ♫
+- [*Madea Gets a Job*](https://en.wikipedia.org/wiki/Madea_Gets_a_Job) (2012) — Composer unknown ✎ ♫
+- [*Raiding the Rock Vault*](https://en.wikipedia.org/wiki/Raiding_the_Rock_Vault) (2012) — Composer unknown ♫
+- [*Hell Hath No Fury Like A Woman Scorned*](https://en.wikipedia.org/wiki/Hell_Hath_No_Fury_Like_a_Woman_Scorned) (2014) — Composer unknown ✎ ♫
+- [*Paramour*](https://en.wikipedia.org/wiki/Paramour_(Cirque_du_Soleil%29) (2016) — Composer unknown
+- [*Ang Huling El Bimbo*](https://en.wikipedia.org/wiki/Ang_Huling_El_Bimbo_(musical%29) (2018) — Composer unknown · words: Dingdong Novenario ✎
+- [*Malory Towers*](https://en.wikipedia.org/wiki/Malory_Towers_(musical%29) (2019) — Composer unknown
+- [*Una luz tímida*](https://en.wikipedia.org/wiki/Una_luz_t%C3%ADmida) (2020) — Composer unknown · words: África Alonso ✎ ♫
+- [*Musical Park Chung Hee*](https://en.wikipedia.org/wiki/Musical_Park_Chung_Hee) (2021) — Composer unknown
+- [*The Drifters Girl*](https://en.wikipedia.org/wiki/The_Drifters_Girl) (2021) — Composer unknown · jukebox musical
+- [*Malinche*](https://en.wikipedia.org/wiki/Malinche_(musical%29) (2022) — Composer unknown
+- [*Toy Show The Musical*](https://en.wikipedia.org/wiki/Toy_Show_The_Musical) (2022) — Composer unknown · words: Jamie Beamish
+- [*13 Daughters*](https://en.wikipedia.org/wiki/13_Daughters) — Composer unknown ✎
+- [*1492 Up to Date*](https://en.wikipedia.org/wiki/1492_Up_to_Date) — Composer unknown ✎ ♫
+- [*A Million Dollars*](https://en.wikipedia.org/wiki/A_Million_Dollars) — Composer unknown
+- [*A Runaway Girl*](https://en.wikipedia.org/wiki/A_Runaway_Girl) — Composer unknown ♫
+- [*A Snow White Christmas*](https://en.wikipedia.org/wiki/A_Snow_White_Christmas_(musical%29) — Composer unknown ✎
+- [*A Song to Sing, O*](https://en.wikipedia.org/wiki/A_Song_to_Sing,_O) — Composer unknown
+- [*A Stoop on Orchard Street*](https://en.wikipedia.org/wiki/A_Stoop_on_Orchard_Street) — Composer unknown ✎
+- [*A Yankee Circus on Mars*](https://en.wikipedia.org/wiki/A_Yankee_Circus_on_Mars) — Composer unknown ✎
+- [*A... My Name Is Alice*](https://en.wikipedia.org/wiki/A..._My_Name_Is_Alice) — Composer unknown
+- [*Abyssinia*](https://en.wikipedia.org/wiki/Abyssinia_(1906_musical%29) — Composer unknown
+- [*Ace of Clubs*](https://en.wikipedia.org/wiki/Ace_of_Clubs_(musical%29) — Composer unknown ✎ ♫
+- [*Alive and Kicking*](https://en.wikipedia.org/wiki/Alive_and_Kicking_(musical%29) — Composer unknown
+- [*Arang*](https://en.wikipedia.org/wiki/Arang_(musical%29) — Composer unknown ✎ ♫
+- [*Arms and the Girl*](https://en.wikipedia.org/wiki/Arms_and_the_Girl_(musical%29) — Composer unknown ♫
+- [*Babes in the Wood*](https://en.wikipedia.org/wiki/Babes_in_the_Wood_(musical%29) — Composer unknown ♫
+- [*Babies*](https://en.wikipedia.org/wiki/Babies_(musical%29) — Composer unknown
+- [*Bad Boy Johnny and the Prophets of Doom*](https://en.wikipedia.org/wiki/Bad_Boy_Johnny_and_the_Prophets_of_Doom) — Composer unknown ✎
+- [*Badjelly's Bad Christmas*](https://en.wikipedia.org/wiki/Badjelly%27s_Bad_Christmas) — Composer unknown ✎
+- [*Baghdaddy*](https://en.wikipedia.org/wiki/Baghdaddy) — Composer unknown ✎ ♫
+- [*Balalaika*](https://en.wikipedia.org/wiki/Balalaika_(musical%29) — Composer unknown
+- [*Bashville*](https://en.wikipedia.org/wiki/Bashville) — Composer unknown
+- [*Bedknobs and Broomsticks*](https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks_(musical%29) — Composer unknown ✎
+- [*Beguiled Again*](https://en.wikipedia.org/wiki/Beguiled_Again) — Composer unknown
+- [*Behold the Man, La Ópera de Cecilia*](https://en.wikipedia.org/wiki/Behold_the_Man,_La_%C3%93pera_de_Cecilia) — Composer unknown ✎ ♫
+- [*Beyond Eden*](https://en.wikipedia.org/wiki/Beyond_Eden) — Composer unknown ✎
+- [*Black Friday*](https://en.wikipedia.org/wiki/Black_Friday_(musical%29) — Composer unknown
+- [*Blackbirds of 1939*](https://en.wikipedia.org/wiki/Blackbirds_of_1939) — Composer unknown
+- [*Blast!*](https://en.wikipedia.org/wiki/Blast!_(musical%29) — Composer unknown
+- [*Bob's Your Uncle*](https://en.wikipedia.org/wiki/Bob%27s_Your_Uncle_(musical%29) — Composer unknown
+- [*Body of Water*](https://en.wikipedia.org/wiki/Body_of_Water_(musical%29) — Composer unknown ♫
+- [*BoyBand the Musical*](https://en.wikipedia.org/wiki/BoyBand_the_Musical) — Composer unknown
+- [*Bright Lights, Big City*](https://en.wikipedia.org/wiki/Bright_Lights,_Big_City_(musical%29) — Composer unknown ✎
+- [*By the Hand of the Father*](https://en.wikipedia.org/wiki/By_the_Hand_of_the_Father) — Composer unknown
+- [*Caddie Woodlawn*](https://en.wikipedia.org/wiki/Caddie_Woodlawn_(musical%29) — Composer unknown · English ♫
+- [*Cafe Crown*](https://en.wikipedia.org/wiki/Cafe_Crown) — Composer unknown
+- [*Captain Louie*](https://en.wikipedia.org/wiki/Captain_Louie) — Composer unknown ✎
+- [*Champeen*](https://en.wikipedia.org/wiki/Champeen) — Composer unknown
+- [*Cinderella and the Prince, or The Castle of Heart's Desire*](https://en.wikipedia.org/wiki/Cinderella_and_the_Prince,_or_The_Castle_of_Heart%27s_Desire) — Composer unknown
+- [*Cinders*](https://en.wikipedia.org/wiki/Cinders_(musical%29) — Composer unknown
+- [*Cliff – The Musical*](https://en.wikipedia.org/wiki/Cliff_%E2%80%93_The_Musical) — Composer unknown
+- [*Coming Thro' The Rye*](https://en.wikipedia.org/wiki/Coming_Thro%27_the_Rye) — Composer unknown ✎
+- [*Connect/Disconnect*](https://en.wikipedia.org/wiki/Connect/Disconnect) — Composer unknown ♫
+- [*Conway Christ Redneck Superstar*](https://en.wikipedia.org/wiki/Conway_Christ_Redneck_Superstar) — Composer unknown ✎ ♫
+- [*Coraline*](https://en.wikipedia.org/wiki/Coraline_(2025_musical%29) — Composer unknown ✎ ♫
+- [*Cowardy Custard*](https://en.wikipedia.org/wiki/Cowardy_Custard) — Composer unknown
+- [*December Rains*](https://en.wikipedia.org/wiki/December_Rains) — Composer unknown ✎
+- [*Dew Drop Inn*](https://en.wikipedia.org/wiki/Dew_Drop_Inn_(musical%29) — Composer unknown · words: Walter DeLeon
+- [*Dolphin Show*](https://en.wikipedia.org/wiki/Dolphin_Show) — Composer unknown
+- [*Dream Street*](https://en.wikipedia.org/wiki/Dream_Street_(musical%29) — Composer unknown
+- [*Dulcamara, or the Little Duck and the Great Quack*](https://en.wikipedia.org/wiki/Dulcamara,_or_the_Little_Duck_and_the_Great_Quack) — Composer unknown ✎ ♫
+- [*Dusty - The Dusty Springfield Musical*](https://en.wikipedia.org/wiki/Dusty_%E2%80%93_The_Dusty_Springfield_Musical) — Composer unknown
+- [*Eating Raoul*](https://en.wikipedia.org/wiki/Eating_Raoul_(musical%29) — Composer unknown ♫
+- [*El Jorobado de París*](https://en.wikipedia.org/wiki/El_Jorobado_de_Par%C3%ADs) — Composer unknown ✎
+- [*El médico*](https://en.wikipedia.org/wiki/El_m%C3%A9dico) — Composer unknown
+- [*El otro lado de la cama*](https://en.wikipedia.org/wiki/El_otro_lado_de_la_cama_(musical%29) — Composer unknown ♫
+- [*Equal*](https://en.wikipedia.org/wiki/Equal_(musical%29) — Composer unknown ✎
+- [*Festival of the Lion King*](https://en.wikipedia.org/wiki/Theme_park_live_adaptations_of_The_Lion_King) — Composer unknown ✎
+- [*Fire*](https://en.wikipedia.org/wiki/Fire_(musical%29) — Composer unknown ♫
+- [*Fisherman's Friends: The Musical*](https://en.wikipedia.org/wiki/Fisherman%27s_Friends:_The_Musical) — Composer unknown
+- [*Floss*](https://en.wikipedia.org/wiki/Floss_(musical%29) — Composer unknown
+- [*Fly With Me*](https://en.wikipedia.org/wiki/Fly_with_Me_(musical%29) — Composer unknown ✎
+- [*Follow the Girl*](https://en.wikipedia.org/wiki/Follow_the_Girl_(musical%29) — Composer unknown ✎
+- [*For Goodness Sake*](https://en.wikipedia.org/wiki/For_Goodness_Sake_(musical%29) — Composer unknown
+- [*Forbidden City: Portrait of An Empress*](https://en.wikipedia.org/wiki/Forbidden_City:_Portrait_of_an_Empress) — Composer unknown ✎
+- [*Fritz in Tammany Hall*](https://en.wikipedia.org/wiki/Fritz_in_Tammany_Hall) — Composer unknown ✎
+- [*Gay Bride of Frankenstein*](https://en.wikipedia.org/wiki/Gay_Bride_of_Frankenstein) — Composer unknown
+- [*Gay New York*](https://en.wikipedia.org/wiki/Gay_New_York_(musical%29) — Composer unknown ✎
+- [*Glamalot*](https://en.wikipedia.org/wiki/Glamalot) — Composer unknown ✎ ♫
+- [*Go-Bang*](https://en.wikipedia.org/wiki/Go-Bang) — Composer unknown ✎ ♫
+- [*Great British Bake Off: The Musical*](https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_Musical) — Composer unknown
+- [*Great Expectations*](https://en.wikipedia.org/wiki/Great_Expectations_(musical%29) — Composer unknown
+- [*Half in Earnest*](https://en.wikipedia.org/wiki/Half_in_Earnest) — Composer unknown
+- [*Hallelujah of Love*](https://en.wikipedia.org/wiki/Hallelujah_of_Love) — Composer unknown ♫
+- [*Hansel and Gretel*](https://en.wikipedia.org/wiki/Hansel_and_Gretel_(1958_TV_special%29) — Composer unknown
+- [*Happy Town*](https://en.wikipedia.org/wiki/Happy_Town_(musical%29) — Composer unknown
+- [*Harlequin Cock Robin and Jenny Wren*](https://en.wikipedia.org/wiki/Harlequin_Cock_Robin_and_Jenny_Wren) — Composer unknown ✎
+- [*Having It All*](https://en.wikipedia.org/wiki/Having_It_All_(musical%29) — Composer unknown
+- [*Higgledy-Piggledy*](https://en.wikipedia.org/wiki/Higgledy-Piggledy) — Composer unknown
+- [*Hip! Hip! Hooray!*](https://en.wikipedia.org/wiki/Hip!_Hip!_Hooray!_(1907_musical%29) — Composer unknown ♫
+- [*Hit the Deck*](https://en.wikipedia.org/wiki/Hit_the_Deck_(musical%29) — Composer unknown
+- [*Hole*](https://en.wikipedia.org/wiki/Hole_(musical%29) — Composer unknown
+- [*Honeymoon Lane*](https://en.wikipedia.org/wiki/Honeymoon_Lane_(musical%29) — Composer unknown ✎
+- [*Hope! – Das Obama Musical*](https://en.wikipedia.org/wiki/Hope!_%E2%80%93_Das_Obama_Musical) — Composer unknown
+- [*Horrible Histories: The Mad Millennium*](https://en.wikipedia.org/wiki/Horrible_Histories:_The_Mad_Millennium) — Composer unknown ✎
+- [*Hot Mess*](https://en.wikipedia.org/wiki/Hot_Mess_(musical%29) — Composer unknown ✎
+- [*Hurt Locker*](https://en.wikipedia.org/wiki/Hurt_Locker_(musical%29) — Composer unknown · words: Tony Kushner ♫
+- [*I Am Anne Frank*](https://en.wikipedia.org/wiki/I_Am_Anne_Frank_(musical%29) — Composer unknown
+- [*Idol: The Musical*](https://en.wikipedia.org/wiki/Idol:_The_Musical) — Composer unknown ✎
+- [*If I Embarrass You, Tell Your Friends*](https://en.wikipedia.org/wiki/If_I_Embarrass_You,_Tell_Your_Friends) — Composer unknown ✎
+- [*In Hayti*](https://en.wikipedia.org/wiki/In_Hayti) — Composer unknown
+- [*In Town*](https://en.wikipedia.org/wiki/In_Town) — Composer unknown ✎ ♫
+- [*Innocent Eyes*](https://en.wikipedia.org/wiki/Innocent_Eyes_(musical%29) — Composer unknown
+- [*Iron Curtain*](https://en.wikipedia.org/wiki/Iron_Curtain_(musical%29) — Composer unknown ✎
+- [*Islander*](https://en.wikipedia.org/wiki/Islander_(musical%29) — Composer unknown
+- [*Jack O'Lantern*](https://en.wikipedia.org/wiki/Jack_O%27Lantern_(musical%29) — Composer unknown
+- [*JFK: A Musical Drama*](https://en.wikipedia.org/wiki/JFK:_A_Musical_Drama) — Composer unknown ✎ ♫
+- [*Jihad! The Musical*](https://en.wikipedia.org/wiki/Jihad!_The_Musical) — Composer unknown
+- [*Jo*](https://en.wikipedia.org/wiki/Jo_(musical%29) — Composer unknown
+- [*Joined At The Heart*](https://en.wikipedia.org/wiki/Joined_at_the_Heart) — Composer unknown · English
+- [*Jolson*](https://en.wikipedia.org/wiki/Jolson_(musical%29) — Composer unknown
+- [*Judy's Scary Little Christmas*](https://en.wikipedia.org/wiki/Judy%27s_Scary_Little_Christmas) — Composer unknown ✎
+- [*Ka-Boom!*](https://en.wikipedia.org/wiki/Ka-Boom!_(off-Broadway_musical%29) — Composer unknown ✎
+- [*Karachi: The Musical*](https://en.wikipedia.org/wiki/Karachi:_The_Musical) — Composer unknown ✎ ♫
+- [*King Cotton*](https://en.wikipedia.org/wiki/King_Cotton_(play%29) — Composer unknown
+- [*Knat Scatt Private Eye*](https://en.wikipedia.org/wiki/Knat_Scatt_Private_Eye) — Composer unknown
+- [*La Cava*](https://en.wikipedia.org/wiki/La_Cava_(musical%29) — Composer unknown ✎
+- [*La hija de Juan Simón*](https://en.wikipedia.org/wiki/La_hija_de_Juan_Sim%C3%B3n) — Composer unknown
+- [*La Vivandière*](https://en.wikipedia.org/wiki/La_Vivandi%C3%A8re_(Gilbert%29) — Composer unknown · words: W. S. Gilbert ✎
+- [*Laughing Room Only*](https://en.wikipedia.org/wiki/Laughing_Room_Only) — Composer unknown
+- [*Letter to Harvey Milk*](https://en.wikipedia.org/wiki/Letter_to_Harvey_Milk) — Composer unknown ✎ ♫
+- [*Lies: the musical*](https://en.wikipedia.org/wiki/Mentiras,_el_musical) — Composer unknown ✎ ♫
+- [*Little by Little*](https://en.wikipedia.org/wiki/Little_by_Little_(musical%29) — Composer unknown
+- [*Little Hans Andersen*](https://en.wikipedia.org/wiki/Little_Hans_Andersen) — Composer unknown ♫
+- [*Little Red Riding Hood*](https://en.wikipedia.org/wiki/Little_Red_Riding_Hood_(musical%29) — Composer unknown
+- [*Lock Up Your Daughters*](https://en.wikipedia.org/wiki/Lock_Up_Your_Daughters_(musical%29) — Composer unknown ✎ ♫
+- [*Lola from Berlin*](https://en.wikipedia.org/wiki/Lola_from_Berlin) — Composer unknown
+- [*Los 40 el Musical*](https://en.wikipedia.org/wiki/Los_40_el_Musical) — Composer unknown ♫
+- [*Lost Boy*](https://en.wikipedia.org/wiki/Lost_Boy_(musical%29) — Composer unknown
+- [*Lost, Strayed or Stolen*](https://en.wikipedia.org/wiki/Lost,_Strayed_or_Stolen) — Composer unknown ✎ ♫
+- [*Lovers*](https://en.wikipedia.org/wiki/Lovers_(musical%29) — Composer unknown ✎ ♫
+- [*Lucky Sambo*](https://en.wikipedia.org/wiki/Lucky_Sambo) — Composer unknown ♫
+- [*Lunch with Marlene*](https://en.wikipedia.org/wiki/Lunch_with_Marlene) — Composer unknown ✎
+- [*Mad Apple*](https://en.wikipedia.org/wiki/Mad_Apple) — Composer unknown
+- [*Maggie*](https://en.wikipedia.org/wiki/Maggie_(Wild_musical%29) — Composer unknown
+- [*Magic Gum Tree*](https://en.wikipedia.org/wiki/Magic_Gum_Tree) — Composer unknown
+- [*Magyar Melody*](https://en.wikipedia.org/wiki/Magyar_Melody) — Composer unknown
+- [*Mahathir, the Musical*](https://en.wikipedia.org/wiki/Mahathir,_the_Musical) — Composer unknown ✎ ♫
+- [*Mam'zelle Champagne*](https://en.wikipedia.org/wiki/Mam%27zelle_Champagne) — Composer unknown
+- [*Marilyn! the Musical*](https://en.wikipedia.org/wiki/Marilyn!_the_Musical) — Composer unknown ♫
+- [*Mark Twain: The Musical*](https://en.wikipedia.org/wiki/Mark_Twain:_The_Musical) — Composer unknown ✎
+- [*Matador*](https://en.wikipedia.org/wiki/Matador_(Danish_musical%29) — Composer unknown
+- [*Matador*](https://en.wikipedia.org/wiki/Matador_(English_musical%29) — Composer unknown
+- [*Mavourneen*](https://en.wikipedia.org/wiki/Mavourneen_(musical%29) — Composer unknown ♫
+- [*Meet the Navy*](https://en.wikipedia.org/wiki/Meet_the_Navy) — Composer unknown
+- [*Mena gurjari*](https://en.wikipedia.org/wiki/Mena_Gurjari_(play%29) — Composer unknown · Gujarati ✎ ♫
+- [*Michael Todd's Peep Show*](https://en.wikipedia.org/wiki/Michael_Todd%27s_Peep_Show) — Composer unknown
+- [*Mimi le Duck*](https://en.wikipedia.org/wiki/Mimi_le_Duck) — Composer unknown
+- [*Miss Hook of Holland*](https://en.wikipedia.org/wiki/Miss_Hook_of_Holland) — Composer unknown ✎ ♫
+- [*Moby Dick*](https://en.wikipedia.org/wiki/Moby_Dick_(musical%29) — Composer unknown · English ♫
+- [*Mogal Tamsa*](https://en.wikipedia.org/wiki/Mogal_Tamsa) — Composer unknown · Odia
+- [*Money to Burn*](https://en.wikipedia.org/wiki/Money_to_Burn_(musical%29) — Composer unknown
+- [*Monte Carlo*](https://en.wikipedia.org/wiki/Monte_Carlo_(musical%29) — Composer unknown
+- [*Monte Cristo, Jr.*](https://en.wikipedia.org/wiki/Monte_Cristo_Jr._(musical%29) — Composer unknown
+- [*Morocco Bound*](https://en.wikipedia.org/wiki/Morocco_Bound) — Composer unknown ✎ ♫
+- [*Mother Goose*](https://en.wikipedia.org/wiki/Mother_Goose_(musical%29) — Composer unknown
+- [*Mrs. Delaney of Newport*](https://en.wikipedia.org/wiki/Mrs._Delaney_of_Newport) — Composer unknown
+- [*Much Ado*](https://en.wikipedia.org/wiki/Much_Ado) — Composer unknown
+- [*Musicals in Ahoy*](https://en.wikipedia.org/wiki/Musicals_in_Ahoy) — Composer unknown ♫
+- [*Mutiny!*](https://en.wikipedia.org/wiki/Mutiny!_(musical%29) — Composer unknown
+- [*Nanta*](https://en.wikipedia.org/wiki/Nanta_(theatrical_show%29) — Composer unknown
+- [*Netru, Indru, Naalai*](https://en.wikipedia.org/wiki/Netru_Indru_Naalai_(musical%29) — Composer unknown
+- [*Nevada Belle*](https://en.wikipedia.org/wiki/Nevada_Belle) — Composer unknown ✎
+- [*Nevermore: The Imaginary Life and Mysterious Death of Edgar Allan Poe*](https://en.wikipedia.org/wiki/Nevermore:_The_Imaginary_Life_and_Mysterious_Death_of_Edgar_Allan_Poe) — Composer unknown ✎ ♫
+- [*New Faces of 1952*](https://en.wikipedia.org/wiki/New_Faces_of_1952) — Composer unknown
+- [*New Orleans*](https://en.wikipedia.org/wiki/New_Orleans_(musical%29) — Composer unknown
+- [*NHS the Musical*](https://en.wikipedia.org/wiki/NHS_the_Musical) — Composer unknown
+- [*Nite Club Confidential*](https://en.wikipedia.org/wiki/Nite_Club_Confidential) — Composer unknown
+- [*No Longer Human*](https://en.wikipedia.org/wiki/No_Longer_Human_(musical%29) — Composer unknown
+- [*Nuts and Wine*](https://en.wikipedia.org/wiki/Nuts_and_Wine) — Composer unknown ✎
+- [*Of V We Sing*](https://en.wikipedia.org/wiki/Of_V_We_Sing) — Composer unknown ✎
+- [*Oh, My Dear!*](https://en.wikipedia.org/wiki/Oh,_My_Dear!) — Composer unknown
+- [*Oh, What A Girl!*](https://en.wikipedia.org/wiki/Oh,_What_A_Girl!) — Composer unknown ✎ ♫
+- [*On With the Dance*](https://en.wikipedia.org/wiki/On_with_the_Dance_(musical%29) — Composer unknown
+- [*Once Upon A Time At The Adelphi*](https://en.wikipedia.org/wiki/Once_Upon_a_Time_at_the_Adelphi) — Composer unknown
+- [*Only Heaven Knows*](https://en.wikipedia.org/wiki/Only_Heaven_Knows) — Composer unknown
+- [*Operette*](https://en.wikipedia.org/wiki/Operette_(musical%29) — Composer unknown ✎
+- [*Our Miss Gibbs*](https://en.wikipedia.org/wiki/Our_Miss_Gibbs) — Composer unknown ✎ ♫
+- [*Panjandrum*](https://en.wikipedia.org/wiki/Panjandrum_(musical%29) — Composer unknown ✎ ♫
+- [*Paradise Lost: Shadows and Wings*](https://en.wikipedia.org/wiki/Paradise_Lost:_Shadows_and_Wings) — Composer unknown ✎ ♫
+- [*Peach Boy*](https://en.wikipedia.org/wiki/Peach_Boy) — Composer unknown ✎
+- [*Peggy*](https://en.wikipedia.org/wiki/Peggy_(musical%29) — Composer unknown ✎ ♫
+- [*Perez Hilton Saves the Universe (or at least the greater Los Angeles area): the Musical!*](https://en.wikipedia.org/wiki/Perez_Hilton_Saves_the_Universe_(or_at_least_the_greater_Los_Angeles_area%29:_the_Musical!) — Composer unknown ♫
+- [*Philemon*](https://en.wikipedia.org/wiki/Philemon_(musical%29) — Composer unknown ✎
+- [*Princess Caprice*](https://en.wikipedia.org/wiki/Princess_Caprice) — Composer unknown ✎ ♫
+- [*Rain or Shine*](https://en.wikipedia.org/wiki/Rain_or_Shine_(musical%29) — Composer unknown
+- [*Red Pepper*](https://en.wikipedia.org/wiki/Red_Pepper_(musical%29) — Composer unknown ✎
+- [*Red, White and Maddox*](https://en.wikipedia.org/wiki/Red,_White_and_Maddox) — Composer unknown ✎
+- [*Rockabye Hamlet*](https://en.wikipedia.org/wiki/Rockabye_Hamlet) — Composer unknown
+- [*Rockford's Rock Opera*](https://en.wikipedia.org/wiki/Rockford%27s_Rock_Opera) — Composer unknown
+- [*Rockquiem*](https://en.wikipedia.org/wiki/Rockquiem) — Composer unknown
+- [*Roses of Picardy*](https://en.wikipedia.org/wiki/Roses_of_Picardy_(musical%29) — Composer unknown
+- [*Rumi: The Musical*](https://en.wikipedia.org/wiki/Rumi:_The_Musical) — Composer unknown ✎ ♫
+- [*Salut les copains*](https://en.wikipedia.org/wiki/Salut_les_copains_(musical%29) — Composer unknown ✎ ♫
+- [*Sandy*](https://en.wikipedia.org/wiki/Sandy_(Grease_song%29) — Composer unknown ✎
+- [*Saturday's Voyeur*](https://en.wikipedia.org/wiki/Saturday%27s_Voyeur) — Composer unknown
+- [*Schoolhouse Rock Live!*](https://en.wikipedia.org/wiki/Schoolhouse_Rock_Live!) — Composer unknown ✎ ♫
+- [*Sea Legs*](https://en.wikipedia.org/wiki/Sea_Legs) — Composer unknown
+- [*Second to Nun*](https://en.wikipedia.org/wiki/Second_to_Nun) — Composer unknown
+- [*Secondary: The Musical*](https://en.wikipedia.org/wiki/Secondary:_The_Musical) — Composer unknown ✎
+- [*Ser Minas Tão Gerais*](https://en.wikipedia.org/wiki/Ser_Minas_T%C3%A3o_Gerais) — Composer unknown
+- [*SherWoodstock*](https://en.wikipedia.org/wiki/SherWoodstock) — Composer unknown ✎ ♫
+- [*Shout! The Mod Musical*](https://en.wikipedia.org/wiki/Shout!_The_Mod_Musical) — Composer unknown ✎ ♫
+- [*Show Me Where the Good Times Are*](https://en.wikipedia.org/wiki/Show_Me_Where_the_Good_Times_Are) — Composer unknown ✎
+- [*Showstopper! The Improvised Musical*](https://en.wikipedia.org/wiki/Showstopper!_The_Improvised_Musical) — Composer unknown
+- [*Siddhartha*](https://en.wikipedia.org/wiki/Siddhartha_(musical%29) — Composer unknown
+- [*SING!*](https://en.wikipedia.org/wiki/Sing!_(competition%29) — Composer unknown
+- [*Smiling Faces*](https://en.wikipedia.org/wiki/Smiling_Faces) — Composer unknown
+- [*Smoke on the Mountain*](https://en.wikipedia.org/wiki/Smoke_on_the_Mountain) — Composer unknown ✎
+- [*Someone like You*](https://en.wikipedia.org/wiki/Someone_like_You_(musical%29) — Composer unknown
+- [*Something More!*](https://en.wikipedia.org/wiki/Something_More!) — Composer unknown
+- [*Song of Chun Hyang*](https://en.wikipedia.org/wiki/Chunhyangga) — Composer unknown · Middle Korean ✎
+- [*Sons of Ham*](https://en.wikipedia.org/wiki/Sons_of_Ham) — Composer unknown
+- [*Soul Sister*](https://en.wikipedia.org/wiki/Soul_Sister_(musical%29) — Composer unknown
+- [*Spartacus le Gladiateur*](https://en.wikipedia.org/wiki/Spartacus_le_Gladiateur) — Composer unknown
+- [*Star and Garter*](https://en.wikipedia.org/wiki/Star_and_Garter_(musical%29) — Composer unknown
+- [*Starry*](https://en.wikipedia.org/wiki/Starry_(musical%29) — Composer unknown ✎ ♫
+- [*Starting Here, Starting Now*](https://en.wikipedia.org/wiki/Starting_Here,_Starting_Now) — Composer unknown ✎
+- [*Success!*](https://en.wikipedia.org/wiki/Success!) — Composer unknown
+- [*Summer Song*](https://en.wikipedia.org/wiki/Summer_Song_(musical%29) — Composer unknown
+- [*Sunshine on Leith*](https://en.wikipedia.org/wiki/Sunshine_on_Leith_(musical%29) — Composer unknown
+- [*Surviving the Nian*](https://en.wikipedia.org/wiki/Surviving_the_Nian) — Composer unknown
+- [*Swan Esther*](https://en.wikipedia.org/wiki/Swan_Esther) — Composer unknown
+- [*Tails Up!*](https://en.wikipedia.org/wiki/Tails_Up!) — Composer unknown ♫
+- [*Tambourines to Glory*](https://en.wikipedia.org/wiki/Tambourines_to_Glory) — Composer unknown
+- [*Tarzan and Jane*](https://en.wikipedia.org/wiki/Tarzan_and_Jane_(musical%29) — Composer unknown ✎
+- [*Teresa, la Obra en Musical*](https://en.wikipedia.org/wiki/Teresa,_la_Obra_en_Musical) — Composer unknown ✎ ♫
+- [*That'll Be the Day*](https://en.wikipedia.org/wiki/That%27ll_Be_the_Day_(musical%29) — Composer unknown
+- [*The (Post) Mistress*](https://en.wikipedia.org/wiki/The_(Post%29_Mistress) — Composer unknown · words: Tomson Highway · English
+- [*The Adventures of Marco Polo*](https://en.wikipedia.org/wiki/The_Adventures_of_Marco_Polo_(television_musical%29) — Composer unknown
+- [*The Blue Moon*](https://en.wikipedia.org/wiki/The_Blue_Moon_(musical%29) — Composer unknown ✎ ♫
+- [*The Bohemian G-yurl and the Unapproachable Pole*](https://en.wikipedia.org/wiki/The_Bohemian_G-yurl_and_the_Unapproachable_Pole) — Composer unknown ♫
+- [*The Boys Are Coming Home*](https://en.wikipedia.org/wiki/The_Boys_Are_Coming_Home) — Composer unknown
+- [*The Break Up Notebook: The Lesbian Musical*](https://en.wikipedia.org/wiki/The_Break_Up_Notebook:_The_Lesbian_Musical) — Composer unknown ♫
+- [*The Canterville Ghost*](https://en.wikipedia.org/wiki/The_Canterville_Ghost_(stage_musical%29) — Composer unknown
+- [*The Cherry Girl*](https://en.wikipedia.org/wiki/The_Cherry_Girl) — Composer unknown ♫
+- [*The Count of Monte Cristo*](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(James_Behr_musical%29) — Composer unknown
+- [*The Crooked Mile*](https://en.wikipedia.org/wiki/The_Crooked_Mile_(musical%29) — Composer unknown
+- [*The Dancing Mistress*](https://en.wikipedia.org/wiki/The_Dancing_Mistress) — Composer unknown ✎ ♫
+- [*The Dream Dealer*](https://en.wikipedia.org/wiki/The_Dream_Dealer) — Composer unknown
+- [*The Dreaming*](https://en.wikipedia.org/wiki/The_Dreaming_(musical%29) — Composer unknown ✎ ♫
+- [*The Errand Boy*](https://en.wikipedia.org/wiki/The_Errand_Boy_(musical%29) — Composer unknown
+- [*The first Queen*](https://en.wikipedia.org/wiki/The_First_Queen) — Composer unknown
+- [*The Floor Walkers*](https://en.wikipedia.org/wiki/The_Floor_Walkers) — Composer unknown
+- [*The Four Musketeers*](https://en.wikipedia.org/wiki/The_Four_Musketeers_(musical%29) — Composer unknown
+- [*The Gingerbread Man*](https://en.wikipedia.org/wiki/The_Gingerbread_Man_(Sloane_and_Rankin_musical%29) — Composer unknown ✎
+- [*The Girl from Kays*](https://en.wikipedia.org/wiki/The_Girl_from_Kays) — Composer unknown · English ✎ ♫
+- [*The Girl From Nantucket*](https://en.wikipedia.org/wiki/The_Girl_from_Nantucket) — Composer unknown · words: Kay Twomey ♫
+- [*The Girl in the Taxi*](https://en.wikipedia.org/wiki/The_Girl_in_the_Taxi) — Composer unknown ✎ ♫
+- [*The Girl with the Golden Hair*](https://en.wikipedia.org/wiki/The_Girl_with_the_Golden_Hair) — Composer unknown
+- [*The House of Martin Guerre*](https://en.wikipedia.org/wiki/The_House_of_Martin_Guerre) — Composer unknown
+- [*The Hunting of the Snark*](https://en.wikipedia.org/wiki/The_Hunting_of_the_Snark_(musical%29) — Composer unknown · English ✎ ♫
+- [*The Idea*](https://en.wikipedia.org/wiki/The_Idea_(musical%29) — Composer unknown
+- [*The Jersey Lily*](https://en.wikipedia.org/wiki/The_Jersey_Lily) — Composer unknown ✎
+- [*The King's Carnival*](https://en.wikipedia.org/wiki/The_King%27s_Carnival) — Composer unknown
+- [*The Lancers*](https://en.wikipedia.org/wiki/The_Lancers) — Composer unknown
+- [*The Last Bimbo of the Apocalypse*](https://en.wikipedia.org/wiki/The_Last_Bimbo_of_the_Apocalypse) — Composer unknown ✎ ♫
+- [*The Last Smoker in America*](https://en.wikipedia.org/wiki/The_Last_Smoker_in_America) — Composer unknown ✎
+- [*The Little Blue Devil*](https://en.wikipedia.org/wiki/The_Little_Blue_Devil) — Composer unknown ✎ ♫
+- [*The Little Duchess*](https://en.wikipedia.org/wiki/The_Little_Duchess_(musical%29) — Composer unknown ✎
+- [*The Love Racket*](https://en.wikipedia.org/wiki/The_Love_Racket_(musical%29) — Composer unknown
+- [*The Magic Mrs. Piggle Wiggle*](https://en.wikipedia.org/wiki/The_Magic_Mrs._Piggle_Wiggle) — Composer unknown
+- [*The Man from Cook's*](https://en.wikipedia.org/wiki/The_Man_from_Cook%27s) — Composer unknown ✎
+- [*The Merchants of Bollywood*](https://en.wikipedia.org/wiki/The_Merchants_of_Bollywood) — Composer unknown
+- [*The Merry Zingara*](https://en.wikipedia.org/wiki/The_Merry_Zingara) — Composer unknown ✎ ♫
+- [*The Ministry of Biscuits*](https://en.wikipedia.org/wiki/The_Ministry_of_Biscuits) — Composer unknown ✎
+- [*The Misadventures of the Wholesome Twins*](https://en.wikipedia.org/wiki/The_Misadventures_of_the_Wholesome_Twins) — Composer unknown · English ✎ ♫
+- [*The Mitford Girls*](https://en.wikipedia.org/wiki/The_Mitford_Girls) — Composer unknown
+- [*The Onion Cellar*](https://en.wikipedia.org/wiki/The_Onion_Cellar) — Composer unknown
+- [*The Only Girl*](https://en.wikipedia.org/wiki/The_Only_Girl_(musical%29) — Composer unknown
+- [*The Opposite of Sex*](https://en.wikipedia.org/wiki/The_Opposite_of_Sex_(musical%29) — Composer unknown
+- [*The Paisley Pirates of Penzance*](https://en.wikipedia.org/wiki/The_Paisley_Pirates_of_Penzance) — Composer unknown ✎ ♫
+- [*The Pretty Druidess*](https://en.wikipedia.org/wiki/The_Pretty_Druidess) — Composer unknown ✎ ♫
+- [*The Pursuit of Persephone*](https://en.wikipedia.org/wiki/The_Pursuit_of_Persephone) — Composer unknown ♫
+- [*The Quaker Girl*](https://en.wikipedia.org/wiki/The_Quaker_Girl) — Composer unknown ✎ ♫
+- [*The Rose of Algeria*](https://en.wikipedia.org/wiki/The_Rose_of_Algeria) — Composer unknown
+- [*The Runaways*](https://en.wikipedia.org/wiki/The_Runaways_(musical%29) — Composer unknown
+- [*The School Girl*](https://en.wikipedia.org/wiki/The_School_Girl) — Composer unknown ♫
+- [*The Shop Girl*](https://en.wikipedia.org/wiki/The_Shop_Girl) — Composer unknown ✎ ♫
+- [*The Silver Star*](https://en.wikipedia.org/wiki/The_Silver_Star_(musical%29) — Composer unknown · words: Harry B. Smith ✎
+- [*The Sleeping Beauty and the Beast*](https://en.wikipedia.org/wiki/The_Sleeping_Beauty_and_the_Beast) — Composer unknown ✎
+- [*The Streets of New York*](https://en.wikipedia.org/wiki/The_Streets_of_New_York_(musical%29) — Composer unknown
+- [*The Sunshine Girl*](https://en.wikipedia.org/wiki/The_Sunshine_Girl) — Composer unknown ✎ ♫
+- [*The Thorn Birds Musical*](https://en.wikipedia.org/wiki/The_Thorn_Birds_Musical) — Composer unknown
+- [*The Three Musketeers*](https://en.wikipedia.org/wiki/The_Three_Musketeers:_One_For_All,_All_For_One!) — Composer unknown ✎ ♫
+- [*The Toreador*](https://en.wikipedia.org/wiki/The_Toreador) — Composer unknown ♫
+- [*The Velvet Lady*](https://en.wikipedia.org/wiki/The_Velvet_Lady) — Composer unknown
+- [*The Waa-Mu Show*](https://en.wikipedia.org/wiki/The_Waa-Mu_Show) — Composer unknown
+- [*The Whirl of New York*](https://en.wikipedia.org/wiki/The_Whirl_of_New_York) — Composer unknown
+- [*The Whirl of Society*](https://en.wikipedia.org/wiki/The_Whirl_of_Society) — Composer unknown
+- [*The Wizard of A.I.D.S.*](https://en.wikipedia.org/wiki/The_Wizard_of_A.I.D.S.) — Composer unknown · English
+- [*The Wonderful Wizard of Oz*](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_(musical%29) — Composer unknown · English
+- [*The Yashmak*](https://en.wikipedia.org/wiki/The_Yashmak) — Composer unknown
+- [*The Young Messiah*](https://en.wikipedia.org/wiki/The_Young_Messiah_(musical%29) — Composer unknown
+- [*Thomas and The King*](https://en.wikipedia.org/wiki/Thomas_and_the_King) — Composer unknown ✎
+- [*Three Little Maids*](https://en.wikipedia.org/wiki/Three_Little_Maids) — Composer unknown ✎ ♫
+- [*Tickets, Please!*](https://en.wikipedia.org/wiki/Tickets,_Please!) — Composer unknown
+- [*Tita in Thibet*](https://en.wikipedia.org/wiki/Tita_in_Thibet) — Composer unknown ✎ ♫
+- [*Tommy Rot*](https://en.wikipedia.org/wiki/Tommy_Rot) — Composer unknown · English
+- [*Top Speed*](https://en.wikipedia.org/wiki/Top_Speed_(musical%29) — Composer unknown
+- [*Treason*](https://en.wikipedia.org/wiki/Treason_(musical%29) — Composer unknown
+- [*Trevor: The Musical*](https://en.wikipedia.org/wiki/Trevor:_The_Musical) — Composer unknown ♫
+- [*Triassic Parq*](https://en.wikipedia.org/wiki/Triassic_Parq) — Composer unknown ✎ ♫
+- [*Tuxedo*](https://en.wikipedia.org/wiki/Tuxedo_(vaudeville%29) — Composer unknown
+- [*Two Cities*](https://en.wikipedia.org/wiki/Two_Cities_(musical%29) — Composer unknown ✎ ♫
+- [*UniSon*](https://en.wikipedia.org/wiki/UniSon) — Composer unknown
+- [*Up and Down Broadway*](https://en.wikipedia.org/wiki/Up_and_Down_Broadway) — Composer unknown
+- [*Up on the Roof*](https://en.wikipedia.org/wiki/Up_on_the_Roof_(musical%29) — Composer unknown
+- [*Valmouth (musical)*](https://en.wikipedia.org/wiki/Valmouth_(musical%29) — Composer unknown ♫
+- [*Vera Violetta*](https://en.wikipedia.org/wiki/Vera_Violetta) — Composer unknown
+- [*Wait a Minim!*](https://en.wikipedia.org/wiki/Wait_a_Minim!) — Composer unknown
+- [*Wakaa! The Musical*](https://en.wikipedia.org/wiki/Wakaa!_The_Musical) — Composer unknown ♫
+- [*We Are Sthlm*](https://en.wikipedia.org/wiki/We_Are_Sthlm) — Composer unknown
+- [*We Live in Cairo*](https://en.wikipedia.org/wiki/We_Live_in_Cairo) — Composer unknown ✎ ♫
+- [*What Makes Sammy Run?*](https://en.wikipedia.org/wiki/What_Makes_Sammy_Run%3F_(musical%29) — Composer unknown ✎
+- [*What's New Pussycat?*](https://en.wikipedia.org/wiki/What%27s_New_Pussycat%3F_(musical%29) — Composer unknown
+- [*When Dreams Come True*](https://en.wikipedia.org/wiki/When_Dreams_Come_True_(musical%29) — Composer unknown · words: Philip Bartholomae ✎
+- [*When Pigs Fly*](https://en.wikipedia.org/wiki/When_Pigs_Fly_(musical%29) — Composer unknown
+- [*Which Witch*](https://en.wikipedia.org/wiki/Which_Witch) — Composer unknown
+- [*Whistle Down the Wind*](https://en.wikipedia.org/wiki/Whistle_Down_the_Wind_(1989_musical%29) — Composer unknown
+- [*Whoop-Dee-Doo*](https://en.wikipedia.org/wiki/Whoop-Dee-Doo) — Composer unknown
+- [*Whoop-Dee-Doo!*](https://en.wikipedia.org/wiki/Whoop-Dee-Doo!) — Composer unknown
+- [*Wild Side Story*](https://en.wikipedia.org/wiki/Wild_Side_Story) — Composer unknown ✎
+- [*Windy City*](https://en.wikipedia.org/wiki/Windy_City_(musical%29) — Composer unknown ✎
+- [*Wonderworld*](https://en.wikipedia.org/wiki/Wonderworld_(musical%29) — Composer unknown
+- [*Wuthering Heights*](https://en.wikipedia.org/wiki/Wuthering_Heights_(musical%29) — Composer unknown · English
+- [*Yes, Yes, Yvette*](https://en.wikipedia.org/wiki/Yes,_Yes,_Yvette) — Composer unknown · words: Irving Caesar ✎
+- [*Yvonne*](https://en.wikipedia.org/wiki/Yvonne_(musical%29) — Composer unknown
+- [*Zuleika*](https://en.wikipedia.org/wiki/Zuleika_(musical%29) — Composer unknown ♫
+- [*Bombay Dreams*](https://en.wikipedia.org/wiki/Bombay_Dreams) (2002) — A. R. Rahman · words: Don Black, Meera Syal ✎
+- [*Lord of the Rings*](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical%29) (2006) — A. R. Rahman · words: Matthew Warchus, Shaun McKenna, Matthew Warchus ✎
+- [*Twisted*](https://en.wikipedia.org/wiki/Twisted_(musical%29) (2013) — A.J. Holmes · words: Kaley McMahon ✎
+- [*Cyrano: The Musical*](https://en.wikipedia.org/wiki/Cyrano:_The_Musical) (1992) — Ad van Dijk · words: Koen van Dijk (Dutch lyrics), Peter Reeves (English lyrics), Sheldon Harnick (additional English lyrics)
+- [*London Road*](https://en.wikipedia.org/wiki/London_Road_(musical%29) (2011) — Adam Cork · words: Alecky Blythe ♫
+- [*Floyd Collins*](https://en.wikipedia.org/wiki/Floyd_Collins_(musical%29) (1994) — Adam Guettel · words: Adam Guettel, Tina Landau ✎ ♫
+- [*Myths and Hymns*](https://en.wikipedia.org/wiki/Myths_and_Hymns) (1998) — Adam Guettel · words: Adam Guettel
+- [*The Light in the Piazza*](https://en.wikipedia.org/wiki/The_Light_in_the_Piazza_(musical%29) (2003) — Adam Guettel · words: Adam Guettel, Craig Lucas ✎
+- [*Days of Wine and Roses*](https://en.wikipedia.org/wiki/Days_of_Wine_and_Roses_(musical%29) (2023) — Adam Guettel · words: Adam Guettel ✎
+- [*Ordinary Days*](https://en.wikipedia.org/wiki/Ordinary_Days) (2008) — Adam Gwon · words: Adam Gwon ✎
+- [*Cry-Baby*](https://en.wikipedia.org/wiki/Cry-Baby_(musical%29) (2007) — Adam Schlesinger · words: David Javerbaum, Mark O'Donnell ✎
+- [*Shockheaded Peter*](https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical%29) (1998) — Adrian Huge, Martyn Jacques, Adrian Stout · words: Martyn Jacques, Julian Bleach
+- [*Girl, Interrupted*](https://en.wikipedia.org/wiki/Girl,_Interrupted_(musical%29) (2026) — Aimee Mann · words: Aimee Mann
+- [*All Out of Love*](https://en.wikipedia.org/wiki/All_Out_of_Love_(musical%29) (2018) — Air Supply · words: Air Supply · jukebox musical
+- [*Home Movies*](https://en.wikipedia.org/wiki/Home_Movies_(musical%29) (1964) — Al Carmines · words: Rosalyn Drexler
+- [*Promenade*](https://en.wikipedia.org/wiki/Promenade_(musical%29) (1965) — Al Carmines · words: María Irene Fornés
+- [*Copperfield*](https://en.wikipedia.org/wiki/Copperfield_(musical%29) (1981) — Al Kasha, Joel Hirschhorn · words: Al Kasha and Joel Hirschhorn · English
+- [*A Spoonful of Sherman*](https://en.wikipedia.org/wiki/A_Spoonful_of_Sherman) (2014) — Al Sherman · words: Al Sherman, Robert J. Sherman
+- [*Jonah*](https://en.wikipedia.org/wiki/Jonah_(Romeril_musical%29) (1985) — Alan John · words: John Romeril
+- [*The Adventures of Snugglepot & Cuddlepie and Little Ragged Blossom*](https://en.wikipedia.org/wiki/The_Adventures_of_Snugglepot_%26_Cuddlepie_and_Little_Ragged_Blossom_(musical%29) — Alan John ✎ ♫
+- [*Little Shop of Horrors*](https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(musical%29) (1982) — Alan Menken · words: Howard Ashman ✎
+- [*A Christmas Carol*](https://en.wikipedia.org/wiki/A_Christmas_Carol_(musical%29) (1994) — Alan Menken · words: Lynn Ahrens, Mike Ockrent · English ✎
+- [*Beauty and the Beast*](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(musical%29) (1994) — Alan Menken · words: Tim Rice, Howard Ashman · English ✎ ♫
+- [*King David*](https://en.wikipedia.org/wiki/King_David_(musical%29) (1997) — Alan Menken · words: Tim Rice ♫
+- [*The Hunchback of Notre Dame*](https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(musical%29) (1999) — Alan Menken · words: Stephen Schwartz, James Lapine · German ✎
+- [*Sister Act*](https://en.wikipedia.org/wiki/Sister_Act_(musical%29) (2006) — Alan Menken · words: Glenn Slater ✎
+- [*The Little Mermaid (musical)*](https://en.wikipedia.org/wiki/The_Little_Mermaid_(musical%29) (2007) — Alan Menken · words: Howard Ashman, Doug Wright · English ✎
+- [*Leap of Faith*](https://en.wikipedia.org/wiki/Leap_of_Faith_(musical%29) (2010) — Alan Menken · words: Glenn Slater, Janus Cercone ✎
+- [*Aladdin*](https://en.wikipedia.org/wiki/Aladdin_(2011_musical%29) (2011) — Alan Menken · words: Tim Rice, Howard Ashman, Chad Beguelin · English ✎
+- [*Newsies*](https://en.wikipedia.org/wiki/Newsies_(musical%29) (2011) — Alan Menken · words: Jack Feldman, Harvey Fierstein ✎
+- [*A Bronx Tale*](https://en.wikipedia.org/wiki/A_Bronx_Tale_(musical%29) (2016) — Alan Menken · words: Glenn Slater
+- [*Aladdin Jr.*](https://en.wikipedia.org/wiki/Aladdin_Jr.) — Alan Menken · words: Tim Rice, Howard Ashman, Howard Ashman, Tim Rice, Chad Beguelin ✎ ♫
+- [*Disney's Aladdin: A Musical Spectacular*](https://en.wikipedia.org/wiki/Disney%27s_Aladdin:_A_Musical_Spectacular) — Alan Menken · words: Howard Ashman, Chad Beguelin ♫
+- [*The Little Mermaid Jr.*](https://en.wikipedia.org/wiki/The_Little_Mermaid_Jr.) — Alan Menken · words: Howard Ashman, Glenn Slater, Doug Wright · English ✎ ♫
+- [*The Little Mermaid Live!*](https://en.wikipedia.org/wiki/The_Little_Mermaid_Live!) — Alan Menken ♫
+- [*The Little Mermaid – A Musical Adventure*](https://en.wikipedia.org/wiki/The_Little_Mermaid_%E2%80%93_A_Musical_Adventure) — Alan Menken (music), Howard Ashman (lyrics) & Alan Menken (score) · English ✎
+- [*Back to the Future: The Musical*](https://en.wikipedia.org/wiki/Back_to_the_Future:_The_Musical) (2020) — Alan Silvestri · words: Glen Ballard, Bob Gale · English ✎
+- [*Anne de Bretagne*](https://en.wikipedia.org/wiki/Anne_de_Bretagne_(rock_opera%29) (2009) — Alan Simon · words: Alan Simon ♫
+- [*Secondhand Lions: A New Musical*](https://en.wikipedia.org/wiki/Secondhand_Lions:_A_New_Musical) (2013) — Alan Zachary and Michael Weiner · words: Rupert Holmes ✎ ♫
+- [*13 Going on 30*](https://en.wikipedia.org/wiki/13_Going_on_30_(musical%29) (2025) — Alan Zachary, Michael Weiner · words: Alan Zachary, Michael Weiner ✎
+- [*First Date the Musical*](https://en.wikipedia.org/wiki/First_Date_(musical%29) — Alan Zachary, Michael Weiner · words: Alan Zachary, Michael Weiner ✎
+- [*Barbara and the Camp Dogs*](https://en.wikipedia.org/wiki/Barbara_and_the_Camp_Dogs) (2017) — Alana Valentine, Ursula Yovich · words: Ursula Yovich, Alana Valentine, Adm Ventoura
+- [*Jagged Little Pill*](https://en.wikipedia.org/wiki/Jagged_Little_Pill_(musical%29) (2018) — Alanis Morissette, Glen Ballard · words: Alanis Morissette ✎
+- [*Plain and Fancy*](https://en.wikipedia.org/wiki/Plain_and_Fancy) (1955) — Albert Hague · words: Joseph Stein ✎
+- [*Redhead*](https://en.wikipedia.org/wiki/Redhead_(musical%29) (1959) — Albert Hague · words: Dorothy Fields ✎
+- [*The Fig Leaves Are Falling*](https://en.wikipedia.org/wiki/The_Fig_Leaves_Are_Falling) (1969) — Albert Hague · words: Allan Sherman
+- [*Your Arms Too Short to Box with God*](https://en.wikipedia.org/wiki/Your_Arms_Too_Short_to_Box_with_God) (1976) — Alex Bradford · words: Alex Bradford, Alex Bradford, Micki Grant
+- [*The Remains of the Day*](https://en.wikipedia.org/wiki/The_Remains_of_the_Day_(musical%29) (2010) — Alex Loveless · words: Alex Loveless
+- [*Kismet*](https://en.wikipedia.org/wiki/Kismet_(musical%29) (1953) — Alexander Borodin · words: Robert Wright, George Forrest, Charles Lederer, Luther Davis · English ✎
+- [*Jalta*](https://en.wikipedia.org/wiki/Jalta,_Jalta) (1971) — Alfi Kabiljo · words: Milan Grgić ✎
+- [*Broadway to Tokio*](https://en.wikipedia.org/wiki/Broadway_to_Tokio) (1900) — Alfred Baldwin Sloane · words: George V. Hobart, Louis Harrison · English ✎
+- [*Aunt Hannah*](https://en.wikipedia.org/wiki/Aunt_Hannah) — Alfred Baldwin Sloane ✎
+- [*China Rose*](https://en.wikipedia.org/wiki/China_Rose_(operetta%29) — Alfred Baldwin Sloane · words: Harry L. Cort, George E. Stoddard
+- [*Ladies First*](https://en.wikipedia.org/wiki/Ladies_First_(musical%29) — Alfred Baldwin Sloane
+- [*All for the Ladies*](https://en.wikipedia.org/wiki/All_for_the_Ladies) (1912) — Alfred G. Robyn · words: Henry Blossom
+- [*The Sultan of Sulu*](https://en.wikipedia.org/wiki/The_Sultan_of_Sulu) (1902) — Alfred George Wathall · words: George Ade ✎ ♫
+- [*Hell's Kitchen*](https://en.wikipedia.org/wiki/Hell%27s_Kitchen_(musical%29) (2024) — Alicia Keys and others · words: Alicia Keys and others · English ✎
+- [*Pastrana*](https://en.wikipedia.org/wiki/Pastrana_(musical%29) (1988) — Allan McFadden · words: Allan McFadden, Peter Northwood
+- [*Fellowship!*](https://en.wikipedia.org/wiki/Fellowship!) (2004) — Allen Simpson · words: Brian D. Bradley, Lisa Fredrickson, Kelly Holden-Bashar, Joel McCrary, Edi Patterson, Steve Purnick, Cory Rouse, Allen Simpson, Ryan Smith, Peter Allen Vogt and Matthew Stephen Young ✎
+- [*Hadestown*](https://en.wikipedia.org/wiki/Hadestown) (2016) — Anaïs Mitchell · words: Anaïs Mitchell · English ✎
+- [*Coco*](https://en.wikipedia.org/wiki/Coco_(musical%29) (1969) — André Previn · words: Alan Jay Lerner ✎
+- [*The Good Companions*](https://en.wikipedia.org/wiki/The_Good_Companions_(musical%29) (1974) — André Previn · words: Johnny Mercer, Ronald Harwood ✎
+- [*Slam Frank*](https://en.wikipedia.org/wiki/Slam_Frank) (2025) — Andrew Fox · words: Andrew Fox · English ✎
+- [*John & Jen*](https://en.wikipedia.org/wiki/John_%26_Jen) (1995) — Andrew Lippa · words: Tommy Greenwald, Andrew Lippa ✎
+- [*The Wild Party*](https://en.wikipedia.org/wiki/The_Wild_Party_(Lippa_musical%29) (1997) — Andrew Lippa · words: Andrew Lippa ✎
+- [*A Little Princess*](https://en.wikipedia.org/wiki/A_Little_Princess_(musical%29) (2004) — Andrew Lippa · words: Brian Crawley ✎
+- [*The Addams Family*](https://en.wikipedia.org/wiki/The_Addams_Family_(musical%29) (2009) — Andrew Lippa · words: Marshall Brickman ✎
+- [*Big Fish*](https://en.wikipedia.org/wiki/Big_Fish_(musical%29) (2013) — Andrew Lippa · words: Andrew Lippa, John August ✎
+- [*Joseph and the Amazing Technicolor Dreamcoat*](https://en.wikipedia.org/wiki/Joseph_and_the_Amazing_Technicolor_Dreamcoat) (1968) — Andrew Lloyd Webber · words: Tim Rice · English ✎ ♫
+- [*By Jeeves*](https://en.wikipedia.org/wiki/By_Jeeves) (1975) — Andrew Lloyd Webber · words: Alan Ayckbourn · English ✎ ♫
+- [*Evita*](https://en.wikipedia.org/wiki/Evita_(musical%29) (1978) — Andrew Lloyd Webber · words: Tim Rice · English ✎
+- [*Tell Me on a Sunday*](https://en.wikipedia.org/wiki/Tell_Me_on_a_Sunday) (1979) — Andrew Lloyd Webber · words: Don Black ✎
+- [*Cats*](https://en.wikipedia.org/wiki/Cats_(musical%29) (1981) — Andrew Lloyd Webber · words: T. S. Eliot, Trevor Nunn, T. S. Eliot, Trevor Nunn, Richard Stilgoe · English ✎ ♫
+- [*Song and Dance*](https://en.wikipedia.org/wiki/Song_and_Dance) (1982) — Andrew Lloyd Webber · words: Don Black, Don Black, Richard Maltby Jr. (additional) · English ✎
+- [*Starlight Express*](https://en.wikipedia.org/wiki/Starlight_Express) (1984) — Andrew Lloyd Webber · words: Richard Stilgoe · English ✎ ♫
+- [*Cricket*](https://en.wikipedia.org/wiki/Cricket_(musical%29) (1986) — Andrew Lloyd Webber · words: Tim Rice ✎ ♫
+- [*The Phantom of the Opera*](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical%29) (1986) — Andrew Lloyd Webber · words: Richard Stilgoe, Charles Hart · English ✎
+- [*Aspects of Love*](https://en.wikipedia.org/wiki/Aspects_of_Love) (1989) — Andrew Lloyd Webber · words: Don Black, Andrew Lloyd Webber ✎
+- [*Sunset Boulevard*](https://en.wikipedia.org/wiki/Sunset_Boulevard_(musical%29) (1993) — Andrew Lloyd Webber · words: Christopher Hampton, Don Black · English ✎
+- [*Whistle Down the Wind*](https://en.wikipedia.org/wiki/Whistle_Down_the_Wind_(1996_musical%29) (1996) — Andrew Lloyd Webber · words: Jim Steinman, Andrew Lloyd Webber, Gale Edwards ✎
+- [*The Beautiful Game*](https://en.wikipedia.org/wiki/The_Beautiful_Game_(musical%29) (2000) — Andrew Lloyd Webber · words: Ben Elton ✎
+- [*The Woman in White*](https://en.wikipedia.org/wiki/The_Woman_in_White_(musical%29) (2004) — Andrew Lloyd Webber · words: David Zippel, Charlotte Jones ✎
+- [*The Likes of Us*](https://en.wikipedia.org/wiki/The_Likes_of_Us) (2005) — Andrew Lloyd Webber · words: Tim Rice, Leslie Thomas ✎
+- [*Love Never Dies*](https://en.wikipedia.org/wiki/Love_Never_Dies_(musical%29) (2010) — Andrew Lloyd Webber · words: Glenn Slater, Glenn Slater, Additional lyrics:, Charles Hart
+- [*Stephen Ward the Musical*](https://en.wikipedia.org/wiki/Stephen_Ward_(musical%29) (2013) — Andrew Lloyd Webber · words: Don Black, Christopher Hampton · English
+- [*School of Rock*](https://en.wikipedia.org/wiki/School_of_Rock_(musical%29) (2015) — Andrew Lloyd Webber · words: Glenn Slater, Julian Fellowes ✎ ♫
+- [*Cinderella*](https://en.wikipedia.org/wiki/Cinderella_(Lloyd_Webber_musical%29) (2021) — Andrew Lloyd Webber · words: David Zippel ✎
+- [*Walmartopia*](https://en.wikipedia.org/wiki/Walmartopia) (2005) — Andrew Rohn · words: Catherine Capellaro
+- [*Debbie Does Dallas: The Musical*](https://en.wikipedia.org/wiki/Debbie_Does_Dallas:_The_Musical) (2002) — Andrew Sherman, Tom Kitt, Jonathan Callicutt · words: Andrew Sherman, Tom Kitt, Jonathan Callicutt
+- [*The Kid*](https://en.wikipedia.org/wiki/The_Kid_(musical%29) (2010) — Andy Monroe · words: Jack Lechner ✎
+- [*His Story*](https://en.wikipedia.org/wiki/His_Story_(musical%29) (2023) — Anna Mariam Brown · words: Anna Mariam Brown ✎
+- [*Lovelace: A Rock Musical*](https://en.wikipedia.org/wiki/Lovelace:_A_Rock_Musical) (2008) — Anna Waronker · words: Anna Waronker & Charlotte Caffey, Jeffery Leonard Bowman
+- [*Joy*](https://en.wikipedia.org/wiki/Joy_(musical%29) (2022) — AnnMarie Milazzo · words: AnnMarie Milazzo ✎
+- [*BRUNCH The Musical*](https://en.wikipedia.org/wiki/Brunch_(musical%29) (2009) — Anthony Funaro · words: Rick Kunzi · English ✎
+- [*Sideways*](https://en.wikipedia.org/wiki/Sideways_(musical%29) (2021) — Anthony Leigh Adams · words: Anthony Leigh Adams, Rex Pickett
+- [*The Roar of the Greasepaint – The Smell of the Crowd*](https://en.wikipedia.org/wiki/The_Roar_of_the_Greasepaint_%E2%80%93_The_Smell_of_the_Crowd) (1964) — Anthony Newley, Leslie Bricusse · words: Anthony Newley, Leslie Bricusse · English ✎
+- [*Regina: Un Musical Para Una Nación Que Despierta*](https://en.wikipedia.org/wiki/Regina_(play%29) (2003) — Antonio Calvo · words: Antonio Velasco Piña · Spanish ✎ ♫
+- [*Luigi: The Musical*](https://en.wikipedia.org/wiki/Luigi:_The_Musical) (2025) — Arielle Johnson · words: Arielle Johnson, Nova Bradford ✎
+- [*Rugantino*](https://en.wikipedia.org/wiki/Rugantino_(musical%29) (1962) — Armando Trovajoli · words: Pietro Garinei, Sandro Giovannini, Massimo Franciosa · Italian ✎
+- [*Tintypes*](https://en.wikipedia.org/wiki/Tintypes) (1979) — arranged by:, Mel Marvin · words: Various ♫
+- [*Been So Long*](https://en.wikipedia.org/wiki/Been_So_Long) (2009) — Arthur Darvill · words: Arthur Darvill, Ché Walker ♫
+- [*Blackbirds of 1926*](https://en.wikipedia.org/wiki/Blackbirds_of_1926) (1926) — Arthur Johnston, George W. Meyer · words: George W. Meyer, Grant Clarke, Roy Turk · English
+- [*Trick! The Musical*](https://en.wikipedia.org/wiki/Trick!_The_Musical) (2025) — Arthur LaFrentz Bacon · words: Jason Schafer ✎ ♫
+- [*The Second Little Show*](https://en.wikipedia.org/wiki/The_Second_Little_Show) (1930) — Arthur Schwartz · words: Howard Dietz, Dwight Deere Wiman
+- [*Three's a Crowd*](https://en.wikipedia.org/wiki/Three%27s_a_Crowd_(musical%29) (1930) — Arthur Schwartz · words: Howard Dietz
+- [*The Band Wagon*](https://en.wikipedia.org/wiki/The_Band_Wagon_(musical%29) (1931) — Arthur Schwartz · words: Howard Dietz, George S. Kaufman · English
+- [*Flying Colors*](https://en.wikipedia.org/wiki/Flying_Colors_(musical%29) (1932) — Arthur Schwartz, Howard Dietz · words: Howard Dietz, Arthur Schwartz
+- [*Revenge with Music*](https://en.wikipedia.org/wiki/Revenge_with_Music) (1934) — Arthur Schwartz · words: Howard Dietz · English
+- [*At Home Abroad*](https://en.wikipedia.org/wiki/At_Home_Abroad) (1935) — Arthur Schwartz · words: Howard Dietz ✎
+- [*Between the Devil*](https://en.wikipedia.org/wiki/Between_the_Devil) (1937) — Arthur Schwartz · words: Howard Dietz · English
+- [*Park Avenue*](https://en.wikipedia.org/wiki/Park_Avenue_(musical%29) (1946) — Arthur Schwartz · words: Ira Gershwin, George S. Kaufman ✎
+- [*Inside U.S.A.*](https://en.wikipedia.org/wiki/Inside_U.S.A._(musical%29) (1948) — Arthur Schwartz · words: Howard Dietz, Arnold M. Auerbach ✎
+- [*A Tree Grows in Brooklyn*](https://en.wikipedia.org/wiki/A_Tree_Grows_in_Brooklyn_(musical%29) (1951) — Arthur Schwartz · words: Dorothy Fields, George Abbott · English ✎
+- [*By the Beautiful Sea*](https://en.wikipedia.org/wiki/By_the_Beautiful_Sea_(musical%29) (1954) — Arthur Schwartz · words: Dorothy Fields, Herbert Fields ✎
+- [*The Gay Life*](https://en.wikipedia.org/wiki/The_Gay_Life) (1961) — Arthur Schwartz · words: Howard Dietz, Fay Kanin ✎
+- [*Jennie*](https://en.wikipedia.org/wiki/Jennie_(musical%29) (1963) — Arthur Schwartz · words: Howard Dietz, Arnold Schulman ✎
+- [*Hollywood Pinafore*](https://en.wikipedia.org/wiki/Hollywood_Pinafore) (1945) — Arthur Sullivan · words: George S. Kaufman ✎
+- [*Memphis Bound!*](https://en.wikipedia.org/wiki/Memphis_Bound) (1945) — Arthur Sullivan · words: W. S. Gilbert, W. S. Gilbert, Clay Warnick, Don Walker ✎
+- [*The Black Mikado*](https://en.wikipedia.org/wiki/The_Black_Mikado) (1975) — Arthur Sullivan · words: W. S. Gilbert · English
+- [*Büyük Kabare*](https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Kabare) (1982) — Attila Özdemiroğlu · words: Umur Bugay (play), Aysel Gürel, Fikret Şeneş (songs)
+- [*Carib Song*](https://en.wikipedia.org/wiki/Carib_Song) (1945) — Baldwin Bergersen · words: William Archibald · English ♫
+- [*It Shoulda Been You*](https://en.wikipedia.org/wiki/It_Shoulda_Been_You) (2011) — Barbara Anselmi · words: Brian Hargrove ✎
+- [*Quilters*](https://en.wikipedia.org/wiki/Quilters_(musical%29) (1982) — Barbara Damashek · words: Molly Newman ✎
+- [*Starmites*](https://en.wikipedia.org/wiki/Starmites) (1987) — Barry Keating · words: Barry Keating ✎
+- [*Copacabana*](https://en.wikipedia.org/wiki/Copacabana_(musical%29) (1994) — Barry Manilow · words: Jack Feldman, Bruce Sussman, Barry Manilow · English ✎ ♫
+- [*Harmony*](https://en.wikipedia.org/wiki/Harmony_(musical%29) (1997) — Barry Manilow · words: Bruce Sussman ✎
+- [*Calvin Berger*](https://en.wikipedia.org/wiki/Calvin_Berger) (2006) — Barry Wyner · words: Barry Wyner ✎
+- [*Saturday Night Fever*](https://en.wikipedia.org/wiki/Saturday_Night_Fever_(musical%29) (1998) — Bee Gees and other artists · words: Bee Gees, Nan Knighton ♫
+- [*Doctor Who Live*](https://en.wikipedia.org/wiki/Doctor_Who_Live) (2010) — Ben Foster · words: Gareth Roberts · English ✎
+- [*The Greatest Showman*](https://en.wikipedia.org/wiki/The_Greatest_Showman_(musical%29) (2026) — Benj Pasek and Justin Paul · words: Benj Pasek, Justin Paul
+- [*A Christmas Story: The Musical*](https://en.wikipedia.org/wiki/A_Christmas_Story:_The_Musical) (2009) — Benj Pasek, Justin Paul · words: Benj Pasek, Justin Paul ✎ ♫
+- [*James and the Giant Peach*](https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(musical%29) (2010) — Benj Pasek, Justin Paul · words: Benj Pasek, Justin Paul ✎
+- [*Dogfight*](https://en.wikipedia.org/wiki/Dogfight_(musical%29) (2012) — Benj Pasek, Justin Paul · words: Peter Duchan ✎
+- [*Kristina från Duvemåla*](https://en.wikipedia.org/wiki/Kristina_fr%C3%A5n_Duvem%C3%A5la) (1995) — Benny Andersson · words: Björn Ulvaeus ✎
+- [*Mamma Mia!*](https://en.wikipedia.org/wiki/Mamma_Mia!_(musical%29) (1999) — Benny Andersson, Björn Ulvaeus · words: Benny Andersson, Björn Ulvaeus, Catherine Johnson · English · jukebox musical ✎
+- [*A Christmas Carol*](https://en.wikipedia.org/wiki/A_Christmas_Carol_(Shower_of_Stars%29) (1954) — Bernard Herrmann · English ♫
+- [*Pride and Prejudice*](https://en.wikipedia.org/wiki/Pride_and_Prejudice_(musical%29) (1993) — Bernard J. Taylor · words: Bernard J. Taylor · English
+- [*Nosferatu The Vampire*](https://en.wikipedia.org/wiki/Nosferatu_The_Vampire_(musical%29) — Bernard J. Taylor (Arr. by Roy Penfold, Gareth Price & Martin Smith) · words: Bernard J. Taylor
+- [*Piece of My Heart: The Bert Berns Story*](https://en.wikipedia.org/wiki/Piece_of_My_Heart:_The_Bert_Berns_Story) (2011) — Bert Berns · words: Bert Berns
+- [*Animal Crackers*](https://en.wikipedia.org/wiki/Animal_Crackers_(musical%29) (1928) — Bert Kalmar · words: Bert Kalmar, George S. Kaufman · English
+- [*But Never Jam Today*](https://en.wikipedia.org/wiki/But_Never_Jam_Today) (1979) — Bert Keyes · words: Vinnette Justine Carroll · English
+- [*Ipi Tombi*](https://en.wikipedia.org/wiki/Ipi_Tombi) (1974) — Bertha Egnos · words: Gail Lakier
+- [*Jimmy!*](https://en.wikipedia.org/wiki/Jimmy_(musical%29) (1969) — Bill Jacob · words: Melville Shavelson
+- [*Boy Meets Boy*](https://en.wikipedia.org/wiki/Boy_Meets_Boy_(musical%29) (1975) — Bill Solly · words: Bill Solly
+- [*The Billy Barnes Revue*](https://en.wikipedia.org/wiki/The_Billy_Barnes_Revue) (1959) — Billy Barnes · words: Billy Barnes, Bob Rodgers
+- [*Ballroom*](https://en.wikipedia.org/wiki/Ballroom_(musical%29) (1978) — Billy Goldenberg · words: Marilyn Bergman, Alan Bergman, Jerome Kass ✎
+- [*Movin' Out*](https://en.wikipedia.org/wiki/Movin%27_Out_(musical%29) (2002) — Billy Joel · words: Billy Joel
+- [*Linie 1*](https://en.wikipedia.org/wiki/Linie_1) (1986) — Birger Heymann · words: Volker Ludwig · German ✎
+- [*Chess*](https://en.wikipedia.org/wiki/Chess_(musical%29) (1984) — Björn Ulvaeus, Benny Andersson · words: Tim Rice · English ✎
+- [*The Times They Are A-Changin'*](https://en.wikipedia.org/wiki/The_Times_They_Are_a-Changin%27_(musical%29) (2006) — Bob Dylan · words: Bob Dylan ♫
+- [*Girl from the North Country*](https://en.wikipedia.org/wiki/Girl_from_the_North_Country_(musical%29) (2017) — Bob Dylan · words: Bob Dylan, Conor McPherson · English ✎
+- [*Peggy Sue Got Married*](https://en.wikipedia.org/wiki/Peggy_Sue_Got_Married_(musical%29) (2001) — Bob Gaudio · words: Jerry Leichtling
+- [*Jersey Boys*](https://en.wikipedia.org/wiki/Jersey_Boys) (2004) — Bob Gaudio · words: Bob Crewe, Marshall Brickman · English ✎
+- [*New Girl in Town*](https://en.wikipedia.org/wiki/New_Girl_in_Town) (1957) — Bob Merrill · words: Bob Merrill, George Abbott ✎
+- [*Take Me Along*](https://en.wikipedia.org/wiki/Take_Me_Along) (1959) — Bob Merrill · words: Bob Merrill, Joseph Stein ✎
+- [*Carnival!*](https://en.wikipedia.org/wiki/Carnival!) (1961) — Bob Merrill · words: Bob Merrill, Michael Stewart ✎
+- [*Breakfast at Tiffany's*](https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(musical%29) (1966) — Bob Merrill · words: Bob Merrill, Edward Albee · English
+- [*Henry, Sweet Henry*](https://en.wikipedia.org/wiki/Henry,_Sweet_Henry) (1967) — Bob Merrill · words: Bob Merrill, Nunnally Johnson
+- [*The Gospel at Colonus*](https://en.wikipedia.org/wiki/The_Gospel_at_Colonus) (1983) — Bob Telson · words: Lee Breuer, Bob Telson · English
+- [*Chronicle of a Death Foretold*](https://en.wikipedia.org/wiki/Chronicle_of_a_Death_Foretold_(musical%29) (1995) — Bob Telson · words: Graciela Daniele, Graciela Daniele, Jim Lewis, Michael John LaChiusa (additional lyrics) ✎
+- [*Daddy Cool*](https://en.wikipedia.org/wiki/Daddy_Cool_(musical%29) (2006) — Boney M., Frank Farian · words: Boney M., Frank Farian ✎
+- [*Taboo*](https://en.wikipedia.org/wiki/Taboo_(musical%29) (2002) — Boy George · words: Boy George ✎ ♫
+- [*Lend Me A Tenor*](https://en.wikipedia.org/wiki/Lend_Me_a_Tenor_(musical%29) (2010) — Brad Carroll · words: Peter Sham
+- [*Right This Way*](https://en.wikipedia.org/wiki/Right_This_Way) (1938) — Brad Greene, Fabian Storey · words: Marianne Brown Waters · English
+- [*Shucked*](https://en.wikipedia.org/wiki/Shucked) (2022) — Brandy Clark, Shane McAnally · words: Robert Horn ✎
+- [*The Woman Upstairs*](https://en.wikipedia.org/wiki/The_Woman_Upstairs_(musical%29) — Bree Lowdermilk · words: Kait Kerrigan
+- [*The Color Purple*](https://en.wikipedia.org/wiki/The_Color_Purple_(musical%29) (2005) — Brenda Russell · words: Marsha Norman ✎ ♫
+- [*Sleeping Beauty Wakes*](https://en.wikipedia.org/wiki/Sleeping_Beauty_Wakes) (2007) — Brendan Milburn · words: Gene Lewin, Rachel Sheinkin
+- [*Late Nite Comic*](https://en.wikipedia.org/wiki/Late_Nite_Comic) (1987) — Brian Gari · words: Allan Knee
+- [*First Wives Club*](https://en.wikipedia.org/wiki/First_Wives_Club_(musical%29) (2009) — Brian Holland · words: Brian Holland, Linda Bloodworth-Thomason
+- [*Good Vibrations*](https://en.wikipedia.org/wiki/Good_Vibrations_(musical%29) (2005) — Brian Wilson · words: Brian Wilson, Richard Dresser
+- [*Breast Wishes*](https://en.wikipedia.org/wiki/Breast_Wishes) — Bruce Brown · words: Bruce Brown ♫
+- [*The Ballad of Angel's Alley*](https://en.wikipedia.org/wiki/The_Ballad_of_Angel%27s_Alley) (1958) — Bruce George · words: Jeff Underhill
+- [*SCKBSTD*](https://en.wikipedia.org/wiki/SCKBSTD) (2011) — Bruce Hornsby · words: Bruce Hornsby, Bruce Hornsby, Chip deMatteo ♫
+- [*The Amorous Flea*](https://en.wikipedia.org/wiki/The_Amorous_Flea) (1964) — Bruce Montgomery · words: Bruce Montgomery ✎
+- [*Pretty Woman: The Musical*](https://en.wikipedia.org/wiki/Pretty_Woman_(musical%29) (2018) — Bryan Adams · words: Bryan Adams, Jim Vallance
+- [*Buddy – The Buddy Holly Story*](https://en.wikipedia.org/wiki/Buddy:_The_Buddy_Holly_Story) (1989) — Buddy Holly and others · words: Alan Janes ✎ ♫
+- [*Medora Musical*](https://en.wikipedia.org/wiki/Medora_Musical) (1965) — Burning Hills Singers, Coal Diggers Band
+- [*Promises, Promises*](https://en.wikipedia.org/wiki/Promises,_Promises_(musical%29) (1968) — Burt Bacharach · words: Hal David, Neil Simon ✎ ♫
+- [*Baby It's You!*](https://en.wikipedia.org/wiki/Baby_It%27s_You!) (2009) — Burt Bacharach · words: Floyd Mutrux ✎
+- [*Finian's Rainbow*](https://en.wikipedia.org/wiki/Finian%27s_Rainbow) (1947) — Burton Lane · words: Yip Harburg, Fred Saidy · English ✎
+- [*On a Clear Day You Can See Forever*](https://en.wikipedia.org/wiki/On_a_Clear_Day_You_Can_See_Forever) (1965) — Burton Lane · words: Alan Jay Lerner · English ✎
+- [*Carmelina*](https://en.wikipedia.org/wiki/Carmelina) (1979) — Burton Lane · words: Alan Jay Lerner, Joseph Stein ✎
+- [*Hold On to Your Hats*](https://en.wikipedia.org/wiki/Hold_On_to_Your_Hats) — Burton Lane · words: E. Y. Harburg ✎
+- [*Laffing Room Only*](https://en.wikipedia.org/wiki/Laffing_Room_Only) — Burton Lane · words: Burton Lane
+- [*Fritzi*](https://en.wikipedia.org/wiki/Fritzi_(musical%29) (1935) — Carl Tucker · words: Arthur Stanley ✎ ♫
+- [*Bugs Bunny on Broadway*](https://en.wikipedia.org/wiki/Bugs_Bunny_on_Broadway) (1990) — Carl W. Stalling · words: George Daugherty
+- [*Paradise Island*](https://en.wikipedia.org/wiki/Paradise_Island_(musical%29) — Carmen Lombardo and John Jacob Loeb · words: Carmen Lombardo and John Jacob Loeb
+- [*The Best Little Whorehouse in Texas*](https://en.wikipedia.org/wiki/The_Best_Little_Whorehouse_in_Texas) (1978) — Carol Hall · words: Peter Masterson, Larry L. King ✎
+- [*The Best Little Whorehouse Goes Public*](https://en.wikipedia.org/wiki/The_Best_Little_Whorehouse_Goes_Public) (1994) — Carol Hall · words: Carol Hall, Larry L. King
+- [*Really Rosie*](https://en.wikipedia.org/wiki/Really_Rosie) (1975) — Carole King · words: Maurice Sendak ✎
+- [*¡Americano!*](https://en.wikipedia.org/wiki/%C2%A1Americano!_(musical%29) (2020) — Carrie Rodriguez · words: Michael Barnard, Fernanda Santos ✎
+- [*Keating!*](https://en.wikipedia.org/wiki/Keating!) (2005) — Casey Bennetto · words: Casey Bennetto ✎
+- [*Dreamtime*](https://en.wikipedia.org/wiki/Dreamtime_(musical%29) (1992) — Cerrone · words: David Niles ✎
+- [*Afgar*](https://en.wikipedia.org/wiki/Afgar) (1919) — Charles Cuvillier · words: Douglas Furber, Fred Thompson ✎
+- [*The Defender*](https://en.wikipedia.org/wiki/The_Defender_(musical%29) — Charles Dennée · English
+- [*Lend an Ear*](https://en.wikipedia.org/wiki/Lend_an_Ear) (1948) — Charles Gaynor · words: Charles Gaynor
+- [*Bye Bye Birdie*](https://en.wikipedia.org/wiki/Bye_Bye_Birdie) (1960) — Charles Strouse · words: Lee Adams, Michael Stewart ✎ ♫
+- [*All American*](https://en.wikipedia.org/wiki/All_American_(musical%29) (1962) — Charles Strouse · words: Lee Adams, Mel Brooks · English ✎
+- [*Golden Boy*](https://en.wikipedia.org/wiki/Golden_Boy_(musical%29) (1964) — Charles Strouse · words: Lee Adams, Clifford Odets
+- [*It's a Bird...It's a Plane...It's Superman*](https://en.wikipedia.org/wiki/It%27s_a_Bird..._It%27s_a_Plane..._It%27s_Superman) (1966) — Charles Strouse · words: Lee Adams, Robert Benton, David Newman ✎
+- [*Applause*](https://en.wikipedia.org/wiki/Applause_(musical%29) (1970) — Charles Strouse · words: Lee Adams, Betty Comden, Adolph Green ✎
+- [*I and Albert*](https://en.wikipedia.org/wiki/I_and_Albert) (1972) — Charles Strouse · words: Lee Adams ✎
+- [*Annie*](https://en.wikipedia.org/wiki/Annie_(musical%29) (1977) — Charles Strouse · words: Martin Charnin, Thomas Meehan · English ✎ ♫
+- [*A Broadway Musical*](https://en.wikipedia.org/wiki/A_Broadway_Musical) (1978) — Charles Strouse · words: Lee Adams, William F. Brown
+- [*Charlie and Algernon*](https://en.wikipedia.org/wiki/Charlie_and_Algernon) (1978) — Charles Strouse · words: David Rogers
+- [*Bring Back Birdie*](https://en.wikipedia.org/wiki/Bring_Back_Birdie) (1981) — Charles Strouse · words: Lee Adams, Michael Stewart ✎
+- [*Nightingale*](https://en.wikipedia.org/wiki/Nightingale_(children%27s_opera%29) (1982) — Charles Strouse · words: Charles Strouse · English ✎
+- [*Dance a Little Closer*](https://en.wikipedia.org/wiki/Dance_a_Little_Closer) (1983) — Charles Strouse · words: Alan Jay Lerner
+- [*Rags*](https://en.wikipedia.org/wiki/Rags_(musical%29) (1986) — Charles Strouse · words: Stephen Schwartz, Joseph Stein ✎ ♫
+- [*Nick & Nora*](https://en.wikipedia.org/wiki/Nick_%26_Nora_(musical%29) (1991) — Charles Strouse · words: Richard Maltby, Jr., Arthur Laurents
+- [*Annie Warbucks*](https://en.wikipedia.org/wiki/Annie_Warbucks) (1993) — Charles Strouse · words: Martin Charnin, Thomas Meehan
+- [*An American Tragedy*](https://en.wikipedia.org/wiki/An_American_Tragedy_(musical%29) (1995) — Charles Strouse · words: Lee Adams, David Shaber
+- [*Marty*](https://en.wikipedia.org/wiki/Marty_(musical%29) (2002) — Charles Strouse · words: Lee Adams
+- [*Minsky's*](https://en.wikipedia.org/wiki/Minsky%27s) (2009) — Charles Strouse · words: Susan Birkenhead, Bob Martin ✎
+- [*Charlotte's Web*](https://en.wikipedia.org/wiki/Charlotte%27s_Web_(musical%29) — Charles Strouse · words: Charles Strouse · English ✎
+- [*Mayor*](https://en.wikipedia.org/wiki/Mayor_(musical%29) — Charles Strouse · words: Warren Leight
+- [*Blue Mountains Melody*](https://en.wikipedia.org/wiki/Blue_Mountain_Melody) (1934) — Charles Zwar · words: Jimmy Bancks · English
+- [*The Wiz*](https://en.wikipedia.org/wiki/The_Wiz) (1974) — Charlie Smalls · words: William F. Brown · English ✎ ♫
+- [*Ópera do Malandro*](https://en.wikipedia.org/wiki/%C3%93pera_do_Malandro) — Chico Buarque · words: Chico Buarque · Portuguese
+- [*The Great Mystical Circus*](https://en.wikipedia.org/wiki/The_Great_Mystical_Circus) — Chico Buarque, Edu Lobo
+- [*Beach Blanket Tempest*](https://en.wikipedia.org/wiki/Beach_Blanket_Tempest) (1984) — Chris Harriott · words: Dennis Watkins · English
+- [*Pearls Before Swine*](https://en.wikipedia.org/wiki/Pearls_Before_Swine_(musical%29) (1986) — Chris Harriott · words: Dennis Watkins
+- [*Burger Brain - The Fast Food Musical*](https://en.wikipedia.org/wiki/Burger_Brain_-_The_Fast_Food_Musical) (1988) — Chris Harriott · words: Dennis Watkins
+- [*36 Questions*](https://en.wikipedia.org/wiki/36_Questions) (2017) — Chris Littler and Ellen Winter · words: Chris Littler and Ellen Winter · English ✎ ♫
+- [*Tuck Everlasting*](https://en.wikipedia.org/wiki/Tuck_Everlasting_(musical%29) (2015) — Chris Miller · words: Nathan Tysen · English ✎
+- [*Home and Away: The Musical*](https://en.wikipedia.org/wiki/Home_and_Away:_The_Musical) (1991) — Chris Summerfield · words: Olu Rowe ✎ ♫
+- [*Burlesque*](https://en.wikipedia.org/wiki/Burlesque_(musical%29) (2024) — Christina Aguilera, Sia, Diane Warren, Todrick Hall · words: Christina Aguilera, Diane Warren, Sia, Todrick Hall, Steve Antin · English ✎
+- [*Chaplin*](https://en.wikipedia.org/wiki/Chaplin_(2006_musical%29) (2006) — Christopher Curtis · words: Christopher Curtis, Thomas Meehan · English
+- [*Amazing Grace*](https://en.wikipedia.org/wiki/Amazing_Grace_(musical%29) (2012) — Christopher Smith · words: Christopher Smith ✎ ♫
+- [*Bucket of Blood*](https://en.wikipedia.org/wiki/Bucket_of_Blood_(musical%29) (2009) — Chuck Malone ✎
+- [*Bubble Boy*](https://en.wikipedia.org/wiki/Bubble_Boy_(musical%29) (2013) — Cinco Paul · words: Cinco Paul ✎
+- [*Schmigadoon!*](https://en.wikipedia.org/wiki/Schmigadoon!_(musical%29) (2025) — Cinco Paul · words: Cinco Paul ✎
+- [*The Grass Harp*](https://en.wikipedia.org/wiki/The_Grass_Harp_(musical%29) (1966) — Claibe Richardson · words: Kenward Elmslie ✎
+- [*Ani*](https://en.wikipedia.org/wiki/Ani_(musical%29) (2014) — Clark Baxtresser, Pierce Siebers · words: Matt Lang, Nick Lang ✎
+- [*A Very Potter Senior Year*](https://en.wikipedia.org/wiki/A_Very_Potter_Senior_Year) (2012) — Clark Baxtresser, Pierce Siebers, A. J. Holmes · words: Clark Baxtresser, Pierce Siebers, A. J. Holmes · English ✎
+- [*You're a Good Man, Charlie Brown*](https://en.wikipedia.org/wiki/You%27re_a_Good_Man,_Charlie_Brown) (1967) — Clark Gesner · words: Clark Gesner ✎
+- [*The Utter Glory of Morrissey Hall*](https://en.wikipedia.org/wiki/The_Utter_Glory_of_Morrissey_Hall) (1979) — Clark Gesner · words: Clark Gesner ✎ ♫
+- [*Belles belles belles*](https://en.wikipedia.org/wiki/Belles_belles_belles) (2003) — Claude François, Jean-Pierre Bourtayre, Carolin Petit · words: Daniel Moyne, Claude François, Jean-Pierre Bourtayre · French · jukebox musical ✎ ♫
+- [*Les Misérables*](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical%29) (1980) — Claude-Michel Schönberg · words: Alain Boublil, Jean-Claude Lucchetti · French ✎
+- [*Miss Saigon*](https://en.wikipedia.org/wiki/Miss_Saigon) (1989) — Claude-Michel Schönberg · words: Alain Boublil, Claude-Michel Schönberg · English ✎
+- [*Martin Guerre*](https://en.wikipedia.org/wiki/Martin_Guerre_(musical%29) (1996) — Claude-Michel Schönberg · words: Alain Boublil, Claude-Michel Schönberg ✎
+- [*The Pirate Queen*](https://en.wikipedia.org/wiki/The_Pirate_Queen) (2006) — Claude-Michel Schönberg · words: Alain Boublil ✎
+- [*See America First*](https://en.wikipedia.org/wiki/See_America_First) (1916) — Cole Porter · words: T. Lawrason Riggs ✎
+- [*A Night Out*](https://en.wikipedia.org/wiki/A_Night_Out_(musical%29) (1920) — Cole Porter, Willy Redstone · words: Clifford Grey, George Grossmith Jr. · English ✎ ♫
+- [*Paris*](https://en.wikipedia.org/wiki/Paris_(1928_musical%29) (1928) — Cole Porter · words: Cole Porter, Cole Porter, E. Ray Goetz, Roy Turk ✎
+- [*Fifty Million Frenchmen*](https://en.wikipedia.org/wiki/Fifty_Million_Frenchmen) (1929) — Cole Porter · words: Cole Porter, Herbert Fields · English ✎
+- [*Wake Up and Dream*](https://en.wikipedia.org/wiki/Wake_Up_and_Dream_(musical%29) (1929) — Cole Porter · words: Cole Porter · English ✎
+- [*The New Yorkers*](https://en.wikipedia.org/wiki/The_New_Yorkers) (1930) — Cole Porter · words: Herbert Fields · English ✎
+- [*Gay Divorce*](https://en.wikipedia.org/wiki/Gay_Divorce) (1932) — Cole Porter · words: Cole Porter, Dwight Taylor · English ✎
+- [*Nymph Errant*](https://en.wikipedia.org/wiki/Nymph_Errant) (1933) — Cole Porter · words: Romney Brent ✎
+- [*Anything Goes*](https://en.wikipedia.org/wiki/Anything_Goes) (1934) — Cole Porter · words: Cole Porter, P. G. Wodehouse, Guy Bolton · English ✎ ♫
+- [*Jubilee*](https://en.wikipedia.org/wiki/Jubilee_(musical%29) (1935) — Cole Porter · words: Cole Porter, Moss Hart · English ✎
+- [*Red, Hot and Blue*](https://en.wikipedia.org/wiki/Red,_Hot_and_Blue) (1936) — Cole Porter · words: Cole Porter, Russel Crouse, Howard Lindsay ✎
+- [*Leave It to Me!*](https://en.wikipedia.org/wiki/Leave_It_to_Me!) (1938) — Cole Porter · words: Cole Porter, Samuel and Bella Spewack · English ✎
+- [*You Never Know*](https://en.wikipedia.org/wiki/You_Never_Know_(musical%29) (1938) — Cole Porter · words: Cole Porter, Edwin Gilbert, Rowland Leigh · English ✎
+- [*DuBarry Was a Lady*](https://en.wikipedia.org/wiki/Du_Barry_Was_a_Lady) (1939) — Cole Porter · words: Herbert Fields ✎
+- [*Panama Hattie*](https://en.wikipedia.org/wiki/Panama_Hattie) (1940) — Cole Porter · words: Cole Porter, Buddy DeSylva, Herbert Fields · English ✎
+- [*Let's Face It!*](https://en.wikipedia.org/wiki/Let%27s_Face_It!) (1941) — Cole Porter · words: Herbert Fields · English ✎
+- [*Something for the Boys*](https://en.wikipedia.org/wiki/Something_for_the_Boys) (1943) — Cole Porter · words: Cole Porter, Herbert Fields ✎
+- [*Mexican Hayride*](https://en.wikipedia.org/wiki/Mexican_Hayride_(musical%29) (1944) — Cole Porter · words: Cole Porter, Herbert Fields · English
+- [*Around the World*](https://en.wikipedia.org/wiki/Around_the_World_(musical%29) (1946) — Cole Porter · words: Orson Welles ✎
+- [*Kiss Me, Kate*](https://en.wikipedia.org/wiki/Kiss_Me,_Kate) (1948) — Cole Porter · words: Cole Porter, Samuel and Bella Spewack · English ✎
+- [*Out of This World*](https://en.wikipedia.org/wiki/Out_of_This_World_(musical%29) (1950) — Cole Porter · words: Dwight Taylor ✎
+- [*Can-Can*](https://en.wikipedia.org/wiki/Can-Can_(musical%29) (1953) — Cole Porter · words: Abe Burrows · English ✎
+- [*Silk Stockings*](https://en.wikipedia.org/wiki/Silk_Stockings) (1955) — Cole Porter · words: Cole Porter, George S. Kaufman ✎
+- [*Happy New Year*](https://en.wikipedia.org/wiki/Happy_New_Year_(musical%29) (1980) — Cole Porter · words: Burt Shevelove ✎
+- [*High Society*](https://en.wikipedia.org/wiki/High_Society_(musical%29) (1997) — Cole Porter · words: Cole Porter, Arthur Kopit ✎
+- [*Love, Linda: The Life of Mrs. Cole Porter*](https://en.wikipedia.org/wiki/Love,_Linda:_The_Life_of_Mrs._Cole_Porter) (2009) — Cole Porter · words: Cole Porter, Stevie Holland
+- [*Hitchy-Koo*](https://en.wikipedia.org/wiki/Hitchy-Koo) — Cole Porter · words: George V. Hobart
+- [*Jabberwocky*](https://en.wikipedia.org/wiki/Jabberwocky_(musical%29) (1973) — Conceived and written by Andrew Kay, Malcolm Middleton & Peter Phillips, with additional material by Rick Best, Robert Kay, Marian Arnold & Phil Young, band arrangements by Rick Best & Phil Young ✎ ♫
+- [*Is there life after high school?*](https://en.wikipedia.org/wiki/Is_There_Life_After_High_School%3F) (1982) — Craig Carnelia · words: Craig Carnelia
+- [*Wildcat*](https://en.wikipedia.org/wiki/Wildcat_(musical%29) (1960) — Cy Coleman · words: Carolyn Leigh, N. Richard Nash ✎ ♫
+- [*Little Me*](https://en.wikipedia.org/wiki/Little_Me_(musical%29) (1962) — Cy Coleman · words: Carolyn Leigh, Neil Simon ✎ ♫
+- [*Seesaw*](https://en.wikipedia.org/wiki/Seesaw_(musical%29) (1973) — Cy Coleman · words: Dorothy Fields, Michael Bennett
+- [*I Love My Wife*](https://en.wikipedia.org/wiki/I_Love_My_Wife) (1977) — Cy Coleman · words: Michael Stewart ✎
+- [*On the Twentieth Century*](https://en.wikipedia.org/wiki/On_the_Twentieth_Century) (1978) — Cy Coleman · words: Betty Comden, Adolph Green ✎
+- [*Barnum*](https://en.wikipedia.org/wiki/Barnum_(musical%29) (1980) — Cy Coleman · words: Michael Stewart ✎
+- [*City of Angels*](https://en.wikipedia.org/wiki/City_of_Angels_(musical%29) (1989) — Cy Coleman · words: David Zippel, Larry Gelbart · English ✎ ♫
+- [*Sweet Charity*](https://en.wikipedia.org/wiki/Sweet_Charity) (1989) — Cy Coleman · words: Dorothy Fields, Neil Simon ✎ ♫
+- [*Welcome to the Club*](https://en.wikipedia.org/wiki/Welcome_to_the_Club_(musical%29) (1989) — Cy Coleman · words: Cy Coleman, A. E. Hotchner
+- [*The Life (musical)*](https://en.wikipedia.org/wiki/The_Life_(musical%29) (1990) — Cy Coleman · words: Ira Gasman ✎
+- [*The Will Rogers Follies*](https://en.wikipedia.org/wiki/The_Will_Rogers_Follies) (1991) — Cy Coleman · words: Betty Comden, Peter Stone ✎
+- [*Exactly Like You*](https://en.wikipedia.org/wiki/Exactly_Like_You_(musical%29) — Cy Coleman
+- [*Kinky Boots*](https://en.wikipedia.org/wiki/Kinky_Boots_(musical%29) (2012) — Cyndi Lauper · words: Harvey Fierstein ✎
+- [*Pickwick*](https://en.wikipedia.org/wiki/Pickwick_(musical%29) (1963) — Cyril Ornadel · words: Leslie Bricusse, Wolf Mankowitz · English ✎
+- [*Wonder.land*](https://en.wikipedia.org/wiki/Wonder.land) (2015) — Damon Albarn · words: Moira Buffini · English ✎
+- [*Bare: A Pop Opera*](https://en.wikipedia.org/wiki/Bare:_A_Pop_Opera) (2000) — Damon Intrabartolo · words: Jon Hartmere · English ✎
+- [*Bare: The Musical*](https://en.wikipedia.org/wiki/Bare:_The_Musical) (2012) — Damon Intrabartolo, Lynne Shankel (additional music) · words: Jon Hartmere · English ♫
+- [*Everybody’s Talking About Jamie*](https://en.wikipedia.org/wiki/Everybody%27s_Talking_About_Jamie) (2017) — Dan Gillespie Sells · words: Tom MacRae · English ✎
+- [*Nunsense*](https://en.wikipedia.org/wiki/Nunsense) (1985) — Dan Goggin · words: Dan Goggin ✎
+- [*The Confession Room*](https://en.wikipedia.org/wiki/The_Confession_Room) (2014) — Dan Looney · words: Patrick Wilde ✎ ♫
+- [*Reefer Madness*](https://en.wikipedia.org/wiki/Reefer_Madness_(musical%29) (1998) — Dan Studney · words: Kevin Murphy ✎ ♫
+- [*Zombie Prom*](https://en.wikipedia.org/wiki/Zombie_Prom) (1993) — Dana P. Rowe · words: John Dempsey ✎ ♫
+- [*The Fix*](https://en.wikipedia.org/wiki/The_Fix_(musical%29) (1997) — Dana P. Rowe · words: John Dempsey ✎
+- [*The Witches of Eastwick*](https://en.wikipedia.org/wiki/The_Witches_of_Eastwick_(musical%29) (2000) — Dana P. Rowe · words: John Dempsey ✎
+- [*Follow the Girls*](https://en.wikipedia.org/wiki/Follow_the_Girls) (1944) — Daniel B. Shapiro · words: Daniel B. Shapiro, Guy Bolton
+- [*A Change in the Heir*](https://en.wikipedia.org/wiki/A_Change_in_the_Heir) — Daniel C Sticco · words: George H Gorham ✎
+- [*Anna Karenina*](https://en.wikipedia.org/wiki/Anna_Karenina_(musical%29) (1992) — Daniel Levine · words: Peter Kellogg · English ✎
+- [*Amélie*](https://en.wikipedia.org/wiki/Am%C3%A9lie_(musical%29) (2015) — Daniel Messé · words: Nathan Tysen, Craig Lucas ✎
+- [*Prelude to a Kiss*](https://en.wikipedia.org/wiki/Prelude_to_a_Kiss_(musical%29) (2024) — Daniel Messé · words: Sean Hartley, Daniel Messé
+- [*Fancy Nancy the Musical*](https://en.wikipedia.org/wiki/Fancy_Nancy_the_Musical) (2012) — Danny Abosch · words: Susan DiLallo and Danny Abosch ✎ ♫
+- [*Goosebumps The Musical*](https://en.wikipedia.org/wiki/Goosebumps_The_Musical) (2016) — Danny Abosch · words: John Maclay and Danny Abosch ✎
+- [*Your Own Thing*](https://en.wikipedia.org/wiki/Your_Own_Thing) (1968) — Danny Apolinar, Hal Hester · words: Danny Apolinar, Hal Hester, Donald Driver · English ✎
+- [*Strike!*](https://en.wikipedia.org/wiki/Strike!_(musical%29) (2005) — Danny Schur · words: Danny Schur
+- [*Ruža na asfaltu (The Asphalt Rose)*](https://en.wikipedia.org/wiki/Ru%C5%BEa_na_asfaltu) (2007) — Darko Hajsek · words: Darko Hajsek, Ladislav Prežigalo · Croatian ✎
+- [*The Curious Case of Benjamin Button*](https://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(musical%29) (2019) — Darren Clark · words: Darren Clark, Jethro Compton ✎
+- [*A Very Potter Musical*](https://en.wikipedia.org/wiki/A_Very_Potter_Musical) (2009) — Darren Criss · words: Darren Criss, A. J. Holmes · English ✎
+- [*Me and My Dick*](https://en.wikipedia.org/wiki/Me_and_My_Dick) (2009) — Darren Criss, Carlos Valdez, A.J. Holmes · words: Darren Criss, Carlos Valdez, A.J. Holmes, A.J. Holmes, Carlos Valdes, Darren Criss · English ✎
+- [*A Very Potter Sequel*](https://en.wikipedia.org/wiki/A_Very_Potter_Sequel) (2010) — Darren Criss · words: Darren Criss · English ✎
+- [*Starship*](https://en.wikipedia.org/wiki/Starship_(musical%29) (2011) — Darren Criss · words: Darren Criss ✎
+- [*Bring in 'da Noise, Bring in 'da Funk*](https://en.wikipedia.org/wiki/Bring_in_%27da_Noise,_Bring_in_%27da_Funk) (1995) — Daryl Waters, Zane Mark, Ann Duquesnay · words: Reg E. Gaines, George C. Wolfe, Ann Duquesnay
+- [*Natasha, Pierre and the Great Comet of 1812*](https://en.wikipedia.org/wiki/Natasha,_Pierre_%26_The_Great_Comet_of_1812) (2012) — Dave Malloy · words: Dave Malloy · English ✎ ♫
+- [*Ghost Quartet*](https://en.wikipedia.org/wiki/Ghost_Quartet) (2014) — Dave Malloy · words: Dave Malloy ✎
+- [*Moby-Dick*](https://en.wikipedia.org/wiki/Moby-Dick_(2019_musical%29) (2014) — Dave Malloy · words: Dave Malloy
+- [*Preludes*](https://en.wikipedia.org/wiki/Preludes_(musical%29) (2015) — Dave Malloy · words: Dave Malloy ✎
+- [*The Witches*](https://en.wikipedia.org/wiki/The_Witches_(musical%29) (2023) — Dave Malloy · words: Dave Malloy, Lucy Kirkwood
+- [*Three Houses*](https://en.wikipedia.org/wiki/Three_Houses_(musical%29) (2024) — Dave Malloy · words: Dave Malloy ✎
+- [*Black Swan*](https://en.wikipedia.org/wiki/Black_Swan_(musical%29) (2026) — Dave Malloy · words: Dave Malloy ✎
+- [*Zig-Zag!*](https://en.wikipedia.org/wiki/Zig-Zag!) (1917) — Dave Stamper · words: Gene Buck, Albert de Courville
+- [*Barbarella*](https://en.wikipedia.org/wiki/Barbarella_(musical%29) (2004) — David A. Stewart · words: David A. Stewart, Rudi Klausnitzer ✎ ♫
+- [*Ghost*](https://en.wikipedia.org/wiki/Ghost_(musical%29) (2011) — David A. Stewart, Glen Ballard · words: Bruce Joel Rubin ✎
+- [*Made in Dagenham*](https://en.wikipedia.org/wiki/Made_in_Dagenham_(musical%29) (2014) — David Arnold · words: Richard Thomas, Richard Bean ✎
+- [*Come Summer*](https://en.wikipedia.org/wiki/Come_Summer) (1969) — David Baker · words: Will Holt
+- [*Lazarus*](https://en.wikipedia.org/wiki/Lazarus_(musical%29) (2015) — David Bowie · words: Enda Walsh ✎
+- [*The Toxic Avenger*](https://en.wikipedia.org/wiki/The_Toxic_Avenger_(musical%29) (2008) — David Bryan · words: Joe DiPietro ✎
+- [*Diana*](https://en.wikipedia.org/wiki/Diana_(musical%29) (2019) — David Bryan · words: David Bryan, Joe DiPietro ✎
+- [*Memphis*](https://en.wikipedia.org/wiki/Memphis_(musical%29) — David Bryan · words: Joe DiPietro ✎
+- [*Here Lies Love*](https://en.wikipedia.org/wiki/Here_Lies_Love_(musical%29) (2013) — David Byrne · words: David Byrne · English ✎ ♫
+- [*Scarrie! The Musical*](https://en.wikipedia.org/wiki/Scarrie!_The_Musical) (1998) — David Cerda · words: David Cerda
+- [*Operation Mincemeat*](https://en.wikipedia.org/wiki/Operation_Mincemeat_(musical%29) (2019) — David Cumming, Felix Hagan, Natasha Hodgson, Zoë Roberts · words: David Cumming, Felix Hagan, Natasha Hodgson, Zoë Roberts · English ✎
+- [*Birds of Paradise*](https://en.wikipedia.org/wiki/Birds_of_Paradise_(musical%29) (1987) — David Evans · words: Winnie Holzman ✎
+- [*Children's Letters to God*](https://en.wikipedia.org/wiki/Children%27s_Letters_to_God) (2004) — David Evans · words: Stuart E. Hample ✎
+- [*Boop! The Musical*](https://en.wikipedia.org/wiki/Boop!_The_Musical) (2023) — David Foster · words: Susan Birkenhead · English ✎
+- [*Desperate Measures*](https://en.wikipedia.org/wiki/Desperate_Measures_(musical%29) (2004) — David Friedman · words: Peter Kellogg ✎
+- [*Half a Sixpence*](https://en.wikipedia.org/wiki/Half_a_Sixpence) (1963) — David Heneker · words: David Heneker, Alan Beverley Cross · English ✎
+- [*Charlie Girl*](https://en.wikipedia.org/wiki/Charlie_Girl) (1965) — David Heneker · words: David Heneker, Hugh Williams ✎
+- [*The Biograph Girl*](https://en.wikipedia.org/wiki/The_Biograph_Girl) (1980) — David Heneker · words: Warner Brown, David Heneker ✎
+- [*Half a Sixpence*](https://en.wikipedia.org/wiki/Half_a_Sixpence_(2016_musical%29) (2016) — David Heneker, George Stiles · words: Anthony Drewe, David Heneker, Julian Fellowes · English
+- [*Vanities, A New Musical*](https://en.wikipedia.org/wiki/Vanities,_A_New_Musical) (2006) — David Kirshenbaum · words: David Kirshenbaum · English ✎
+- [*Our Man Crichton*](https://en.wikipedia.org/wiki/Our_Man_Crichton) (1964) — David Lee · words: Herbert Kretzmer
+- [*Plague! The Musical*](https://en.wikipedia.org/wiki/Plague!_The_Musical) (2008) — David Massingham, Matt Townend · words: David Massingham, Matt Townend ✎
+- [*Waltzing the Wilarra*](https://en.wikipedia.org/wiki/Waltzing_the_Wilarra) (2011) — David Milroy
+- [*Panawathi Girl*](https://en.wikipedia.org/wiki/Panawathi_Girl) (2022) — David Milroy · words: David Milroy
+- [*The Great American Trailer Park Musical*](https://en.wikipedia.org/wiki/The_Great_American_Trailer_Park_Musical) (2005) — David Nehls · words: David Nehls ✎
+- [*Little Tramp*](https://en.wikipedia.org/wiki/Little_Tramp_(musical%29) (1995) — David Pomeranz · words: David Pomeranz ✎
+- [*Scandalous: The Life and Trials of Aimee Semple McPherson*](https://en.wikipedia.org/wiki/Scandalous:_The_Life_and_Trials_of_Aimee_Semple_McPherson) (2005) — David Pomeranz, David Friedman · words: Kathie Lee Gifford
+- [*Seven Little Australians*](https://en.wikipedia.org/wiki/Seven_Little_Australians_(musical%29) (1988) — David Reeves · words: John Palmer and David Reeves · English
+- [*The Griswolds' Broadway Vacation*](https://en.wikipedia.org/wiki/The_Griswolds%27_Broadway_Vacation) (2022) — David Rossmer and Steve Rosen · words: David Rossmer and Steve Rosen
+- [*50 First Dates*](https://en.wikipedia.org/wiki/50_First_Dates_(musical%29) (2025) — David Rossmer, Steve Rosen · words: David Rossmer, Steve Rosen
+- [*Baby*](https://en.wikipedia.org/wiki/Baby_(musical%29) (1983) — David Shire · words: Richard Maltby, Jr., Sybille Pearson ✎
+- [*Closer Than Ever*](https://en.wikipedia.org/wiki/Closer_Than_Ever) (1989) — David Shire · words: Richard Maltby, Jr.
+- [*Big (musical)*](https://en.wikipedia.org/wiki/Big_(musical%29) (1996) — David Shire · words: Richard Maltby, Jr., John Weidman ✎
+- [*Take Flight*](https://en.wikipedia.org/wiki/Take_Flight_(musical%29) (2007) — David Shire · words: Richard Maltby, Jr., John Weidman
+- [*Ranked*](https://en.wikipedia.org/wiki/Ranked_(musical%29) — David Taylor Gomes · words: David Taylor Gomes ♫
+- [*Bark! The Musical*](https://en.wikipedia.org/wiki/Bark!_The_Musical) — David Troy Francis · words: Gavin Geoffrey Dillard and Robert Schrock ✎
+- [*The Gingerbread Man*](https://en.wikipedia.org/wiki/The_Gingerbread_Man_(Wood_musical%29) — David Wood · words: David Wood
+- [*The Full Monty*](https://en.wikipedia.org/wiki/The_Full_Monty_(musical%29) (2000) — David Yazbek · words: David Yazbek, Terrence McNally ✎
+- [*Women on the Verge of a Nervous Breakdown*](https://en.wikipedia.org/wiki/Women_on_the_Verge_of_a_Nervous_Breakdown_(musical%29) (2010) — David Yazbek · words: David Yazbek, Jeffrey Lane ✎
+- [*The Band's Visit*](https://en.wikipedia.org/wiki/The_Band%27s_Visit_(musical%29) (2016) — David Yazbek · words: Itamar Moses ✎
+- [*Tootsie*](https://en.wikipedia.org/wiki/Tootsie_(musical%29) (2018) — David Yazbek · words: David Yazbek, Robert Horn · English ✎ ♫
+- [*Dirty Rotten Scoundrels*](https://en.wikipedia.org/wiki/Dirty_Rotten_Scoundrels_(musical%29) (2024) — David Yazbek · words: David Yazbek, Jeffrey Lane · English ✎
+- [*Dead Outlaw*](https://en.wikipedia.org/wiki/Dead_Outlaw) (2024) — David Yazbek, Erik Della Penna · words: David Yazbek, Erik Della Penna ✎
+- [*Bullets and Daffodils*](https://en.wikipedia.org/wiki/Bullets_and_Daffodils) (2010) — Dean Johnson · words: Wilfred Owen, Dean Johnson
+- [*Nativity! The Musical*](https://en.wikipedia.org/wiki/Nativity!_The_Musical) (2017) — Debbie Isitt, Nicky Ager · words: Debbie Isitt, Nicky Ager · English
+- [*Radiant Baby*](https://en.wikipedia.org/wiki/Radiant_Baby) — Debra Barsha · words: Ira Gasman, Stuart Ross, Debra Barsha
+- [*A Saint She Ain't*](https://en.wikipedia.org/wiki/A_Saint_She_Ain%27t) (1999) — Denis King · words: Dick Vosburgh ✎ ♫
+- [*The 101 Dalmatians Musical*](https://en.wikipedia.org/wiki/The_101_Dalmatians_Musical) (2009) — Dennis DeYoung · words: Dennis DeYoung, Dennis DeYoung, B. T. McNicholl ✎ ♫
+- [*One and One*](https://en.wikipedia.org/wiki/One_and_One_(musical%29) (1978) — Dianne Adams and Richard O'Donnell · words: Dianne Adams and Richard O'Donnell ✎
+- [*Beauty World*](https://en.wikipedia.org/wiki/Beauty_World_(musical%29) (1992) — Dick Lee · words: Michael Chiang ✎ ♫
+- [*Snow.Wolf.Lake*](https://en.wikipedia.org/wiki/Snow.Wolf.Lake) (1997) — Dick Lee, Iskandar Ismail · words: Jacky Cheung, Lin Xi, Lam, Jang Keung, Albert Leung, Choo, Sin Man, Jacky Cheung · Cantonese/Standard Chinese ✎
+- [*TV Land*](https://en.wikipedia.org/wiki/TV_Land_(musical%29) (2001) — Dick Lee ✎ ♫
+- [*Puteri Gunung Ledang*](https://en.wikipedia.org/wiki/Puteri_Gunung_Ledang_(musical%29) (2006) — Dick Lee · words: Adlin Aman Ramlie ✎
+- [*The Best of Both Worlds*](https://en.wikipedia.org/wiki/The_Best_of_Both_Worlds_(musical%29) (2004) — Diedre Murray · words: Randy Weiner
+- [*Kuifje – De Zonnetempel*](https://en.wikipedia.org/wiki/Kuifje_%E2%80%93_De_Zonnetempel_(De_Musical%29) (2001) — Dirk Brossé · words: Seth Gaaikema ✎
+- [*Tintin – Le Temple du Soleil – Le Spectacle Musical*](https://en.wikipedia.org/wiki/Tintin_%E2%80%93_Le_Temple_du_Soleil_%E2%80%93_Le_Spectacle_Musical) (2002) — Dirk Brossé · words: Seth Gaaikema, Seth Gaaikema, Frank van Laecke ✎
+- [*14-18, the musical*](https://en.wikipedia.org/wiki/14-18,_the_musical) (2014) — Dirk Brossé · words: Allart Blom ✎
+- [*9 to 5*](https://en.wikipedia.org/wiki/9_to_5_(musical%29) (2008) — Dolly Parton · words: Dolly Parton ✎
+- [*Ambassador*](https://en.wikipedia.org/wiki/Ambassador_(musical%29) (1971) — Don Gohman · words: Hal Hackady ✎
+- [*The Adventures of Tom Sawyer*](https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer_(musical%29) (2001) — Don Schlitz · words: Don Schlitz, Ken Ludwig ✎
+- [*Prince of Central Park*](https://en.wikipedia.org/wiki/Prince_of_Central_Park_(musical%29) (1988) — Don Sebesky · words: Gloria Nissenson ✎ ♫
+- [*At the Drop of a Hat*](https://en.wikipedia.org/wiki/At_the_Drop_of_a_Hat) (1956) — Donald Swann · words: Michael Flanders, Michael Flanders,, Gérard de Nerval,, Sydney Carter,, Constantine Palamas, traditional
+- [*At the Drop of Another Hat*](https://en.wikipedia.org/wiki/At_the_Drop_of_Another_Hat) — Donald Swann · words: Michael Flanders
+- [*Teddy*](https://en.wikipedia.org/wiki/Teddy_(musical%29) (2015) — Dougal Irvine · words: Tristan Bernays ✎
+- [*101 Dalmatians*](https://en.wikipedia.org/wiki/101_Dalmatians_(2022_musical%29) (2022) — Douglas Hodge · words: Douglas Hodge
+- [*Rumpelstiltskin*](https://en.wikipedia.org/wiki/Rumpelstiltskin_(1965_musical%29) — Dov Seltzer · words: Avraham Shlonsky
+- [*Mozart, l'opéra rock*](https://en.wikipedia.org/wiki/Mozart,_l%27op%C3%A9ra_rock) (2009) — Dove Attia · words: Dove Attia · French ✎ ♫
+- [*1789: Les Amants de la Bastille*](https://en.wikipedia.org/wiki/1789:_Les_Amants_de_la_Bastille) (2012) — Dove Attia, Laurent Delort, Louis Delort, Rod Janois, Jean-Pierre Pilot, Benoit Poher, William Rousseau, Olivier Schultheis · words: Dove Attia, Vincent Baguian ✎
+- [*For the Love of a Glove*](https://en.wikipedia.org/wiki/For_the_Love_of_a_Glove) (2020) — Drew Erickson, Max Townsley, Nicole Morier · words: Julien Nitzberg
+- [*Skittles Commercial: The Broadway Musical*](https://en.wikipedia.org/wiki/Skittles_Commercial:_The_Broadway_Musical) (2019) — Drew Gasparini · words: Nathaniel Lawlor ✎ ♫
+- [*Hit List*](https://en.wikipedia.org/wiki/Hit_List_(musical%29) (2013) — Drew Gasparini, Joe Iconis, Andrew McMahon, Benj Pasek & Justin Paul, Marc Shaiman & Scott Wittman, Lucie Silvas · words: Drew Gasparini, Joe Iconis, Andrew McMahon, Benj Pasek & Justin Paul, Marc Shaiman & Scott Wittman, Lucie Silvas ♫
+- [*Church Basement Ladies*](https://en.wikipedia.org/wiki/Church_Basement_Ladies) (2005) — Drew Jansen · words: Drew Jansen ✎ ♫
+- [*Beggar's Holiday*](https://en.wikipedia.org/wiki/Beggar%27s_Holiday) (1946) — Duke Ellington · words: John La Touche ✎ ♫
+- [*Sophisticated Ladies*](https://en.wikipedia.org/wiki/Sophisticated_Ladies) (1981) — Duke Ellington · words: Donald McKayle
+- [*Play On!*](https://en.wikipedia.org/wiki/Play_On!) (1996) — Duke Ellington · words: Cheryl West ✎
+- [*After Midnight*](https://en.wikipedia.org/wiki/After_Midnight_(musical%29) (2011) — Duke Ellington · words: Various Artists
+- [*Spring Awakening*](https://en.wikipedia.org/wiki/Spring_Awakening_(musical%29) (2006) — Duncan Sheik · words: Steven Sater · English ✎ ♫
+- [*American Psycho*](https://en.wikipedia.org/wiki/American_Psycho_(musical%29) (2013) — Duncan Sheik · words: Duncan Sheik, Roberto Aguirre-Sacasa · English ✎
+- [*Alice by Heart*](https://en.wikipedia.org/wiki/Alice_by_Heart) (2019) — Duncan Sheik · words: Steven Sater ✎
+- [*The Secret Life of Bees*](https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(musical%29) (2019) — Duncan Sheik · words: Susan Birkenhead
+- [*Let My People Come*](https://en.wikipedia.org/wiki/Let_My_People_Come) (1974) — Earl Wilson, Jr. · words: Earl Wilson, Jr., Phil Oesterman
+- [*Hot Feet*](https://en.wikipedia.org/wiki/Hot_Feet) (2006) — Earth, Wind & Fire · words: Earth, Wind & Fire ✎
+- [*Shylock*](https://en.wikipedia.org/wiki/Shylock_(musical%29) — Ed Dixon · words: Ed Dixon
+- [*Shane Warne: The Musical*](https://en.wikipedia.org/wiki/Shane_Warne:_The_Musical) (2008) — Eddie Perfect · words: Eddie Perfect ✎
+- [*Beetlejuice*](https://en.wikipedia.org/wiki/Beetlejuice_(musical%29) (2018) — Eddie Perfect · words: Eddie Perfect ✎
+- [*The Blue Paradise*](https://en.wikipedia.org/wiki/The_Blue_Paradise) (1915) — Edmund Eysler, Sigmund Romberg, Leo Edwards · words: Edgar Smith ✎ ♫
+- [*Evangeline*](https://en.wikipedia.org/wiki/Evangeline_(1874_musical%29) (1874) — Edward E. Rice · words: J. Cheever Goodwin · English ✎
+- [*Lady Behave*](https://en.wikipedia.org/wiki/Lady_Behave_(musical%29) (1941) — Edward Horan
+- [*A Class Act*](https://en.wikipedia.org/wiki/A_Class_Act) (2000) — Edward Kleban · words: Edward Kleban ✎ ♫
+- [*All Aboard*](https://en.wikipedia.org/wiki/All_Aboard_(musical%29) (1913) — Edward Ray Goetz, Malvin M. Franklin · words: Edward Ray Goetz
+- [*Mata Hari*](https://en.wikipedia.org/wiki/Mata_Hari_(1967_musical%29) (1967) — Edward Thomas · words: Martin Charnin ✎
+- [*The Woodsman (play)*](https://en.wikipedia.org/wiki/The_Woodsman_(play%29) — Edward W. Hardy · words: Jay Adana · no linguistic content ✎
+- [*Bør Børson Jr.*](https://en.wikipedia.org/wiki/B%C3%B8r_B%C3%B8rson_Jr._(musical%29) (1972) — Egil Monn-Iversen · words: Harald Tusberg · Norwegian ♫
+- [*44: The Musical*](https://en.wikipedia.org/wiki/44:_The_Musical) (2022) — Eli Bauman · words: Eli Bauman ✎
+- [*Runaways*](https://en.wikipedia.org/wiki/Runaways_(musical%29) (1978) — Elizabeth Swados · words: Elizabeth Swados
+- [*Doonesbury*](https://en.wikipedia.org/wiki/Doonesbury_(musical%29) (1983) — Elizabeth Swados · words: Garry Trudeau ✎ ♫
+- [*Leader of the Pack*](https://en.wikipedia.org/wiki/Leader_of_the_Pack_(musical%29) (1984) — Ellie Greenwich · words: Ellie Greenwich, Anne Beatts ✎ ♫
+- [*Millennials*](https://en.wikipedia.org/wiki/Millennials_(musical%29) (2019) — Elliot Clay · words: Elliot Clay
+- [*Loserville*](https://en.wikipedia.org/wiki/Loserville) (2009) — Elliot Davis · words: James Bourne ✎ ♫
+- [*Juan Darién: A Carnival Mass*](https://en.wikipedia.org/wiki/Juan_Dari%C3%A9n:_A_Carnival_Mass) (1998) — Elliot Goldenthal ✎
+- [*How Now, Dow Jones*](https://en.wikipedia.org/wiki/How_Now,_Dow_Jones) (1967) — Elmer Bernstein · words: Carolyn Leigh, Max Shulman · English
+- [*Merlin*](https://en.wikipedia.org/wiki/Merlin_(musical%29) (1983) — Elmer Bernstein · words: Don Black, Richard Levinson ✎
+- [*The Lion King*](https://en.wikipedia.org/wiki/The_Lion_King_(musical%29) (1997) — Elton John · words: Tim Rice, Roger Allers · English ✎ ♫
+- [*Aida*](https://en.wikipedia.org/wiki/Aida_(musical%29) (1998) — Elton John · words: Tim Rice, David Henry Hwang, Linda Woolverton, Robert Falls · English ✎ ♫
+- [*On the Record*](https://en.wikipedia.org/wiki/On_the_Record_(musical%29) (2004) — Elton John, Randy Newman, Mack David, Alan Menken, Carl W. Stalling, Sammy Fain, Frank Churchill, Sherman Brothers, Jack Lawrence, Al Hoffman, Leigh Harline, Eliot Daniel · words: Walt Disney, Tim Rice, Randy Newman, Jerry Livingston, Carl W. Stalling, Sammy Fain, Howard Ashman, Ned Washington, Jack Lawrence, Sherman Brothers, Bob Hilliard, Larry Morey, David Zippel, Chad Beguelin · English ✎
+- [*Billy Elliot the Musical*](https://en.wikipedia.org/wiki/Billy_Elliot_the_Musical) (2005) — Elton John · words: Lee Hall · English ✎
+- [*Lestat*](https://en.wikipedia.org/wiki/Lestat_(musical%29) (2005) — Elton John · words: Bernie Taupin, Linda Woolverton · English ✎
+- [*Tammy Faye*](https://en.wikipedia.org/wiki/Tammy_Faye_(musical%29) (2022) — Elton John · words: Jake Shears
+- [*The Devil Wears Prada*](https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(musical%29) (2022) — Elton John · words: Shaina Taub, Mark Sonnenblick, Shaina Taub, Mark Sonnenblick ✎
+- [*All Shook Up*](https://en.wikipedia.org/wiki/All_Shook_Up_(musical%29) (2005) — Elvis Presley · words: Joe DiPietro ✎ ♫
+- [*The Elvis Dead*](https://en.wikipedia.org/wiki/The_Elvis_Dead) (2017) — Elvis Presley · words: Rob Kemp
+- [*Austenland*](https://en.wikipedia.org/wiki/Austenland_(musical%29) — Elyssa Samsel · words: Elyssa Samsel · English ✎
+- [*Between the Lines*](https://en.wikipedia.org/wiki/Between_the_Lines_(musical%29) (2017) — Elyssa Samsel and Kate Anderson · words: Elyssa Samsel and Kate Anderson ✎
+- [*On Your Feet!*](https://en.wikipedia.org/wiki/On_Your_Feet!) (2015) — Emilio Estefan · words: Emilio Estefan, Gloria Estefan ✎ ♫
+- [*Roméo et Juliette, de la Haine à l'Amour*](https://en.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette_(musical%29) (2001) — Empereur Toshiba · words: Empereur Toshiba, Gérard Presgurvic · French ✎ ♫
+- [*The Musical of Musicals*](https://en.wikipedia.org/wiki/The_Musical_of_Musicals_(The_Musical!%29) (2003) — Eric Rockwell · words: Joanne Bogart ♫
+- [*Caligula*](https://en.wikipedia.org/wiki/Caligula_(musical%29) (2004) — Eric Svejcar · words: Eric Svejcar
+- [*Berlin*](https://en.wikipedia.org/wiki/Berlin_(musical%29) — Erik Orton
+- [*Miss You Like Hell*](https://en.wikipedia.org/wiki/Miss_You_Like_Hell) (2016) — Erin McKeown · words: Quiara Alegría Hudes, Erin McKeown
+- [*I'm Solomon*](https://en.wikipedia.org/wiki/I%27m_Solomon) (1968) — Ernest Gold · words: Anne Croswell ♫
+- [*Betty*](https://en.wikipedia.org/wiki/Betty_(musical%29) (1914) — Ernst Steffan, Paul Rubens · words: Adrian Ross, Paul Rubens, Frederick Lonsdale, Gladys Buchanan Unger ✎ ♫
+- [*Her First Roman*](https://en.wikipedia.org/wiki/Her_First_Roman) (1968) — Ervin Drake · words: Ervin Drake ✎
+- [*The Seat of Our Pants*](https://en.wikipedia.org/wiki/The_Seat_of_Our_Pants) (2025) — Ethan Lipton · words: Ethan Lipton ✎
+- [*Shuffle Along*](https://en.wikipedia.org/wiki/Shuffle_Along) (1921) — Eubie Blake · words: Noble Sissle ✎
+- [*The Chocolate Dandies*](https://en.wikipedia.org/wiki/The_Chocolate_Dandies) (1924) — Eubie Blake · words: Noble Sissle · English
+- [*Eubie!*](https://en.wikipedia.org/wiki/Eubie!) (1978) — Eubie Blake · words: Noble Sissle, Noble Sissle, Andy Razaf, Johnny Brandon, F. E. Miller, Jim Europe
+- [*Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed*](https://en.wikipedia.org/wiki/Shuffle_Along,_or,_the_Making_of_the_Musical_Sensation_of_1921_and_All_That_Followed) (2016) — Eubie Blake · words: Eubie Blake, Noble Sissle ✎ ♫
+- [*The Wicklow Postman*](https://en.wikipedia.org/wiki/The_Wicklow_Postman) (1893) — Eugene O'Rourke, B.H. Janssen · words: Mark Price
+- [*Co-Ed Prison Sluts*](https://en.wikipedia.org/wiki/Co-Ed_Prison_Sluts) (1989) — Faith Soloway · words: Faith Soloway ✎ ♫
+- [*Early to Bed*](https://en.wikipedia.org/wiki/Early_to_Bed_(musical%29) (1943) — Fats Waller · words: George Marion, Jr. ✎
+- [*Ain't Misbehavin'*](https://en.wikipedia.org/wiki/Ain%27t_Misbehavin%27_(musical%29) (1978) — Fats Waller · words: Various artists
+- [*Hot Chocolates*](https://en.wikipedia.org/wiki/Hot_Chocolates) — Fats Waller, Harry Brooks · words: Andy Razaf ♫
+- [*Bernarda Alba*](https://en.wikipedia.org/wiki/Bernarda_Alba_(musical%29) (2006) — Federico García Lorca · words: Michael John LaChiusa ✎
+- [*Fela!*](https://en.wikipedia.org/wiki/Fela!) (2008) — Fela Kuti · words: Bill T. Jones ✎
+- [*Don Juan*](https://en.wikipedia.org/wiki/Don_Juan_(musical%29) (2004) — Félix Gray · words: Félix Gray
+- [*Selena Forever*](https://en.wikipedia.org/wiki/Selena_Forever) (2000) — Fernando Rivas · words: Edward Gallardo ♫
+- [*Gatsby*](https://en.wikipedia.org/wiki/Gatsby:_An_American_Myth) (2024) — Florence Welch, Thomas Bartlett · words: Florence Welch ✎
+- [*The High Life*](https://en.wikipedia.org/wiki/The_High_Life_(musical%29) (2026) — Forbes Masson, Alan Cumming (additional) · words: Alan Cumming, Forbes Masson, Johnny McKnight
+- [*Rang Tang*](https://en.wikipedia.org/wiki/Rang_Tang) (1927) — Ford Dabney · words: Joseph H. Trent ✎
+- [*Snow White and the Seven Dwarfs*](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(musical%29) (1969) — Frank Churchill · words: Larry Morey, Joe Cook
+- [*A Day in Hollywood / A Night in the Ukraine*](https://en.wikipedia.org/wiki/A_Day_in_Hollywood_/_A_Night_in_the_Ukraine) (1979) — Frank Lazarus and others · words: Dick Vosburgh
+- [*Where's Charley?*](https://en.wikipedia.org/wiki/Where%27s_Charley%3F) (1948) — Frank Loesser · words: George Abbott ✎ ♫
+- [*Guys and Dolls*](https://en.wikipedia.org/wiki/Guys_and_Dolls) (1950) — Frank Loesser · words: Frank Loesser, Abe Burrows, Jo Swerling · English ✎ ♫
+- [*The Most Happy Fella*](https://en.wikipedia.org/wiki/The_Most_Happy_Fella) (1956) — Frank Loesser · words: Frank Loesser ✎
+- [*Greenwillow*](https://en.wikipedia.org/wiki/Greenwillow) (1960) — Frank Loesser · words: Frank Loesser, Lesser Samuels ✎
+- [*How to Succeed in Business Without Really Trying*](https://en.wikipedia.org/wiki/How_to_Succeed_in_Business_Without_Really_Trying_(musical%29) (1961) — Frank Loesser · words: Frank Loesser, Abe Burrows, Jack Weinstock, Willie Gilbert · English ✎ ♫
+- [*Señor Discretion Himself*](https://en.wikipedia.org/wiki/Se%C3%B1or_Discretion_Himself) (2004) — Frank Loesser · words: Frank Loesser
+- [*Pleasures and Palaces*](https://en.wikipedia.org/wiki/Pleasures_and_Palaces) — Frank Loesser ✎
+- [*Tom Sawyer*](https://en.wikipedia.org/wiki/Tom_Sawyer_(1956_musical%29) — Frank Luther ✎ ♫
+- [*Jekyll & Hyde*](https://en.wikipedia.org/wiki/Jekyll_%26_Hyde_(musical%29) (1990) — Frank Wildhorn · words: Leslie Bricusse ✎ ♫
+- [*Svengali*](https://en.wikipedia.org/wiki/Svengali_(musical%29) (1991) — Frank Wildhorn · words: Gregory Boyd · English
+- [*The Scarlet Pimpernel*](https://en.wikipedia.org/wiki/The_Scarlet_Pimpernel_(musical%29) (1997) — Frank Wildhorn · words: Nan Knighton ✎
+- [*The Civil War*](https://en.wikipedia.org/wiki/The_Civil_War_(musical%29) (1998) — Frank Wildhorn · words: Jack Murphy
+- [*Dracula the Musical*](https://en.wikipedia.org/wiki/Dracula:_the_Musical) (2001) — Frank Wildhorn · words: Don Black, Christopher Hampton · English ✎
+- [*Dracula, the Musical*](https://en.wikipedia.org/wiki/Dracula,_the_Musical) (2001) — Frank Wildhorn · words: Don Black, Don Black, Christopher Hampton · English ✎
+- [*Camille Claudel*](https://en.wikipedia.org/wiki/Camille_Claudel_(musical%29) (2003) — Frank Wildhorn · words: Nan Knighton ✎
+- [*Waiting For The Moon*](https://en.wikipedia.org/wiki/Waiting_for_the_Moon_(musical%29) (2005) — Frank Wildhorn · words: Jack Murphy ✎
+- [*Never Say Goodbye*](https://en.wikipedia.org/wiki/Never_Say_Goodbye_(musical%29) (2006) — Frank Wildhorn · words: Shûichirô Koike
+- [*Rudolf*](https://en.wikipedia.org/wiki/Rudolf_(musical%29) (2006) — Frank Wildhorn · words: Jack Murphy, Nan Knighton · English ✎
+- [*Carmen*](https://en.wikipedia.org/wiki/Carmen_(Wildhorn_musical%29) (2008) — Frank Wildhorn · words: Jack Murphy ✎
+- [*Bonnie & Clyde*](https://en.wikipedia.org/wiki/Bonnie_%26_Clyde_(musical%29) (2009) — Frank Wildhorn · words: Don Black ✎
+- [*Cyrano de Bergerac The Musical*](https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(musical%29) (2009) — Frank Wildhorn · words: Leslie Bricusse
+- [*The Count of Monte Cristo*](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(Wildhorn_musical%29) (2009) — Frank Wildhorn · words: Jack Murphy · English ✎
+- [*Wonderland*](https://en.wikipedia.org/wiki/Wonderland_(musical%29) (2009) — Frank Wildhorn · words: Jack Murphy · English ✎
+- [*Artus-Excalibur*](https://en.wikipedia.org/wiki/Artus-Excalibur) (2014) — Frank Wildhorn · words: Robin Lerner ✎
+- [*Death Note: The Musical*](https://en.wikipedia.org/wiki/Death_Note:_The_Musical) (2015) — Frank Wildhorn · words: Jack Murphy ✎
+- [*Mata Hari*](https://en.wikipedia.org/wiki/Mata_Hari_(Wildhorn_musical%29) (2016) — Frank Wildhorn · words: Jack Murphy ✎
+- [*Your Lie in April*](https://en.wikipedia.org/wiki/Your_Lie_in_April_(musical%29) (2022) — Frank Wildhorn · words: Tracy Miller, Carly Robyn Green
+- [*Ludwig II. – Sehnsucht nach dem Paradies*](https://en.wikipedia.org/wiki/Ludwig_II_(musical%29) (2000) — Franz Hummel · words: Stephan Barbarino · German ✎
+- [*Das Dreimäderlhaus*](https://en.wikipedia.org/wiki/Das_Dreim%C3%A4derlhaus) (1916) — Franz Schubert · words: Alfred Maria Willner, Heinz Reichert · German ✎
+- [*Creature from the Black Lagoon: The Musical*](https://en.wikipedia.org/wiki/Creature_from_the_Black_Lagoon:_The_Musical) — Fred Barton, Peter Fish, Gerard Alessandrini, Ross Osterman · English ✎
+- [*The Woggle-Bug*](https://en.wikipedia.org/wiki/The_Woggle-Bug_(musical%29) (1905) — Frederic Chapin · words: L. Frank Baum · English ✎ ♫
+- [*Chu Chin Chow*](https://en.wikipedia.org/wiki/Chu_Chin_Chow) (1916) — Frederic Norton · words: Oscar Asche · English ✎
+- [*What's Up?*](https://en.wikipedia.org/wiki/What%27s_Up%3F_(musical%29) (1943) — Frederick Loewe · words: Alan Jay Lerner · English
+- [*The Day Before Spring*](https://en.wikipedia.org/wiki/The_Day_Before_Spring) (1945) — Frederick Loewe · words: Alan Jay Lerner
+- [*Brigadoon*](https://en.wikipedia.org/wiki/Brigadoon) (1947) — Frederick Loewe · words: Alan Jay Lerner · English ✎
+- [*Paint Your Wagon*](https://en.wikipedia.org/wiki/Paint_Your_Wagon_(musical%29) (1951) — Frederick Loewe · words: Alan Jay Lerner ✎
+- [*My Fair Lady*](https://en.wikipedia.org/wiki/My_Fair_Lady) (1956) — Frederick Loewe · words: Alan Jay Lerner · English ✎
+- [*Camelot*](https://en.wikipedia.org/wiki/Camelot_(musical%29) (1960) — Frederick Loewe · words: Alan Jay Lerner ✎
+- [*Gigi*](https://en.wikipedia.org/wiki/Gigi_(musical%29) (1973) — Frederick Loewe · words: Alan Jay Lerner ✎
+- [*Life of the Party*](https://en.wikipedia.org/wiki/Life_of_the_Party_(musical%29) — Frederick Loewe
+- [*The Fascinating Widow*](https://en.wikipedia.org/wiki/The_Fascinating_Widow) (1910) — Frederick W. Mills · words: Otto Harbach
+- [*Så som i himmelen (musical)*](https://en.wikipedia.org/wiki/S%C3%A5_som_i_himmelen_(musical%29) (2018) — Fredrik Kempe · words: Carin Pollak and Fredrik Kempe
+- [*Apple Blossoms*](https://en.wikipedia.org/wiki/Apple_Blossoms) (1919) — Fritz Kreisler, Victor Jacobi · words: William LeBaron · English ✎ ♫
+- [*An Imaginary Report on an American Rock Festival*](https://en.wikipedia.org/wiki/An_Imaginary_Report_on_an_American_Rock_Festival) (1973) — Gábor Presser · words: Anna Adamis, Sándor Pós · Hungarian ✎
+- [*A padlás*](https://en.wikipedia.org/wiki/A_padl%C3%A1s) (1988) — Gábor Presser · words: Dusán Sztevanovity, Péter Horváth · Hungarian ✎ ♫
+- [*Clue*](https://en.wikipedia.org/wiki/Clue_(musical%29) (1995) — Galen Blum, Wayne Barker, Vinnie Martucci · words: Tom Chiodo ✎ ♫
+- [*Hair*](https://en.wikipedia.org/wiki/Hair_(musical%29) (1969) — Galt MacDermot · words: Gerome Ragni, James Rado · English ✎
+- [*Isabel's a Jezebel*](https://en.wikipedia.org/wiki/Isabel%27s_a_Jezebel) (1970) — Galt MacDermot · words: William Dumaresq
+- [*Two Gentlemen of Verona*](https://en.wikipedia.org/wiki/Two_Gentlemen_of_Verona_(musical%29) (1971) — Galt MacDermot · words: John Guare, Mel Shapiro ✎
+- [*Dude*](https://en.wikipedia.org/wiki/Dude_(musical%29) (1972) — Galt MacDermot · words: Gerome Ragni ✎
+- [*Via Galactica*](https://en.wikipedia.org/wiki/Via_Galactica) (1972) — Galt MacDermot · words: Christopher Gore
+- [*The Human Comedy*](https://en.wikipedia.org/wiki/The_Human_Comedy_(musical%29) (1983) — Galt MacDermot · words: William Dumaresq
+- [*Goddess Wheel*](https://en.wikipedia.org/wiki/Goddess_Wheel) — Galt MacDermot · words: Matty Selman
+- [*Time and the Wind*](https://en.wikipedia.org/wiki/Time_and_the_Wind_(musical%29) — Galt MacDermot ✎
+- [*Like Me*](https://en.wikipedia.org/wiki/Like_Me_(musical%29) (2013) — Garry Lake · words: Jon Smith ✎ ♫
+- [*Amen Corner*](https://en.wikipedia.org/wiki/Amen_Corner_(musical%29) (1983) — Garry Sherman · words: Peter Udell ✎
+- [*Altar Boyz*](https://en.wikipedia.org/wiki/Altar_Boyz) (2004) — Gary Adler, Michael Patrick Walker · words: Michael Patrick Walker, Gary Adler, Gary Adler, Michael Patrick Walker · English ✎ ♫
+- [*Never Forget*](https://en.wikipedia.org/wiki/Never_Forget_(musical%29) (2007) — Gary Barlow · words: Gary Barlow ✎ ♫
+- [*Finding Neverland*](https://en.wikipedia.org/wiki/Finding_Neverland_(musical%29) (2012) — Gary Barlow · words: Eliot Kennedy, Gary Barlow, Allan Knee ✎ ♫
+- [*Nanny McPhee*](https://en.wikipedia.org/wiki/Nanny_McPhee_(musical%29) (2027) — Gary Clark · words: Gary Clark, Emma Thompson
+- [*Sing Street*](https://en.wikipedia.org/wiki/Sing_Street_(musical%29) (2019) — Gary Clark, John Carney · words: Gary Clark, John Carney
+- [*Purlie*](https://en.wikipedia.org/wiki/Purlie) (1970) — Gary Geld · words: Ossie Davis ✎
+- [*Shenandoah*](https://en.wikipedia.org/wiki/Shenandoah_(musical%29) (1974) — Gary Geld · words: James Lee Barrett, Philip Rose ✎
+- [*Angel*](https://en.wikipedia.org/wiki/Angel_(musical%29) (1978) — Gary Geld · words: Peter Udell
+- [*The Survival of St. Joan*](https://en.wikipedia.org/wiki/The_Survival_of_St._Joan) (1970) — Gary Ruffin, Hank Ruffin · words: James Lineberger ✎
+- [*The Me Nobody Knows*](https://en.wikipedia.org/wiki/The_Me_Nobody_Knows) (1970) — Gary William Friedman · words: Will Holt ✎
+- [*Platinum*](https://en.wikipedia.org/wiki/Platinum_(musical%29) (1977) — Gary William Friedman · words: Will Holt
+- [*The Lieutenant*](https://en.wikipedia.org/wiki/The_Lieutenant_(musical%29) (1975) — Gene Curty, Nitra Scharfman, Chuck Strand · words: Gene Curty, Nitra Scharfman, Chuck Strand
+- [*Li'l Abner*](https://en.wikipedia.org/wiki/Li%27l_Abner_(musical%29) (1956) — Gene de Paul · words: Johnny Mercer, Norman Panama ✎
+- [*Seven Brides for Seven Brothers*](https://en.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers_(musical%29) (1982) — Gene de Paul · words: Johnny Mercer, Al Kasha, Joel Hirschhorn ✎
+- [*The Swing Mikado*](https://en.wikipedia.org/wiki/The_Swing_Mikado) (1938) — Gentry Warden, Arthur Sullivan · words: W. S. Gilbert
+- [*First Impressions*](https://en.wikipedia.org/wiki/First_Impressions_(musical%29) (1959) — George David Weiss · words: George David Weiss, Abe Burrows · English ✎
+- [*The Sentimental Bloke*](https://en.wikipedia.org/wiki/The_Sentimental_Bloke_(1985_musical%29) (1985) — George Dreyfus · English
+- [*Mrs Henderson Presents*](https://en.wikipedia.org/wiki/Mrs_Henderson_Presents_(musical%29) (2015) — George Fenton · words: Don Black
+- [*Georgy*](https://en.wikipedia.org/wiki/Georgy_(musical%29) (1970) — George Fischoff · words: Carole Bayer Sager, Tom Mankiewicz ✎
+- [*Timbuktu!*](https://en.wikipedia.org/wiki/Timbuktu!) (1978) — George Forrest · words: Luther Davis
+- [*La La Lucille*](https://en.wikipedia.org/wiki/La_La_Lucille) (1919) — George Gershwin · words: Buddy DeSylva, Arthur J. Jackson, Buddy DeSylva, Lou Paley, Irving Caesar
+- [*A Dangerous Maid*](https://en.wikipedia.org/wiki/A_Dangerous_Maid) (1923) — George Gershwin · words: Ira Gershwin, Charles W. Bell ✎
+- [*Lady, Be Good!*](https://en.wikipedia.org/wiki/Lady,_Be_Good_(musical%29) (1924) — George Gershwin · words: Ira Gershwin, Guy Bolton · English ✎
+- [*Primrose*](https://en.wikipedia.org/wiki/Primrose_(musical%29) (1924) — George Gershwin · words: Desmond Carter, Guy Bolton ✎ ♫
+- [*Tell Me More*](https://en.wikipedia.org/wiki/Tell_Me_More_(musical%29) (1925) — George Gershwin · words: Ira Gershwin, Buddy DeSylva · English ✎
+- [*Tip-Toes*](https://en.wikipedia.org/wiki/Tip-Toes) (1925) — George Gershwin · words: Ira Gershwin, Guy Bolton · English ✎
+- [*Oh, Kay!*](https://en.wikipedia.org/wiki/Oh,_Kay!) (1926) — George Gershwin · words: Ira Gershwin, P. G. Wodehouse, Guy Bolton · English ✎
+- [*Funny Face*](https://en.wikipedia.org/wiki/Funny_Face_(musical%29) (1927) — George Gershwin · words: Ira Gershwin, Paul Girard Smith, Fred Thompson · English ✎
+- [*Rosalie*](https://en.wikipedia.org/wiki/Rosalie_(musical%29) (1928) — George Gershwin, Sigmund Romberg · words: Ira Gershwin, P. G. Wodehouse, William Anthony McGuire, Guy Bolton · English ✎
+- [*Treasure Girl*](https://en.wikipedia.org/wiki/Treasure_Girl) (1928) — George Gershwin · words: Ira Gershwin, Fred Thompson · English ♫
+- [*Girl Crazy*](https://en.wikipedia.org/wiki/Girl_Crazy) (1930) — George Gershwin · words: Ira Gershwin, Guy Bolton · English ♫
+- [*Strike Up the Band*](https://en.wikipedia.org/wiki/Strike_Up_the_Band_(musical%29) (1930) — George Gershwin · words: Morrie Ryskind · English
+- [*Of Thee I Sing*](https://en.wikipedia.org/wiki/Of_Thee_I_Sing) (1931) — George Gershwin · words: Ira Gershwin, George S. Kaufman ✎
+- [*Let 'Em Eat Cake*](https://en.wikipedia.org/wiki/Let_%27Em_Eat_Cake) (1933) — George Gershwin · words: Ira Gershwin, George S. Kaufman, Morrie Ryskind · English ✎
+- [*Pardon My English*](https://en.wikipedia.org/wiki/Pardon_My_English) (1933) — George Gershwin · words: Ira Gershwin, Herbert Fields · English ✎
+- [*My One and Only*](https://en.wikipedia.org/wiki/My_One_and_Only_(musical%29) (1983) — George Gershwin · words: Ira Gershwin, Peter Stone · English
+- [*Crazy for You*](https://en.wikipedia.org/wiki/Crazy_for_You_(musical%29) (1992) — George Gershwin · words: Ira Gershwin, Ken Ludwig ✎
+- [*Nice Work If You Can Get It*](https://en.wikipedia.org/wiki/Nice_Work_If_You_Can_Get_It_(musical%29) (2012) — George Gershwin · words: Ira Gershwin, Joe DiPietro ✎
+- [*An American in Paris*](https://en.wikipedia.org/wiki/An_American_in_Paris_(musical%29) (2014) — George Gershwin · words: Ira Gershwin, Craig Lucas ✎
+- [*A Damsel in Distress*](https://en.wikipedia.org/wiki/A_Damsel_in_Distress_(musical%29) (2015) — George Gershwin · words: Ira Gershwin, Jeremy Sams, Robert Hudson · English
+- [*Show Girl*](https://en.wikipedia.org/wiki/Show_Girl_(1929_musical%29) — George Gershwin · words: Ira Gershwin, Gus Kahn, William Anthony McGuire · English ♫
+- [*Shinbone Alley*](https://en.wikipedia.org/wiki/Shinbone_Alley) (1957) — George Kleinsinger · words: Joe Darion ♫
+- [*Little Johnny Jones*](https://en.wikipedia.org/wiki/Little_Johnny_Jones) (1904) — George M. Cohan · words: George M. Cohan ✎ ♫
+- [*Forty-Five Minutes from Broadway*](https://en.wikipedia.org/wiki/Forty-five_Minutes_from_Broadway) (1906) — George M. Cohan · words: George M. Cohan ✎ ♫
+- [*Little Nellie Kelly*](https://en.wikipedia.org/wiki/Little_Nellie_Kelly_(musical%29) (1922) — George M. Cohan · words: George M. Cohan ✎
+- [*George M!*](https://en.wikipedia.org/wiki/George_M!) (1968) — George M. Cohan · words: Michael Stewart ✎
+- [*George M. Cohan Tonight!*](https://en.wikipedia.org/wiki/George_M._Cohan_Tonight!) (2006) — George M. Cohan · words: George M. Cohan
+- [*Billie*](https://en.wikipedia.org/wiki/Billie_(musical%29) — George M. Cohan ✎
+- [*Zip Goes a Million*](https://en.wikipedia.org/wiki/Zip_Goes_a_Million) (1951) — George Posford · words: Eric Maschwitz · English ✎
+- [*Evil Dead The Musical*](https://en.wikipedia.org/wiki/Evil_Dead_The_Musical) (2003) — George Reinblatt · words: George Reinblatt · English ✎
+- [*Just So*](https://en.wikipedia.org/wiki/Just_So_(musical%29) (1984) — George Stiles · words: Anthony Drewe ✎ ♫
+- [*Honk!*](https://en.wikipedia.org/wiki/Honk!) (1993) — George Stiles · words: Anthony Drewe ✎ ♫
+- [*Peter Pan: A Musical Adventure*](https://en.wikipedia.org/wiki/Peter_Pan:_A_Musical_Adventure) (1999) — George Stiles · words: Anthony Drewe · English
+- [*Betty Blue Eyes*](https://en.wikipedia.org/wiki/Betty_Blue_Eyes) (2011) — George Stiles · words: Anthony Drewe, Ron Cowen
+- [*Soho Cinders*](https://en.wikipedia.org/wiki/Soho_Cinders) (2011) — George Stiles · words: Anthony Drewe ✎
+- [*The Wind in the Willows*](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows_(2016_musical%29) (2016) — George Stiles · words: Anthony Drewe, Julian Fellowes ✎
+- [*Travels with My Aunt*](https://en.wikipedia.org/wiki/Travels_with_My_Aunt_(musical%29) (2016) — George Stiles · words: Anthony Drewe
+- [*Identical*](https://en.wikipedia.org/wiki/Identical_(musical%29) (2022) — George Stiles · words: Anthony Drewe ✎
+- [*Becoming Nancy*](https://en.wikipedia.org/wiki/Becoming_Nancy_(musical%29) (2019) — George Stiles, Elliot Davis (additional), Terry Ronald (additional) · words: Anthony Drewe, Elliot Davis (additional), Terry Ronald (additional)
+- [*Carmen Jones*](https://en.wikipedia.org/wiki/Carmen_Jones) (1943) — Georges Bizet · words: Oscar Hammerstein II · English ✎
+- [*Nord-Ost*](https://en.wikipedia.org/wiki/Nord-Ost) (2001) — Georgy Leonardovich Vasilyev, Aleksey Ivashchenko · words: Georgy Leonardovich Vasilyev, Aleksey Ivashchenko, Aleksei Ivaschenko, Georgii Vasilyev · Russian
+- [*Charlotte Sweet*](https://en.wikipedia.org/wiki/Charlotte_Sweet) (1982) — Gerald Jay Markoe · words: Michael Colby ✎
+- [*La Plume de Ma Tante*](https://en.wikipedia.org/wiki/La_Plume_de_Ma_Tante) (1958) — Gérard Calvi · words: Ross Parker, Robert Dhéry
+- [*Autant en emporte le vent*](https://en.wikipedia.org/wiki/Autant_en_emporte_le_vent) (2003) — Gerard Presgurvic · words: Gerard Presgurvic · English
+- [*Roza*](https://en.wikipedia.org/wiki/Roza_(musical%29) (1987) — Gilbert Bécaud · words: Julian More · English ✎
+- [*Zorro*](https://en.wikipedia.org/wiki/Zorro_(musical%29) (2008) — Gipsy Kings, John Cameron · words: Stephen Clark ✎
+- [*Once*](https://en.wikipedia.org/wiki/Once_(musical%29) (2011) — Glen Hansard, Markéta Irglová · words: Glen Hansard, Markéta Irglová, Enda Walsh · English ✎
+- [*Along Fifth Avenue*](https://en.wikipedia.org/wiki/Along_Fifth_Avenue) (1949) — Gordon Jenkins · words: Tom Adair · English ✎
+- [*Buonanotte Bettina*](https://en.wikipedia.org/wiki/Buonanotte_Bettina) (1956) — Gorni Kramer · Italian ✎
+- [*In the Green*](https://en.wikipedia.org/wiki/In_the_Green) (2019) — Grace McLean · words: Grace McLean · Latin/English ✎
+- [*Captain Bloody*](https://en.wikipedia.org/wiki/Captain_Bloody) (1984) — Grahame Bond · words: Grahame Bond · English
+- [*Olympus on My Mind*](https://en.wikipedia.org/wiki/Olympus_on_My_Mind) (1986) — Grant Sturiale · words: Barry Harman ✎
+- [*American Idiot*](https://en.wikipedia.org/wiki/American_Idiot_(musical%29) (2009) — Green Day · words: Billie Joe Armstrong ✎
+- [*Dance with Me*](https://en.wikipedia.org/wiki/Dance_with_Me_(musical%29) (1975) — Greg Antonacci · words: Greg Antonacci
+- [*That Bloody Woman*](https://en.wikipedia.org/wiki/That_Bloody_Woman) (2015) — Greg Cooper, Luke Di Somma · English ✎
+- [*Mandela*](https://en.wikipedia.org/wiki/Mandela_(musical%29) (2022) — Greg Dean Borowsky, Shaun Borowsky · words: Greg Dean Borowsky, Shaun Borowsky
+- [*Invisible Thread*](https://en.wikipedia.org/wiki/Invisible_Thread_(musical%29) (2014) — Griffin Matthews · words: Griffin Matthews, Matt Gould, Griffin Matthews ✎
+- [*The Sho-Gun*](https://en.wikipedia.org/wiki/The_Sho-Gun) (1904) — Gustav Luders · words: George Ade ✎
+- [*Somewhere Else*](https://en.wikipedia.org/wiki/Somewhere_Else_(musical%29) — Gustav Luders · words: Avery Hopwood · English
+- [*The Belle of New York*](https://en.wikipedia.org/wiki/The_Belle_of_New_York_(musical%29) (1897) — Gustave Kerker · words: C. M. S. McLellan ✎
+- [*The Billionaire*](https://en.wikipedia.org/wiki/The_Billionaire_(musical%29) (1902) — Gustave Kerker · words: Harry B. Smith · English
+- [*In Gay New York*](https://en.wikipedia.org/wiki/In_Gay_New_York) — Gustave Kerker · words: C. M. S. McLellan
+- [*The Man in the Moon*](https://en.wikipedia.org/wiki/The_Man_in_the_Moon_(musical%29) — Gustave Kerker, Reginald De Koven, Ludwig Engländer
+- [*The Telephone Girl*](https://en.wikipedia.org/wiki/The_Telephone_Girl_(play%29) — Gustave Kerker · words: C. M. S. McLellan ✎
+- [*The White Hen*](https://en.wikipedia.org/wiki/The_White_Hen_(musical%29) — Gustave Kerker · words: Paul West
+- [*The Gay Gordons*](https://en.wikipedia.org/wiki/The_Gay_Gordons_(musical%29) (1907) — Guy Jones · words: Arthur Wimperis, Seymour Hicks ✎ ♫
+- [*The Comedy of Errors (1976 musical)*](https://en.wikipedia.org/wiki/The_Comedy_of_Errors_(musical%29) (1976) — Guy Woolfenden · words: Trevor Nunn
+- [*Joy Bells*](https://en.wikipedia.org/wiki/Joy_Bells) (1919) — H. G. Pether, Rupert Hazell, Oliver Wallace, Harold Weeks · words: Albert de Courville
+- [*The Well of Romance*](https://en.wikipedia.org/wiki/The_Well_of_Romance) (1930) — H. Maurice Jacquet · words: Preston Sturges
+- [*Midnight Sun*](https://en.wikipedia.org/wiki/Midnight_Sun_(musical%29) (2021) — Han Bo-ram · words: Kim Han-sol · Korean ✎ ♫
+- [*Shlemiel the First*](https://en.wikipedia.org/wiki/Shlemiel_the_First_(musical%29) (1994) — Hankus Netsky, Zalmen Mlotek (additional music) · words: Arnold Weinstein, Robert Brustein
+- [*You Said It*](https://en.wikipedia.org/wiki/You_Said_It) (1931) — Harold Arlen · words: Jack Yellen
+- [*Life Begins at 8:40*](https://en.wikipedia.org/wiki/Life_Begins_at_8:40) (1934) — Harold Arlen · words: Ira Gershwin, Ira Gershwin, E.Y. Harburg
+- [*Hooray for What!*](https://en.wikipedia.org/wiki/Hooray_for_What!) (1937) — Harold Arlen · words: Yip Harburg, Howard Lindsay ✎
+- [*The Wizard of Oz*](https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1942_musical%29) (1942) — Harold Arlen · words: Yip Harburg, E. Y. Harburg · English ✎
+- [*Bloomer Girl*](https://en.wikipedia.org/wiki/Bloomer_Girl) (1944) — Harold Arlen · words: Yip Harburg, Sig Herzig
+- [*St. Louis Woman*](https://en.wikipedia.org/wiki/St._Louis_Woman) (1946) — Harold Arlen · words: Johnny Mercer, Arna Bontemps, Countee Cullen · English ✎
+- [*House of Flowers*](https://en.wikipedia.org/wiki/House_of_Flowers_(musical%29) (1954) — Harold Arlen · words: Truman Capote, Harold Arlen · English ✎ ♫
+- [*Jamaica*](https://en.wikipedia.org/wiki/Jamaica_(musical%29) (1957) — Harold Arlen · words: Yip Harburg, E.Y. Harburg ✎
+- [*Saratoga*](https://en.wikipedia.org/wiki/Saratoga_(musical%29) (1959) — Harold Arlen · words: Johnny Mercer, Morton DaCosta
+- [*The Wizard of Oz*](https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1987_musical%29) (1987) — Harold Arlen · words: Yip Harburg, John Kane · English ✎
+- [*The Wizard of Oz*](https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(2011_musical%29) (2011) — Harold Arlen · words: Yip Harburg, Andrew Lloyd Webber · English ✎
+- [*Happy Hunting*](https://en.wikipedia.org/wiki/Happy_Hunting_(musical%29) (1956) — Harold Karr · words: Howard Lindsay ✎
+- [*Town Topics*](https://en.wikipedia.org/wiki/Town_Topics_(musical%29) — Harold Orlob · words: Robert B. Smith, Thomas J. Gray, Harry B. Smith · English
+- [*Wish You Were Here*](https://en.wikipedia.org/wiki/Wish_You_Were_Here_(musical%29) (1952) — Harold Rome · words: Arthur Kober ✎
+- [*Fanny*](https://en.wikipedia.org/wiki/Fanny_(musical%29) (1954) — Harold Rome · words: S. N. Behrman ✎
+- [*I Can Get It for You Wholesale*](https://en.wikipedia.org/wiki/I_Can_Get_It_for_You_Wholesale) (1962) — Harold Rome · words: Jerome Weidman ✎
+- [*The Zulu and the Zayda*](https://en.wikipedia.org/wiki/The_Zulu_and_the_Zayda) (1965) — Harold Rome · words: Harold Rome, Howard da Silva ✎
+- [*Scarlett*](https://en.wikipedia.org/wiki/Scarlett_(musical%29) (1970) — Harold Rome · words: Harold Rome · English
+- [*Destry Rides Again*](https://en.wikipedia.org/wiki/Destry_Rides_Again_(musical%29) — Harold Rome · words: Leonard Gershe ✎
+- [*The Night That Made America Famous*](https://en.wikipedia.org/wiki/The_Night_That_Made_America_Famous) (1975) — Harry Chapin · words: Harry Chapin ♫
+- [*Cotton Patch Gospel*](https://en.wikipedia.org/wiki/Cotton_Patch_Gospel) (1981) — Harry Chapin · words: Harry Chapin ✎
+- [*Thou Shalt Not*](https://en.wikipedia.org/wiki/Thou_Shalt_Not_(musical%29) (2001) — Harry Connick Jr. · words: Harry Connick Jr., David Thompson ✎ ♫
+- [*Jenny Jones*](https://en.wikipedia.org/wiki/Jenny_Jones_(musical%29) (1944) — Harry Parr-Davies, Harold Purcell
+- [*Are You With It?*](https://en.wikipedia.org/wiki/Are_You_with_It%3F_(musical%29) (1945) — Harry Revel · words: Arnold B. Horwitt
+- [*The Five O'Clock Girl*](https://en.wikipedia.org/wiki/The_Five_O%27Clock_Girl) (1927) — Harry Ruby · words: Bert Kalmar, Guy Bolton
+- [*Irene*](https://en.wikipedia.org/wiki/Irene_(musical%29) (1919) — Harry Tierney · words: Joseph McCarthy · English
+- [*Kid Boots*](https://en.wikipedia.org/wiki/Kid_Boots) (1923) — Harry Tierney · words: Joseph McCarthy, Otto Harbach, William Anthony McGuire · English
+- [*Rio Rita*](https://en.wikipedia.org/wiki/Rio_Rita_(musical%29) (1927) — Harry Tierney · words: Joseph McCarthy, Guy Bolton ✎
+- [*Shangri-La*](https://en.wikipedia.org/wiki/Shangri-La_(musical%29) (1956) — Harry Warren · words: James Hilton, Robert Edwin Lee, Jerome Lawrence, James Hilton, Jerome Lawrence, Robert E. Lee ✎
+- [*42nd Street*](https://en.wikipedia.org/wiki/42nd_Street_(musical%29) (1980) — Harry Warren · words: Al Dubin, Michael Stewart ✎ ♫
+- [*The Fantasticks*](https://en.wikipedia.org/wiki/The_Fantasticks) (1960) — Harvey Schmidt · words: Tom Jones · English ✎
+- [*110 in the Shade*](https://en.wikipedia.org/wiki/110_in_the_Shade) (1963) — Harvey Schmidt · words: Tom Jones, N. Richard Nash ✎
+- [*I Do! I Do!*](https://en.wikipedia.org/wiki/I_Do!_I_Do!) (1966) — Harvey Schmidt · words: Tom Jones · English ✎
+- [*Celebration*](https://en.wikipedia.org/wiki/Celebration_(musical%29) (1969) — Harvey Schmidt · words: Tom Jones ✎
+- [*Roadside*](https://en.wikipedia.org/wiki/Roadside_(musical%29) (2001) — Harvey Schmidt · words: Tom Jones ✎
+- [*Starter for Ten*](https://en.wikipedia.org/wiki/Starter_for_Ten_(musical%29) (2024) — Hatty Carman, Tom Rasmussen · words: Hatty Carman, Tom Rasmussen, Emma Hall, Charlie Parham
+- [*A Shoggoth on the Roof*](https://en.wikipedia.org/wiki/A_Shoggoth_on_the_Roof) (2005) — He Who (for legal reasons) Must Not Be Named · words: He Who (for legal reasons) Must Not Be Named ✎
+- [*Magdalena: a Musical Adventure*](https://en.wikipedia.org/wiki/Magdalena:_a_Musical_Adventure) — Heitor Villa-Lobos
+- [*KPOP*](https://en.wikipedia.org/wiki/KPOP_(musical%29) (2017) — Helen Park, Max Vernon · words: Helen Park, Max Vernon ✎
+- [*Nancy Brown*](https://en.wikipedia.org/wiki/Nancy_Brown_(musical%29) — Henry Kimball Hadley · words: George Broadhurst, Frederic Ranken · English
+- [*Dreamgirls*](https://en.wikipedia.org/wiki/Dreamgirls) (1981) — Henry Krieger · words: Tom Eyen · English ✎
+- [*The Tap Dance Kid*](https://en.wikipedia.org/wiki/The_Tap_Dance_Kid) (1983) — Henry Krieger · words: Robert Lorick ✎
+- [*Side Show*](https://en.wikipedia.org/wiki/Side_Show_(musical%29) (1997) — Henry Krieger · words: Bill Russell ✎
+- [*Victor/Victoria*](https://en.wikipedia.org/wiki/Victor/Victoria_(musical%29) (1995) — Henry Mancini · words: Leslie Bricusse, Blake Edwards ✎
+- [*Murray Anderson's Almanac*](https://en.wikipedia.org/wiki/Murray_Anderson%27s_Almanac) (1929) — Henry Sullivan and Milton Ager · words: Jack Yellen
+- [*The Bunyip*](https://en.wikipedia.org/wiki/The_Bunyip_(musical%29) (1916) — Herbert De Pinna · words: Herbert De Pinna, Herbert De Pinna, Vince Courtney, Fred Monument, Marsh Little, James Kendis ✎ ♫
+- [*The Catch of the Season*](https://en.wikipedia.org/wiki/The_Catch_of_the_Season) (1904) — Herbert Haines · words: Charles H. Taylor, Seymour Hicks ✎ ♫
+- [*The Beauty of Bath*](https://en.wikipedia.org/wiki/The_Beauty_of_Bath) (1906) — Herbert Haines · words: Charles H. Taylor, Seymour Hicks ✎ ♫
+- [*Mary Jane McKane*](https://en.wikipedia.org/wiki/Mary_Jane_McKane) — Herbert Stothart & Vincent Youmans · words: William Cary Duncan & Oscar Hammerstein, II
+- [*Wildflower*](https://en.wikipedia.org/wiki/Wildflower_(musical%29) — Herbert Stothart & Vincent Youmans · words: Otto Harbach & Oscar Hammerstein II ✎ ♫
+- [*The Better 'Ole*](https://en.wikipedia.org/wiki/The_Better_%27Ole) (1917) — Herman Darewski · words: James Heard, Percival Knight, James Heard ✎
+- [*Love Story*](https://en.wikipedia.org/wiki/Love_Story_(musical%29) (2010) — Howard Goodall · words: Stephen Clark/Howard Goodall ✎
+- [*Bend It Like Beckham the Musical*](https://en.wikipedia.org/wiki/Bend_It_Like_Beckham:_The_Musical) (2015) — Howard Goodall · words: Charles Hart, Gurinder Chadha
+- [*A Chinese Honeymoon*](https://en.wikipedia.org/wiki/A_Chinese_Honeymoon) (1899) — Howard Talbot · words: Harry Greenbank, George Dance ✎ ♫
+- [*The Girl Behind the Counter*](https://en.wikipedia.org/wiki/The_Girl_Behind_the_Counter) (1906) — Howard Talbot · words: Arthur Anderson, Arthur Anderson, Percy Greenbank
+- [*The Arcadians*](https://en.wikipedia.org/wiki/The_Arcadians_(musical%29) — Howard Talbot ✎ ♫
+- [*The White Chrysanthemum*](https://en.wikipedia.org/wiki/The_White_Chrysanthemum) — Howard Talbot ✎ ♫
+- [*The Heart of Rock and Roll*](https://en.wikipedia.org/wiki/The_Heart_of_Rock_and_Roll_(musical%29) (2018) — Huey Lewis and the News, Arranged by: Brian Usifer · words: Huey Lewis and others
+- [*Best Foot Forward*](https://en.wikipedia.org/wiki/Best_Foot_Forward_(musical%29) (1941) — Hugh Martin · words: Hugh Martin, John Cecil Holm ✎
+- [*Make a Wish*](https://en.wikipedia.org/wiki/Make_a_Wish_(musical%29) (1951) — Hugh Martin · words: Hugh Martin, Preston Sturges
+- [*High Spirits*](https://en.wikipedia.org/wiki/High_Spirits_(musical%29) (1964) — Hugh Martin, Timothy Gray · words: Hugh Martin, Timothy Gray ✎
+- [*Meet Me in St. Louis*](https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis_(musical%29) (1989) — Hugh Martin · words: Hugh Wheeler ✎
+- [*Look, Ma, I'm Dancin'!*](https://en.wikipedia.org/wiki/Look,_Ma,_I%27m_Dancin%27!) — Hugh Martin · words: Hugh Martin ✎
+- [*Love From Judy*](https://en.wikipedia.org/wiki/Love_from_Judy) — Hugh Martin · words: Jean Webster, Eric Maschwitz ✎
+- [*The Merveilleuses*](https://en.wikipedia.org/wiki/The_Merveilleuses) (1906) — Hugo Felix · words: Adrian Ross, Victorien Sardou ✎ ♫
+- [*Maggie Flynn*](https://en.wikipedia.org/wiki/Maggie_Flynn) (1968) — Hugo Peretti · words: Hugo Peretti ✎
+- [*Bats*](https://en.wikipedia.org/wiki/Bats_(musical%29) — Ian Dorricott
+- [*Man of Steel*](https://en.wikipedia.org/wiki/Man_of_Steel_(musical%29) — Ian Dorricott · words: Simon Denver ♫
+- [*The Heart*](https://en.wikipedia.org/wiki/The_Heart_(musical%29) (2025) — Ian Eisendrath, Anne Eisendrath · words: Kait Kerrigan, Ian Eisendrath, Anne Eisendrath
+- [*TONY! The Blair Musical*](https://en.wikipedia.org/wiki/TONY!_The_Blair_Musical) (2007) — Ian McCluskey · words: Chris Bush ✎ ♫
+- [*Betwixt!*](https://en.wikipedia.org/wiki/Betwixt!) (2008) — Ian McFarlane · words: Ian McFarlane
+- [*Harry Potter and the Cursed Child*](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child) (2016) — Imogen Heap · English ✎
+- [*The Notebook*](https://en.wikipedia.org/wiki/The_Notebook_(musical%29) (2019) — Ingrid Michaelson · words: Ingrid Michaelson, Bekah Brunstetter · English ✎
+- [*Come from Away*](https://en.wikipedia.org/wiki/Come_from_Away) (2017) — Irene Sankoff · words: Irene Sankoff, David Hein ✎
+- [*Watch Your Step*](https://en.wikipedia.org/wiki/Watch_Your_Step_(musical%29) (1914) — Irving Berlin · words: Harry B. Smith
+- [*Yip Yip Yaphank*](https://en.wikipedia.org/wiki/Yip_Yip_Yaphank) (1918) — Irving Berlin · words: Irving Berlin
+- [*The Cocoanuts*](https://en.wikipedia.org/wiki/The_Cocoanuts_(musical%29) (1925) — Irving Berlin · words: Irving Berlin, George S. Kaufman ✎ ♫
+- [*Face the Music*](https://en.wikipedia.org/wiki/Face_the_Music_(musical%29) (1932) — Irving Berlin · words: Moss Hart ✎ ♫
+- [*As Thousands Cheer*](https://en.wikipedia.org/wiki/As_Thousands_Cheer) (1933) — Irving Berlin · words: Moss Hart ✎
+- [*Louisiana Purchase*](https://en.wikipedia.org/wiki/Louisiana_Purchase_(musical%29) (1940) — Irving Berlin · words: Irving Berlin, Morrie Ryskind · English
+- [*This Is The Army*](https://en.wikipedia.org/wiki/This_Is_the_Army_(musical%29) (1942) — Irving Berlin · words: Irving Berlin
+- [*Miss Liberty*](https://en.wikipedia.org/wiki/Miss_Liberty) (1949) — Irving Berlin · words: Robert E. Sherwood ✎
+- [*Call Me Madam*](https://en.wikipedia.org/wiki/Call_Me_Madam) (1950) — Irving Berlin · words: Russel Crouse, Howard Lindsay ✎
+- [*Mr. President*](https://en.wikipedia.org/wiki/Mr._President_(musical%29) (1962) — Irving Berlin · words: Irving Berlin, Howard Lindsay ✎
+- [*White Christmas*](https://en.wikipedia.org/wiki/White_Christmas_(musical%29) (2000) — Irving Berlin · words: Irving Berlin, David Ives
+- [*Top Hat (musical)*](https://en.wikipedia.org/wiki/Top_Hat_(musical%29) (2011) — Irving Berlin · words: Irving Berlin
+- [*Holiday Inn*](https://en.wikipedia.org/wiki/Holiday_Inn_(musical%29) (2014) — Irving Berlin · words: Irving Berlin, Chad Hodge, Gordon Greenberg · English ✎
+- [*Annie Get Your Gun*](https://en.wikipedia.org/wiki/Annie_Get_Your_Gun_(musical%29) — Irving Berlin · words: Irving Berlin, Dorothy Fields, Herbert Fields · English ✎ ♫
+- [*The Century Girl*](https://en.wikipedia.org/wiki/The_Century_Girl) — Irving Berlin, Victor Herbert · English ♫
+- [*Wise Guy (musical)*](https://en.wikipedia.org/wiki/Wise_Guy_(musical%29) — Irving Berlin
+- [*The Gay Parisienne*](https://en.wikipedia.org/wiki/The_Gay_Parisienne) (1894) — Ivan Caryll · words: George Dance ✎ ♫
+- [*The Circus Girl*](https://en.wikipedia.org/wiki/The_Circus_Girl) (1896) — Ivan Caryll · words: Harry Greenbank, James T. Tanner ✎ ♫
+- [*The Messenger Boy*](https://en.wikipedia.org/wiki/The_Messenger_Boy) (1900) — Ivan Caryll · words: Adrian Ross, James T. Tanner ♫
+- [*The Earl and the Girl*](https://en.wikipedia.org/wiki/The_Earl_and_the_Girl) (1903) — Ivan Caryll · words: Percy Greenbank, Seymour Hicks · English ✎ ♫
+- [*The New Aladdin*](https://en.wikipedia.org/wiki/The_New_Aladdin) (1906) — Ivan Caryll · words: Adrian Ross ♫
+- [*The Girls of Gottenberg*](https://en.wikipedia.org/wiki/The_Girls_of_Gottenberg) (1907) — Ivan Caryll · words: Adrian Ross, George Grossmith Jr.
+- [*Kissing Time*](https://en.wikipedia.org/wiki/Kissing_Time) — Ivan Caryll · words: Clifford Grey, Irving Caesar, Philander Chase Johnson · English ✎
+- [*Marriage a la Carte*](https://en.wikipedia.org/wiki/Marriage_a_la_Carte) — Ivan Caryll · words: C. M. S. McLellan · English ✎ ♫
+- [*The Pink Lady*](https://en.wikipedia.org/wiki/The_Pink_Lady_(musical%29) — Ivan Caryll · words: C. M. S. McLellan ✎ ♫
+- [*Glamorous Night*](https://en.wikipedia.org/wiki/Glamorous_Night) (1935) — Ivor Novello · words: Christopher Hassall, Ivor Novello ✎
+- [*The Dancing Years*](https://en.wikipedia.org/wiki/The_Dancing_Years) (1939) — Ivor Novello · words: Christopher Hassall, Ivor Novello ✎
+- [*Perchance to Dream*](https://en.wikipedia.org/wiki/Perchance_to_Dream_(musical%29) (1945) — Ivor Novello · words: Ivor Novello · English ✎
+- [*Gay's the Word*](https://en.wikipedia.org/wiki/Gay%27s_the_Word_(musical%29) (1951) — Ivor Novello · words: Alan Melville, Ivor Novello ✎
+- [*Careless Rapture*](https://en.wikipedia.org/wiki/Careless_Rapture) — Ivor Novello
+- [*Crest of the Wave*](https://en.wikipedia.org/wiki/Crest_of_the_Wave_(musical%29) — Ivor Novello ♫
+- [*King's Rhapsody*](https://en.wikipedia.org/wiki/King%27s_Rhapsody) — Ivor Novello · words: Ivor Novello
+- [*Theodore & Co*](https://en.wikipedia.org/wiki/Theodore_%26_Co) — Ivor Novello ♫
+- [*Lonesome Town*](https://en.wikipedia.org/wiki/Lonesome_Town_(musical%29) — J. A. Raynes · English
+- [*Sons O' Guns*](https://en.wikipedia.org/wiki/Sons_O%27_Guns) — J. Fred Coots · words: Benny Davis, Arthur Swanstrom ✎
+- [*The Red Moon*](https://en.wikipedia.org/wiki/The_Red_Moon_(Johnson_and_Cole%29) (1908) — J. Rosamond Johnson · words: Bob Cole ✎
+- [*Lone Star Love*](https://en.wikipedia.org/wiki/Lone_Star_Love) (2004) — Jack Herrick · words: Jack Herrick ✎
+- [*I Had a Ball*](https://en.wikipedia.org/wiki/I_Had_a_Ball) (1964) — Jack Lawrence · words: Jack Lawrence, Jerome Chodorov
+- [*He Wanted Adventure*](https://en.wikipedia.org/wiki/He_Wanted_Adventure) (1933) — Jack Waller, Joseph Tunbridge · words: Clifford Grey
+- [*Jacques Brel is Alive and Well and Living in Paris*](https://en.wikipedia.org/wiki/Jacques_Brel_is_Alive_and_Well_and_Living_in_Paris) (1968) — Jacques Brel · words: Jacques Brel (French version), Eric Blau (English version), Mort Shuman (English version) · English
+- [*The Happiest Girl in the World*](https://en.wikipedia.org/wiki/The_Happiest_Girl_in_the_World) (1961) — Jacques Offenbach · words: Yip Harburg, Fred Saidy
+- [*The Game of Love*](https://en.wikipedia.org/wiki/The_Game_of_Love_(musical%29) (1965) — Jacques Offenbach · words: Tom Jones · English
+- [*John Henry*](https://en.wikipedia.org/wiki/John_Henry_(musical%29) (1940) — Jacques Wolfe · words: Roark Bradford
+- [*The Secret Diary of Adrian Mole Aged 13 ¾*](https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole_Aged_13%C2%BE_(musical%29) (2015) — Jake Brunger and Pippa Cleary · words: Jake Brunger, Pippa Cleary · English
+- [*Gambämark*](https://en.wikipedia.org/wiki/Gamb%C3%A4mark) — Jakob Norrgård, Kevin Holmström, Axel Åhman · words: KAJ (group) · Ostrobothnian Swedish ✎ ♫
+- [*Something's Afoot*](https://en.wikipedia.org/wiki/Something%27s_Afoot) (1972) — James McDonald, David Vos, Robert Gerlach, Ed Linderman · words: James McDonald, David Vos, Robert Gerlach ✎ ♫
+- [*The Vamp*](https://en.wikipedia.org/wiki/The_Vamp) (1955) — James Mundy · words: John La Touche
+- [*Zombies from The Beyond*](https://en.wikipedia.org/wiki/Zombies_from_The_Beyond) (1995) — James Valcq · words: James Valcq ✎
+- [*The Spitfire Grill*](https://en.wikipedia.org/wiki/The_Spitfire_Grill_(musical%29) (2001) — James Valcq · words: Fred Alley ✎
+- [*Elegies for Angels, Punks and Raging Queens*](https://en.wikipedia.org/wiki/Elegies_for_Angels,_Punks_and_Raging_Queens) (1989) — Janet Hood · words: Bill Russell
+- [*Love, Janis*](https://en.wikipedia.org/wiki/Love,_Janis_(musical%29) (1994) — Janis Joplin · words: Janis Joplin
+- [*A Night with Janis Joplin*](https://en.wikipedia.org/wiki/A_Night_with_Janis_Joplin) (2013) — Janis Joplin · words: Randy Johnson
+- [*Metro*](https://en.wikipedia.org/wiki/Metro_(musical%29) (1991) — Janusz Stoklosa · words: Agata Miklaszewska, Maryna Miklaszewska · Polish/English/Russian ✎
+- [*Little Women*](https://en.wikipedia.org/wiki/Little_Women_(musical%29) (2005) — Jason Howland · words: Mindi Dickstein, Allan Knee ✎ ♫
+- [*Last Days of Summer*](https://en.wikipedia.org/wiki/Last_Days_of_Summer_(musical%29) (2018) — Jason Howland · words: Steve Kluger
+- [*Paradise Square*](https://en.wikipedia.org/wiki/Paradise_Square_(musical%29) (2022) — Jason Howland · words: Nathan Tysen, Masi Asare, Nathan Tysen
+- [*The Great Gatsby*](https://en.wikipedia.org/wiki/The_Great_Gatsby_(musical%29) (2023) — Jason Howland · words: Nathan Tysen ✎
+- [*A Killer Party*](https://en.wikipedia.org/wiki/A_Killer_Party) — Jason Howland (music), Nathan Tysen (lyrics) ✎ ♫
+- [*Songs for a New World*](https://en.wikipedia.org/wiki/Songs_for_a_New_World) (1995) — Jason Robert Brown · words: Jason Robert Brown
+- [*Parade*](https://en.wikipedia.org/wiki/Parade_(musical%29) (1998) — Jason Robert Brown · words: Jason Robert Brown, Alfred Uhry · English ✎
+- [*The Last Five Years*](https://en.wikipedia.org/wiki/The_Last_Five_Years) (2001) — Jason Robert Brown · words: Jason Robert Brown ✎
+- [*Urban Cowboy*](https://en.wikipedia.org/wiki/Urban_Cowboy_(musical%29) (2003) — Jason Robert Brown, Jeff Blumenkrantz · words: Jeff Blumenkrantz, Aaron Latham
+- [*13*](https://en.wikipedia.org/wiki/13_(musical%29) (2007) — Jason Robert Brown · words: Robert Horn · English ✎
+- [*Honeymoon in Vegas*](https://en.wikipedia.org/wiki/Honeymoon_in_Vegas_(musical%29) (2013) — Jason Robert Brown · words: Jason Robert Brown, Andrew Bergman · English ✎
+- [*The Bridges of Madison County*](https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County_(musical%29) (2013) — Jason Robert Brown · words: Marsha Norman ✎
+- [*Mr. Saturday Night*](https://en.wikipedia.org/wiki/Mr._Saturday_Night_(musical%29) (2021) — Jason Robert Brown · words: Amanda Green
+- [*The Connector*](https://en.wikipedia.org/wiki/The_Connector_(musical%29) (2023) — Jason Robert Brown · words: Jason Robert Brown ✎
+- [*Midnight in the Garden of Good and Evil*](https://en.wikipedia.org/wiki/Midnight_in_the_Garden_of_Good_and_Evil_(musical%29) (2024) — Jason Robert Brown · words: Jason Robert Brown
+- [*Allegiance*](https://en.wikipedia.org/wiki/Allegiance_(musical%29) (2012) — Jay Kuo · words: Marc Acito ✎
+- [*Oh, Captain!*](https://en.wikipedia.org/wiki/Oh,_Captain!) (1958) — Jay Livingston · words: Jay Livingston, Al Morgan
+- [*Let It Ride*](https://en.wikipedia.org/wiki/Let_It_Ride_(musical%29) (1961) — Jay Livingston · words: Jay Livingston, Jay Livingston, Ray Evans
+- [*Adele*](https://en.wikipedia.org/wiki/Adele_(musical%29) (1913) — Jean Briquet and Adolf Philipp · words: Paul Hervé
+- [*The Ham Tree*](https://en.wikipedia.org/wiki/The_Ham_Tree) (1905) — Jean Schwartz · words: William Jerome · English ✎
+- [*Make It Snappy*](https://en.wikipedia.org/wiki/Make_It_Snappy) (1922) — Jean Schwartz · words: Alfred Bryan, Harold R. Atteridge, Eddie Cantor · English ✎ ♫
+- [*Sunny Days*](https://en.wikipedia.org/wiki/Sunny_Days_(musical%29) (1928) — Jean Schwartz · words: Clifford Grey, William Cary Duncan · English
+- [*Piff! Paff!! Pouf!!!*](https://en.wikipedia.org/wiki/Piff!_Paff!!_Pouf!!!) — Jean Schwartz
+- [*Violet*](https://en.wikipedia.org/wiki/Violet_(musical%29) (1997) — Jeanine Tesori · words: Brian Crawley ✎
+- [*Thoroughly Modern Millie*](https://en.wikipedia.org/wiki/Thoroughly_Modern_Millie_(musical%29) (2000) — Jeanine Tesori · words: Dick Scanlan, Richard Morris ✎ ♫
+- [*Caroline, or Change*](https://en.wikipedia.org/wiki/Caroline,_or_Change) (2003) — Jeanine Tesori · words: Tony Kushner ✎ ♫
+- [*Shrek the Musical*](https://en.wikipedia.org/wiki/Shrek_the_Musical) (2012) — Jeanine Tesori · words: David Lindsay-Abaire · English
+- [*Fun Home*](https://en.wikipedia.org/wiki/Fun_Home_(musical%29) (2013) — Jeanine Tesori · words: Lisa Kron ✎
+- [*Soft Power*](https://en.wikipedia.org/wiki/Soft_Power_(musical%29) (2018) — Jeanine Tesori · words: David Henry Hwang, Jeanine Tesori · English ✎
+- [*Kimberly Akimbo*](https://en.wikipedia.org/wiki/Kimberly_Akimbo_(musical%29) (2021) — Jeanine Tesori · words: David Lindsay-Abaire · English ✎
+- [*Marilyn: An American Fable*](https://en.wikipedia.org/wiki/Marilyn:_An_American_Fable) (1983) — Jeanne Napoli · words: Jeanne Napoli, Jeanne Napoli, Doug Frank, Gary Portnoy, Beth Lawrence, Norman Thalheimer
+- [*The Dirtiest Show in Town*](https://en.wikipedia.org/wiki/The_Dirtiest_Show_in_Town) (1970) — Jeff Barry · words: Tom Eyen
+- [*The Guy Who Didn't Like Musicals*](https://en.wikipedia.org/wiki/The_Guy_Who_Didn%27t_Like_Musicals) (2018) — Jeff Blim · words: Jeff Blim ✎ ♫
+- [*\[title of show\]*](https://en.wikipedia.org/wiki/Title_of_show) (2006) — Jeff Bowen · words: Jeff Bowen, Hunter Bell ✎ ♫
+- [*Now. Here. This.*](https://en.wikipedia.org/wiki/Now._Here._This.) (2012) — Jeff Bowen · words: Jeff Bowen ✎
+- [*Other World*](https://en.wikipedia.org/wiki/Other_World_(musical%29) (2020) — Jeff Bowen, Ann McNamee · words: Jeff Bowen, Ann McNamee ✎
+- [*Time*](https://en.wikipedia.org/wiki/Time_(musical%29) (1986) — Jeff Daniels · words: Dave Clark · English ✎ ♫
+- [*Anne & Gilbert*](https://en.wikipedia.org/wiki/Anne_%26_Gilbert) (2005) — Jeff Hochhauser, Nancy White, Bob Johnston · words: Jeff Hochhauser, Nancy White, Bob Johnston ✎
+- [*Xanadu*](https://en.wikipedia.org/wiki/Xanadu_(musical%29) (2007) — Jeff Lynne · words: Jeff Lynne, Douglas Carter Beane ✎
+- [*Mean Girls*](https://en.wikipedia.org/wiki/Mean_Girls_(musical%29) (2017) — Jeff Richmond · words: Nell Benjamin, Tina Fey · English ✎
+- [*Triumph of Love*](https://en.wikipedia.org/wiki/Triumph_of_Love_(musical%29) (1997) — Jeffrey Stock · words: Susan Birkenhead ✎
+- [*Jelly's Last Jam*](https://en.wikipedia.org/wiki/Jelly%27s_Last_Jam) (1991) — Jelly Roll Morton · words: Susan Birkenhead, George C. Wolfe ✎
+- [*Giant Green Lizard! The Musical*](https://en.wikipedia.org/wiki/Giant_Green_Lizard!_The_Musical) — Jeremy Gable · words: Jeremy Gable
+- [*La Belle Paree*](https://en.wikipedia.org/wiki/La_Belle_Paree) (1911) — Jerome Kern · words: Edward Madden, Edgar Smith
+- [*Very Good Eddie*](https://en.wikipedia.org/wiki/Very_Good_Eddie) (1915) — Jerome Kern · words: Schuyler Greene ✎
+- [*Leave It to Jane*](https://en.wikipedia.org/wiki/Leave_It_to_Jane) (1917) — Jerome Kern · words: Guy Bolton, P. G. Wodehouse · English ✎ ♫
+- [*Oh, Boy!*](https://en.wikipedia.org/wiki/Oh,_Boy!_(musical%29) (1917) — Jerome Kern · words: Guy Bolton, P. G. Wodehouse · English ✎ ♫
+- [*Oh, Lady! Lady!!*](https://en.wikipedia.org/wiki/Oh,_Lady!_Lady!!) (1918) — Jerome Kern · words: P. G. Wodehouse, Guy Bolton ✎ ♫
+- [*Sally*](https://en.wikipedia.org/wiki/Sally_(musical%29) (1920) — Jerome Kern, Victor Herbert · words: Buddy DeSylva, Clifford Grey, P. G. Wodehouse, Guy Bolton ♫
+- [*The Night Boat*](https://en.wikipedia.org/wiki/The_Night_Boat) (1920) — Jerome Kern · words: Anne Caldwell ✎
+- [*The Cabaret Girl*](https://en.wikipedia.org/wiki/The_Cabaret_Girl) (1922) — Jerome Kern · words: P. G. Wodehouse, George Grossmith Jr., George Grossmith and, P. G. Wodehouse · English ✎ ♫
+- [*The Beauty Prize*](https://en.wikipedia.org/wiki/The_Beauty_Prize) (1923) — Jerome Kern · words: George Grossmith Jr., George Grossmith and, P. G. Wodehouse ✎ ♫
+- [*Sunny*](https://en.wikipedia.org/wiki/Sunny_(musical%29) (1925) — Jerome Kern · words: Oscar Hammerstein II
+- [*Show Boat*](https://en.wikipedia.org/wiki/Show_Boat) (1927) — Jerome Kern · words: Oscar Hammerstein II ✎
+- [*Sweet Adeline*](https://en.wikipedia.org/wiki/Sweet_Adeline_(musical%29) (1929) — Jerome Kern · words: Oscar Hammerstein II · English
+- [*The Cat and the Fiddle*](https://en.wikipedia.org/wiki/The_Cat_and_the_Fiddle_(musical%29) (1931) — Jerome Kern · words: Otto Harbach ✎ ♫
+- [*Music in the Air*](https://en.wikipedia.org/wiki/Music_in_the_Air) (1932) — Jerome Kern · words: Oscar Hammerstein II · English ✎
+- [*Roberta*](https://en.wikipedia.org/wiki/Roberta_(musical%29) (1933) — Jerome Kern · words: Otto Harbach · English
+- [*Three Sisters*](https://en.wikipedia.org/wiki/Three_Sisters_(musical%29) (1934) — Jerome Kern · words: Oscar Hammerstein II · English ✎
+- [*Very Warm for May*](https://en.wikipedia.org/wiki/Very_Warm_for_May) (1939) — Jerome Kern · words: Oscar Hammerstein II · English
+- [*Never Gonna Dance*](https://en.wikipedia.org/wiki/Never_Gonna_Dance) (2003) — Jerome Kern · words: Oscar Hammerstein II, Jeffrey Hatcher ✎
+- [*Blue Eyes*](https://en.wikipedia.org/wiki/Blue_Eyes_(musical%29) — Jerome Kern · words: Guy Bolton · English
+- [*Criss Cross*](https://en.wikipedia.org/wiki/Criss_Cross_(musical%29) — Jerome Kern · words: Otto Harbach and Anne Caldwell
+- [*Love O' Mike*](https://en.wikipedia.org/wiki/Love_O%27_Mike) — Jerome Kern · words: Harry B. Smith ✎
+- [*Stepping Stones*](https://en.wikipedia.org/wiki/Stepping_Stones_(musical%29) — Jerome Kern · words: Anne Caldwell
+- [*The Bunch and Judy*](https://en.wikipedia.org/wiki/The_Bunch_and_Judy) — Jerome Kern · words: Anne Caldwell ✎
+- [*The Golden Apple*](https://en.wikipedia.org/wiki/The_Golden_Apple_(musical%29) (1954) — Jerome Moross · words: John La Touche, John Treville Latouche ✎ ♫
+- [*Mr. Wonderful*](https://en.wikipedia.org/wiki/Mr._Wonderful_(musical%29) (1956) — Jerry Bock · words: Jerry Bock, Joseph Stein · English
+- [*The Body Beautiful*](https://en.wikipedia.org/wiki/The_Body_Beautiful) (1958) — Jerry Bock · words: Sheldon Harnick, Joseph Stein, Will Glickman
+- [*Fiorello!*](https://en.wikipedia.org/wiki/Fiorello!) (1959) — Jerry Bock · words: Sheldon Harnick, Jerome Weidman ✎
+- [*Tenderloin*](https://en.wikipedia.org/wiki/Tenderloin_(musical%29) (1960) — Jerry Bock · words: Sheldon Harnick, George Abbott ✎ ♫
+- [*She Loves Me*](https://en.wikipedia.org/wiki/She_Loves_Me) (1963) — Jerry Bock · words: Sheldon Harnick, Joe Masteroff ✎
+- [*Fiddler on the Roof*](https://en.wikipedia.org/wiki/Fiddler_on_the_Roof) (1964) — Jerry Bock · words: Sheldon Harnick, Joseph Stein ✎
+- [*The Apple Tree*](https://en.wikipedia.org/wiki/The_Apple_Tree) (1966) — Jerry Bock · words: Sheldon Harnick, Jerry Bock
+- [*The Rothschilds*](https://en.wikipedia.org/wiki/The_Rothschilds_(musical%29) (1970) — Jerry Bock · words: Sheldon Harnick, Sherman Yellen ✎
+- [*Madame Aphrodite*](https://en.wikipedia.org/wiki/Madame_Aphrodite_(musical%29) (1961) — Jerry Herman · words: Jerry Herman, Tad Mosel ✎
+- [*Milk and Honey*](https://en.wikipedia.org/wiki/Milk_and_Honey_(musical%29) (1961) — Jerry Herman · words: Jerry Herman ✎
+- [*Hello, Dolly!*](https://en.wikipedia.org/wiki/Hello,_Dolly!_(musical%29) (1963) — Jerry Herman · words: Jerry Herman, Michael Stewart · English ✎ ♫
+- [*Mame*](https://en.wikipedia.org/wiki/Mame_(musical%29) (1966) — Jerry Herman · words: Jerry Herman, Jerome Lawrence ✎
+- [*Dear World*](https://en.wikipedia.org/wiki/Dear_World) (1969) — Jerry Herman · words: Jerry Herman, Jerome Lawrence, Robert Edwin Lee ✎
+- [*Mack & Mabel*](https://en.wikipedia.org/wiki/Mack_and_Mabel) (1974) — Jerry Herman · words: Jerry Herman, Michael Stewart ✎ ♫
+- [*The Grand Tour*](https://en.wikipedia.org/wiki/The_Grand_Tour_(musical%29) (1978) — Jerry Herman · words: Jerry Herman, Michael Stewart ✎ ♫
+- [*La Cage aux Folles*](https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(musical%29) (1983) — Jerry Herman · words: Jerry Herman, Harvey Fierstein ✎ ♫
+- [*Jerry's Girls*](https://en.wikipedia.org/wiki/Jerry%27s_Girls) (1985) — Jerry Herman · words: Jerry Herman
+- [*Showtune*](https://en.wikipedia.org/wiki/Showtune_(musical%29) (1985) — Jerry Herman · words: Jerry Herman ✎
+- [*An Evening with Jerry Herman*](https://en.wikipedia.org/wiki/An_Evening_with_Jerry_Herman) (1998) — Jerry Herman · words: Jerry Herman
+- [*Miss Spectacular*](https://en.wikipedia.org/wiki/Miss_Spectacular) — Jerry Herman · words: Jerry Herman
+- [*Bright Lights of 1944*](https://en.wikipedia.org/wiki/Bright_Lights_of_1944) (1943) — Jerry Livingston · words: Mack David
+- [*Molly*](https://en.wikipedia.org/wiki/Molly_(musical%29) — Jerry Livingston · words: Mack David
+- [*John Murray Anderson's Almanac*](https://en.wikipedia.org/wiki/John_Murray_Anderson%27s_Almanac) — Jerry Ross, Richard Adler · words: Harry Belafonte, Bart Howard, Richard Adler, Cy Coleman, Jerry Ross, Joseph McCarthy, Charles Zwar, Richard Adler and Jerry Ross, Cy Coleman, Michael Grace, Joseph McCarthy, Henry Sullivan, John Rox, Bart Howard, Harry Belafonte, Charles Zwar
+- [*A Tale of Two Cities*](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities_(musical%29) (2007) — Jill Santoriello · words: Jill Santoriello ✎
+- [*Two Strangers (Carry a Cake Across New York)*](https://en.wikipedia.org/wiki/Two_Strangers_(Carry_a_Cake_Across_New_York%29) (2019) — Jim Barne · words: Kit Buchan · English ✎
+- [*Mr Gum and the Dancing Bear - the Musical!*](https://en.wikipedia.org/wiki/Mr_Gum_and_the_Dancing_Bear_-_the_Musical!) (2019) — Jim Fortune · words: Andy Stanton
+- [*More Than You Deserve*](https://en.wikipedia.org/wiki/More_Than_You_Deserve) (1973) — Jim Steinman · words: Jim Steinman, Michael Weller ✎ ♫
+- [*Dance of the Vampires*](https://en.wikipedia.org/wiki/Dance_of_the_Vampires_(musical%29) (1997) — Jim Steinman · words: Michael Kunze · German ✎ ♫
+- [*Bat Out of Hell The Musical*](https://en.wikipedia.org/wiki/Bat_Out_of_Hell:_The_Musical) (2017) — Jim Steinman · words: Jim Steinman ✎
+- [*Dames at Sea*](https://en.wikipedia.org/wiki/Dames_at_Sea) (1966) — Jim Wise · words: Robin Miller, George Haimsohn, Robin Miller ✎
+- [*Escape to Margaritaville*](https://en.wikipedia.org/wiki/Escape_to_Margaritaville) (2017) — Jimmy Buffett · words: Jimmy Buffett ✎
+- [*Bran Nue Dae*](https://en.wikipedia.org/wiki/Bran_Nue_Dae) (1990) — Jimmy Chi · words: Jimmy Chi
+- [*Corrugation Road*](https://en.wikipedia.org/wiki/Corrugation_Road) (1996) — Jimmy Chi · words: Jimmy Chi
+- [*Marlowe*](https://en.wikipedia.org/wiki/Marlowe_(musical%29) (1981) — Jimmy Horowitz · words: Leo Rost
+- [*Blackbirds of 1928*](https://en.wikipedia.org/wiki/Blackbirds_of_1928) (1928) — Jimmy McHugh · words: Dorothy Fields · English
+- [*Keep Off the Grass*](https://en.wikipedia.org/wiki/Keep_Off_the_Grass) (1940) — Jimmy McHugh · words: Al Dubin, Al Dubin and Howard Dietz
+- [*As the Girls Go*](https://en.wikipedia.org/wiki/As_the_Girls_Go) (1948) — Jimmy McHugh · words: Harold Adamson, William Roos ✎
+- [*Sugar Babies*](https://en.wikipedia.org/wiki/Sugar_Babies_(musical%29) (1979) — Jimmy McHugh · words: Dorothy Fields, Dorothy Fields, Al Dubin, various
+- [*I Love You, You're Perfect, Now Change*](https://en.wikipedia.org/wiki/I_Love_You,_You%27re_Perfect,_Now_Change) (1996) — Jimmy Roberts · words: Joe DiPietro · English ✎
+- [*The Thing About Men*](https://en.wikipedia.org/wiki/The_Thing_About_Men) (2003) — Jimmy Roberts · words: Joe DiPietro
+- [*Carnival in Flanders*](https://en.wikipedia.org/wiki/Carnival_in_Flanders_(musical%29) (1953) — Jimmy Van Heusen · words: Johnny Burke, Preston Sturges
+- [*Skyscraper*](https://en.wikipedia.org/wiki/Skyscraper_(musical%29) (1965) — Jimmy Van Heusen · words: Sammy Cahn, Peter Stone ✎
+- [*Walking Happy*](https://en.wikipedia.org/wiki/Walking_Happy) (1966) — Jimmy Van Heusen · words: Sammy Cahn, Roger O. Hirson ✎
+- [*Les Poupées de Paris*](https://en.wikipedia.org/wiki/Les_Poup%C3%A9es_de_Paris) — Jimmy Van Heusen · words: Sammy Cahn
+- [*Katyar Kaljat Ghusali*](https://en.wikipedia.org/wiki/Katyar_Kaljat_Ghusali_(film%29) — Jitendra Abhisheki · Marathi ✎ ♫
+- [*Rutka*](https://en.wikipedia.org/wiki/Rutka_(musical%29) (2024) — Jocelyn Mackenzie and Jeremy Lloyd Styles · words: Jocelyn Mackenzie and Jeremy Lloyd Styles
+- [*Be More Chill*](https://en.wikipedia.org/wiki/Be_More_Chill_(musical%29) (2015) — Joe Iconis · words: Joe Iconis ✎
+- [*Raggedy Ann*](https://en.wikipedia.org/wiki/Raggedy_Ann_(musical%29) (1984) — Joe Raposo · words: Joe Raposo, William Gibson ✎
+- [*A Wonderful Life*](https://en.wikipedia.org/wiki/A_Wonderful_Life_(musical%29) (1986) — Joe Raposo · words: Sheldon Harnick
+- [*The Civility of Albert Cashier*](https://en.wikipedia.org/wiki/The_Civility_of_Albert_Cashier) (2017) — Joe Stevens · words: Joe Stevens, Jay Paul Deratany, Joe Stevens, Keaton Wooden · English ✎
+- [*Mabining Mandirigma: A Steampunk Musical*](https://en.wikipedia.org/wiki/Mabining_Mandirigma:_A_Steampunk_Musical) (2015) — Joed Balsamo · words: Nicanor Tiongson ✎ ♫
+- [*De 3 Biggetjes*](https://en.wikipedia.org/wiki/De_3_Biggetjes_(musical%29) (2003) — Johan van den Eeden · words: Gert Verhulst
+- [*The Great Waltz*](https://en.wikipedia.org/wiki/The_Great_Waltz_(musical%29) (1934) — Johann Strauss I · words: Desmond Carter, Desmond Carter, Oscar Hammerstein II, Robert Wright, George Forrest
+- [*Paradise Found*](https://en.wikipedia.org/wiki/Paradise_Found_(musical%29) (2010) — Johann Strauss II · words: Richard Nelson ♫
+- [*Lolita, My Love*](https://en.wikipedia.org/wiki/Lolita,_My_Love) (1971) — John Barry · words: Alan Jay Lerner ✎
+- [*Billy*](https://en.wikipedia.org/wiki/Billy_(musical%29) (1974) — John Barry · words: Don Black, Dick Clement ✎
+- [*The Little Prince and the Aviator*](https://en.wikipedia.org/wiki/The_Little_Prince_and_the_Aviator) (1981) — John Barry · words: Don Black, Hugh Wheeler
+- [*A Catered Affair*](https://en.wikipedia.org/wiki/A_Catered_Affair) (2007) — John Bucchino · words: Harvey Fierstein ✎ ♫
+- [*Man with a Load of Mischief*](https://en.wikipedia.org/wiki/Man_with_a_Load_of_Mischief) (1966) — John Clifton · words: Ben Tarver, John Clifton
+- [*Spamalot*](https://en.wikipedia.org/wiki/Spamalot) (2004) — John Du Prez · words: Eric Idle · English ✎ ♫
+- [*Adonis*](https://en.wikipedia.org/wiki/Adonis_(musical%29) (1884) — John Eller, Edward Rice, Edmond Audran, Ludwig van Beethoven, David Braham, Joseph Haydn, Wolfgang Amadeus Mozart, Jacques Offenbach, Robert Planquette, Johann Strauss II, Arthur Sullivan, Franz von Suppé · words: William Gill ✎
+- [*Heathcliff*](https://en.wikipedia.org/wiki/Heathcliff_(musical%29) (1996) — John Farrar · words: Tim Rice · English ✎ ♫
+- [*Evie and the Birdman*](https://en.wikipedia.org/wiki/Evie_and_the_Birdman) (2001) — John Field · words: John Field ✎
+- [*Pump Boys and Dinettes*](https://en.wikipedia.org/wiki/Pump_Boys_and_Dinettes) (1981) — John Foley, Mark Hardwick, Debra Monk, Cass Morgan, John Schimmel, Jim Wann · words: John Foley, Mark Hardwick, Debra Monk, Cass Morgan, John Schimmel, Jim Wann ✎
+- [*A Family Affair*](https://en.wikipedia.org/wiki/A_Family_Affair_(musical%29) (1962) — John Kander · words: James Goldman ✎ ♫
+- [*Flora the Red Menace*](https://en.wikipedia.org/wiki/Flora_the_Red_Menace) (1965) — John Kander · words: Fred Ebb, George Abbott ✎
+- [*Cabaret*](https://en.wikipedia.org/wiki/Cabaret_(musical%29) (1966) — John Kander · words: Fred Ebb, Joe Masteroff · English ✎
+- [*The Happy Time*](https://en.wikipedia.org/wiki/The_Happy_Time_(musical%29) (1967) — John Kander · words: Fred Ebb, N. Richard Nash ✎
+- [*Zorba*](https://en.wikipedia.org/wiki/Zorba_(musical%29) (1968) — John Kander · words: Fred Ebb, Joseph Stein ✎ ♫
+- [*70, Girls, 70*](https://en.wikipedia.org/wiki/70,_Girls,_70) (1971) — John Kander · words: Fred Ebb ✎
+- [*Chicago*](https://en.wikipedia.org/wiki/Chicago_(musical%29) (1975) — John Kander · words: Fred Ebb, Bob Fosse · English ✎
+- [*The Act*](https://en.wikipedia.org/wiki/The_Act_(musical%29) (1977) — John Kander · words: Fred Ebb, George Furth
+- [*Woman of the Year*](https://en.wikipedia.org/wiki/Woman_of_the_Year_(musical%29) (1981) — John Kander · words: Fred Ebb, Peter Stone ✎
+- [*The Rink*](https://en.wikipedia.org/wiki/The_Rink_(musical%29) (1984) — John Kander · words: Fred Ebb, Terrence McNally · English
+- [*And the World Goes 'Round*](https://en.wikipedia.org/wiki/And_the_World_Goes_%27Round) (1991) — John Kander · words: Fred Ebb
+- [*Kiss of the Spider Woman*](https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(musical%29) (1992) — John Kander · words: Fred Ebb, Terrence McNally ✎
+- [*Steel Pier*](https://en.wikipedia.org/wiki/Steel_Pier_(musical%29) (1997) — John Kander · words: Fred Ebb, David Thompson ✎
+- [*All About Us*](https://en.wikipedia.org/wiki/All_About_Us_(musical%29) (1999) — John Kander · words: Fred Ebb, Joseph Stein ✎
+- [*The Visit*](https://en.wikipedia.org/wiki/The_Visit_(musical%29) (2001) — John Kander · words: Fred Ebb, Terrence McNally ✎
+- [*Curtains*](https://en.wikipedia.org/wiki/Curtains_(musical%29) (2006) — John Kander · words: Fred Ebb, Rupert Holmes ✎ ♫
+- [*The Scottsboro Boys*](https://en.wikipedia.org/wiki/The_Scottsboro_Boys_(musical%29) (2010) — John Kander · words: Fred Ebb, David Thompson ✎
+- [*New York, New York*](https://en.wikipedia.org/wiki/New_York,_New_York_(musical%29) (2023) — John Kander · words: Fred Ebb
+- [*Lennon*](https://en.wikipedia.org/wiki/Lennon_(musical%29) (2005) — John Lennon · words: John Lennon, Don Scardino
+- [*The Candy Shop*](https://en.wikipedia.org/wiki/The_Candy_Shop) (1909) — John Lionel Golden · words: John Lionel Golden, George V. Hobart
+- [*Billy Bishop Goes to War*](https://en.wikipedia.org/wiki/Billy_Bishop_Goes_to_War) (1978) — John MacLachlan Gray · words: John MacLachlan Gray
+- [*Ghost Brothers of Darkland County*](https://en.wikipedia.org/wiki/Ghost_Brothers_of_Darkland_County) (2012) — John Mellencamp · words: John Mellencamp, Stephen King · English ✎
+- [*Heavens Cafe*](https://en.wikipedia.org/wiki/Heavens_Cafe) (1996) — John Miner · words: John Miner ✎
+- [*A Time for Singing*](https://en.wikipedia.org/wiki/A_Time_for_Singing) (1966) — John Morris · words: Gerald Freedman, Gerald Freedman and John Morris · English
+- [*The Liar*](https://en.wikipedia.org/wiki/The_Liar_(musical%29) — John Mundy · words: Edward Eager ✎
+- [*Hero*](https://en.wikipedia.org/wiki/Hero_(musical%29) (1976) — John Palmer · words: Don Henderson, Craig McGregor
+- [*Teddy & Alice*](https://en.wikipedia.org/wiki/Teddy_%26_Alice) (1987) — John Philip Sousa · words: Hal Hackady, Jerome Alden
+- [*Man on the Moon*](https://en.wikipedia.org/wiki/Man_on_the_Moon_(musical%29) (1975) — John Phillips · words: John Phillips ✎ ♫
+- [*Behind the Iron Mask*](https://en.wikipedia.org/wiki/Behind_the_Iron_Mask) (2005) — John Robinson · words: John Robinson ♫
+- [*Too Close to the Sun*](https://en.wikipedia.org/wiki/Too_Close_to_the_Sun) (2009) — John Robinson · words: Roberto Trippini, John Robinson ✎
+- [*The Sunshine Club*](https://en.wikipedia.org/wiki/The_Sunshine_Club) (1999) — John Rodgers · words: Wesley Enoch ✎
+- [*Jimmy Shine*](https://en.wikipedia.org/wiki/Jimmy_Shine) — John Sebastian
+- [*Cindy*](https://en.wikipedia.org/wiki/Cindy_(musical%29) (1964) — Johnny Brandon · words: Johnny Brandon ♫
+- [*Billy Noname*](https://en.wikipedia.org/wiki/Billy_Noname) (1970) — Johnny Brandon · words: Johnny Brandon
+- [*Donnybrook!*](https://en.wikipedia.org/wiki/Donnybrook!) (1961) — Johnny Burke · words: Johnny Burke
+- [*Swinging on a Star*](https://en.wikipedia.org/wiki/Swinging_on_a_Star_(musical%29) (1995) — Johnny Burke · words: Johnny Burke
+- [*Ring of Fire*](https://en.wikipedia.org/wiki/Ring_of_Fire_(musical%29) (2006) — Johnny Cash
+- [*Top Banana*](https://en.wikipedia.org/wiki/Top_Banana_(musical%29) (1951) — Johnny Mercer · words: Johnny Mercer ✎
+- [*Maggie*](https://en.wikipedia.org/wiki/Maggie_(Reid_musical%29) (2023) — Johnny Reid, Matt Murray, Bob Foster · words: Johnny Reid, Matt Murray
+- [*Paris*](https://en.wikipedia.org/wiki/Paris_(Jon_English_musical%29) — Jon English · words: Jon English ✎ ♫
+- [*Silence! The Musical*](https://en.wikipedia.org/wiki/Silence!_The_Musical) (2005) — Jon Kaplan, Al Kaplan · words: Hunter Bell ♫
+- [*The Outsiders*](https://en.wikipedia.org/wiki/The_Outsiders_(musical%29) (2023) — Jonathan Clay · words: Jonathan Clay, Adam Rapp · English ✎
+- [*Superbia*](https://en.wikipedia.org/wiki/Superbia_(musical%29) (1987) — Jonathan Larson · words: Jonathan Larson ✎ ♫
+- [*Rent*](https://en.wikipedia.org/wiki/Rent_(musical%29) (1996) — Jonathan Larson · words: Jonathan Larson · English ✎ ♫
+- [*Tick, Tick... Boom!*](https://en.wikipedia.org/wiki/Tick,_Tick..._Boom!) (2001) — Jonathan Larson · words: Jonathan Larson · English ✎ ♫
+- [*Marie Curie*](https://en.wikipedia.org/wiki/Marie_Curie_(musical%29) (2018) — Jongyoon Choi · words: Seeun Choun ✎
+- [*Redcliffe*](https://en.wikipedia.org/wiki/Redcliffe_(musical%29) (2024) — Jordan Luke Gage · words: Jordan Luke Gage ✎
+- [*The Musical Sancho Panza*](https://en.wikipedia.org/wiki/Sancho_Panza_the_Musical) (2005) — José Luis Narom · words: Inma González and José Luis Narom
+- [*Besame Mucho El Musical*](https://en.wikipedia.org/wiki/B%C3%A9same_mucho,_el_musical) — José María Vitier · words: Various ✎
+- [*Grim*](https://en.wikipedia.org/wiki/Grim_(musical%29) (2014) — Joseph Alexander · words: Fiona O'Malley ♫
+- [*Metropolis*](https://en.wikipedia.org/wiki/Metropolis_(musical%29) (1989) — Joseph Brooks · words: Joseph Brooks, Dusty Hughes ✎
+- [*In My Life*](https://en.wikipedia.org/wiki/In_My_Life_(musical%29) (2005) — Joseph Brooks · words: Joseph Brooks ♫
+- [*The District Leader*](https://en.wikipedia.org/wiki/The_District_Leader) (1906) — Joseph E. Howard · words: Joseph E. Howard
+- [*A Stubborn Cinderella*](https://en.wikipedia.org/wiki/A_Stubborn_Cinderella) (1909) — Joseph E. Howard · words: Will M. Hough, Frank R. Adams, William M. Hough, Frank R. Adams · English
+- [*Soon*](https://en.wikipedia.org/wiki/Soon_(musical%29) (1971) — Joseph M. Kookoolis, Scott Fagan · words: Martin Duberman
+- [*Big Boy*](https://en.wikipedia.org/wiki/Big_Boy_(musical%29) (1925) — Joseph Meyer, James F. Hanley · words: Buddy DeSylva, Harold R. Atteridge · English
+- [*Yank!*](https://en.wikipedia.org/wiki/Yank!) (2005) — Joseph Zellnik · words: David Zellnik · English
+- [*Sylvia*](https://en.wikipedia.org/wiki/Sylvia_(musical%29) (2018) — Josh Cohen, DJ Walde · words: Kate Prince ✎
+- [*Fermat's Last Tango*](https://en.wikipedia.org/wiki/Fermat%27s_Last_Tango) (2000) — Joshua Rosenblum · words: Joshua Rosenblum, Joanne Sydney Lessner ✎
+- [*I Love You Because*](https://en.wikipedia.org/wiki/I_Love_You_Because) (2006) — Joshua Salzman · words: Ryan Cunningham
+- [*Next Thing You Know*](https://en.wikipedia.org/wiki/Next_Thing_You_Know) (2011) — Joshua Salzman · words: Ryan Cunningham ♫
+- [*Adding Machine*](https://en.wikipedia.org/wiki/Adding_Machine_(musical%29) (2007) — Joshua Schmidt · words: Jason Loewith, Joshua Schmidt
+- [*Real Women Have Curves*](https://en.wikipedia.org/wiki/Real_Women_Have_Curves_(musical%29) (2023) — Joy Huerta & Benjamin Velez · words: Joy Huerta & Benjamin Velez ✎
+- [*Raisin*](https://en.wikipedia.org/wiki/Raisin_(musical%29) (1973) — Judd Woldin · words: Robert Brittan ✎
+- [*High Button Shoes*](https://en.wikipedia.org/wiki/High_Button_Shoes) (1947) — Jule Styne · words: Sammy Cahn, Stephen Longstreet ✎
+- [*Gentlemen Prefer Blondes*](https://en.wikipedia.org/wiki/Gentlemen_Prefer_Blondes_(musical%29) (1949) — Jule Styne · words: Leo Robin, Joseph Fields ✎ ♫
+- [*Two on the Aisle*](https://en.wikipedia.org/wiki/Two_on_the_Aisle) (1951) — Jule Styne · words: Betty Comden, Adolph Green · English
+- [*Hazel Flagg*](https://en.wikipedia.org/wiki/Hazel_Flagg) (1953) — Jule Styne · words: Bob Hilliard ✎
+- [*Peter Pan*](https://en.wikipedia.org/wiki/Peter_Pan_(1954_musical%29) (1954) — Jule Styne · words: Betty Comden, Carolyn Leigh, J. M. Barrie · English ✎ ♫
+- [*Bells Are Ringing*](https://en.wikipedia.org/wiki/Bells_Are_Ringing_(musical%29) (1956) — Jule Styne · words: Betty Comden, Betty Comden, Adolph Green ✎
+- [*Gypsy: A Musical Fable*](https://en.wikipedia.org/wiki/Gypsy_(musical%29) (1959) — Jule Styne · words: Stephen Sondheim, Arthur Laurents ✎
+- [*Do Re Mi*](https://en.wikipedia.org/wiki/Do_Re_Mi_(musical%29) (1960) — Jule Styne · words: Betty Comden, Garson Kanin ✎
+- [*Subways Are For Sleeping*](https://en.wikipedia.org/wiki/Subways_Are_for_Sleeping) (1961) — Jule Styne · words: Betty Comden ✎
+- [*Fade Out – Fade In*](https://en.wikipedia.org/wiki/Fade_Out_%E2%80%93_Fade_In) (1964) — Jule Styne · words: Betty Comden ✎
+- [*Funny Girl*](https://en.wikipedia.org/wiki/Funny_Girl_(musical%29) (1964) — Jule Styne · words: Bob Merrill, Isobel Lennart · English ✎
+- [*Hallelujah, Baby!*](https://en.wikipedia.org/wiki/Hallelujah,_Baby!) (1967) — Jule Styne · words: Adolph Green, Arthur Laurents ✎
+- [*Darling of the Day*](https://en.wikipedia.org/wiki/Darling_of_the_Day) (1968) — Jule Styne · words: Yip Harburg, Nunnally Johnson ✎
+- [*Look to the Lilies*](https://en.wikipedia.org/wiki/Look_to_the_Lilies) (1970) — Jule Styne · words: Sammy Cahn, Leonard Spigelgass
+- [*Prettybelle*](https://en.wikipedia.org/wiki/Prettybelle) (1971) — Jule Styne · words: Bob Merrill ✎
+- [*Sugar*](https://en.wikipedia.org/wiki/Sugar_(musical%29) (1972) — Jule Styne · words: Bob Merrill, Peter Stone ✎
+- [*Lorelei*](https://en.wikipedia.org/wiki/Lorelei_(musical%29) (1974) — Jule Styne · words: Adolph Green, Adolph Green and Betty Comden (new songs), Leo Robin (songs from Gentlemen Prefer Blondes) ✎
+- [*Bar Mitzvah Boy*](https://en.wikipedia.org/wiki/Bar_Mitzvah_Boy_(musical%29) (1978) — Jule Styne · words: Don Black, Jack Rosenthal
+- [*One Night Stand*](https://en.wikipedia.org/wiki/One_Night_Stand_(musical%29) (1980) — Jule Styne · words: Herb Gardner
+- [*Pieces of Eight*](https://en.wikipedia.org/wiki/Pieces_of_Eight_(1985_musical%29) (1985) — Jule Styne · words: Susan Birkenhead · English
+- [*The Red Shoes*](https://en.wikipedia.org/wiki/The_Red_Shoes_(musical%29) (1993) — Jule Styne · words: Marsha Norman ✎
+- [*Glad To See You*](https://en.wikipedia.org/wiki/Glad_To_See_You) — Jule Styne · words: Sammy Cahn · English
+- [*Death Becomes Her*](https://en.wikipedia.org/wiki/Death_Becomes_Her_(musical%29) (2024) — Julia Mattison, Noel Carey · words: Marco Pennette ✎
+- [*Salad Days*](https://en.wikipedia.org/wiki/Salad_Days_(musical%29) (1954) — Julian Slade · words: Julian Slade and Dorothy Reynolds ✎
+- [*Free as Air*](https://en.wikipedia.org/wiki/Free_as_Air) (1957) — Julian Slade · words: Dorothy Reynolds, Dorothy Reynolds, Julian Slade ✎ ♫
+- [*Follow That Girl*](https://en.wikipedia.org/wiki/Follow_That_Girl) (1960) — Julian Slade · words: Julian Slade
+- [*Murder Ballad*](https://en.wikipedia.org/wiki/Murder_Ballad_(musical%29) (2012) — Juliana Nash · words: Julia Jordan & Juliana Nash ✎
+- [*The Christmas Schooner*](https://en.wikipedia.org/wiki/The_Christmas_Schooner) (1996) — Julie Shannon · words: Julie Shannon
+- [*Leonard Sillman's New Faces of 1968*](https://en.wikipedia.org/wiki/Leonard_Sillman%27s_New_Faces_of_1968) (1968) — June Carroll, Gene Bissell · words: June Carroll, Gene Bissell
+- [*Lizard Boy: The Musical*](https://en.wikipedia.org/wiki/Lizard_Boy:_The_Musical) (2015) — Justin Huertas · words: Justin Huertas
+- [*Dear Evan Hansen*](https://en.wikipedia.org/wiki/Dear_Evan_Hansen) (2015) — Justin Paul, Benj Pasek · words: Justin Paul, Benj Pasek, Benj Pasek, Justin Paul · English ✎
+- [*Edges*](https://en.wikipedia.org/wiki/Edges_(musical%29) — Justin Paul, Benj Pasek · words: Benj Pasek, Justin Paul
+- [*Dracula*](https://en.wikipedia.org/wiki/Dracula_(Czech_musical%29) (1995) — Karel Svoboda, Zdeněk Borovec, Richard Hes · words: Zdeněk Borovec, Richard Hes · Czech ♫
+- [*Originale*](https://en.wikipedia.org/wiki/Originale) (1961) — Karlheinz Stockhausen ♫
+- [*Redwood*](https://en.wikipedia.org/wiki/Redwood_(musical%29) (2024) — Kate Diaz · words: Kate Diaz, Tina Landau ✎
+- [*Muriel's Wedding*](https://en.wikipedia.org/wiki/Muriel%27s_Wedding_(musical%29) (2017) — Kate Miller-Heidke, Keir Nuttall · words: Kate Miller-Heidke, Keir Nuttall, ABBA
+- [*Bananaland*](https://en.wikipedia.org/wiki/Bananaland_(musical%29) (2023) — Kate Miller-Heidke, Keir Nuttall · words: Kate Miller-Heidke, Keir Nuttall · English
+- [*Bad Girls: The Musical*](https://en.wikipedia.org/wiki/Bad_Girls:_The_Musical) (2006) — Kath Gotts · words: Kath Gotts ✎
+- [*Bloom*](https://en.wikipedia.org/wiki/Bloom_(musical%29) (2023) — Katie Weston · words: Tom Gleisner · English
+- [*Fine and Dandy*](https://en.wikipedia.org/wiki/Fine_and_Dandy_(musical%29) — Kay Swift · words: Paul James
+- [*Emojiland*](https://en.wikipedia.org/wiki/Emojiland) (2018) — Keith Harrison Dworkin · words: Keith Harrison Dworkin, Laura Schein ✎
+- [*Onward Victoria*](https://en.wikipedia.org/wiki/Onward_Victoria) (1980) — Keith Herrmann · words: Charlotte Anker, Irene Rosenberg
+- [*Romance/Romance*](https://en.wikipedia.org/wiki/Romance/Romance) (1987) — Keith Herrmann · words: Barry Harman ✎
+- [*Phantom of the Opera*](https://en.wikipedia.org/wiki/Phantom_of_the_Opera_(1976_musical%29) (1976) — Ken Hill · words: Ken Hill ✎ ♫
+- [*An Officer and a Gentleman*](https://en.wikipedia.org/wiki/An_Officer_and_a_Gentleman_(musical%29) (2012) — Ken Hirsch · words: Douglas Day Stewart
+- [*Chang & Eng*](https://en.wikipedia.org/wiki/Chang_%26_Eng) (1997) — Ken Low · words: Ken Low ✎
+- [*Heathers: The Musical*](https://en.wikipedia.org/wiki/Heathers:_The_Musical) (2010) — Kevin Murphy · words: Kevin Murphy · English ✎ ♫
+- [*The Last Empress*](https://en.wikipedia.org/wiki/The_Last_Empress_(musical%29) (1995) — Kim Hee-gap · words: Yang In-ja, Georgina St. George
+- [*Bella: An American Tall Tale*](https://en.wikipedia.org/wiki/Bella:_An_American_Tall_Tale) (2016) — Kirsten Childs · words: Kirsten Childs ✎
+- [*In Transit*](https://en.wikipedia.org/wiki/In_Transit_(musical%29) (2010) — Kristen Anderson-Lopez · words: Kristen Anderson-Lopez ✎
+- [*Frozen – Live at the Hyperion*](https://en.wikipedia.org/wiki/Frozen_%E2%80%93_Live_at_the_Hyperion) — Kristen Anderson-Lopez
+- [*Clueless*](https://en.wikipedia.org/wiki/Clueless_(musical%29) (2018) — KT Tunstall · words: Glenn Slater, Amy Heckerling · English ✎
+- [*Johnny Johnson*](https://en.wikipedia.org/wiki/Johnny_Johnson_(musical%29) (1936) — Kurt Weill · words: Paul Green · English
+- [*Knickerbocker Holiday*](https://en.wikipedia.org/wiki/Knickerbocker_Holiday) (1938) — Kurt Weill · words: Maxwell Anderson · English ✎
+- [*Lady in the Dark*](https://en.wikipedia.org/wiki/Lady_in_the_Dark) (1941) — Kurt Weill · words: Ira Gershwin, Moss Hart ✎
+- [*One Touch of Venus*](https://en.wikipedia.org/wiki/One_Touch_of_Venus) (1943) — Kurt Weill · words: Ogden Nash ✎ ♫
+- [*Street Scene*](https://en.wikipedia.org/wiki/Street_Scene_(opera%29) (1947) — Kurt Weill · words: Langston Hughes · English ✎ ♫
+- [*Love Life*](https://en.wikipedia.org/wiki/Love_Life_(musical%29) (1948) — Kurt Weill · words: Alan Jay Lerner ✎
+- [*Lost in the Stars*](https://en.wikipedia.org/wiki/Lost_in_the_Stars_(1949_musical%29) (1949) — Kurt Weill · words: Maxwell Anderson · English ✎ ♫
+- [*A Kurt Weill Cabaret*](https://en.wikipedia.org/wiki/A_Kurt_Weill_Cabaret) (1963) — Kurt Weill · words: Bertolt Brecht, Bertolt Brecht, Ogden Nash, Maxwell Anderson, Ira Gershwin
+- [*LoveMusik*](https://en.wikipedia.org/wiki/LoveMusik) (2007) — Kurt Weill · words: Alfred Uhry ✎
+- [*Halbwelt Kultur*](https://en.wikipedia.org/wiki/Halbwelt_Kultur) (2012) — Kurt Weill · words: Patrick Kennedy, Stephanie Martin
+- [*A Very Merry Unauthorized Children's Scientology Pageant*](https://en.wikipedia.org/wiki/A_Very_Merry_Unauthorized_Children%27s_Scientology_Pageant) (2003) — Kyle Jarrow · words: Kyle Jarrow · English ✎
+- [*The Maid of Arran*](https://en.wikipedia.org/wiki/The_Maid_of_Arran) (1882) — L. Frank Baum · words: L. Frank Baum
+- [*Minnie's Boys*](https://en.wikipedia.org/wiki/Minnie%27s_Boys) (1970) — Larry Grossman · words: Hal Hackady, Arthur Marx
+- [*Goodtime Charley*](https://en.wikipedia.org/wiki/Goodtime_Charley) (1975) — Larry Grossman · words: Hal Hackady, Sidney Michaels ✎
+- [*Snoopy! The Musical*](https://en.wikipedia.org/wiki/Snoopy!_The_Musical) (1975) — Larry Grossman · words: Hal Hackady ✎
+- [*A Doll's Life*](https://en.wikipedia.org/wiki/A_Doll%27s_Life) (1982) — Larry Grossman · words: Betty Comden, Betty Comden and Adolph Green ✎
+- [*Grind*](https://en.wikipedia.org/wiki/Grind_(musical%29) (1985) — Larry Grossman · words: Fay Kanin ✎
+- [*A Christmas Memory*](https://en.wikipedia.org/wiki/A_Christmas_Memory_(musical%29) (2010) — Larry Grossman · words: Carol Hall
+- [*Sisterella*](https://en.wikipedia.org/wiki/Sisterella) — Larry Hart · words: Larry Hart ✎ ♫
+- [*One Mo' Time*](https://en.wikipedia.org/wiki/One_Mo%27_Time_(musical%29) (1979) — Lars Edengran, Orange Kellin · words: Vernel Bagneris ✎
+- [*The Jungle Book*](https://en.wikipedia.org/wiki/A_dzsungel_k%C3%B6nyve) (1996) — László Dés · words: Péter Geszti, Pál Békés · Hungarian
+- [*Ladyship*](https://en.wikipedia.org/wiki/Ladyship_(musical%29) (2019) — Laura Good and Linda Good · words: Laura Good and Linda Good ✎
+- [*The Lovers*](https://en.wikipedia.org/wiki/The_Lovers_(musical%29) (2022) — Laura Murphy · words: Laura Murphy ✎
+- [*The Dismissal*](https://en.wikipedia.org/wiki/The_Dismissal_(musical%29) (2023) — Laura Murphy · words: Laura Murphy
+- [*Zombie! The Musical*](https://en.wikipedia.org/wiki/Zombie!_The_Musical) (2024) — Laura Murphy · words: Laura Murphy ✎
+- [*Bat Boy: The Musical*](https://en.wikipedia.org/wiki/Bat_Boy:_The_Musical) (1997) — Laurence O'Keefe · words: Keythe Farley, Brian Flemming · English ✎ ♫
+- [*Sherry!*](https://en.wikipedia.org/wiki/Sherry!) (1967) — Laurence Rosenthal · words: James Lipton ✎
+- [*Into the Light*](https://en.wikipedia.org/wiki/Into_the_Light_(musical%29) (1986) — Lee Holdridge · words: John Forster ✎
+- [*The Man from Snowy River: Arena Spectacular*](https://en.wikipedia.org/wiki/The_Man_from_Snowy_River:_Arena_Spectacular) (2002) — Lee Kernaghan, Bruce Rowland, Garth Porter · words: Lee Kernaghan, Garth Porter, David Atkins, Ignatius Jones · English ✎
+- [*Ernest in Love*](https://en.wikipedia.org/wiki/Ernest_in_Love) (1960) — Lee Pockriss · words: Anne Croswell ✎
+- [*Tovarich*](https://en.wikipedia.org/wiki/Tovarich_(musical%29) (1963) — Lee Pockriss · words: Anne Croswell
+- [*Smokey Joe's Cafe*](https://en.wikipedia.org/wiki/Smokey_Joe%27s_Cafe_(revue%29) (1995) — Leiber-Stoller · words: Jerry Leiber, Mike Stoller ✎
+- [*Let It Be*](https://en.wikipedia.org/wiki/Let_It_Be_(musical%29) (2012) — Lennon-McCartney · words: Lennon–McCartney, Harrison, Starr, Medley/Russell ✎ ♫
+- [*Alison! A Rock Opera*](https://en.wikipedia.org/wiki/Alison!_A_Rock_Opera) (2011) — Leo Butler · words: Leo Butler, Leo Butler and Dan Persad
+- [*The Dollar Princess*](https://en.wikipedia.org/wiki/The_Dollar_Princess) (1909) — Leo Fall · words: Adrian Ross, Alfred Maria Willner ✎
+- [*The Siren*](https://en.wikipedia.org/wiki/The_Siren_(musical%29) (1911) — Leo Fall · words: Harry B. Smith, Leo Stein ✎ ♫
+- [*Wolfboy*](https://en.wikipedia.org/wiki/Wolfboy) (2009) — Leon Parris · words: Leon Parris ✎
+- [*On the Town*](https://en.wikipedia.org/wiki/On_the_Town_(musical%29) (1944) — Leonard Bernstein · words: Betty Comden, Adolph Green · English ✎
+- [*Peter Pan*](https://en.wikipedia.org/wiki/Peter_Pan_(1950_musical%29) (1950) — Leonard Bernstein · English
+- [*Wonderful Town*](https://en.wikipedia.org/wiki/Wonderful_Town) (1953) — Leonard Bernstein · words: Betty Comden, Betty Comden, Adolph Green ✎
+- [*Candide*](https://en.wikipedia.org/wiki/Candide_(operetta%29) (1956) — Leonard Bernstein · words: Leonard Bernstein, Stephen Sondheim, John La Touche, Richard Wilbur, Lillian Hellman · English ✎ ♫
+- [*West Side Story*](https://en.wikipedia.org/wiki/West_Side_Story) (1957) — Leonard Bernstein · words: Stephen Sondheim, Arthur Laurents · English ✎ ♫
+- [*A Party with Betty Comden and Adolph Green*](https://en.wikipedia.org/wiki/A_Party_with_Betty_Comden_and_Adolph_Green) (1958) — Leonard Bernstein · words: Betty Comden, Adolph Green, Betty Comden and Adolph Green
+- [*1600 Pennsylvania Avenue*](https://en.wikipedia.org/wiki/1600_Pennsylvania_Avenue_(musical%29) (1976) — Leonard Bernstein · words: Alan Jay Lerner ✎
+- [*The Race to Urga*](https://en.wikipedia.org/wiki/The_Race_to_Urga) — Leonard Bernstein · words: Stephen Sondheim, John Guare ✎
+- [*Goldilocks*](https://en.wikipedia.org/wiki/Goldilocks_(musical%29) (1958) — Leroy Anderson · words: Jean Kerr, Walter Kerr
+- [*Beautiful and Damned*](https://en.wikipedia.org/wiki/Beautiful_and_Damned) (2004) — Les Reed · words: Les Reed, Les Reed, Roger Cook
+- [*Stop the World – I Want to Get Off*](https://en.wikipedia.org/wiki/Stop_the_World_%E2%80%93_I_Want_to_Get_Off) (1961) — Leslie Bricusse · words: Leslie Bricusse ✎ ♫
+- [*Sherlock Holmes: The Musical*](https://en.wikipedia.org/wiki/Sherlock_Holmes:_The_Musical) (1989) — Leslie Bricusse · words: Leslie Bricusse · English ✎ ♫
+- [*Scrooge*](https://en.wikipedia.org/wiki/Scrooge_(musical%29) (1992) — Leslie Bricusse · words: Leslie Bricusse · English ✎ ♫
+- [*Doctor Dolittle*](https://en.wikipedia.org/wiki/Doctor_Dolittle_(musical%29) — Leslie Bricusse · words: Leslie Bricusse
+- [*Roald Dahl's Willy Wonka*](https://en.wikipedia.org/wiki/Willy_Wonka_(musical%29) — Leslie Bricusse · words: Leslie Bricusse, Leslie Bricusse, Anthony Newley ✎
+- [*Florodora*](https://en.wikipedia.org/wiki/Florodora) (1899) — Leslie Stuart · words: Paul Rubens, Owen Hall · English ✎ ♫
+- [*The Belle of Mayfair*](https://en.wikipedia.org/wiki/The_Belle_of_Mayfair) (1906) — Leslie Stuart · words: Basil Hood ✎
+- [*Havana*](https://en.wikipedia.org/wiki/Havana_(Edwardian_musical%29) — Leslie Stuart · words: Adrian Ross, George Grossmith Jr. ✎ ♫
+- [*The Slim Princess*](https://en.wikipedia.org/wiki/The_Slim_Princess_(musical%29) — Leslie Stuart · words: Henry Blossom
+- [*Lysistrata Jones*](https://en.wikipedia.org/wiki/Lysistrata_Jones) (2011) — Lewis Flinn · words: Douglas Carter Beane
+- [*My Turn on Earth*](https://en.wikipedia.org/wiki/My_Turn_on_Earth) (1977) — Lex de Azevedo · words: Carol Lynn Pearson ✎
+- [*Bridget Jones' Diary*](https://en.wikipedia.org/wiki/Bridget_Jones%27s_Diary_(musical%29) — Lily Allen · words: Lily Allen, Lily Allen, Greg Kurstin, Karen Poole · English
+- [*In the Heights*](https://en.wikipedia.org/wiki/In_the_Heights) (2005) — Lin-Manuel Miranda · words: Lin-Manuel Miranda, Quiara Alegría Hudes · Spanish/English ✎ ♫
+- [*Bring It On*](https://en.wikipedia.org/wiki/Bring_It_On:_The_Musical) (2011) — Lin-Manuel Miranda · words: Amanda Green, Jeff Whitty ✎
+- [*21 Chump Street*](https://en.wikipedia.org/wiki/21_Chump_Street) (2014) — Lin-Manuel Miranda · words: Lin-Manuel Miranda ✎
+- [*Hamilton*](https://en.wikipedia.org/wiki/Hamilton_(musical%29) (2015) — Lin-Manuel Miranda · words: Lin-Manuel Miranda · English ✎
+- [*Fings Ain't Wot They Used T'Be*](https://en.wikipedia.org/wiki/Fings_Ain%27t_Wot_They_Used_T%27Be) (1960) — Lionel Bart · words: Frank Norman
+- [*Oliver!*](https://en.wikipedia.org/wiki/Oliver!) (1960) — Lionel Bart · words: Lionel Bart · English ✎
+- [*Blitz!*](https://en.wikipedia.org/wiki/Blitz!) (1962) — Lionel Bart · words: Lionel Bart ✎ ♫
+- [*Maggie May*](https://en.wikipedia.org/wiki/Maggie_May_(musical%29) (1964) — Lionel Bart · words: Lionel Bart, Alun Owen ✎
+- [*Twang!!*](https://en.wikipedia.org/wiki/Twang!!) (1965) — Lionel Bart · words: Lionel Bart ✎
+- [*La Strada*](https://en.wikipedia.org/wiki/La_Strada_(musical%29) (1969) — Lionel Bart · words: Lionel Bart, Lionel Bart, Martin Charnin ✎
+- [*A Country Girl*](https://en.wikipedia.org/wiki/A_Country_Girl) (1902) — Lionel Monckton · words: Adrian Ross, James T. Tanner · English ✎ ♫
+- [*The Cingalee*](https://en.wikipedia.org/wiki/The_Cingalee) (1904) — Lionel Monckton · words: Adrian Ross, James T. Tanner ✎ ♫
+- [*The Boy*](https://en.wikipedia.org/wiki/The_Boy_(musical%29) (1917) — Lionel Monckton · words: Adrian Ross, Adrian Ross, Percy Greenbank ✎ ♫
+- [*The Mousmé*](https://en.wikipedia.org/wiki/The_Mousm%C3%A9) (1991) — Lionel Monckton, Howard Talbot · words: Arthur Wimperis, Percy Greenbank ✎
+- [*The Orchid*](https://en.wikipedia.org/wiki/The_Orchid_(musical%29) — Lionel Monckton, Ivan Caryll · words: Adrian Ross, Percy Greenbank, James T. Tanner ✎ ♫
+- [*The Spring Chicken*](https://en.wikipedia.org/wiki/The_Spring_Chicken) — Lionel Monckton, Ivan Caryll · words: George Grossmith Jr., Adrian Ross, Percy Greenbank ♫
+- [*The Drowsy Chaperone*](https://en.wikipedia.org/wiki/The_Drowsy_Chaperone) (1998) — Lisa Lambert · words: Bob Martin ✎
+- [*Flat Earthers: The Musical*](https://en.wikipedia.org/wiki/Flat_Earthers:_The_Musical) (2024) — Lou Wall, James Gales · words: Jean Tong, Lou Wall
+- [*Portofino*](https://en.wikipedia.org/wiki/Portofino_(musical%29) (1958) — Louie Bellson · words: Richard Ney
+- [*Going Up*](https://en.wikipedia.org/wiki/Going_Up_(musical%29) (1917) — Louis Hirsch · words: Otto Harbach ✎
+- [*Five Guys Named Moe*](https://en.wikipedia.org/wiki/Five_Guys_Named_Moe) (1990) — Louis Jordan · words: Louis Jordan, Clarke Peters ✎
+- [*School Idol Musical*](https://en.wikipedia.org/wiki/School_Idol_Musical) — Love Live! discography
+- [*1896*](https://en.wikipedia.org/wiki/1896_(musical%29) (1995) — Lucien Letaba · words: Charley dela Paz ♫
+- [*Six: The Musical*](https://en.wikipedia.org/wiki/Six_(musical%29) (2017) — Lucy Moss, Toby Marlow · words: Toby Marlow, Lucy Moss · English ✎
+- [*The Secret Garden*](https://en.wikipedia.org/wiki/The_Secret_Garden_(musical%29) (1989) — Lucy Simon · words: Marsha Norman ✎
+- [*Doctor Zhivago*](https://en.wikipedia.org/wiki/Doctor_Zhivago_(musical%29) (2006) — Lucy Simon · words: Michael Korie, Michael Weller ✎ ♫
+- [*The Casino Girl*](https://en.wikipedia.org/wiki/The_Casino_Girl) (1900) — Ludwig Engländer · English ✎ ♫
+- [*The Monks of Malabar*](https://en.wikipedia.org/wiki/The_Monks_of_Malabar) (1900) — Ludwig Engländer · words: Francis Wilson ✎
+- [*The New Yorkers*](https://en.wikipedia.org/wiki/The_New_Yorkers_(Engl%C3%A4nder_musical%29) (1901) — Ludwig Engländer · words: George V. Hobart
+- [*The Strollers*](https://en.wikipedia.org/wiki/The_Strollers) (1901) — Ludwig Engländer · words: Harry B. Smith · English ✎
+- [*Doctor Jazz*](https://en.wikipedia.org/wiki/Doctor_Jazz_(musical%29) (1975) — Luther Henderson, Buster Davis · words: Buster Davis
+- [*Our House*](https://en.wikipedia.org/wiki/Our_House_(musical%29) (2002) — Madness · words: Tim Firth · Spanish ✎ ♫
+- [*The Magic Flute*](https://en.wikipedia.org/wiki/The_Magic_Flute_(musical%29) (2007) — Mandisi Dyantyis, Mbali Kgosidintsi, Pauline Malefane, Nolufefe Mtshabe · words: Wolfgang Amadeus Mozart
+- [*Áfram Latibær!*](https://en.wikipedia.org/wiki/%C3%81fram_Latib%C3%A6r!) (1996) — Máni Svavarsson · words: Magnús Scheving · Icelandic ✎ ♫
+- [*Her Excellency*](https://en.wikipedia.org/wiki/Her_Excellency_(musical%29) (1949) — Manning Sherwin, Harold Purcell
+- [*Illya Darling*](https://en.wikipedia.org/wiki/Illya_Darling) (1967) — Manos Hatzidakis · words: Joe Darion, Jules Dassin ✎
+- [*The Cradle Will Rock*](https://en.wikipedia.org/wiki/The_Cradle_Will_Rock) (1937) — Marc Blitzstein · words: Marc Blitzstein ✎
+- [*Juno*](https://en.wikipedia.org/wiki/Juno_(musical%29) (1959) — Marc Blitzstein · words: Marc Blitzstein, Joseph Stein
+- [*No for an Answer*](https://en.wikipedia.org/wiki/No_for_an_Answer) — Marc Blitzstein · words: Marc Blitzstein ✎
+- [*Hairspray*](https://en.wikipedia.org/wiki/Hairspray_(musical%29) (2003) — Marc Shaiman · words: Marc Shaiman, Scott Wittman, Mark O'Donnell, Thomas Meehan · English ✎
+- [*Catch Me If You Can*](https://en.wikipedia.org/wiki/Catch_Me_If_You_Can_(musical%29) (2011) — Marc Shaiman · words: Marc Shaiman, Terrence McNally ✎
+- [*Charlie and the Chocolate Factory*](https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(musical%29) (2013) — Marc Shaiman · words: Marc Shaiman, Scott Wittman, David Greig · English ✎
+- [*Bombshell*](https://en.wikipedia.org/wiki/Bombshell_(musical%29) (2015) — Marc Shaiman, Scott Wittman · words: Marc Shaiman, Scott Wittman, Marc Shaiman, Scott Wittman · English ✎
+- [*Smash*](https://en.wikipedia.org/wiki/Smash_(musical%29) (2025) — Marc Shaiman · words: Marc Shaiman, Scott Wittman ✎
+- [*The Magician's Elephant*](https://en.wikipedia.org/wiki/The_Magician%27s_Elephant_(musical%29) (2021) — Marc Teitler · words: Nancy Harris, Marc Teitler
+- [*Postcards from God*](https://en.wikipedia.org/wiki/Postcards_from_God) (2007) — Marcus Reeves · words: Marcus Reeves ✎ ♫
+- [*Gone with the Wind*](https://en.wikipedia.org/wiki/Gone_with_the_Wind_(musical%29) (2008) — Margaret Martin · words: Margaret Martin · English ✎
+- [*Irma La Douce*](https://en.wikipedia.org/wiki/Irma_La_Douce_(musical%29) (1956) — Marguerite Monnot · words: Alexandre Breffort ✎
+- [*Baker Street*](https://en.wikipedia.org/wiki/Baker_Street_(musical%29) (1965) — Marian Grudeff · words: Marian Grudeff, Raymond Jessel and Sheldon Harnick · English
+- [*Viet Rock*](https://en.wikipedia.org/wiki/Viet_Rock) (1966) — Marianne de Pury · words: Megan Terry
+- [*King Kong*](https://en.wikipedia.org/wiki/King_Kong_(2013_musical%29) (2013) — Marius de Vries · words: Michael Mitnick, Craig Lucas ✎
+- [*Frankenstein – A New Musical*](https://en.wikipedia.org/wiki/Frankenstein_%E2%80%93_A_New_Musical) (2007) — Mark Baron · words: Jeffrey Jackson · English ✎
+- [*Urinetown*](https://en.wikipedia.org/wiki/Urinetown) (2001) — Mark Hollmann · words: Mark Hollmann, Mark Hollmann, Greg Kotis ✎ ♫
+- [*The Sting*](https://en.wikipedia.org/wiki/The_Sting_(musical%29) (2018) — Mark Hollmann and Greg Kotis, with Harry Connick Jr. · words: Mark Hollmann and Greg Kotis, with Harry Connick Jr. ✎
+- [*Local Hero*](https://en.wikipedia.org/wiki/Local_Hero_(musical%29) (2019) — Mark Knopfler · words: Mark Knopfler ✎
+- [*Tiger Queens: The Tiger King Musical*](https://en.wikipedia.org/wiki/Tiger_Queens:_The_Tiger_King_Musical) — Mark Mothersbaugh, John Enroth, Albert Fox, Aaron Kaplan, Bob Mothersbaugh ✎ ♫
+- [*Re-Animator: The Musical*](https://en.wikipedia.org/wiki/Re-Animator:_The_Musical) (2011) — Mark Nutter · words: Stuart Gordon ✎
+- [*Ben Franklin in Paris*](https://en.wikipedia.org/wiki/Ben_Franklin_in_Paris) (1964) — Mark Sandrich, Jr., Jerry Herman · words: Sidney Michaels
+- [*Brooklyn*](https://en.wikipedia.org/wiki/Brooklyn_(musical%29) (2004) — Mark Schoenfeld, Barri McPherson · words: Mark Schoenfeld, Barri McPherson ✎
+- [*Stand by the River*](https://en.wikipedia.org/wiki/Stand_by_the_River) — Mark Sutton-Smith · words: Mark Sutton-Smith ✎
+- [*My Little Pony Live: The World's Biggest Tea Party*](https://en.wikipedia.org/wiki/My_Little_Pony_Live:_The_World%27s_Biggest_Tea_Party) (2006) — Mark Watters · English ✎
+- [*Waking Ned Devine*](https://en.wikipedia.org/wiki/Waking_Ned_Devine_(musical%29) (2027) — Markéta Irglová, Glen Hansard · words: Markéta Irglová, Glen Hansard
+- [*Illusion*](https://en.wikipedia.org/wiki/Illusion_(musical%29) (1986) — Martin Armiger · words: Peter Carey, Peter Carey and Martin Armiger ✎
+- [*The Perfect City*](https://en.wikipedia.org/wiki/The_Perfect_City) (2013) — Martin Coslett · words: Martin Coslett – member of Mercury Musical Developments, London ✎ ♫
+- [*The Fields of Ambrosia*](https://en.wikipedia.org/wiki/The_Fields_of_Ambrosia) (1993) — Martin Silvestri · words: Joel Higgins ✎
+- [*Johnny Guitar*](https://en.wikipedia.org/wiki/Johnny_Guitar_(musical%29) (2004) — Martin Silvestri · words: Joel Higgins · English ✎
+- [*A Chorus Line*](https://en.wikipedia.org/wiki/A_Chorus_Line) (1975) — Marvin Hamlisch · words: Edward Kleban, James Kirkwood, Jr. ✎
+- [*They're Playing Our Song*](https://en.wikipedia.org/wiki/They%27re_Playing_Our_Song) (1978) — Marvin Hamlisch · words: Carole Bayer Sager, Neil Simon ✎
+- [*Smile*](https://en.wikipedia.org/wiki/Smile_(musical%29) (1986) — Marvin Hamlisch · words: Howard Ashman ✎
+- [*The Goodbye Girl*](https://en.wikipedia.org/wiki/The_Goodbye_Girl_(musical%29) (1993) — Marvin Hamlisch · words: David Zippel, Neil Simon ✎
+- [*Sweet Smell of Success*](https://en.wikipedia.org/wiki/Sweet_Smell_of_Success_(musical%29) (2002) — Marvin Hamlisch · words: Craig Carnelia, John Guare
+- [*Jean Seberg*](https://en.wikipedia.org/wiki/Jean_Seberg_(musical%29) — Marvin Hamlisch
+- [*Ruthless!*](https://en.wikipedia.org/wiki/Ruthless!) (1992) — Marvin Laird · words: Joel Paley ✎ ♫
+- [*Once Upon a Mattress*](https://en.wikipedia.org/wiki/Once_Upon_a_Mattress) (1958) — Mary Rodgers · words: Marshall Barer · English ✎ ♫
+- [*Hot Spot*](https://en.wikipedia.org/wiki/Hot_Spot_(musical%29) (1963) — Mary Rodgers · words: Martin Charnin, Jack Weinstock ✎
+- [*The Mad Show*](https://en.wikipedia.org/wiki/The_Mad_Show) (1966) — Mary Rodgers · words: Marshall Barer, Marshall Barer, Steven Vinaver, Stephen Sondheim
+- [*Thalidomide!! A Musical*](https://en.wikipedia.org/wiki/Thalidomide!!_A_Musical) (2005) — Mat Fraser · words: Mat Fraser
+- [*My Brilliant Career*](https://en.wikipedia.org/wiki/My_Brilliant_Career_(musical%29) (2024) — Mathew Frank · words: Dean Bryant · English
+- [*Lempicka*](https://en.wikipedia.org/wiki/Lempicka_(musical%29) (2018) — Matt Gould · words: Carson Kreitzer ✎
+- [*Clay*](https://en.wikipedia.org/wiki/Clay_(musical%29) (2008) — Matt Sax · words: Matt Sax · English ✎
+- [*Venice*](https://en.wikipedia.org/wiki/Venice_(musical%29) (2010) — Matt Sax · words: Matt Sax and Eric Rosen ✎ ♫
+- [*The Book of Mormon*](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical%29) (2011) — Matt Stone, Trey Parker, Robert Lopez · words: Trey Parker, Matt Stone, Robert Lopez · American English ✎
+- [*Miss Nightingale*](https://en.wikipedia.org/wiki/Miss_Nightingale) (2011) — Matthew Bugg · words: Matthew Bugg ✎
+- [*Kathy and Stella Solve a Murder!*](https://en.wikipedia.org/wiki/Kathy_and_Stella_Solve_a_Murder!) (2022) — Matthew Floyd Jones · words: Jon Brittain ✎ ♫
+- [*High School Musical on Stage!*](https://en.wikipedia.org/wiki/High_School_Musical_on_Stage!) (2007) — Matthew Gerrard · words: Same as music ✎
+- [*Metro Street*](https://en.wikipedia.org/wiki/Metro_Street) (2009) — Matthew Robinson · words: Matthew Robinson ✎
+- [*Fat Camp*](https://en.wikipedia.org/wiki/Gigantic_(musical%29) (2009) — Matthew roi Berger · words: Randy Blair ✎
+- [*The Wedding Singer*](https://en.wikipedia.org/wiki/The_Wedding_Singer_(musical%29) (2006) — Matthew Sklar · words: Chad Beguelin, Chad Beguelin (new songs), Adam Sandler (original two songs), Tim Herlihy (original two songs) ✎
+- [*Elf*](https://en.wikipedia.org/wiki/Elf_(musical%29) (2010) — Matthew Sklar · words: Chad Beguelin, Bob Martin ✎
+- [*The Prom*](https://en.wikipedia.org/wiki/The_Prom_(musical%29) (2016) — Matthew Sklar · words: Chad Beguelin · English ✎
+- [*Chris Mrs.*](https://en.wikipedia.org/wiki/Chris,_Mrs.) (2023) — Matthew Stodolak, Katie Kerr · words: Matthew Stodolak, Katie Kerr
+- [*Next Door's Baby*](https://en.wikipedia.org/wiki/Next_Door%27s_Baby) (2008) — Matthew Strachan · words: Matthew Strachan, Bernadette Strachan ✎ ♫
+- [*Mulan Jr.*](https://en.wikipedia.org/wiki/Mulan_Jr.) — Matthew Wilder, Stephen Schwartz, Jeanine Tesori · words: David Zippel, Stephen Schwartz, Alexa Junge, David Zippel, Stephen Schwartz, Alexa Junge ✎ ♫
+- [*This'll Make You Whistle*](https://en.wikipedia.org/wiki/This%27ll_Make_You_Whistle_(musical%29) (1935) — Maurice Sigler, Al Goodhart, Al Hoffman
+- [*Nine*](https://en.wikipedia.org/wiki/Nine_(musical%29) (1982) — Maury Yeston · words: Maury Yeston, Arthur Kopit ✎
+- [*Phantom*](https://en.wikipedia.org/wiki/Phantom_(musical%29) (1991) — Maury Yeston · words: Maury Yeston, Arthur Kopit ✎
+- [*Titanic*](https://en.wikipedia.org/wiki/Titanic_(musical%29) (1997) — Maury Yeston · words: Maury Yeston, Peter Stone ✎
+- [*Death Takes a Holiday*](https://en.wikipedia.org/wiki/Death_Takes_a_Holiday_(musical%29) (2011) — Maury Yeston · words: Maury Yeston, Peter Stone, Thomas Meehan ✎ ♫
+- [*Goya: A Life in Song*](https://en.wikipedia.org/wiki/Goya:_A_Life_in_Song) — Maury Yeston · words: Maury Yeston · English
+- [*& Juliet*](https://en.wikipedia.org/wiki/%26_Juliet) (2019) — Max Martin · words: Max Martin and others ✎
+- [*Harrigan 'N Hart*](https://en.wikipedia.org/wiki/Harrigan_%27N_Hart) — Max Showalter · words: Peter Walker, Michael Stewart · English ✎
+- [*The View UpStairs*](https://en.wikipedia.org/wiki/The_View_UpStairs) (2017) — Max Vernon · words: Max Vernon · English
+- [*Sarafina!*](https://en.wikipedia.org/wiki/Sarafina!_(musical%29) (1987) — Mbongeni Ngema · words: Mbongeni Ngema, Hugh Masekela
+- [*The Deb*](https://en.wikipedia.org/wiki/The_Deb) (2022) — Megan Washington · words: Megan Washington, Hannah Reilly
+- [*The Producers*](https://en.wikipedia.org/wiki/The_Producers_(musical%29) (2001) — Mel Brooks · words: Mel Brooks, Thomas Meehan ✎
+- [*Young Frankenstein*](https://en.wikipedia.org/wiki/Young_Frankenstein_(musical%29) (2007) — Mel Brooks · words: Mel Brooks, Thomas Meehan · English
+- [*Dr. Seuss' How the Grinch Stole Christmas! The Musical*](https://en.wikipedia.org/wiki/Dr._Seuss%27_How_the_Grinch_Stole_Christmas!_The_Musical) (1998) — Mel Marvin · words: Timothy Mason
+- [*Don't Play Us Cheap*](https://en.wikipedia.org/wiki/Don%27t_Play_Us_Cheap) (1970) — Melvin Van Peebles · words: Melvin Van Peebles
+- [*Ain't Supposed to Die a Natural Death*](https://en.wikipedia.org/wiki/Ain%27t_Supposed_to_Die_a_Natural_Death) (1971) — Melvin Van Peebles · words: Melvin Van Peebles ✎
+- [*The Music Man*](https://en.wikipedia.org/wiki/The_Music_Man) (1957) — Meredith Willson · words: Meredith Willson, Franklin Lacey · English ✎
+- [*The Unsinkable Molly Brown*](https://en.wikipedia.org/wiki/The_Unsinkable_Molly_Brown_(musical%29) (1960) — Meredith Willson · words: Meredith Willson ✎
+- [*Here's Love*](https://en.wikipedia.org/wiki/Here%27s_Love) (1963) — Meredith Willson · words: Meredith Willson ✎
+- [*1491*](https://en.wikipedia.org/wiki/1491_(musical%29) (1969) — Meredith Willson · words: Meredith Willson
+- [*Can I Get a Witness? The Gospel of James Baldwin*](https://en.wikipedia.org/wiki/Can_I_Get_a_Witness%3F_The_Gospel_of_James_Baldwin) (2016) — Meshell Ndegeocello
+- [*Frankenstein, or The Vampire's Victim*](https://en.wikipedia.org/wiki/Frankenstein,_or_The_Vampire%27s_Victim) (1887) — Meyer Lutz · words: Richard Butler ✎
+- [*Miss Esmeralda*](https://en.wikipedia.org/wiki/Miss_Esmeralda) (1887) — Meyer Lutz · words: Horace Mills, Frederick Hobson Leslie · English ✎ ♫
+- [*Faust up to date*](https://en.wikipedia.org/wiki/Faust_up_to_Date) (1888) — Meyer Lutz · words: George Robert Sims, Henry Pettitt · English ✎ ♫
+- [*Carmen up to Data*](https://en.wikipedia.org/wiki/Carmen_up_to_Data) (1890) — Meyer Lutz · words: George Robert Sims, G. R. Sims, Henry Pettitt
+- [*Cinder Ellen up too Late*](https://en.wikipedia.org/wiki/Cinder_Ellen_up_too_Late) — Meyer Lutz
+- [*Galatea, or Pygmalion Reversed*](https://en.wikipedia.org/wiki/Galatea,_or_Pygmalion_Reversed) — Meyer Lutz ✎ ♫
+- [*Little Jack Sheppard*](https://en.wikipedia.org/wiki/Little_Jack_Sheppard) — Meyer Lutz ✎ ♫
+- [*Ruy Blas and the Blase Roue*](https://en.wikipedia.org/wiki/Ruy_Blas_and_the_Blas%C3%A9_Rou%C3%A9) — Meyer Lutz ✎ ♫
+- [*Easter Rising*](https://en.wikipedia.org/wiki/Easter_Rising_(musical%29) (2004) — Michael Arden · words: Michael Arden, Isaac Oliver
+- [*Different Times*](https://en.wikipedia.org/wiki/Different_Times_(musical%29) (1972) — Michael Brown · words: Michael Brown ✎
+- [*Bloody Bloody Andrew Jackson*](https://en.wikipedia.org/wiki/Bloody_Bloody_Andrew_Jackson) (2008) — Michael Friedman · words: Michael Friedman, Alex Timbers ✎
+- [*Saved*](https://en.wikipedia.org/wiki/Saved_(musical%29) (2008) — Michael Friedman · words: John Dempsey ✎ ♫
+- [*This Beautiful City*](https://en.wikipedia.org/wiki/This_Beautiful_City_(play%29) (2008) — Michael Friedman · words: Michael Friedman
+- [*The Fortress of Solitude*](https://en.wikipedia.org/wiki/The_Fortress_of_Solitude_(musical%29) (2012) — Michael Friedman · words: Itamar Moses ✎
+- [*Gone Missing*](https://en.wikipedia.org/wiki/Gone_Missing_(musical%29) — Michael Friedman · words: Michael Friedman
+- [*Carrie*](https://en.wikipedia.org/wiki/Carrie_(musical%29) (1988) — Michael Gore · words: Dean Pitchford, Lawrence D. Cohen · English ✎
+- [*Cyrano*](https://en.wikipedia.org/wiki/Cyrano_(musical%29) (1973) — Michael J. Lewis · words: Anthony Burgess · English
+- [*MJ: The Musical*](https://en.wikipedia.org/wiki/MJ_the_Musical) (2021) — Michael Jackson · words: Various artists ✎
+- [*First Lady Suite*](https://en.wikipedia.org/wiki/First_Lady_Suite) (1993) — Michael John LaChiusa · words: Michael John LaChiusa ✎
+- [*Hello Again*](https://en.wikipedia.org/wiki/Hello_Again_(musical%29) (1993) — Michael John LaChiusa · words: Michael John LaChiusa
+- [*Marie Christine*](https://en.wikipedia.org/wiki/Marie_Christine) (1999) — Michael John LaChiusa · words: Michael John LaChiusa ✎
+- [*The Wild Party*](https://en.wikipedia.org/wiki/The_Wild_Party_(LaChiusa_musical%29) (2000) — Michael John LaChiusa · words: Michael John LaChiusa, George C. Wolfe ✎
+- [*Little Fish*](https://en.wikipedia.org/wiki/Little_Fish_(musical%29) (2003) — Michael John LaChiusa · words: Michael John LaChiusa ✎
+- [*See What I Wanna See*](https://en.wikipedia.org/wiki/See_What_I_Wanna_See) (2004) — Michael John LaChiusa · words: Michael John LaChiusa ✎
+- [*Giant*](https://en.wikipedia.org/wiki/Giant_(musical%29) (2009) — Michael John LaChiusa · words: Sybille Pearson ✎
+- [*Queen of the Mist*](https://en.wikipedia.org/wiki/Queen_of_the_Mist) (2011) — Michael John LaChiusa · words: Michael John LaChiusa ✎
+- [*The Gardens of Anuncia*](https://en.wikipedia.org/wiki/The_Gardens_of_Anuncia) (2021) — Michael John LaChiusa · words: Michael John LaChiusa
+- [*The Secret of My Success*](https://en.wikipedia.org/wiki/The_Secret_of_My_Success_(musical%29) (2020) — Michael Mahler and Alan Schmuckler · words: Michael Mahler and Alan Schmuckler
+- [*A Strange Loop*](https://en.wikipedia.org/wiki/A_Strange_Loop) (2019) — Michael R. Jackson · words: Michael R. Jackson · English ✎
+- [*White Girl in Danger*](https://en.wikipedia.org/wiki/White_Girl_in_Danger) (2023) — Michael R. Jackson · words: Michael R. Jackson
+- [*Through a Glass, Darkly*](https://en.wikipedia.org/wiki/Through_a_Glass,_Darkly_(musical%29) (2008) — Michael Shaieb · words: Michael Shaieb ✎ ♫
+- [*The Clockmaker's Daughter*](https://en.wikipedia.org/wiki/The_Clockmaker%27s_Daughter) (2015) — Michael Webborn & Daniel Finn · words: Michael Webborn & Daniel Finn ✎
+- [*Starmania*](https://en.wikipedia.org/wiki/Starmania_(musical%29) (1979) — Michel Berger · words: Luc Plamondon · French ✎ ♫
+- [*Amour*](https://en.wikipedia.org/wiki/Amour_(musical%29) (1997) — Michel Legrand · words: Didier Van Cauwelaert, Jeremy Sams ✎ ♫
+- [*Marguerite*](https://en.wikipedia.org/wiki/Marguerite_(musical%29) (2008) — Michel Legrand · words: Alain Boublil, Alain Boublil, Herbert Kretzmer ✎
+- [*Don't Bother Me, I Can't Cope*](https://en.wikipedia.org/wiki/Don%27t_Bother_Me,_I_Can%27t_Cope) (1971) — Micki Grant · words: Micki Grant
+- [*Beaches*](https://en.wikipedia.org/wiki/Beaches_(musical%29) (2014) — Mike Stoller · words: Iris Rainer Dart · English ♫
+- [*The People in the Picture*](https://en.wikipedia.org/wiki/The_People_in_the_Picture) (2011) — Mike Stoller, Artie Butler · words: Iris Rainer Dart
+- [*Bravo Giovanni*](https://en.wikipedia.org/wiki/Bravo_Giovanni) (1962) — Milton Schafer · words: Ronny Graham ✎
+- [*Drat! The Cat!*](https://en.wikipedia.org/wiki/Drat!_The_Cat!) (1965) — Milton Schafer · words: Ira Levin ✎
+- [*The Jungle Book (Musical)*](https://en.wikipedia.org/wiki/The_Jungle_Book_(musical%29) (1996) — Miron Minster and Ariel Zilber · words: Ephraim Sidon ✎ ♫
+- [*Katharina Knie*](https://en.wikipedia.org/wiki/Katharina_Knie_(musical%29) — Mischa Spoliansky ✎
+- [*Man of La Mancha*](https://en.wikipedia.org/wiki/Man_of_La_Mancha) (1965) — Mitch Leigh · words: Joe Darion, Dale Wasserman ✎
+- [*Chu Chem*](https://en.wikipedia.org/wiki/Chu_Chem) (1966) — Mitch Leigh · words: Jim Haines, Ted Allen
+- [*Cry for Us All*](https://en.wikipedia.org/wiki/Cry_For_Us_All) (1970) — Mitch Leigh · words: William Alfred
+- [*Home Sweet Homer*](https://en.wikipedia.org/wiki/Home_Sweet_Homer) (1976) — Mitch Leigh · words: Roland Kibbee
+- [*Tangerine*](https://en.wikipedia.org/wiki/Tangerine_(musical%29) (1921) — Monte Carlo, Alma M. Sanders · words: Guy Bolton ✎
+- [*Expresso Bongo*](https://en.wikipedia.org/wiki/Expresso_Bongo) (1958) — Monty Norman, David Heneker · words: Monty Norman, Julian More, Wolf Mankowitz · English ✎
+- [*Songbook*](https://en.wikipedia.org/wiki/Songbook_(musical%29) (1979) — Monty Norman · words: Monty Norman, Julian More ✎
+- [*Poppy*](https://en.wikipedia.org/wiki/Poppy_(1982_musical%29) (1982) — Monty Norman · words: Peter Nichols ✎ ♫
+- [*Whoop-Up*](https://en.wikipedia.org/wiki/Whoop-Up) (1958) — Moose Charlap · words: Norman Gimbel, Cy Feuer · English
+- [*The Conquering Hero*](https://en.wikipedia.org/wiki/The_Conquering_Hero) (1961) — Moose Charlap · words: Norman Gimbel, Larry Gelbart
+- [*Kelly*](https://en.wikipedia.org/wiki/Kelly_(musical%29) (1965) — Moose Charlap · words: Eddie Lawrence ✎
+- [*Two for the Show*](https://en.wikipedia.org/wiki/Two_for_the_Show_(musical%29) (1940) — Morgan Lewis · words: Nancy Hamilton · English
+- [*Save the Last Dance for Me*](https://en.wikipedia.org/wiki/Save_the_Last_Dance_for_Me_(musical%29) (2012) — Mort Shuman · words: Doc Pomus, Laurence Marks · English · jukebox musical ✎ ♫
+- [*Billion Dollar Baby*](https://en.wikipedia.org/wiki/Billion_Dollar_Baby) (1945) — Morton Gould · words: Betty Comden
+- [*Hoy no me puedo levantar*](https://en.wikipedia.org/wiki/Hoy_no_me_puedo_levantar) (2005) — Nacho Cano · words: Nacho Cano, Nacho Cano, José María Cano ✎
+- [*Singin' in the Rain*](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain_(musical%29) (1983) — Nacio Herb Brown · words: Arthur Freed, Betty Comden · English ✎
+- [*Broken Wings*](https://en.wikipedia.org/wiki/Broken_Wings_(musical%29) (2018) — Nadim Naaman, Dana Al Fardan · words: Nadim Naaman, Dana Al Fardan
+- [*Now Is the Time for All Good Men*](https://en.wikipedia.org/wiki/Now_Is_the_Time_for_All_Good_Men) (1967) — Nancy Ford · words: Gretchen Cryer ✎
+- [*Shelter*](https://en.wikipedia.org/wiki/Shelter_(musical%29) (1973) — Nancy Ford · words: Gretchen Cryer ✎
+- [*I'm Getting My Act Together and Taking It on the Road*](https://en.wikipedia.org/wiki/I%27m_Getting_My_Act_Together_and_Taking_It_on_the_Road) (1978) — Nancy Ford · words: Gretchen Cryer ✎ ♫
+- [*Evie May*](https://en.wikipedia.org/wiki/Evie_May_(musical%29) (2018) — Naomi Livingston · words: Hugo Chiarella and Naomi Livingston ♫
+- [*Houp La!*](https://en.wikipedia.org/wiki/Houp_La!) (1916) — Nat Ayer · words: Percy Greenbank, Fred Thompson ✎
+- [*The Bing Boys Are Here*](https://en.wikipedia.org/wiki/The_Bing_Boys_Are_Here) (1916) — Nat Ayer · words: Clifford Grey, George Grossmith Jr. · English ✎
+- [*Yes, Uncle!*](https://en.wikipedia.org/wiki/Yes,_Uncle!) (1917) — Nat Ayer · words: Clifford Grey, Austen Hurgon ✎
+- [*The Story of My Life*](https://en.wikipedia.org/wiki/The_Story_of_My_Life_(musical%29) (2006) — Neil Bartram · words: Brian Hill ✎
+- [*Grumpy Old Men*](https://en.wikipedia.org/wiki/Grumpy_Old_Men_(musical%29) — Neil Berg · words: Nick Meglin, Dan Remmes · English ✎
+- [*A Beautiful Noise*](https://en.wikipedia.org/wiki/A_Beautiful_Noise_(musical%29) (2022) — Neil Diamond · words: Various artists
+- [*Thelma & Louise*](https://en.wikipedia.org/wiki/Thelma_%26_Louise_(musical%29) (2026) — Neko Case · words: Neko Case
+- [*Legally Blonde*](https://en.wikipedia.org/wiki/Legally_Blonde_(musical%29) (2007) — Nell Benjamin, Laurence O'Keefe · words: Heather Hach ✎
+- [*Glory Days*](https://en.wikipedia.org/wiki/Glory_Days_(musical%29) (2008) — Nick Blaemire · words: Nick Blaemire ✎ ♫
+- [*Holy Musical B@man!*](https://en.wikipedia.org/wiki/Holy_Musical_B@man!) (2012) — Nick Gage, Scott Lamps · words: Nick Gage ✎
+- [*Retrograde The Musical*](https://en.wikipedia.org/wiki/Retrograde_The_Musical) — Nick Laughlin, Richard C. Walter, Jesse Saint John, Drew Louis · words: Nick Laughlin, Richard C. Walter, Jesse Saint John, Drew Louis ✎
+- [*Krampus: A Yuletide Tale*](https://en.wikipedia.org/wiki/Krampus_(musical%29) — Nils-Petter Ankarblom
+- [*London Calling!*](https://en.wikipedia.org/wiki/London_Calling!_(musical%29) (1923) — Noël Coward · words: Noël Coward
+- [*This Year of Grace*](https://en.wikipedia.org/wiki/This_Year_of_Grace) (1928) — Noël Coward · words: Noël Coward
+- [*Words and Music*](https://en.wikipedia.org/wiki/Words_and_Music_(No%C3%ABl_Coward%29) (1932) — Noël Coward · words: Noël Coward
+- [*Conversation Piece*](https://en.wikipedia.org/wiki/Conversation_Piece_(musical%29) (1934) — Noël Coward · words: Noël Coward · English ✎
+- [*Set to Music*](https://en.wikipedia.org/wiki/Set_to_Music) (1939) — Noël Coward · words: Noël Coward
+- [*Sigh No More*](https://en.wikipedia.org/wiki/Sigh_No_More_(musical%29) (1945) — Noël Coward · words: Noël Coward
+- [*After the Ball*](https://en.wikipedia.org/wiki/After_the_Ball_(musical%29) (1954) — Noël Coward · words: Noël Coward ✎
+- [*Sail Away*](https://en.wikipedia.org/wiki/Sail_Away_(musical%29) (1961) — Noël Coward · words: Noël Coward ✎
+- [*The Girl Who Came to Supper*](https://en.wikipedia.org/wiki/The_Girl_Who_Came_to_Supper) (1963) — Noël Coward · words: Noël Coward, Harry Kurnitz ✎
+- [*Oh, Coward!*](https://en.wikipedia.org/wiki/Oh,_Coward!) — Noël Coward
+- [*Pacific 1860*](https://en.wikipedia.org/wiki/Pacific_1860) — Noël Coward ✎
+- [*Me and My Girl*](https://en.wikipedia.org/wiki/Me_and_My_Girl) (1937) — Noel Gay · words: Douglas Furber · English ✎ ♫
+- [*Anne of Green Gables—The Musical*](https://en.wikipedia.org/wiki/Anne_of_Green_Gables:_The_Musical) (1965) — Norman Campbell · words: Don Harron · English
+- [*A Joyful Noise*](https://en.wikipedia.org/wiki/A_Joyful_Noise) (1966) — Oscar Brand · words: Oscar Brand, Edward Padula ✎ ♫
+- [*The Education of H\*Y\*M\*A\*N K\*A\*P\*L\*A\*N*](https://en.wikipedia.org/wiki/The_Education_of_H*Y*M*A*N_K*A*P*L*A*N) (1968) — Oscar Brand, Paul Nassau · words: Oscar Brand, Paul Nassau ✎
+- [*Song of the Flame*](https://en.wikipedia.org/wiki/Song_of_the_Flame) — Oscar Hammerstein II
+- [*Ripples*](https://en.wikipedia.org/wiki/Ripples_(musical%29) — Oscar Levant, Albert Szirmai · words: Irving Caesar, William Anthony McGuire
+- [*Les Dix Commandements*](https://en.wikipedia.org/wiki/Les_Dix_Commandements_(musical%29) (2000) — Pascal Obispo · words: Lionel Florence and Patrice Guirao ♫
+- [*The Unlikely Pilgrimage of Harold Fry*](https://en.wikipedia.org/wiki/The_Unlikely_Pilgrimage_of_Harold_Fry_(musical%29) (2025) — Passenger · words: Passenger ✎
+- [*Lasseter*](https://en.wikipedia.org/wiki/Lasseter_(musical%29) (1971) — Patrick Flynn · words: Reg Livermore
+- [*Ned Kelly*](https://en.wikipedia.org/wiki/Ned_Kelly_(musical%29) (1977) — Patrick Flynn · words: Reg Livermore · English
+- [*The James Dossier*](https://en.wikipedia.org/wiki/The_James_Dossier) — Patrick Flynn · words: Bob Ellis
+- [*The Ten Commandments: The Musical*](https://en.wikipedia.org/wiki/The_Ten_Commandments:_The_Musical) — Patrick Leonard · words: Maribeth Derry ✎ ♫
+- [*Das Feuerwerk*](https://en.wikipedia.org/wiki/Das_Feuerwerk) (1950) — Paul Burkhard · words: Erik Charell · German ✎
+- [*Shogun: The Musical*](https://en.wikipedia.org/wiki/Sh%C5%8Dgun:_The_Musical) (1990) — Paul Chihara · words: John Driver
+- [*Jane Eyre*](https://en.wikipedia.org/wiki/Jane_Eyre_(musical%29) (1995) — Paul Gordon · words: John Caird · English ✎
+- [*Daddy Long Legs*](https://en.wikipedia.org/wiki/Daddy_Long_Legs_(musical%29) (2009) — Paul Gordon · words: Paul Gordon ✎ ♫
+- [*Clinton: The Musical*](https://en.wikipedia.org/wiki/Clinton:_The_Musical) (2012) — Paul Hodge · words: Paul Hodge ✎
+- [*Joh for PM*](https://en.wikipedia.org/wiki/Joh_for_PM_(musical%29) (2017) — Paul Hodge · words: Paul Hodge
+- [*Rachael Lily Rosenbloom*](https://en.wikipedia.org/wiki/Rachael_Lily_Rosenbloom_(And_Don%27t_You_Ever_Forget_It%29) (1973) — Paul Jabara · words: Paul Jabara
+- [*The Big Life*](https://en.wikipedia.org/wiki/The_Big_Life_(musical%29) (2004) — Paul Joseph · words: Paul Sirett
+- [*Two Little Girls in Blue*](https://en.wikipedia.org/wiki/Two_Little_Girls_in_Blue) (1921) — Paul Lannin, Vincent Youmans · words: Ira Gershwin, Frederick J. Jackson
+- [*The Balkan Princess*](https://en.wikipedia.org/wiki/The_Balkan_Princess) (1910) — Paul Rubens · words: Paul Rubens, Frederick Lonsdale ✎ ♫
+- [*To-Night's the Night*](https://en.wikipedia.org/wiki/To-Night%27s_the_Night_(musical%29) (1914) — Paul Rubens · words: Paul Rubens, Fred Thompson ♫
+- [*The Capeman*](https://en.wikipedia.org/wiki/The_Capeman) (1998) — Paul Simon · words: Paul Simon, Derek Walcott, Paul Simon, Derek Walcott ♫
+- [*Evangeline*](https://en.wikipedia.org/wiki/Evangeline_(1999_musical%29) (1998) — Paul Taranto · words: Paul Taranto, Jamie Wax ✎
+- [*The Wizard of Oz*](https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1902_musical%29) (1902) — Paul Tietjens · words: L. Frank Baum · English ✎ ♫
+- [*Only Fools and Horses The Musical*](https://en.wikipedia.org/wiki/Only_Fools_and_Horses_The_Musical) (2019) — Paul Whitehouse, Jim Sullivan, John Sullivan (additional), Chas Hodges (additional) · words: Paul Whitehouse, Jim Sullivan, John Sullivan (additional), Chas Hodges (additional) ✎
+- [*Happy Days*](https://en.wikipedia.org/wiki/Happy_Days_(musical%29) (2007) — Paul Williams · words: Garry Marshall ✎
+- [*I, Keano*](https://en.wikipedia.org/wiki/I,_Keano) (2005) — Paul Woodfull · words: Arthur Mathews, Michael Nugent ♫
+- [*A Trip to Chinatown*](https://en.wikipedia.org/wiki/A_Trip_to_Chinatown) (1891) — Percy Gaunt · words: Charles Hale Hoyt, Charles H. Hoyt ✎
+- [*The Crinoline Girl*](https://en.wikipedia.org/wiki/The_Crinoline_Girl) (1914) — Percy Wenrich · words: Julian Eltinge, Otto Harbach ✎
+- [*Castles in the Air*](https://en.wikipedia.org/wiki/Castles_in_the_Air_(musical%29) (1926) — Percy Wenrich · words: Raymond Wilson Peck ♫
+- [*Closer to Heaven*](https://en.wikipedia.org/wiki/Closer_to_Heaven_(musical%29) (2001) — Pet Shop Boys · words: Jonathan Harvey ✎
+- [*The Who's Tommy*](https://en.wikipedia.org/wiki/The_Who%27s_Tommy) (1992) — Pete Townshend · words: Pete Townshend · English ✎ ♫
+- [*The Boy Who Heard Music*](https://en.wikipedia.org/wiki/The_Boy_Who_Heard_Music) (2007) — Pete Townshend, Rachel Fuller · words: Pete Townshend, Rachel Fuller · English · rock opera ✎
+- [*Quadrophenia*](https://en.wikipedia.org/wiki/Quadrophenia_(musical%29) — Pete Townshend · words: Pete Townshend · English
+- [*Legs Diamond*](https://en.wikipedia.org/wiki/Legs_Diamond_(musical%29) (1988) — Peter Allen · words: Harvey Fierstein
+- [*The Boy from Oz*](https://en.wikipedia.org/wiki/The_Boy_from_Oz) (1998) — Peter Allen · words: Peter Allen, Nick Enright ✎
+- [*The Madwoman of Central Park West*](https://en.wikipedia.org/wiki/The_Madwoman_of_Central_Park_West) (1979) — Peter Allen, Leonard Bernstein, Jerry Bock, Martin Charnin, John Clifton, Betty Comden, Fred Ebb, Jack Feldman, Adolph Green, Sheldon Harnick, John Kander, Ed Kleban, Barry Manilow, Phyllis Newman, Joe Raposo, Mary Rodgers, Carole Bayer Sager, Stephen Sondheim, Bruce Sussman · words: Arthur Laurents, Phyllis Newman
+- [*Brownstone*](https://en.wikipedia.org/wiki/Brownstone_(musical%29) (1979) — Peter Larson · words: Josh Rubins
+- [*Salvation*](https://en.wikipedia.org/wiki/Salvation_(musical%29) (1969) — Peter Link · words: Peter Link ✎
+- [*King of Hearts*](https://en.wikipedia.org/wiki/King_of_Hearts_(musical%29) (1978) — Peter Link · words: Jacob Brackman, Joseph Stein ✎
+- [*The Yellow Cake Revue*](https://en.wikipedia.org/wiki/The_Yellow_Cake_Revue) — Peter Maxwell Davies
+- [*Illyria*](https://en.wikipedia.org/wiki/Illyria_(musical%29) (2002) — Peter Mills · words: Peter Mills ✎
+- [*Golden Boy of the Blue Ridge*](https://en.wikipedia.org/wiki/Golden_Boy_of_the_Blue_Ridge) (2009) — Peter Mills · words: Peter Mills ✎
+- [*Lola Montez*](https://en.wikipedia.org/wiki/Lola_Montez_(musical%29) (1958) — Peter Stannard · words: Peter Benjamin ♫
+- [*Tarzan*](https://en.wikipedia.org/wiki/Tarzan_(musical%29) (2006) — Phil Collins · words: Phil Collins, David Henry Hwang · English ✎
+- [*Émilie Jolie*](https://en.wikipedia.org/wiki/%C3%89milie_Jolie) — Philippe Chatel · French ✎
+- [*Magical Sentosa*](https://en.wikipedia.org/wiki/Magical_Sentosa) (2002) — Philippe Villar · words: Philippe Villar, Yves Pépin ✎
+- [*Water for Elephants*](https://en.wikipedia.org/wiki/Water_for_Elephants_(musical%29) (2023) — PigPen Theatre Co. · words: PigPen Theatre Co., Rick Elice · English ✎
+- [*Jet Set Go!*](https://en.wikipedia.org/wiki/Jet_Set_Go!) (2008) — Pippa Cleary · words: Jake Brunger, Pippa Cleary ✎ ♫
+- [*Bank of Dave: The Musical*](https://en.wikipedia.org/wiki/Bank_of_Dave:_The_Musical) (2026) — Pippa Cleary · words: Robert Madge
+- [*We Are the Tigers*](https://en.wikipedia.org/wiki/We_Are_the_Tigers) (2015) — Preston Max Allen · words: Preston Max Allen · English ✎
+- [*Billboards*](https://en.wikipedia.org/wiki/Billboards_(ballet%29) (1993) — Prince
+- [*Glam Slam Ulysses*](https://en.wikipedia.org/wiki/Glam_Slam_Ulysses) (1993) — Prince · words: Prince
+- [*Purple Rain*](https://en.wikipedia.org/wiki/Purple_Rain_(musical%29) (2025) — Prince · words: Prince
+- [*The Slutcracker*](https://en.wikipedia.org/wiki/The_Slutcracker) (2008) — Pyotr Ilyich Tchaikovsky · words: Vanessa White ✎
+- [*We Will Rock You*](https://en.wikipedia.org/wiki/We_Will_Rock_You_(musical%29) (2002) — Queen · words: Queen, Ben Elton · English ✎
+- [*Little House on the Prairie*](https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(musical%29) (2008) — Rachel Portman · words: Donna di Novelli ✎
+- [*I La Galigo*](https://en.wikipedia.org/wiki/I_La_Galigo) (2004) — Rahayu Supanggah · words: Rhoda Grauer ✎
+- [*Meine Schwester und ich*](https://en.wikipedia.org/wiki/Meine_Schwester_und_ich) (1930) — Ralph Benatzky · words: Robert Blum · German ✎ ♫
+- [*Three Wishes for Jamie*](https://en.wikipedia.org/wiki/Three_Wishes_for_Jamie) (1952) — Ralph Blane · words: Ralph Blane, Charles O'Neal
+- [*A Theory of Justice: The Musical!*](https://en.wikipedia.org/wiki/A_Theory_of_Justice:_The_Musical) (2013) — Ramin Sabi, Toby Huelin, Eylon Levy, Tommy Peto · words: Eylon Levy, Ramin Sabi, Tommy Peto · English ✎ ♫
+- [*Don't Step on My Olive Branch*](https://en.wikipedia.org/wiki/Don%27t_Step_on_My_Olive_Branch) (1976) — Ran Eliran · words: Ron Eliran
+- [*Johnny Pye and the Fool-Killer*](https://en.wikipedia.org/wiki/Johnny_Pye_and_the_Fool-Killer) (1984) — Randy Courts · words: Mark St. Germain ✎
+- [*Sunny Afternoon*](https://en.wikipedia.org/wiki/Sunny_Afternoon_(musical%29) (2014) — Ray Davies · words: Ray Davies, Joe Penhall ✎
+- [*Good News*](https://en.wikipedia.org/wiki/Good_News_(musical%29) (1927) — Ray Henderson · words: Buddy DeSylva, B.G. DeSylva, Lew Brown ✎
+- [*Hold Everything!*](https://en.wikipedia.org/wiki/Hold_Everything!) (1928) — Ray Henderson · words: Lew Brown, Jack McGowan
+- [*Follow Thru*](https://en.wikipedia.org/wiki/Follow_Thru_(musical%29) (1929) — Ray Henderson · words: Lew Brown, Lew Brown and B. G. de Sylva ♫
+- [*Flying High*](https://en.wikipedia.org/wiki/Flying_High_(musical%29) (1930) — Ray Henderson · words: Buddy DeSylva, Lew Brown, Jack McGowan
+- [*Say When*](https://en.wikipedia.org/wiki/Say_When_(musical%29) — Ray Henderson · words: Ted Koehler, Jack McGowan
+- [*Catch My Soul*](https://en.wikipedia.org/wiki/Catch_My_Soul_(musical%29) — Ray Pohlman · words: Jack Good, William Shakespeare · English
+- [*The Midnight Sons*](https://en.wikipedia.org/wiki/The_Midnight_Sons) (1909) — Raymond Hubbell · words: Glen MacDonough ✎
+- [*Good Times*](https://en.wikipedia.org/wiki/Good_Times_(musical%29) (1920) — Raymond Hubbell · words: Robert Hubberthorne Burnside · English
+- [*Three Cheers*](https://en.wikipedia.org/wiki/Three_Cheers) — Raymond Hubbell · words: Anne Caldwell
+- [*Lute Song*](https://en.wikipedia.org/wiki/Lute_Song_(musical%29) (1946) — Raymond Scott · words: Bernie Hanighen, Sidney Howard ✎
+- [*Red Feather*](https://en.wikipedia.org/wiki/Red_Feather_(opera%29) (1903) — Reginald De Koven · words: Charles Klein ✎
+- [*Happyland*](https://en.wikipedia.org/wiki/Happyland_(opera%29) (1905) — Reginald De Koven · words: Frederic Ranken · English ✎
+- [*Ô mon bel inconnu*](https://en.wikipedia.org/wiki/%C3%94_mon_bel_inconnu) (1933) — Reynaldo Hahn · words: Sacha Guitry · French ✎ ♫
+- [*Notre-Dame de Paris*](https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_(musical%29) (1998) — Riccardo Cocciante, Alberto Visentin · words: Luc Plamondon, Yuliy Kim · French ✎
+- [*Giulietta e Romeo*](https://en.wikipedia.org/wiki/Giulietta_e_Romeo_(musical%29) (2007) — Riccardo Cocciante · words: Pasquale Panella ✎
+- [*The Pajama Game*](https://en.wikipedia.org/wiki/The_Pajama_Game) (1954) — Richard Adler · words: Richard Adler, George Abbott · English ✎ ♫
+- [*Damn Yankees*](https://en.wikipedia.org/wiki/Damn_Yankees) (1955) — Richard Adler · words: Jerry Ross, Douglass Wallop, George Abbott ✎ ♫
+- [*Kwamina*](https://en.wikipedia.org/wiki/Kwamina) (1961) — Richard Adler · words: Richard Adler, Robert Alan Aurthur ✎
+- [*Music Is*](https://en.wikipedia.org/wiki/Music_Is) (1976) — Richard Adler · words: Will Holt, George Abbott
+- [*Adam*](https://en.wikipedia.org/wiki/Adam_(musical%29) (1983) — Richard Ahlert · words: Richard Ahlert ✎
+- [*The Marvelous Land of Oz*](https://en.wikipedia.org/wiki/The_Marvelous_Land_of_Oz_(musical%29) (1981) — Richard Dworsky · words: Gary Briggle · English ♫
+- [*Standing at the Sky's Edge*](https://en.wikipedia.org/wiki/Standing_at_the_Sky%27s_Edge_(musical%29) (2019) — Richard Hawley · words: Richard Hawley
+- [*Canterbury Tales*](https://en.wikipedia.org/wiki/Canterbury_Tales_(musical%29) (1968) — Richard Hill · words: Nevill Coghill, Martin Starkie ✎
+- [*Victory Canteen*](https://en.wikipedia.org/wiki/Victory_Canteen) (1971) — Richard M. Sherman · words: Richard M. Sherman, Milt Larsen
+- [*Over Here!*](https://en.wikipedia.org/wiki/Over_Here!) (1974) — Richard M. Sherman · words: Robert B. Sherman, Will Holt · English
+- [*Busker Alley*](https://en.wikipedia.org/wiki/Busker_Alley) (1995) — Richard M. Sherman · words: Richard M. Sherman, AJ Carothers
+- [*The Slipper and the Rose*](https://en.wikipedia.org/wiki/The_Slipper_and_the_Rose_(musical%29) (2000) — Richard M. Sherman, Robert B. Sherman · words: Richard M. Sherman, Robert B. Sherman ✎ ♫
+- [*Chitty Chitty Bang Bang*](https://en.wikipedia.org/wiki/Chitty_Chitty_Bang_Bang_(musical%29) (2002) — Richard M. Sherman · words: Robert B. Sherman, Jeremy Sams · English ✎
+- [*The Rocky Horror Show*](https://en.wikipedia.org/wiki/The_Rocky_Horror_Show) (1973) — Richard O'Brien · words: Richard O'Brien ✎
+- [*ACE*](https://en.wikipedia.org/wiki/Ace_(musical%29) (2006) — Richard Oberacker · words: Robert Taylor and Richard Oberacker ✎
+- [*The Bandstand*](https://en.wikipedia.org/wiki/Bandstand_(musical%29) (2015) — Richard Oberacker · words: Richard Oberacker, Robert Taylor ✎ ♫
+- [*Dracula: A Chamber Musical*](https://en.wikipedia.org/wiki/Dracula:_A_Chamber_Musical) (1997) — Richard Ouzounian · words: Richard Ouzounian · English ✎
+- [*Dearest Enemy*](https://en.wikipedia.org/wiki/Dearest_Enemy) (1925) — Richard Rodgers · words: Lorenz Hart, Herbert Fields · English ✎
+- [*Peggy-Ann*](https://en.wikipedia.org/wiki/Peggy-Ann) (1926) — Richard Rodgers · words: Lorenz Hart, Herbert Fields
+- [*The Girl Friend*](https://en.wikipedia.org/wiki/The_Girl_Friend) (1926) — Richard Rodgers · words: Lorenz Hart, Herbert Fields ✎ ♫
+- [*A Connecticut Yankee*](https://en.wikipedia.org/wiki/A_Connecticut_Yankee_(musical%29) (1927) — Richard Rodgers · words: Lorenz Hart, Herbert Fields · English ✎
+- [*Present Arms*](https://en.wikipedia.org/wiki/Present_Arms_(musical%29) (1928) — Richard Rodgers · words: Lorenz Hart, Herbert Fields · English ✎
+- [*Ever Green*](https://en.wikipedia.org/wiki/Ever_Green) (1930) — Richard Rodgers · words: Lorenz Hart, Benn Levy · English ✎
+- [*Simple Simon*](https://en.wikipedia.org/wiki/Simple_Simon_(musical%29) (1930) — Richard Rodgers · words: Lorenz Hart, Guy Bolton · English
+- [*America's Sweetheart*](https://en.wikipedia.org/wiki/America%27s_Sweetheart_(musical%29) (1931) — Richard Rodgers · words: Lorenz Hart, Herbert Fields ✎ ♫
+- [*Jumbo*](https://en.wikipedia.org/wiki/Jumbo_(musical%29) (1935) — Richard Rodgers · words: Lorenz Hart, Ben Hecht · English
+- [*On Your Toes*](https://en.wikipedia.org/wiki/On_Your_Toes) (1936) — Richard Rodgers · words: Lorenz Hart, Richard Rodgers, George Abbott · English ✎ ♫
+- [*Babes in Arms*](https://en.wikipedia.org/wiki/Babes_in_Arms) (1937) — Richard Rodgers · words: Lorenz Hart, Richard Rodgers · English
+- [*I'd Rather Be Right*](https://en.wikipedia.org/wiki/I%27d_Rather_Be_Right) (1937) — Richard Rodgers · words: Lorenz Hart, George S. Kaufman, Moss Hart · English
+- [*I Married an Angel*](https://en.wikipedia.org/wiki/I_Married_an_Angel) (1938) — Richard Rodgers · words: Lorenz Hart · English ✎
+- [*The Boys from Syracuse*](https://en.wikipedia.org/wiki/The_Boys_from_Syracuse) (1938) — Richard Rodgers · words: Lorenz Hart, George Abbott · English ✎
+- [*Too Many Girls*](https://en.wikipedia.org/wiki/Too_Many_Girls_(musical%29) (1939) — Richard Rodgers · words: Lorenz Hart · English
+- [*Higher and Higher*](https://en.wikipedia.org/wiki/Higher_and_Higher_(musical%29) (1940) — Richard Rodgers · words: Lorenz Hart · English
+- [*Pal Joey*](https://en.wikipedia.org/wiki/Pal_Joey_(musical%29) (1940) — Richard Rodgers · words: Lorenz Hart, John O'Hara · English ✎
+- [*By Jupiter*](https://en.wikipedia.org/wiki/By_Jupiter) (1942) — Richard Rodgers · words: Lorenz Hart ✎ ♫
+- [*Oklahoma!*](https://en.wikipedia.org/wiki/Oklahoma!) (1943) — Richard Rodgers · words: Oscar Hammerstein II · English ✎
+- [*Carousel*](https://en.wikipedia.org/wiki/Carousel_(musical%29) (1945) — Richard Rodgers · words: Oscar Hammerstein II · English ✎
+- [*Allegro*](https://en.wikipedia.org/wiki/Allegro_(musical%29) (1947) — Richard Rodgers · words: Oscar Hammerstein II ✎
+- [*South Pacific*](https://en.wikipedia.org/wiki/South_Pacific_(musical%29) (1949) — Richard Rodgers · words: Oscar Hammerstein II, Joshua Logan · English ✎
+- [*The King and I*](https://en.wikipedia.org/wiki/The_King_and_I) (1951) — Richard Rodgers · words: Oscar Hammerstein II · English ✎
+- [*Me and Juliet*](https://en.wikipedia.org/wiki/Me_and_Juliet) (1953) — Richard Rodgers · words: Oscar Hammerstein II · English ✎
+- [*Pipe Dream*](https://en.wikipedia.org/wiki/Pipe_Dream_(musical%29) (1955) — Richard Rodgers · words: Oscar Hammerstein II ✎
+- [*Flower Drum Song*](https://en.wikipedia.org/wiki/Flower_Drum_Song) (1958) — Richard Rodgers · words: Oscar Hammerstein II
+- [*The Sound of Music*](https://en.wikipedia.org/wiki/The_Sound_of_Music) (1959) — Richard Rodgers · words: Oscar Hammerstein II, Howard Lindsay, Russel Crouse ✎ ♫
+- [*No Strings*](https://en.wikipedia.org/wiki/No_Strings) (1962) — Richard Rodgers · words: Richard Rodgers, Samuel A. Taylor ✎ ♫
+- [*Do I Hear a Waltz?*](https://en.wikipedia.org/wiki/Do_I_Hear_a_Waltz%3F) (1965) — Richard Rodgers · words: Stephen Sondheim, Arthur Laurents ✎
+- [*State Fair*](https://en.wikipedia.org/wiki/State_Fair_(musical%29) (1969) — Richard Rodgers · words: Oscar Hammerstein II · English ✎
+- [*Two by Two*](https://en.wikipedia.org/wiki/Two_by_Two_(musical%29) (1970) — Richard Rodgers · words: Martin Charnin, Peter Stone ✎
+- [*Rex*](https://en.wikipedia.org/wiki/Rex_(musical%29) (1976) — Richard Rodgers · words: Sheldon Harnick, Sherman Yellen ✎
+- [*I Remember Mama*](https://en.wikipedia.org/wiki/I_Remember_Mama_(musical%29) (1979) — Richard Rodgers · words: Martin Charnin, Thomas Meehan
+- [*A Grand Night for Singing*](https://en.wikipedia.org/wiki/A_Grand_Night_for_Singing) (1993) — Richard Rodgers · words: Oscar Hammerstein II, Walter Bobbie
+- [*Cinderella*](https://en.wikipedia.org/wiki/Rodgers_%2B_Hammerstein%27s_Cinderella_(Beane_musical%29) (2013) — Richard Rodgers · words: Oscar Hammerstein II · English ✎
+- [*Cinderella*](https://en.wikipedia.org/wiki/Cinderella_(Rodgers_and_Hammerstein_musical%29) — Richard Rodgers · English ✎
+- [*Poor Little Ritz Girl*](https://en.wikipedia.org/wiki/Poor_Little_Ritz_Girl) — Richard Rodgers, Sigmund Romberg · words: Lorenz Hart, Lew Fields
+- [*Jerry Springer: The Opera*](https://en.wikipedia.org/wiki/Jerry_Springer:_The_Opera) (2001) — Richard Thomas · words: Richard Thomas, Stewart Lee ✎ ♫
+- [*The Questions*](https://en.wikipedia.org/wiki/The_Questions_(musical%29) (2024) — Richard Wise · words: Van Badham
+- [*Little Mary Sunshine*](https://en.wikipedia.org/wiki/Little_Mary_Sunshine) (1959) — Rick Besoyan · words: Rick Besoyan ✎ ♫
+- [*Newsical*](https://en.wikipedia.org/wiki/Newsical) (2004) — Rick Crom · words: Rick Crom
+- [*Bayonets of Angst*](https://en.wikipedia.org/wiki/Bayonets_of_Angst) (2014) — Rick Kunzi, Adam Barnosky · words: Rick Kunzi
+- [*My Life with Albertine*](https://en.wikipedia.org/wiki/My_Life_with_Albertine) (2003) — Ricky Ian Gordon · words: Ricky Ian Gordon, Ricky Ian Gordon and Richard Nelson ✎
+- [*Senioritis*](https://en.wikipedia.org/wiki/Senioritis_(musical%29) — Riley Keenan, Dustin Merrell, AJ Pendola, Abi York · words: Erick Pope, Maddie Underwood ✎
+- [*Sgt. Pepper's Lonely Hearts Club Band on the Road*](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band_on_the_Road) (1974) — Ringo Starr, John Lennon, Paul McCartney, George Harrison · words: Robin Wagner, Tom O'Horgan · English
+- [*3 Musketiers*](https://en.wikipedia.org/wiki/3_Musketiers) (2003) — Rob Bolland, Ferdi Bolland · words: Ferdi Bolland, Rob Bolland, Rob Bolland, Ferdi Bolland, Paul Bogaev · Dutch ✎
+- [*Hot Mikado*](https://en.wikipedia.org/wiki/Hot_Mikado) (1986) — Rob Bowman · words: David H. Bell ♫
+- [*Blackbeard*](https://en.wikipedia.org/wiki/Blackbeard_(musical%29) (2008) — Rob Gardner · words: Rob Gardner ♫
+- [*Say My Name!*](https://en.wikipedia.org/wiki/Faking_Bad_(musical%29) (2018) — Rob Gathercole · words: Rob Gathercole ✎
+- [*The Lightning Thief: The Percy Jackson Musical*](https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical%29) (2014) — Rob Rokicki · words: Rob Rokicki ✎
+- [*Flashdance the Musical*](https://en.wikipedia.org/wiki/Flashdance_(musical%29) (2008) — Robbie Roth · words: Thomas Hedley ✎
+- [*The Boy in the Dress (musical)*](https://en.wikipedia.org/wiki/The_Boy_in_the_Dress_(musical%29) (2019) — Robbie Williams, Guy Chambers, Chris Heath · words: Robbie Williams, Guy Chambers, Chris Heath
+- [*Mary Poppins*](https://en.wikipedia.org/wiki/Mary_Poppins_(musical%29) (2004) — Robert B. Sherman · words: Robert B. Sherman, Julian Fellowes · English ✎
+- [*The First*](https://en.wikipedia.org/wiki/The_First_(musical%29) (1981) — Robert Brush · words: Martin Charnin, Joel Siegel
+- [*Foxy*](https://en.wikipedia.org/wiki/Foxy_(musical%29) (1964) — Robert E. Dolan · words: Johnny Mercer, Ian McLellan Hunter
+- [*Love Birds*](https://en.wikipedia.org/wiki/Love_Birds_(Sherman%29) (2015) — Robert J. Sherman · words: Robert J. Sherman · English ✎
+- [*Bumblescratch*](https://en.wikipedia.org/wiki/Bumblescratch) (2016) — Robert J. Sherman · words: Robert J. Sherman · English ✎
+- [*A Christmas Held Captive*](https://en.wikipedia.org/wiki/A_Christmas_Held_Captive) — Robert J. Sherman · words: Robert J. Sherman ✎
+- [*Avenue Q*](https://en.wikipedia.org/wiki/Avenue_Q) (2003) — Robert Lopez, Jeff Marx · words: Robert Lopez, Jeff Marx, Jeff Whitty ✎ ♫
+- [*Frozen*](https://en.wikipedia.org/wiki/Frozen_(musical%29) (2017) — Robert Lopez, Kristen Anderson-Lopez · words: Robert Lopez, Kristen Anderson-Lopez, Jennifer Lee · English ✎
+- [*Finding Nemo – The Musical*](https://en.wikipedia.org/wiki/Finding_Nemo:_The_Big_Blue..._and_Beyond!) — Robert Lopez, Kristen Anderson-Lopez ✎ ♫
+- [*White Noise: A Cautionary Musical*](https://en.wikipedia.org/wiki/White_Noise:_A_Cautionary_Musical) — Robert Morris, Steven Morris, Joe Shane · words: Robert Morris, Steven Morris, Joe Shane ✎
+- [*Fort Griffin Fandangle*](https://en.wikipedia.org/wiki/Fort_Griffin_Fandangle) (1938) — Robert Nail, Alice Reynolds, James Ball, Louann George, Elsa Turner, Bill Overton · words: Robert Nail, Alice Reynolds, James Ball, Louann George, Elsa Turner, Bill Overton ✎
+- [*A Year with Frog and Toad*](https://en.wikipedia.org/wiki/A_Year_with_Frog_and_Toad) (2002) — Robert Reale · words: Willie Reale ✎
+- [*Johnny Baseball*](https://en.wikipedia.org/wiki/Johnny_Baseball) (2010) — Robert Reale · words: Willie Reale, Richard Dresser ✎
+- [*Whirled into Happiness*](https://en.wikipedia.org/wiki/Whirled_into_Happiness) (1922) — Robert Stolz · words: Harry Graham ✎
+- [*Rainbow Square*](https://en.wikipedia.org/wiki/Rainbow_Square) — Robert Stolz · words: Guy Bolton, Harold Purcell · English
+- [*Here's Where I Belong*](https://en.wikipedia.org/wiki/Here%27s_Where_I_Belong) (1968) — Robert Waldman · words: Alfred Uhry, Terrence McNally
+- [*The Robber Bridegroom*](https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical%29) (1975) — Robert Waldman · words: Alfred Uhry ✎ ♫
+- [*The Lady in Red*](https://en.wikipedia.org/wiki/The_Lady_in_Red_(musical%29) — Robert Winterberg · words: Anne Caldwell
+- [*Kean*](https://en.wikipedia.org/wiki/Kean_(musical%29) (1961) — Robert Wright · words: Robert Wright, Peter Stone
+- [*Anya*](https://en.wikipedia.org/wiki/Anya_(musical%29) (1965) — Robert Wright · words: Robert Wright, George Abbott
+- [*Grand Hotel*](https://en.wikipedia.org/wiki/Grand_Hotel_(musical%29) (1989) — Robert Wright · words: Robert Wright, Luther Davis ✎ ♫
+- [*Saucy Jack and the Space Vixens*](https://en.wikipedia.org/wiki/Saucy_Jack_and_the_Space_Vixens) (1995) — Robin Forrest & Jonathan Croose · words: Charlotte Mann & Mike Fidler ✎ ♫
+- [*Tonight's the Night*](https://en.wikipedia.org/wiki/Tonight%27s_the_Night_(2003_musical%29) (2003) — Rod Stewart · words: Rod Stewart, Ben Elton
+- [*Shine!*](https://en.wikipedia.org/wiki/Shine!) (1983) — Roger Anderson · words: Lee Goldsmith
+- [*Chaplin*](https://en.wikipedia.org/wiki/Chaplin_(1993_musical%29) (1993) — Roger Anderson · words: Ernest Kinoy
+- [*Abe*](https://en.wikipedia.org/wiki/Abe_(musical%29) (2009) — Roger Anderson · words: Lee Goldsmith ♫
+- [*Smike*](https://en.wikipedia.org/wiki/Smike) — Roger Holman and Simon May · words: Roger Holman and Simon May · English ✎
+- [*Big River*](https://en.wikipedia.org/wiki/Big_River_(musical%29) (1985) — Roger Miller · words: Roger Miller · English ✎
+- [*Der kleine Tag*](https://en.wikipedia.org/wiki/Der_kleine_Tag) (1999) — Rolf Zuckowski, Hans Niehaus · words: Wolfram Eicke ✎
+- [*Robert and Elizabeth*](https://en.wikipedia.org/wiki/Robert_and_Elizabeth) (1964) — Ron Grainer · words: Ronald Millar
+- [*Lord of the Dance*](https://en.wikipedia.org/wiki/Lord_of_the_Dance_(musical%29) (1996) — Ronan Hardiman · words: Michael Flatley ✎
+- [*Once Upon a Rhyme*](https://en.wikipedia.org/wiki/Once_Upon_a_Rhyme_(musical%29) — Ronvé O’Daniel & Jevares C. Myrick · words: Ronvé O’Daniel
+- [*Wanted: The Legend of the Sisters Clarke*](https://en.wikipedia.org/wiki/Wanted_(musical%29) (2020) — Ross Baum · words: Angelica Chéri ✎
+- [*The Blue Kitten*](https://en.wikipedia.org/wiki/The_Blue_Kitten) (1922) — Rudolf Friml · words: Otto Harbach, William Cary Duncan · English ✎ ♫
+- [*The Three Musketeers*](https://en.wikipedia.org/wiki/The_Three_Musketeers_(musical%29) (1928) — Rudolf Friml · words: P. G. Wodehouse, Clifford Grey, William Anthony McGuire ✎
+- [*Sometime*](https://en.wikipedia.org/wiki/Sometime_(musical%29) — Rudolf Friml · words: Rida Johnson Young
+- [*The Wild Rose*](https://en.wikipedia.org/wiki/The_Wild_Rose_(1926_musical%29) — Rudolf Friml
+- [*Mama, I Want to Sing!*](https://en.wikipedia.org/wiki/Mama,_I_Want_to_Sing!_(musical%29) (1983) — Rudolph V. Hawkins, Wesley Naylor and Doris Troy · words: Vy Higginsen, Vy Higginsen, Ken Wydro · English
+- [*Opening Night*](https://en.wikipedia.org/wiki/Opening_Night_(musical%29) (2024) — Rufus Wainwright · words: Rufus Wainwright
+- [*Drood*](https://en.wikipedia.org/wiki/The_Mystery_of_Edwin_Drood_(musical%29) (1985) — Rupert Holmes · words: Rupert Holmes · English ✎
+- [*Leonardo the Musical: A Portrait of Love*](https://en.wikipedia.org/wiki/Leonardo_the_Musical:_A_Portrait_of_Love) (1993) — Russell Dunlop, Duke Minks, Greg Moeller, Tommy Moeller · words: Russell Dunlop, Duke Minks, Greg Moeller, Tommy Moeller ✎
+- [*Boobs! The Musical*](https://en.wikipedia.org/wiki/Boobs!_The_Musical) (2003) — Ruth Wallis · words: Ruth Wallis
+- [*Katy! the Musical*](https://en.wikipedia.org/wiki/Katy!_the_Musical) (1988) — Ryan Cayabyab · words: José Javier Reyes ✎
+- [*Noli Me Tángere*](https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(musical%29) (1995) — Ryan Cayabyab · words: Bienvenido Lumbera
+- [*Giant Killer Shark: The Musical*](https://en.wikipedia.org/wiki/Giant_Killer_Shark:_The_Musical) (2008) — Sam Sutherland, Graham Losee, Aaron Zorgel · words: Sam Sutherland
+- [*Bhangra Nation*](https://en.wikipedia.org/wiki/Bhangra_Nation) (2022) — Sam Willmott · words: Sam Willmott
+- [*Everybody's Welcome*](https://en.wikipedia.org/wiki/Everybody%27s_Welcome) (1931) — Sammy Fain · words: Irving Kahal · English ✎
+- [*Hellzapoppin*](https://en.wikipedia.org/wiki/Hellzapoppin_(musical%29) (1938) — Sammy Fain · words: Chic Johnson
+- [*Sons o' Fun*](https://en.wikipedia.org/wiki/Sons_o%27_Fun) (1941) — Sammy Fain, Jack Yellen · words: Jack Yellen, Sammy Fain, Ole Olsen, Chic Johnson · English
+- [*Flahooley*](https://en.wikipedia.org/wiki/Flahooley) (1951) — Sammy Fain · words: Yip Harburg, Fred Saidy · English
+- [*Ankles Aweigh*](https://en.wikipedia.org/wiki/Ankles_Aweigh) (1955) — Sammy Fain · words: Daniel B. Shapiro, Guy Bolton ✎
+- [*Calamity Jane (A Musical Western)*](https://en.wikipedia.org/wiki/Calamity_Jane_(musical%29) (1961) — Sammy Fain · words: Paul Francis Webster · English ✎
+- [*Bumbug the Musical*](https://en.wikipedia.org/wiki/Bumbug_the_Musical) (2012) — Samrat Chakrabarti · words: Samrat Chakrabarti ✎
+- [*The Boy Friend*](https://en.wikipedia.org/wiki/The_Boy_Friend_(musical%29) (1953) — Sandy Wilson · words: Sandy Wilson · English ✎
+- [*Divorce Me, Darling!*](https://en.wikipedia.org/wiki/Divorce_Me,_Darling!) (1965) — Sandy Wilson · words: Sandy Wilson ✎
+- [*Aladdin*](https://en.wikipedia.org/wiki/Aladdin_(1979_musical%29) (1979) — Sandy Wilson · words: Sandy Wilson ✎
+- [*Waitress*](https://en.wikipedia.org/wiki/Waitress_(musical%29) (2015) — Sara Bareilles · words: Sara Bareilles · English ✎
+- [*Gutenberg! The Musical!*](https://en.wikipedia.org/wiki/Gutenberg!_The_Musical!) (2006) — Scott Brown, Anthony King · words: Scott Brown, Scott Brown, Anthony King ✎
+- [*Grey Gardens*](https://en.wikipedia.org/wiki/Grey_Gardens_(musical%29) (2006) — Scott Frankel · words: Michael Korie, Doug Wright
+- [*Far from Heaven*](https://en.wikipedia.org/wiki/Far_from_Heaven_(musical%29) (2012) — Scott Frankel · words: Michael Korie, Richard Greenberg ✎
+- [*War Paint*](https://en.wikipedia.org/wiki/War_Paint_(musical%29) (2016) — Scott Frankel · words: Michael Korie, Doug Wright ✎
+- [*Ceilidh*](https://en.wikipedia.org/wiki/Ceilidh_(musical%29) (2025) — Scott Gilmour & Claire McKenzie (Noisemaker) · words: Scott Gilmour & Claire McKenzie ✎ ♫
+- [*Klokkeren fra Notre Dame*](https://en.wikipedia.org/wiki/Klokkeren_fra_Notre_Dame_(musical%29) (2002) — Sebastian · Danish
+- [*Suffs*](https://en.wikipedia.org/wiki/Suffs) (2022) — Shaina Taub · words: Shaina Taub ✎
+- [*Zangoora*](https://en.wikipedia.org/wiki/Zangoora) (2010) — Shankar–Ehsaan–Loy · words: Javed Akhtar ♫
+- [*James Joyce's The Dead*](https://en.wikipedia.org/wiki/James_Joyce%27s_The_Dead) (1999) — Shaun Davey · words: Shaun Davey, Richard Nelson · English
+- [*1776*](https://en.wikipedia.org/wiki/1776_(musical%29) (1969) — Sherman Edwards · words: Peter Stone · English ✎
+- [*Soul Doctor*](https://en.wikipedia.org/wiki/Soul_Doctor) (2008) — Shlomo Carlebach · words: Shlomo Carlebach, Daniel Wise ✎
+- [*Rock Musical Bleach*](https://en.wikipedia.org/wiki/Rock_Musical_Bleach) (2005) — Shoichi Tama · words: Shoichi Tama ✎
+- [*Imagine This*](https://en.wikipedia.org/wiki/Imagine_This) (2008) — Shuki Levy · words: David Goldsmith ✎
+- [*A Gaiety Girl*](https://en.wikipedia.org/wiki/A_Gaiety_Girl) (1893) — Sidney Jones · words: Harry Greenbank, Owen Hall ✎
+- [*An Artist's Model*](https://en.wikipedia.org/wiki/An_Artist%27s_Model) (1895) — Sidney Jones · words: Harry Greenbank, Owen Hall ♫
+- [*The Geisha*](https://en.wikipedia.org/wiki/The_Geisha) (1896) — Sidney Jones · words: Harry Greenbank, Owen Hall ✎
+- [*A Greek Slave*](https://en.wikipedia.org/wiki/A_Greek_Slave) (1898) — Sidney Jones · words: Harry Greenbank, Owen Hall ✎ ♫
+- [*King of Cadonia*](https://en.wikipedia.org/wiki/King_of_Cadonia) (1908) — Sidney Jones · words: Adrian Ross, Frederick Lonsdale ✎ ♫
+- [*The Happy Day*](https://en.wikipedia.org/wiki/The_Happy_Day) (1916) — Sidney Jones · words: Adrian Ross, Seymour Hicks
+- [*San Toy*](https://en.wikipedia.org/wiki/San_Toy) — Sidney Jones ✎ ♫
+- [*The Girl from Utah*](https://en.wikipedia.org/wiki/The_Girl_from_Utah) — Sidney Jones ♫
+- [*Robinson Crusoe, Jr.*](https://en.wikipedia.org/wiki/Robinson_Crusoe,_Jr.) (1916) — Sigmund Romberg · words: Harold R. Atteridge, Edgar Smith ✎
+- [*Maytime*](https://en.wikipedia.org/wiki/Maytime_(musical%29) (1917) — Sigmund Romberg · words: Rida Johnson Young ✎
+- [*Sinbad*](https://en.wikipedia.org/wiki/Sinbad_(1918_musical%29) (1918) — Sigmund Romberg · words: Harold R. Atteridge · English ✎
+- [*Bombo*](https://en.wikipedia.org/wiki/Bombo_(musical%29) (1921) — Sigmund Romberg · words: Harold R. Atteridge ✎
+- [*Love Birds*](https://en.wikipedia.org/wiki/Love_Birds_(Romberg_and_MacDonald%29) (1921) — Sigmund Romberg · words: Ballard MacDonald, Edgar Allan Woolf · English
+- [*Princess Flavia*](https://en.wikipedia.org/wiki/Princess_Flavia) (1925) — Sigmund Romberg · words: Harry B. Smith ♫
+- [*My Maryland*](https://en.wikipedia.org/wiki/My_Maryland) (1927) — Sigmund Romberg · words: Dorothy Donnelly
+- [*May Wine*](https://en.wikipedia.org/wiki/May_Wine) (1935) — Sigmund Romberg · words: Oscar Hammerstein II, Oscar Hammerstein, II
+- [*Up in Central Park*](https://en.wikipedia.org/wiki/Up_in_Central_Park) (1945) — Sigmund Romberg · words: Dorothy Fields, Herbert Fields
+- [*My Romance*](https://en.wikipedia.org/wiki/My_Romance_(musical%29) — Sigmund Romberg · words: Rowland Leigh ✎
+- [*The Girl in Pink Tights*](https://en.wikipedia.org/wiki/The_Girl_in_Pink_Tights) — Sigmund Romberg · words: Leo Robin, Joseph Fields, Jerome Chodorov
+- [*The Passing Show of 1916*](https://en.wikipedia.org/wiki/The_Passing_Show_of_1916) — Sigmund Romberg, Otto Motzan · words: Harold R. Atteridge · English
+- [*The Passing Show of 1918*](https://en.wikipedia.org/wiki/The_Passing_Show_of_1918) — Sigmund Romberg ✎
+- [*Dracula – Entre l'amour et la mort*](https://en.wikipedia.org/wiki/Dracula_%E2%80%93_Entre_l%27amour_et_la_mort) (2006) — Simon Leclerc · words: Bruno Pelletier · English ♫
+- [*I Spy a Spy*](https://en.wikipedia.org/wiki/I_Spy_a_Spy) (2019) — Sohee Youn · words: Jamie Jackson
+- [*For the First Time in Forever: A Frozen Sing-Along Celebration*](https://en.wikipedia.org/wiki/For_the_First_Time_in_Forever:_A_Frozen_Sing-Along_Celebration) — Songs composed by Kristen Anderson-Lopez and Robert Lopez, Score composed by Christophe Beck · English
+- [*Dusty – The Original Pop Diva*](https://en.wikipedia.org/wiki/Dusty_%E2%80%93_The_Original_Pop_Diva) (2006) — Songs recorded by Dusty Springfield · words: John-Michael Howson ✎
+- [*So Long, 174th Street*](https://en.wikipedia.org/wiki/So_Long,_174th_Street) (1976) — Stan Daniels · words: Joseph Stein
+- [*Lovely Ladies, Kind Gentlemen*](https://en.wikipedia.org/wiki/Lovely_Ladies,_Kind_Gentlemen) (1970) — Stan Freeman · words: Stan Freeman, John Patrick
+- [*Gantry*](https://en.wikipedia.org/wiki/Gantry_(musical%29) (1970) — Stanley Lebowsky · words: Fred Tobias
+- [*Up from Paradise*](https://en.wikipedia.org/wiki/Up_from_Paradise) (1974) — Stanley Silverman · words: Arthur Miller
+- [*Thrill Me*](https://en.wikipedia.org/wiki/Thrill_Me) (2003) — Stephen Dolginoff · words: Stephen Dolginoff ✎
+- [*Moon Landing*](https://en.wikipedia.org/wiki/Moon_Landing_(music_drama%29) (2007) — Stephen Edwards · words: Stephen Edwards
+- [*Lucky Stiff*](https://en.wikipedia.org/wiki/Lucky_Stiff) (1988) — Stephen Flaherty · words: Lynn Ahrens ✎
+- [*Once on This Island*](https://en.wikipedia.org/wiki/Once_on_This_Island) (1990) — Stephen Flaherty · words: Lynn Ahrens ✎ ♫
+- [*My Favorite Year*](https://en.wikipedia.org/wiki/My_Favorite_Year_(musical%29) (1992) — Stephen Flaherty · words: Lynn Ahrens, Joseph Dougherty ✎
+- [*Ragtime*](https://en.wikipedia.org/wiki/Ragtime_(musical%29) (1996) — Stephen Flaherty · words: Lynn Ahrens, Terrence McNally ✎
+- [*Seussical*](https://en.wikipedia.org/wiki/Seussical) (2000) — Stephen Flaherty · words: Lynn Ahrens ✎ ♫
+- [*A Man of No Importance*](https://en.wikipedia.org/wiki/A_Man_of_No_Importance_(musical%29) (2002) — Stephen Flaherty · words: Lynn Ahrens, Terrence McNally · English ✎
+- [*Chita Rivera: The Dancer's Life*](https://en.wikipedia.org/wiki/Chita_Rivera:_The_Dancer%27s_Life) (2005) — Stephen Flaherty · words: Lynn Ahrens, Terrence McNally ✎
+- [*Dessa Rose*](https://en.wikipedia.org/wiki/Dessa_Rose_(musical%29) (2005) — Stephen Flaherty · words: Lynn Ahrens ✎ ♫
+- [*The Glorious Ones*](https://en.wikipedia.org/wiki/The_Glorious_Ones) (2007) — Stephen Flaherty · words: Lynn Ahrens ✎
+- [*Rocky the Musical*](https://en.wikipedia.org/wiki/Rocky_the_Musical) (2012) — Stephen Flaherty · words: Lynn Ahrens, Sylvester Stallone, Thomas Meehan
+- [*Little Dancer*](https://en.wikipedia.org/wiki/Little_Dancer_(musical%29) (2014) — Stephen Flaherty · words: Lynn Ahrens ✎
+- [*Marie, Dancing Still*](https://en.wikipedia.org/wiki/Marie,_Dancing_Still_(musical%29) (2014) — Stephen Flaherty · words: Lynn Ahrens ✎
+- [*Anastasia*](https://en.wikipedia.org/wiki/Anastasia_(musical%29) (2016) — Stephen Flaherty · words: Lynn Ahrens, Terrence McNally ✎
+- [*Knoxville*](https://en.wikipedia.org/wiki/Knoxville_(musical%29) (2022) — Stephen Flaherty · words: Lynn Ahrens
+- [*Poppy*](https://en.wikipedia.org/wiki/Poppy_(1923_musical%29) (1923) — Stephen Jones and Arthur Samuels · words: Dorothy Donnelly and others. ✎
+- [*Trainspotting*](https://en.wikipedia.org/wiki/Trainspotting_(musical%29) (2026) — Stephen McGuinness, Irvine Welsh · words: Stephen McGuinness, Irvine Welsh
+- [*Blondel*](https://en.wikipedia.org/wiki/Blondel_(musical%29) (1983) — Stephen Oliver · words: Tim Rice ✎ ♫
+- [*Godspell (musical)*](https://en.wikipedia.org/wiki/Godspell) (1971) — Stephen Schwartz · words: Stephen Schwartz, John-Michael Tebelak · English ✎
+- [*Pippin*](https://en.wikipedia.org/wiki/Pippin_(musical%29) (1972) — Stephen Schwartz · words: Bob Fosse, Roger O. Hirson ✎
+- [*The Magic Show*](https://en.wikipedia.org/wiki/The_Magic_Show) (1974) — Stephen Schwartz · words: Stephen Schwartz · English ✎
+- [*Working*](https://en.wikipedia.org/wiki/Working_(musical%29) (1977) — Stephen Schwartz · words: Stephen Schwartz ✎
+- [*The Baker's Wife*](https://en.wikipedia.org/wiki/The_Baker%27s_Wife_(musical%29) (1989) — Stephen Schwartz · words: Joseph Stein ✎
+- [*Children of Eden*](https://en.wikipedia.org/wiki/Children_of_Eden) (1991) — Stephen Schwartz · words: John Caird ✎
+- [*Wicked*](https://en.wikipedia.org/wiki/Wicked_(musical%29) (2003) — Stephen Schwartz · words: Stephen Schwartz, Winnie Holzman · English ✎
+- [*The Prince of Egypt*](https://en.wikipedia.org/wiki/The_Prince_of_Egypt_(musical%29) (2017) — Stephen Schwartz · words: Stephen Schwartz ✎
+- [*The Queen of Versailles*](https://en.wikipedia.org/wiki/The_Queen_of_Versailles_(musical%29) (2024) — Stephen Schwartz · words: Stephen Schwartz ✎ ♫
+- [*Disney's My Son Pinocchio: Geppetto's Musical Tale*](https://en.wikipedia.org/wiki/Disney%27s_My_Son_Pinocchio:_Geppetto%27s_Musical_Tale) — Stephen Schwartz · words: Stephen Schwartz, David Stern ✎
+- [*A Funny Thing Happened on the Way to the Forum*](https://en.wikipedia.org/wiki/A_Funny_Thing_Happened_on_the_Way_to_the_Forum) (1962) — Stephen Sondheim · words: Stephen Sondheim, Larry Gelbart, Burt Shevelove · English ✎ ♫
+- [*Anyone Can Whistle*](https://en.wikipedia.org/wiki/Anyone_Can_Whistle) (1964) — Stephen Sondheim · words: Stephen Sondheim, Arthur Laurents · English ✎
+- [*Company*](https://en.wikipedia.org/wiki/Company_(musical%29) (1970) — Stephen Sondheim · words: Stephen Sondheim, George Furth · English ✎
+- [*Follies*](https://en.wikipedia.org/wiki/Follies) (1971) — Stephen Sondheim · words: Stephen Sondheim, James Goldman · English ✎
+- [*A Little Night Music*](https://en.wikipedia.org/wiki/A_Little_Night_Music) (1973) — Stephen Sondheim · words: Stephen Sondheim, Hugh Wheeler · English ✎ ♫
+- [*The Frogs*](https://en.wikipedia.org/wiki/The_Frogs_(musical%29) (1974) — Stephen Sondheim · words: Stephen Sondheim, Burt Shevelove ✎
+- [*Pacific Overtures*](https://en.wikipedia.org/wiki/Pacific_Overtures) (1976) — Stephen Sondheim · words: Stephen Sondheim, John Weidman · English ✎
+- [*Side by Side by Sondheim*](https://en.wikipedia.org/wiki/Side_by_Side_by_Sondheim) (1976) — Stephen Sondheim · words: Stephen Sondheim ✎
+- [*Sweeney Todd: The Demon Barber of Fleet Street*](https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street) (1979) — Stephen Sondheim · words: Stephen Sondheim, Hugh Wheeler · English ✎
+- [*Marry Me a Little*](https://en.wikipedia.org/wiki/Marry_Me_a_Little_(musical%29) (1980) — Stephen Sondheim · words: Stephen Sondheim
+- [*Merrily We Roll Along*](https://en.wikipedia.org/wiki/Merrily_We_Roll_Along_(musical%29) (1981) — Stephen Sondheim · words: Stephen Sondheim, George Furth · English ✎
+- [*Sunday in the Park with George*](https://en.wikipedia.org/wiki/Sunday_in_the_Park_with_George) (1983) — Stephen Sondheim · words: Stephen Sondheim, James Lapine · English ✎
+- [*Into the Woods*](https://en.wikipedia.org/wiki/Into_the_Woods) (1986) — Stephen Sondheim · words: Stephen Sondheim, James Lapine · English ✎
+- [*Assassins*](https://en.wikipedia.org/wiki/Assassins_(musical%29) (1990) — Stephen Sondheim · words: Stephen Sondheim, John Weidman · English ✎
+- [*Putting It Together*](https://en.wikipedia.org/wiki/Putting_It_Together) (1992) — Stephen Sondheim · words: Stephen Sondheim
+- [*Passion*](https://en.wikipedia.org/wiki/Passion_(musical%29) (1994) — Stephen Sondheim · words: Stephen Sondheim, James Lapine · English ✎
+- [*Saturday Night*](https://en.wikipedia.org/wiki/Saturday_Night_(musical%29) (1997) — Stephen Sondheim · words: Stephen Sondheim, Julius J. Epstein ✎
+- [*Road Show*](https://en.wikipedia.org/wiki/Road_Show_(musical%29) (2003) — Stephen Sondheim · words: Stephen Sondheim, John Weidman ✎
+- [*Sondheim on Sondheim*](https://en.wikipedia.org/wiki/Sondheim_on_Sondheim) (2010) — Stephen Sondheim · words: James Lapine
+- [*Here We Are*](https://en.wikipedia.org/wiki/Here_We_Are_(musical%29) (2023) — Stephen Sondheim · words: Stephen Sondheim, David Ives · English ✎
+- [*Evening Primrose*](https://en.wikipedia.org/wiki/Evening_Primrose_(ABC_Stage_67%29) — Stephen Sondheim · words: James Goldman ✎
+- [*Hedwig and the Angry Inch*](https://en.wikipedia.org/wiki/Hedwig_and_the_Angry_Inch_(musical%29) (1998) — Stephen Trask · words: John Cameron Mitchell · English ✎
+- [*Coraline*](https://en.wikipedia.org/wiki/Coraline_(musical%29) (2009) — Stephin Merritt · words: David Greenspan
+- [*Spend Spend Spend*](https://en.wikipedia.org/wiki/Spend_Spend_Spend) (1998) — Steve Brown · words: Steve Brown, Justin Greene
+- [*I Can't Sing! The X Factor Musical*](https://en.wikipedia.org/wiki/I_Can%27t_Sing!) (2014) — Steve Brown · words: Harry Hill
+- [*TONY! The Tony Blair Rock Opera*](https://en.wikipedia.org/wiki/Tony!_The_Tony_Blair_Rock_Opera) (2022) — Steve Brown · words: Steve Brown
+- [*Fame*](https://en.wikipedia.org/wiki/Fame_(musical%29) (1988) — Steve Margoshes · words: Jacques Levy ✎ ♫
+- [*Bright Star*](https://en.wikipedia.org/wiki/Bright_Star_(musical%29) (2014) — Steve Martin · words: Edie Brickell ✎
+- [*The Last Session*](https://en.wikipedia.org/wiki/The_Last_Session_(musical%29) (1997) — Steve Schalchlin · words: Steve Schalchlin, Jim Brochu ✎
+- [*Phar Lap*](https://en.wikipedia.org/wiki/Phar_Lap_(musical%29) (2025) — Steven Kramer · words: Steven Kramer
+- [*A Gentleman's Guide to Love and Murder*](https://en.wikipedia.org/wiki/A_Gentleman%27s_Guide_to_Love_and_Murder) (2013) — Steven Lutvak · words: Robert L. Freedman · English ✎
+- [*The Immigrant*](https://en.wikipedia.org/wiki/The_Immigrant_(musical%29) (2004) — Steven M. Alper · words: Sarah Knapp, Mark Harelik ✎
+- [*Passing Strange*](https://en.wikipedia.org/wiki/Passing_Strange_(disambiguation%29) — Stew · words: Stew
+- [*The Last Ship*](https://en.wikipedia.org/wiki/The_Last_Ship_(musical%29) (2014) — Sting · words: Sting, John Logan
+- [*I Should Be So Lucky*](https://en.wikipedia.org/wiki/I_Should_Be_So_Lucky_(musical%29) (2023) — Stock Aitken Waterman · words: Stock Aitken Waterman ✎ ♫
+- [*From Here to Eternity the Musical*](https://en.wikipedia.org/wiki/From_Here_to_Eternity_(musical%29) (2013) — Stuart Brayson · words: Tim Rice ✎
+- [*Illinoise*](https://en.wikipedia.org/wiki/Illinoise) (2023) — Sufjan Stevens · words: Sufjan Stevens · English/American English ✎
+- [*Elisabeth*](https://en.wikipedia.org/wiki/Elisabeth_(musical%29) (1992) — Sylvester Levay · words: Michael Kunze · German ✎
+- [*Mozart!*](https://en.wikipedia.org/wiki/Mozart!) (1999) — Sylvester Levay · words: Michael Kunze · German ✎
+- [*Marie Antoinette*](https://en.wikipedia.org/wiki/Marie_Antoinette_(musical%29) (2006) — Sylvester Levay · words: Michael Kunze ✎
+- [*Rebecca*](https://en.wikipedia.org/wiki/Rebecca_(musical%29) (2006) — Sylvester Levay · words: Michael Kunze ✎
+- [*The Straw Hat Revue*](https://en.wikipedia.org/wiki/The_Straw_Hat_Revue) — Sylvia Fine and James Shelton · words: Sylvia Fine and James Shelton
+- [*Prince Kaguya*](https://en.wikipedia.org/wiki/Prince_Kaguya) (2015) — Takahiro Kasugai · words: Kazuhito Yoneyama ✎
+- [*The Band*](https://en.wikipedia.org/wiki/Greatest_Days) (2017) — Take That · words: Take That
+- [*Kat and the Kings*](https://en.wikipedia.org/wiki/Kat_and_the_Kings) (1996) — Taliep Petersen · words: David Kramer
+- [*Abyssinia*](https://en.wikipedia.org/wiki/Abyssinia_(1987_musical%29) (1987) — Ted Kociolek · words: James Racheff ✎ ♫
+- [*Summer Rain*](https://en.wikipedia.org/wiki/Summer_Rain_(musical%29) (1983) — Terence Clarke · words: Nick Enright ✎
+- [*Edward Scissorhands*](https://en.wikipedia.org/wiki/Edward_Scissorhands_(dance%29) (2005) — Terry Davies (New music), Danny Elfman (Original film music) ✎
+- [*Beatlemania*](https://en.wikipedia.org/wiki/Beatlemania_(musical%29) (1977) — The Beatles · words: Bob Gill ✎
+- [*The Blues Brothers Show*](https://en.wikipedia.org/wiki/The_Blues_Brothers_Show) — The Blues Brothers
+- [*Spider-Man: Turn Off the Dark*](https://en.wikipedia.org/wiki/Spider-Man:_Turn_Off_the_Dark) (2011) — The Edge, Bono · words: The Edge, Bono, Julie Taymor, Glen Berger, Roberto Aguirre-Sacasa · English ✎
+- [*Head over Heels*](https://en.wikipedia.org/wiki/Head_over_Heels_(musical%29) (2015) — The Go-Go's and Belinda Carlisle · words: Jeff Whitty · English
+- [*A Slice of Saturday Night*](https://en.wikipedia.org/wiki/A_Slice_of_Saturday_Night) (1989) — The Heather Brothers · words: The Heather Brothers ✎
+- [*Ain't Too Proud*](https://en.wikipedia.org/wiki/Ain%27t_Too_Proud) (2017) — The Legendary Motown Catalog · words: Dominique Morisseau · jukebox musical ♫
+- [*The Lost Boys*](https://en.wikipedia.org/wiki/The_Lost_Boys_(musical%29) (2026) — The Rescues · words: The Rescues · English ✎
+- [*People Are Wrong!*](https://en.wikipedia.org/wiki/People_Are_Wrong!) (2002) — They Might Be Giants · words: Robin Goldwasser · English
+- [*The Smallest Show on Earth*](https://en.wikipedia.org/wiki/The_Smallest_Show_on_Earth_(musical%29) — Thom Southerland ✎ ♫
+- [*The Black Crook*](https://en.wikipedia.org/wiki/The_Black_Crook) (1866) — Thomas Baker · words: Theodore Kennick, \|\|book= Charles M. Barras ✎ ♫
+- [*Grimm*](https://en.wikipedia.org/wiki/Grimm_(musical%29) (2014) — Thomas Zaufke · words: Peter Lund · German ✎ ♫
+- [*Schwestern im Geiste*](https://en.wikipedia.org/wiki/Schwestern_im_Geiste) (2014) — Thomas Zaufke · words: Peter Lund ✎ ♫
+- [*Zanna, Don't!*](https://en.wikipedia.org/wiki/Zanna,_Don%27t!) (2003) — Tim Acito · words: Alexander Dinelaris Jr., Tim Acito, Alexander Dinelaris ✎ ♫
+- [*Bathhouse: The Musical!*](https://en.wikipedia.org/wiki/Bathhouse:_The_Musical!) (2006) — Tim Evanicki, Esther Daack · words: Tim Evanicki, Esther Daack ✎
+- [*Ladies in Black*](https://en.wikipedia.org/wiki/Ladies_in_Black) (2015) — Tim Finn · words: Tim Finn ✎
+- [*Come Rain or Come Shine*](https://en.wikipedia.org/wiki/Come_Rain_or_Come_Shine_(musical%29) (2022) — Tim Finn · words: Tim Finn, Simon Phillips
+- [*Unfortunate - The Untold Story of Ursula The Sea Witch*](https://en.wikipedia.org/wiki/Unfortunate:_The_Untold_Story_of_Ursula_The_Sea_Witch) (2019) — Tim Gilvin · words: Robyn Grant, Daniel Foxx
+- [*Cable Street*](https://en.wikipedia.org/wiki/Cable_Street_(musical%29) (2024) — Tim Gilvin · words: Tim Gilvin
+- [*Matilda the Musical*](https://en.wikipedia.org/wiki/Matilda_the_Musical) (2011) — Tim Minchin · words: Dennis Kelly · English ✎
+- [*Groundhog Day*](https://en.wikipedia.org/wiki/Groundhog_Day_(musical%29) (2016) — Tim Minchin · words: Danny Rubin ✎
+- [*The Grinning Man*](https://en.wikipedia.org/wiki/The_Grinning_Man_(musical%29) (2016) — Tim Phillips · words: Carl Grose, Tom Morris, Tim Phillips, Marc Teitler ✎
+- [*The Boy Who Harnessed the Wind*](https://en.wikipedia.org/wiki/The_Boy_Who_Harnessed_the_Wind_(musical%29) (2026) — Tim Sutton · words: Tim Sutton, Richy Hughes
+- [*Blair on Broadway*](https://en.wikipedia.org/wiki/Blair_on_Broadway) (2007) — Timothy Muller · words: Iain Hollingshead
+- [*Napoleon*](https://en.wikipedia.org/wiki/Napoleon_(musical%29) — Timothy Williams · words: Andrew Sabiston ✎
+- [*Elixier*](https://en.wikipedia.org/wiki/Elixier) (1997) — Tobias Künzel · words: Kati Naumann ✎
+- [*Why Am I So Single?*](https://en.wikipedia.org/wiki/Why_Am_I_So_Single%3F) (2024) — Toby Marlow, Lucy Moss · words: Toby Marlow, Lucy Moss ✎
+- [*King Kong*](https://en.wikipedia.org/wiki/King_Kong_(1959_musical%29) (1959) — Todd Matshikiza · words: Todd Matshikiza, Harry Bloom ✎
+- [*Midnight*](https://en.wikipedia.org/wiki/Midnight_(musical%29) (2026) — Todrick Hall · words: Todrick Hall ✎
+- [*Soldier of Orange*](https://en.wikipedia.org/wiki/Soldier_of_Orange_(musical%29) (2010) — Tom Harriman · words: Edwin de Vries ✎ ♫
+- [*I'll Say She Is*](https://en.wikipedia.org/wiki/I%27ll_Say_She_Is) (1924) — Tom Johnstone · words: Will B. Johnstone ✎ ♫
+- [*High Fidelity*](https://en.wikipedia.org/wiki/High_Fidelity_(musical%29) (2006) — Tom Kitt · words: Amanda Green, David Lindsay-Abaire
+- [*Next to Normal*](https://en.wikipedia.org/wiki/Next_to_Normal) (2008) — Tom Kitt · words: Brian Yorkey · English ✎ ♫
+- [*If/Then*](https://en.wikipedia.org/wiki/If/Then) (2014) — Tom Kitt · words: Brian Yorkey · English ✎
+- [*Flying Over Sunset*](https://en.wikipedia.org/wiki/Flying_Over_Sunset) (2015) — Tom Kitt · words: Michael Korie ✎
+- [*Freaky Friday*](https://en.wikipedia.org/wiki/Freaky_Friday_(musical%29) (2018) — Tom Kitt · words: Brian Yorkey ✎
+- [*Superhero*](https://en.wikipedia.org/wiki/Superhero_(musical%29) (2019) — Tom Kitt · words: Tom Kitt ✎
+- [*The Visitor*](https://en.wikipedia.org/wiki/The_Visitor_(musical%29) (2021) — Tom Kitt · words: Brian Yorkey
+- [*Tomfoolery*](https://en.wikipedia.org/wiki/Tomfoolery_(musical%29) (1980) — Tom Lehrer · words: Cameron Mackintosh
+- [*Footloose*](https://en.wikipedia.org/wiki/Footloose_(musical%29) (1998) — Tom Snow · words: Dean Pitchford ✎
+- [*The Black Rider*](https://en.wikipedia.org/wiki/The_Black_Rider) (1990) — Tom Waits · words: William S. Burroughs · English ✎
+- [*Woyzeck*](https://en.wikipedia.org/wiki/Woyzeck_(musical%29) (2000) — Tom Waits, Kathleen Brennan · words: Tom Waits, Kathleen Brennan, Robert Wilson · English
+- [*When We Are Married*](https://en.wikipedia.org/wiki/When_We_Are_Married_(musical%29) (1970) — Tommy Tycho · words: Alan Kitson
+- [*The Card*](https://en.wikipedia.org/wiki/The_Card_(musical%29) (1973) — Tony Hatch · words: Tony Hatch, Keith Waterhouse ✎
+- [*The Matchgirls*](https://en.wikipedia.org/wiki/The_Matchgirls) (1965) — Tony Russell · words: Bill Owen ✎
+- [*The Light Princess*](https://en.wikipedia.org/wiki/The_Light_Princess_(musical%29) (2013) — Tori Amos · words: Tori Amos, Samuel Adamson ✎
+- [*Tenimyu*](https://en.wikipedia.org/wiki/Musical:_The_Prince_of_Tennis) (2003) — Toshihiko Sahashi · words: Yūji Mitsuya, Hideki Mitsui · Japanese ✎
+- [*Call Girl the Musical*](https://en.wikipedia.org/wiki/Call_Girl_the_Musical) (2009) — Tracy Harvey · words: Tracy Harvey ✎
+- [*Hands on a Hardbody*](https://en.wikipedia.org/wiki/Hands_on_a_Hardbody_(musical%29) (2012) — Trey Anastasio, Amanda Green · words: Doug Wright ✎
+- [*Street of Dreams*](https://en.wikipedia.org/wiki/Street_of_Dreams_(musical%29) (2012) — Trisha Ward · words: Trisha Ward
+- [*Holler If Ya Hear Me (musical)*](https://en.wikipedia.org/wiki/Holler_If_Ya_Hear_Me_(musical%29) (2014) — Tupac Shakur · words: Tupac Shakur ♫
+- [*Toy Story: The Musical*](https://en.wikipedia.org/wiki/Toy_Story:_The_Musical) (2008) — Valerie Vigoda, Brendan Milburn · words: Mindi Dickstein
+- [*Reedy River*](https://en.wikipedia.org/wiki/Reedy_River_(musical%29) (1953) — various · words: various
+- [*Big Deal*](https://en.wikipedia.org/wiki/Big_Deal_(musical%29) (1986) — various · words: Bob Fosse ✎
+- [*The Donkey Show*](https://en.wikipedia.org/wiki/The_Donkey_Show_(musical%29) (1999) — various · words: Diane Paulus
+- [*The Widow Jones*](https://en.wikipedia.org/wiki/The_Widow_Jones) (1895) — Various · words: Various ✎
+- [*Sweet and Low*](https://en.wikipedia.org/wiki/Sweet_and_Low_(musical%29) (1930) — Various · words: David Freedman
+- [*Blackbirds of 1933*](https://en.wikipedia.org/wiki/Blackbirds_of_1933) (1933) — Various · words: Various
+- [*From A to Z*](https://en.wikipedia.org/wiki/From_A_to_Z) (1960) — Various · words: Woody Allen, Herbert Farjeon
+- [*Oh, What a Lovely War!*](https://en.wikipedia.org/wiki/Oh,_What_a_Lovely_War!) (1963) — Various · words: Joan Littlewood
+- [*Jerico-Jim Crow*](https://en.wikipedia.org/wiki/Jerico-Jim_Crow) (1964) — Various · words: Various ♫
+- [*Bubbling Brown Sugar*](https://en.wikipedia.org/wiki/Bubbling_Brown_Sugar) (1976) — Various · words: Various ✎ ♫
+- [*Dancin'*](https://en.wikipedia.org/wiki/Dancin%27) (1978) — Various · words: Various
+- [*Blues in the Night*](https://en.wikipedia.org/wiki/Blues_in_the_Night_(musical%29) (1980) — Various · words: Various
+- [*Jolson Tonight*](https://en.wikipedia.org/wiki/Jolson_Tonight) (1980) — Various · words: Nicholas Dante
+- [*Forbidden Broadway*](https://en.wikipedia.org/wiki/Forbidden_Broadway) (1982) — Various · words: Gerard Alessandrini · English
+- [*Rock 'N Roll! The First 5,000 Years*](https://en.wikipedia.org/wiki/Rock_%27N_Roll!_The_First_5,000_Years) (1982) — Various · words: Bob Gill
+- [*Oil City Symphony*](https://en.wikipedia.org/wiki/Oil_City_Symphony) (1987) — Various · words: Various
+- [*On Second Avenue*](https://en.wikipedia.org/wiki/On_Second_Avenue) (1987) — Various · words: Various
+- [*Jerome Robbins' Broadway*](https://en.wikipedia.org/wiki/Jerome_Robbins%27_Broadway) (1989) — Various · words: Various
+- [*The Irish… and How They Got That Way*](https://en.wikipedia.org/wiki/The_Irish..._and_How_They_Got_That_Way) (1997) — Various · words: Frank McCourt
+- [*Contact*](https://en.wikipedia.org/wiki/Contact_(musical%29) (1999) — Various · words: John Weidman
+- [*Fosse*](https://en.wikipedia.org/wiki/Fosse_(musical%29) (1999) — Various · words: Various
+- [*It Ain't Nothin' But the Blues*](https://en.wikipedia.org/wiki/It_Ain%27t_Nothin%27_but_the_Blues) (1999) — Various · words: Various ♫
+- [*Swing!*](https://en.wikipedia.org/wiki/Swing!) (1999) — Various · words: Various
+- [*Menopause The Musical*](https://en.wikipedia.org/wiki/Menopause_The_Musical) (2001) — Various · words: Jeanie Linders
+- [*Power Balladz*](https://en.wikipedia.org/wiki/Power_Balladz) (2002) — Various · words: Various ✎ ♫
+- [*The Rat Pack: Live From Las Vegas*](https://en.wikipedia.org/wiki/The_Rat_Pack:_Live_from_Las_Vegas) (2003) — Various · words: Various
+- [*Disco Inferno*](https://en.wikipedia.org/wiki/Disco_Inferno_(musical%29) (2004) — Various · words: Various ✎
+- [*Forbidden Broadway: Special Victims Unit*](https://en.wikipedia.org/wiki/Forbidden_Broadway:_Special_Victims_Unit) (2004) — Various · words: Gerard Alessandrini · English ♫
+- [*Le Roi Soleil*](https://en.wikipedia.org/wiki/Le_Roi_Soleil_(musical%29) (2005) — Various · words: Kamel Ouali ✎ ♫
+- [*Rock of Ages*](https://en.wikipedia.org/wiki/Rock_of_Ages_(musical%29) (2005) — Various · words: Various ✎
+- [*Forbidden Broadway Goes to Rehab*](https://en.wikipedia.org/wiki/Forbidden_Broadway_Goes_to_Rehab) (2008) — Various · words: Gerard Alessandrini · English
+- [*Life Could Be a Dream*](https://en.wikipedia.org/wiki/Life_Could_Be_a_Dream_(musical%29) (2009) — Various · words: Various ✎ ♫
+- [*Disaster!*](https://en.wikipedia.org/wiki/Disaster!_(musical%29) (2011) — Various · words: Various ✎ ♫
+- [*The Bodyguard*](https://en.wikipedia.org/wiki/The_Bodyguard_(musical%29) (2012) — Various · words: Various
+- [*The Commitments*](https://en.wikipedia.org/wiki/The_Commitments_(musical%29) (2013) — Various · words: Roddy Doyle
+- [*Cool Rider*](https://en.wikipedia.org/wiki/Cool_Rider) (2014) — Various · words: Various ✎
+- [*Strictly Ballroom*](https://en.wikipedia.org/wiki/Strictly_Ballroom_(musical%29) (2014) — Various · words: Various
+- [*The SpongeBob Musical*](https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(musical%29) (2016) — Various · words: Kyle Jarrow ✎
+- [*Titanique*](https://en.wikipedia.org/wiki/Titanique) (2017) — Various · words: Various
+- [*Moulin Rouge!*](https://en.wikipedia.org/wiki/Moulin_Rouge!_(musical%29) (2018) — Various · words: Various · jukebox musical ✎
+- [*Tina*](https://en.wikipedia.org/wiki/Tina_(musical%29) (2018) — Various · words: Various ✎
+- [*The Osmonds*](https://en.wikipedia.org/wiki/The_Osmonds_(musical%29) (2022) — Various · words: Various ✎
+- [*Holidays (musical)*](https://en.wikipedia.org/wiki/Holidays_(musical%29) (2023) — Various · words: Various ✎
+- [*In Dreams*](https://en.wikipedia.org/wiki/In_Dreams_(musical%29) (2023) — Various · words: Various
+- [*Sinatra: The Musical*](https://en.wikipedia.org/wiki/Sinatra:_The_Musical) (2023) — Various · words: Various
+- [*Twiggy The Musical*](https://en.wikipedia.org/wiki/Twiggy_The_Musical) (2023) — Various · words: Various · jukebox musical
+- [*Here & Now*](https://en.wikipedia.org/wiki/Here_%26_Now_(musical%29) (2024) — Various · words: Various ✎
+- [*Just For One Day*](https://en.wikipedia.org/wiki/Just_for_One_Day_(musical%29) (2024) — Various · words: Various · jukebox musical ✎
+- [*A Knight's Tale*](https://en.wikipedia.org/wiki/A_Knight%27s_Tale_(musical%29) (2025) — Various · words: Various
+- [*Wild Rose*](https://en.wikipedia.org/wiki/Wild_Rose_(musical%29) (2025) — Various · words: Nicole Taylor
+- [*Robin des Bois*](https://en.wikipedia.org/wiki/Robin_des_Bois) — Various · words: Various ✎
+- [*The Marvelous Wonderettes*](https://en.wikipedia.org/wiki/The_Marvelous_Wonderettes) (1999) — Various artists · words: Roger Bean ✎
+- [*Perfect Harmony*](https://en.wikipedia.org/wiki/Perfect_Harmony_(musical%29) (2005) — Various artists · words: Various artists ✎
+- [*Thriller – Live*](https://en.wikipedia.org/wiki/Thriller_%E2%80%93_Live) (2007) — Various artists · words: Various artists ♫
+- [*I Dreamed a Dream*](https://en.wikipedia.org/wiki/I_Dreamed_a_Dream_(musical%29) (2012) — Various artists · words: Alan McHugh ✎
+- [*Viva Forever*](https://en.wikipedia.org/wiki/Viva_Forever!_(musical%29) (2012) — Various artists · words: Jennifer Saunders ✎
+- [*Bullets Over Broadway*](https://en.wikipedia.org/wiki/Bullets_Over_Broadway_(musical%29) (2014) — Various artists · words: Woody Allen ✎
+- [*Cruel Intentions: The Musical*](https://en.wikipedia.org/wiki/Cruel_Intentions:_The_%2790s_Musical) (2015) — Various artists · words: Various artists ✎
+- [*Elvis*](https://en.wikipedia.org/wiki/Elvis_(musical%29) (1977) — Various Artists · words: Jack Good ♫
+- [*Return to the Forbidden Planet*](https://en.wikipedia.org/wiki/Return_to_the_Forbidden_Planet) (1983) — Various Artists · words: Bob Carlton ✎
+- [*Forever Plaid*](https://en.wikipedia.org/wiki/Forever_Plaid) (1989) — Various Artists · words: Various Artists
+- [*Boogie Nights*](https://en.wikipedia.org/wiki/Boogie_Nights_(musical%29) (1998) — Various Artists · words: Various Artists ✎ ♫
+- [*Million Dollar Quartet*](https://en.wikipedia.org/wiki/Million_Dollar_Quartet_(musical%29) (2006) — Various Artists · words: Floyd Mutrux · jukebox musical ✎ ♫
+- [*Priscilla, Queen of the Desert*](https://en.wikipedia.org/wiki/Priscilla,_Queen_of_the_Desert_(musical%29) (2006) — Various Artists · words: Stephan Elliott ✎
+- [*All the Fun of the Fair*](https://en.wikipedia.org/wiki/All_the_Fun_of_the_Fair) (2008) — Various Artists · words: Jon Conway ✎
+- [*Dreamboats and Petticoats*](https://en.wikipedia.org/wiki/Dreamboats_and_Petticoats) (2009) — Various Artists · words: Various Artists · English · jukebox musical ✎
+- [*Everyday Rapture*](https://en.wikipedia.org/wiki/Everyday_Rapture) (2009) — Various Artists · words: Dick Scanlan
+- [*Come Fly Away*](https://en.wikipedia.org/wiki/Come_Fly_Away) (2010) — Various Artists · words: Twyla Tharp
+- [*Beautiful: The Carole King Musical*](https://en.wikipedia.org/wiki/Beautiful:_The_Carole_King_Musical) (2013) — Various Artists · words: Douglas McGrath ✎
+- [*Motown: The Musical*](https://en.wikipedia.org/wiki/Motown:_The_Musical) (2013) — Various Artists · words: Berry Gordy · English ✎
+- [*The Cher Show*](https://en.wikipedia.org/wiki/The_Cher_Show_(musical%29) (2018) — Various Artists · words: Rick Elice
+- [*A Wonderful World*](https://en.wikipedia.org/wiki/A_Wonderful_World_(musical%29) (2021) — Various Artists · words: Various Artists
+- [*Mystic Pizza*](https://en.wikipedia.org/wiki/Mystic_Pizza_(musical%29) (2021) — Various Artists · words: Various Artists
+- [*Buena Vista Social Club*](https://en.wikipedia.org/wiki/Buena_Vista_Social_Club_(musical%29) (2023) — Various Artists · words: Various Artists
+- [*Summer Stock*](https://en.wikipedia.org/wiki/Summer_Stock_(musical%29) (2023) — Various Artists · words: Various Artists
+- [*Back to the 80s*](https://en.wikipedia.org/wiki/Back_to_the_80s_(musical%29) (2001) — Various Artists - Originally adapted by Scott Copeman. Revised orchestrations and arrangements by Brett Foster. · words: Neil Gooding ✎
+- [*Forever Dusty*](https://en.wikipedia.org/wiki/Forever_Dusty) (2012) — Various composers · words: Kirsten Holly Smith ♫
+- [*Me and Bessie*](https://en.wikipedia.org/wiki/Me_and_Bessie) (1974) — Various, Howlett Smith & Lenny Hambro - co-Musical Directors · words: Will Holt
+- [*Collits' Inn*](https://en.wikipedia.org/wiki/Collits%27_Inn_(musical%29) (1932) — Varney Monk · words: Varney Monk ✎
+- [*The Cedar Tree*](https://en.wikipedia.org/wiki/The_Cedar_Tree_(musical%29) (1934) — Varney Monk · words: Varney Monk, Varney Monk, Helene Barclay ✎
+- [*Ziegfeld Follies of 1936*](https://en.wikipedia.org/wiki/Ziegfeld_Follies_of_1936) (1936) — Vernon Duke · words: Ira Gershwin · English
+- [*Cabin in the Sky*](https://en.wikipedia.org/wiki/Cabin_in_the_Sky_(musical%29) (1940) — Vernon Duke · words: John La Touche, John Latouche · English ✎
+- [*Banjo Eyes*](https://en.wikipedia.org/wiki/Banjo_Eyes) (1941) — Vernon Duke · words: John La Touche, John La Touche, Harold Adamson
+- [*Two's Company*](https://en.wikipedia.org/wiki/Two%27s_Company_(musical%29) (1952) — Vernon Duke · words: Ogden Nash, Sammy Cahn, Ogden Nash, Sammy Cahn
+- [*Zenda*](https://en.wikipedia.org/wiki/Zenda_(musical%29) (1963) — Vernon Duke · words: Lenny Adelson, Sid Kuller, Martin Charnin
+- [*Jackpot*](https://en.wikipedia.org/wiki/Jackpot_(musical%29) — Vernon Duke · words: Howard Dietz, Guy Bolton, Sidney Sheldon, Ben Roberts
+- [*Miss Dolly Dollars*](https://en.wikipedia.org/wiki/Miss_Dolly_Dollars) (1905) — Victor Herbert · words: Harry B. Smith ✎ ♫
+- [*Eileen*](https://en.wikipedia.org/wiki/Eileen_(opera%29) (1917) — Victor Herbert · words: Henry Blossom ✎ ♫
+- [*Miss 1917*](https://en.wikipedia.org/wiki/Miss_1917) (1917) — Victor Herbert · words: Harry B. Smith, Guy Bolton
+- [*Babette*](https://en.wikipedia.org/wiki/Babette_(musical%29) — Victor Herbert · words: Harry B. Smith ✎ ♫
+- [*The Tik-Tok Man of Oz*](https://en.wikipedia.org/wiki/The_Tik-Tok_Man_of_Oz) (1913) — Victor Schertzinger, Louis F. Gottschalk · words: L. Frank Baum, Oliver Morosco · English ✎ ♫
+- [*Acorn Antiques: The Musical!*](https://en.wikipedia.org/wiki/Acorn_Antiques:_The_Musical!) (2005) — Victoria Wood · words: Victoria Wood ✎ ♫
+- [*Lollipop*](https://en.wikipedia.org/wiki/Lollipop_(musical%29) (1924) — Vincent Youmans · words: Zelda Sears · English
+- [*No, No, Nanette*](https://en.wikipedia.org/wiki/No,_No,_Nanette) (1924) — Vincent Youmans · words: Otto Harbach, Irving Caesar, Frank Mandel · English ✎
+- [*Take a Chance*](https://en.wikipedia.org/wiki/Take_a_Chance_(musical%29) (1932) — Vincent Youmans, Nacio Herb Brown, Richard A. Whiting · words: Buddy DeSylva, B. G. De Sylva ✎
+- [*Rainbow*](https://en.wikipedia.org/wiki/Rainbow_(musical%29) — Vincent Youmans · words: Oscar Hammerstein II, Laurence Stallings ✎
+- [*Bless the Bride*](https://en.wikipedia.org/wiki/Bless_the_Bride) (1947) — Vivian Ellis · words: A. P. Herbert ✎ ♫
+- [*Stinkfoot, a Comic Opera*](https://en.wikipedia.org/wiki/Stinkfoot,_a_Comic_Opera) (1985) — Vivian Stanshall · words: Vivian Stanshall, Ki Longfellow ✎
+- [*Black and Blue*](https://en.wikipedia.org/wiki/Black_and_Blue_(musical%29) (1989) — W. C. Handy · words: Various
+- [*Whoopee!*](https://en.wikipedia.org/wiki/Whoopee!) (1928) — Walter Donaldson · words: Gus Kahn, William Anthony McGuire · English ✎
+- [*Seventeen*](https://en.wikipedia.org/wiki/Seventeen_(musical%29) (1951) — Walter Kent · words: Kim Gannon, Sally Benson · English
+- [*Bajour*](https://en.wikipedia.org/wiki/Bajour_(musical%29) (1964) — Walter Marks · words: Walter Marks, Ernest Kinoy ✎
+- [*Golden Rainbow*](https://en.wikipedia.org/wiki/Golden_Rainbow_(musical%29) (1968) — Walter Marks · words: Walter Marks, Ernest Kinoy ✎
+- [*Alice in Wonderland*](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(musical%29) (1886) — Walter Slaughter · words: Lewis Carroll, Aubrey Hopwood, Henry Savile Clarke · English ✎
+- [*Gentleman Joe*](https://en.wikipedia.org/wiki/Gentleman_Joe) (1895) — Walter Slaughter · words: Basil Hood · English
+- [*The French Maid*](https://en.wikipedia.org/wiki/The_French_Maid) (1896) — Walter Slaughter · words: Basil Hood ✎
+- [*Bluebell in Fairyland*](https://en.wikipedia.org/wiki/Bluebell_in_Fairyland) (1901) — Walter Slaughter · words: Seymour Hicks ✎ ♫
+- [*Grease*](https://en.wikipedia.org/wiki/Grease_(musical%29) (1971) — Warren Casey · words: Warren Casey, Jim Jacobs · English ✎
+- [*Something Rotten!*](https://en.wikipedia.org/wiki/Something_Rotten!) (2015) — Wayne Kirkpatrick · words: Wayne Kirkpatrick, Karey Kirkpatrick ✎
+- [*Mrs. Doubtfire*](https://en.wikipedia.org/wiki/Mrs._Doubtfire_(musical%29) (2019) — Wayne Kirkpatrick · words: Karey Kirkpatrick, Wayne Kirkpatrick
+- [*The Secret Life of Nora*](https://en.wikipedia.org/wiki/The_Secret_Life_of_Nora) (2011) — Weng Onn San · words: Jerome Kugan, Alfian Sa’at & Mamat Khalid ✎
+- [*Maybe Happy Ending*](https://en.wikipedia.org/wiki/Maybe_Happy_Ending) (2016) — Will Aronson · words: Will Aronson, Hue Park · English/Korean ✎
+- [*In Dahomey*](https://en.wikipedia.org/wiki/In_Dahomey) (1903) — Will Marion Cook · words: Paul Laurence Dunbar, Jesse A. Shipp ✎ ♫
+- [*Walker and Williams in Dahomey*](https://en.wikipedia.org/wiki/Walker_and_Williams_in_Dahomey) (1903) — Will Marion Cook · words: Paul Laurence Dunbar ✎ ♫
+- [*Bandanna Land*](https://en.wikipedia.org/wiki/Bandanna_Land) (1908) — Will Marion Cook · words: Jesse A. Shipp, Alex Rogers, Jesse A. Shipp, Mord Allen, others ✎
+- [*Clorindy: The Origin of the Cakewalk*](https://en.wikipedia.org/wiki/Clorindy:_The_Origin_of_the_Cakewalk) — Will Marion Cook · words: Paul Laurence Dunbar
+- [*The Regulars*](https://en.wikipedia.org/wiki/The_Regulars) (2022) — Will Shishmanian · words: Will Shishmanian
+- [*Lucky Guy*](https://en.wikipedia.org/wiki/Lucky_Guy_(musical%29) (2011) — Willard Beckham · words: Willard Beckham
+- [*In Trousers*](https://en.wikipedia.org/wiki/In_Trousers) (1978) — William Finn · words: William Finn ✎
+- [*March of the Falsettos*](https://en.wikipedia.org/wiki/March_of_the_Falsettos) (1981) — William Finn · words: William Finn ✎
+- [*Romance in Hard Times*](https://en.wikipedia.org/wiki/Romance_in_Hard_Times) (1989) — William Finn · words: William Finn ✎
+- [*Falsettoland*](https://en.wikipedia.org/wiki/Falsettoland) (1990) — William Finn · words: William Finn, James Lapine ✎
+- [*Falsettos*](https://en.wikipedia.org/wiki/Falsettos) (1992) — William Finn · words: William Finn, James Lapine · English ✎
+- [*A New Brain*](https://en.wikipedia.org/wiki/A_New_Brain) (1998) — William Finn · words: William Finn ✎
+- [*Infinite Joy*](https://en.wikipedia.org/wiki/Infinite_Joy) (2000) — William Finn · words: William Finn
+- [*The 25th Annual Putnam County Spelling Bee*](https://en.wikipedia.org/wiki/The_25th_Annual_Putnam_County_Spelling_Bee) (2004) — William Finn · words: William Finn, Rachel Sheinkin ✎ ♫
+- [*Little Miss Sunshine*](https://en.wikipedia.org/wiki/Little_Miss_Sunshine_(musical%29) (2011) — William Finn · words: William Finn, James Lapine
+- [*Sinbad*](https://en.wikipedia.org/wiki/Sinbad_(1891_musical%29) — William H. Batchelor · words: Harry B. Smith ♫
+- [*Wind in the Willows*](https://en.wikipedia.org/wiki/Wind_in_the_Willows_(1985_musical%29) (1985) — William P. Perry · words: Roger McGough and William P. Perry
+- [*Barbary Coast*](https://en.wikipedia.org/wiki/Barbary_Coast_(musical%29) (1978) — William Penzner · words: William Penzner ✎
+- [*Xanadu: The Marco Polo Musical*](https://en.wikipedia.org/wiki/Xanadu:_The_Marco_Polo_Musical) (1953) — William Perry · words: William Perry, William Perry, William S. Wheeling
+- [*The Penny Friend*](https://en.wikipedia.org/wiki/The_Penny_Friend) (1966) — William Roy · words: William Roy ✎
+- [*Blood Brothers*](https://en.wikipedia.org/wiki/Blood_Brothers_(musical%29) (1983) — Willy Russell · words: Willy Russell ✎ ♫
+- [*Leben ohne Chris*](https://en.wikipedia.org/wiki/Leben_ohne_Chris) (2009) — Wolfgang Böhmer · words: Peter Lund ✎ ♫
+- [*Making Tracks*](https://en.wikipedia.org/wiki/Making_Tracks) (1999) — Woody Pak · words: Brian Yorkey, Welly Yang
+- [*Wang*](https://en.wikipedia.org/wiki/Wang_(musical%29) (1891) — Woolson Morse · words: J. Cheever Goodwin
+- [*USHERS: The Front of House Musical*](https://en.wikipedia.org/wiki/USHERS:_The_Front_of_House_Musical) (2013) — Yiannis Koutsakos · words: James Oban & Yiannis Koutsakos
+- [*La Légende du roi Arthur*](https://en.wikipedia.org/wiki/La_L%C3%A9gende_du_roi_Arthur) (2015) — Zaho · words: Dove Attia ✎
+- [*Imagine Tap*](https://en.wikipedia.org/wiki/Imagine_Tap) (2006) — Zane Mark
+- [*Lāčplēsis*](https://en.wikipedia.org/wiki/L%C4%81%C4%8Dpl%C4%93sis_(rock_opera%29) — Zigmars Liepiņš · Latvian ✎ ♫
+- [*Dear Edwina*](https://en.wikipedia.org/wiki/Dear_Edwina) (2008) — Zina Goldrich · words: Marcy Heisler ✎ ♫

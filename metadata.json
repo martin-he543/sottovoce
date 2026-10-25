@@ -1,0 +1,12 @@
+{
+  "name": "sottovoce",
+  "description": "Multimodal live opera & musical theatre plot companion, 3D stage & interval route visualiser, MongoDB Atlas hybrid search & London Tube civic map, and Saint AI autonomous event agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

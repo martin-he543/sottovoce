@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+						
+
+
+																								
+
+
+
+		
+		
+																																				
+
+
+		<!DOCTYPE html><html class="" lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><!-- ROBOTS --><meta name="robots" content="index, follow"><meta charset="utf-8"/><meta name="HandheldFriendly" content="true"><meta name="MobileOptimized" content="600"><meta name="viewport" content="width=device-width, initial-scale=1.0"><!--favicons--><link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" /><link rel="icon" type="image/svg+xml" href="/favicon.svg" /><link rel="shortcut icon" href="/favicon.ico" /><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" /><link rel="manifest" href="/site.webmanifest" /><!--meta tags--><link rel="alternate" type="application/rss+xml" title="Stay up to date with Donmar Warehouse" href="https://www.donmarwarehouse.com/feed.rss"><link rel="search" type="application/opensearchdescription+xml" title="Donmar Warehouse" href="/osd.xml" data-tooltip-align="b,c" data-tooltip="Donmar Warehouse" aria-label="Donmar Warehouse" data-title="Donmar Warehouse"><link href="https://www.donmarwarehouse.com/whats-on" rel="canonical"><link href="https://www.donmarwarehouse.com/" rel="home"><title>What&#039;s on | Donmar Warehouse</title><meta name="keywords" content="whats on near me"><meta name="description" content="
+In the West End"><meta name="referrer" content="no-referrer-when-downgrade"><!--Open Graph / FB --><meta property="og:locale" content="en_GB"><meta property="og:site_name" content="Donmar Warehouse"><meta property="og:type" content="website" ><meta property="og:url" content="https://www.donmarwarehouse.com/whats-on/"><meta property="og:title" content="What&#039;s on | Donmar Warehouse"><meta property="og:description" content="
+In the West End"><meta property="og:image" content="https://donmar-warehouse.transforms.svdcdn.com/production/Brand-property/Narrow-banners/Donmar_Warmth_Still_2260x430.png?w=1200&amp;h=628&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1764685846&amp;s=5faa66d5a85b96bda4e3a5e1e0ed5c46"><meta property="og:image:secure_url" content="https://donmar-warehouse.transforms.svdcdn.com/production/Brand-property/Narrow-banners/Donmar_Warmth_Still_2260x430.png?w=1200&amp;h=628&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1764685846&amp;s=5faa66d5a85b96bda4e3a5e1e0ed5c46"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content=""><!-- Twitter is also 1200 x 630 cover image --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@donmarwarehouse.bsky.social"><meta name="twitter:creator" content="@donmarwarehouse.bsky.social"><meta name="twitter:title" content="What&#039;s on | Donmar Warehouse"><meta name="twitter:description" content="
+In the West End"><meta name="twitter:image" content="https://donmar-warehouse.transforms.svdcdn.com/production/Brand-property/Narrow-banners/Donmar_Warmth_Still_2260x430.png?w=1200&amp;h=628&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1764685846&amp;s=5faa66d5a85b96bda4e3a5e1e0ed5c46"><meta name="twitter:image:alt" content=""><!-- Authentications --><!-- tag manager --><script type="module" src="https://www.donmarwarehouse.com/dist/vite/legacy-polyfills" crossorigin="anonymous"></script><script type="module" src="https://www.donmarwarehouse.com/dist/assets/app-CHpt2QbI.js" crossorigin="anonymous"></script><link href="https://www.donmarwarehouse.com/dist/assets/main-DEKZnHq4.css" rel="stylesheet"></head><body class="" id="start"><!-- custom styles --><style type="text/css" id="page-theme"></style><style type="text/css" id="custom-css"></style><div id="app" class="c-site"><div class="c-site__notifications"><a class="o-skip-link" href="#site-main">Skip to main content</a><div id="site-notifications"><v-notification></v-notification></div></div><div class="c-site__header"><header id="site-header" class="c-site-header"><a href="/" class="c-site-header__logo"><span class="icon i-logo"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 53 219" aria-label="Donmar Warehouse" role="img"><path fill="#EB1225" d="M52.476 0H0v219h52.476V0Z"/><path fill="#fff" d="M36.856 50.074c-2.753-2.762-6.421-4.26-10.648-4.26-4.226 0-7.857 1.5-10.607 4.26-2.792 2.84-4.35 6.584-4.35 10.804 0 4.22 1.558 8.007 4.306 10.768 2.792 2.799 6.42 4.296 10.65 4.296 4.228 0 7.894-1.497 10.646-4.259 2.793-2.838 4.306-6.585 4.306-10.805s-1.513-7.966-4.306-10.804h.003ZM26.208 65.612c-3.31 0-5.384-1.971-5.384-4.73 0-2.76 2.073-4.772 5.384-4.772 3.312 0 5.425 2.013 5.425 4.772 0 2.759-2.116 4.73-5.424 4.73ZM11.984 95.329l14.263-8.365-14.263.004v-9.78h28.51v9.938l-14.39 8.45 14.39-.01v9.78h-28.51V95.329Zm0 79.471v9.937h9.412l-9.412 4.93v11.359l11.604-7.534c.397 3.272 3.23 5.44 7.297 5.44 6.099 0 9.609-3.863 9.609-11.396V174.8h-28.51Zm21.176 11.516c0 1.971-1.075 2.996-2.831 2.996-1.757 0-2.753-1.062-2.753-2.996v-1.579h5.584v1.579Zm7.334-75.452-28.51-4.811v9.936s13.932 1.456 15.474 1.574l-15.474 4.577v6.035l15.618 4.57c-1.874.154-3.328.254-4.334.362l-11.284 1.222v19.875l3.587.867v7.652l-3.587.906v10.884l28.51-9.859v-11.276l-26.653-9.401 26.653-4.167v-10.45l-13.687-4.095 13.687-3.946v-10.455Zm-18.14 45.904 7.88 2.114-7.88 2.102v-4.22.004ZM11.982 17.974v7.453c0 5.64.28 9.974 2.832 13.647 2.592 3.747 6.7 5.836 11.402 5.836 5.425 0 10.01-2.722 12.483-7.573 1.316-2.604 1.793-6.27 1.793-11.162v-8.2h-28.51Zm19.74 10.492c0 4.102-1.755 6.151-5.501 6.151-3.747 0-5.464-2.089-5.54-6.584h11.045v.433h-.004Z"/></svg></span></a><nav class="c-site-header__nav"><ul class="c-site-header__nav-list"><li class="c-site-header__nav-item"><a class="c-site-header__nav-link" href="https://www.donmarwarehouse.com/search" aria-label="Search"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M50.2106 46.8063L40.1855 36.7812C43.2717 32.921 45.1204 28.0312 45.1204 22.7181C45.1204 10.2781 35.0001 0.157845 22.5602 0.157845C10.1203 0.157845 0 10.2781 0 22.7181C0 35.158 10.1203 45.2783 22.5602 45.2783C27.8834 45.2783 32.7807 43.4245 36.6434 40.3283L46.666 50.3509L50.2081 46.8088L50.2106 46.8063ZM5.01254 22.7181C5.01254 13.0412 12.8858 5.16788 22.5627 5.16788C32.2396 5.16788 40.1129 13.0412 40.1129 22.7181C40.1129 32.3949 32.2396 40.2682 22.5627 40.2682C12.8858 40.2682 5.01254 32.3949 5.01254 22.7181Z" fill="currentColor
+"/></svg></span></a></li><li class="c-site-header__nav-item c-site-header__trigger"><button class="c-site-header__nav-button" id="js-menu-open" aria-label="Open menu"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" viewBox="0 0 70 70"><g clip-path="url(#a)"><path d="M70 54.163H0v-9.025h70v9.025Zm0-29.301H0v-9.025h70v9.025Z"/></g><defs><clipPath id="a"><path d="M0 0h70v70H0z"/></clipPath></defs></svg></span></button></li><li class="c-site-header__nav-item"><a class="c-site-header__nav-link" href="https://www.donmarwarehouse.com/basket" aria-label="Basket"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg width="70" height="58" viewBox="0 0 70 58" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M48.724 24.2267L54.3796 1.62447L47.8951 0L41.8318 24.2233H27.2583L21.195 0L14.7105 1.62447L20.366 24.2267H0L8.37304 57.682H60.717L69.0901 24.2267H48.724ZM55.4994 50.997H13.5941L8.5669 30.9117H60.5265L55.4994 50.997Z" fill="currentColor"/></svg></span></a></li><li class="c-site-header__nav-item"><a class="c-site-header__nav-link" href="https://www.donmarwarehouse.com/account" aria-label="My Account"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M25.0004 26.5445C31.9435 26.5445 37.5917 20.8963 37.5917 13.9532C37.5917 7.01013 31.9435 1.36195 25.0004 1.36195C18.0573 1.36195 12.4092 7.01013 12.4092 13.9532C12.4092 20.8963 18.0573 26.5445 25.0004 26.5445ZM25.0004 6.07308C29.3466 6.07308 32.8829 9.60937 32.8829 13.9556C32.8829 18.3018 29.3466 21.838 25.0004 21.838C20.6542 21.838 17.1179 18.3018 17.1179 13.9556C17.1179 9.60937 20.6542 6.07308 25.0004 6.07308Z" fill="currentColor"/><path d="M49.5213 48.638L43.2022 29.7535H6.79866L0.479492 48.638H49.5213ZM10.189 34.4622H39.8119L42.9809 43.9292H7.01998L10.189 34.4622Z" fill="currentColor"/></svg></span></a></li></ul></nav></header><dialog class="c-site-menu" id="menu-dialog"><div class="c-site-menu__header"><div class="c-site-header"><a href="/" class="c-site-header__logo"><span class="icon i-logo"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 53 219" aria-label="Donmar Warehouse" role="img"><path fill="#EB1225" d="M52.476 0H0v219h52.476V0Z"/><path fill="#fff" d="M36.856 50.074c-2.753-2.762-6.421-4.26-10.648-4.26-4.226 0-7.857 1.5-10.607 4.26-2.792 2.84-4.35 6.584-4.35 10.804 0 4.22 1.558 8.007 4.306 10.768 2.792 2.799 6.42 4.296 10.65 4.296 4.228 0 7.894-1.497 10.646-4.259 2.793-2.838 4.306-6.585 4.306-10.805s-1.513-7.966-4.306-10.804h.003ZM26.208 65.612c-3.31 0-5.384-1.971-5.384-4.73 0-2.76 2.073-4.772 5.384-4.772 3.312 0 5.425 2.013 5.425 4.772 0 2.759-2.116 4.73-5.424 4.73ZM11.984 95.329l14.263-8.365-14.263.004v-9.78h28.51v9.938l-14.39 8.45 14.39-.01v9.78h-28.51V95.329Zm0 79.471v9.937h9.412l-9.412 4.93v11.359l11.604-7.534c.397 3.272 3.23 5.44 7.297 5.44 6.099 0 9.609-3.863 9.609-11.396V174.8h-28.51Zm21.176 11.516c0 1.971-1.075 2.996-2.831 2.996-1.757 0-2.753-1.062-2.753-2.996v-1.579h5.584v1.579Zm7.334-75.452-28.51-4.811v9.936s13.932 1.456 15.474 1.574l-15.474 4.577v6.035l15.618 4.57c-1.874.154-3.328.254-4.334.362l-11.284 1.222v19.875l3.587.867v7.652l-3.587.906v10.884l28.51-9.859v-11.276l-26.653-9.401 26.653-4.167v-10.45l-13.687-4.095 13.687-3.946v-10.455Zm-18.14 45.904 7.88 2.114-7.88 2.102v-4.22.004ZM11.982 17.974v7.453c0 5.64.28 9.974 2.832 13.647 2.592 3.747 6.7 5.836 11.402 5.836 5.425 0 10.01-2.722 12.483-7.573 1.316-2.604 1.793-6.27 1.793-11.162v-8.2h-28.51Zm19.74 10.492c0 4.102-1.755 6.151-5.501 6.151-3.747 0-5.464-2.089-5.54-6.584h11.045v.433h-.004Z"/></svg></span></a><nav class="c-site-header__nav"><ul class="c-site-header__nav-list"><li class="c-site-header__nav-item"><a class="c-site-header__nav-link" href="https://www.donmarwarehouse.com/search" aria-label="Search"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M50.2106 46.8063L40.1855 36.7812C43.2717 32.921 45.1204 28.0312 45.1204 22.7181C45.1204 10.2781 35.0001 0.157845 22.5602 0.157845C10.1203 0.157845 0 10.2781 0 22.7181C0 35.158 10.1203 45.2783 22.5602 45.2783C27.8834 45.2783 32.7807 43.4245 36.6434 40.3283L46.666 50.3509L50.2081 46.8088L50.2106 46.8063ZM5.01254 22.7181C5.01254 13.0412 12.8858 5.16788 22.5627 5.16788C32.2396 5.16788 40.1129 13.0412 40.1129 22.7181C40.1129 32.3949 32.2396 40.2682 22.5627 40.2682C12.8858 40.2682 5.01254 32.3949 5.01254 22.7181Z" fill="currentColor
+"/></svg></span></a></li><li class="c-site-header__nav-item c-site-header__trigger"><button id="js-menu-close" class="c-site-header__nav-button" autofocus aria-label="Close menu"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" viewBox="0 0 70 70"><g clip-path="url(#a)"><path d="m35 43.278 20.86 20.86 7.778-7.778-20.86-20.86 20.86-20.86-7.778-7.778L35 27.722 14.14 6.862 6.362 14.64l20.86 20.86-20.86 20.86 7.778 7.778L35 43.278Z"/></g><defs><clipPath id="a"><path d="M0 0h70v70H0z"/></clipPath></defs></svg></span></button></li><li class="c-site-header__nav-item"><a class="c-site-header__nav-link" href="https://www.donmarwarehouse.com/basket" aria-label="Basket"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg width="70" height="58" viewBox="0 0 70 58" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M48.724 24.2267L54.3796 1.62447L47.8951 0L41.8318 24.2233H27.2583L21.195 0L14.7105 1.62447L20.366 24.2267H0L8.37304 57.682H60.717L69.0901 24.2267H48.724ZM55.4994 50.997H13.5941L8.5669 30.9117H60.5265L55.4994 50.997Z" fill="currentColor"/></svg></span></a></li><li class="c-site-header__nav-item"><a class="c-site-header__nav-link" href="https://www.donmarwarehouse.com/account" aria-label="My Account"><span class="c-site-header__nav-icon icon" aria-hidden="true"><svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M25.0004 26.5445C31.9435 26.5445 37.5917 20.8963 37.5917 13.9532C37.5917 7.01013 31.9435 1.36195 25.0004 1.36195C18.0573 1.36195 12.4092 7.01013 12.4092 13.9532C12.4092 20.8963 18.0573 26.5445 25.0004 26.5445ZM25.0004 6.07308C29.3466 6.07308 32.8829 9.60937 32.8829 13.9556C32.8829 18.3018 29.3466 21.838 25.0004 21.838C20.6542 21.838 17.1179 18.3018 17.1179 13.9556C17.1179 9.60937 20.6542 6.07308 25.0004 6.07308Z" fill="currentColor"/><path d="M49.5213 48.638L43.2022 29.7535H6.79866L0.479492 48.638H49.5213ZM10.189 34.4622H39.8119L42.9809 43.9292H7.01998L10.189 34.4622Z" fill="currentColor"/></svg></span></a></li></ul></nav></div></div><nav class="c-site-menu__body o-nav"><ul class="o-nav__list c-site-menu__primary"><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/whats-on">What&#039;s On</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/support-us">Support Us</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/your-visit">Your Visit</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/take-part">Take Part</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/our-story">Our Story</a></li></ul><ul class="o-nav__list c-site-menu__secondary"><li class="c-site-menu__nav-item"><a class="c-site-menu__nav-link" href="https://www.donmarwarehouse.com/search" aria-label="Search"><span class="c-site-menu__nav-text">Search</span><span class="c-site-menu__nav-icon icon" aria-hidden="true"><svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M50.2106 46.8063L40.1855 36.7812C43.2717 32.921 45.1204 28.0312 45.1204 22.7181C45.1204 10.2781 35.0001 0.157845 22.5602 0.157845C10.1203 0.157845 0 10.2781 0 22.7181C0 35.158 10.1203 45.2783 22.5602 45.2783C27.8834 45.2783 32.7807 43.4245 36.6434 40.3283L46.666 50.3509L50.2081 46.8088L50.2106 46.8063ZM5.01254 22.7181C5.01254 13.0412 12.8858 5.16788 22.5627 5.16788C32.2396 5.16788 40.1129 13.0412 40.1129 22.7181C40.1129 32.3949 32.2396 40.2682 22.5627 40.2682C12.8858 40.2682 5.01254 32.3949 5.01254 22.7181Z" fill="currentColor
+"/></svg></span></a></li><li class="c-site-menu__nav-item"><a class="c-site-menu__nav-link" href="https://www.donmarwarehouse.com/basket"><span class="c-site-menu__nav-text">Basket</span><span class="c-site-menu__nav-icon icon" aria-hidden="true"><svg width="70" height="58" viewBox="0 0 70 58" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M48.724 24.2267L54.3796 1.62447L47.8951 0L41.8318 24.2233H27.2583L21.195 0L14.7105 1.62447L20.366 24.2267H0L8.37304 57.682H60.717L69.0901 24.2267H48.724ZM55.4994 50.997H13.5941L8.5669 30.9117H60.5265L55.4994 50.997Z" fill="currentColor"/></svg></span></a></li><li class="c-site-menu__nav-item"><a class="c-site-menu__nav-link" href="https://www.donmarwarehouse.com/account"><span class="c-site-menu__nav-text">My Account</span><span class="c-site-menu__nav-icon icon" aria-hidden="true"><svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M25.0004 26.5445C31.9435 26.5445 37.5917 20.8963 37.5917 13.9532C37.5917 7.01013 31.9435 1.36195 25.0004 1.36195C18.0573 1.36195 12.4092 7.01013 12.4092 13.9532C12.4092 20.8963 18.0573 26.5445 25.0004 26.5445ZM25.0004 6.07308C29.3466 6.07308 32.8829 9.60937 32.8829 13.9556C32.8829 18.3018 29.3466 21.838 25.0004 21.838C20.6542 21.838 17.1179 18.3018 17.1179 13.9556C17.1179 9.60937 20.6542 6.07308 25.0004 6.07308Z" fill="currentColor"/><path d="M49.5213 48.638L43.2022 29.7535H6.79866L0.479492 48.638H49.5213ZM10.189 34.4622H39.8119L42.9809 43.9292H7.01998L10.189 34.4622Z" fill="currentColor"/></svg></span></a></li></ul></nav></dialog></div><main
+						class="c-site__main "
+						role="main"
+						id="site-main"
+						tabindex="-1"
+					><header  class="c-page-header c-page-header--"><div class="c-page-header__media"><picture class="o-image o-image--picture"><source srcset="https://donmar-warehouse.transforms.svdcdn.com/production/Brand-property/Narrow-banners/Donmar_Warmth_Still_2260x430.png?w=2260&amp;h=428&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1764685846&amp;s=72b19c7744a7fd28ae4317c0acd31ecb" width="2260" height="428" media="(min-width: 1524px)"><source srcset="https://donmar-warehouse.transforms.svdcdn.com/production/Brand-property/Narrow-banners/Donmar_Warmth_Still_2260x430.png?w=1524&amp;h=288&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1764685846&amp;s=7cbffb5944ca013f291ac53989215809" width="1524" height="288" media="(min-width: 740px)"><source srcset="https://donmar-warehouse.transforms.svdcdn.com/production/Brand-property/Narrow-banners/Donmar_Warmth_Still_2260x430.png?w=740&amp;h=140&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1764685846&amp;s=dca5837398a6a50344a6898ab8e45763" width="740" height="140" media="(min-width: 400px)"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Brand-property/Narrow-banners/Donmar_Warmth_Still_2260x430.png?w=400&amp;h=134&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1764685846&amp;s=6fdf926f6b54eb4a9bf9d69c4bab0700" width="400" height="134" alt="" loading="lazy"></picture></div><div class="c-page-header__text"><div class="c-page-header__pre-title"></div><h1 class="c-page-header__title ">
+				What&#039;s on
+			</h1><div class="c-page-header__post-title"></div></div></header><section class="o-grid"><h2 class="h-accessibility">About our events</h2><div  id="block-51148" class="o-block o-related-events o-grid__item o-grid__item--full o-grid o-block--row-2 o-panel h-theme--red" data-block='[]'><ul class="o-block-row o-grid__item"><li class="o-block-row__item"><div
+		class="c-media  c-media--event c-media--image is-clickable  "
+		@click="goToUrl('https://www.donmarwarehouse.com/events/ilford-boy', $event)"	><div class="c-media__image"><div class="o-image c-media__image-s"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/Ilford-Boy/DON26_Q1_002_Ilford-Boy-Web-Assets2260x972.jpg?w=400&amp;h=247&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1769624189&amp;s=cecbd4c0a2b1d41b26c326293bae2f55" width="400" height="247" alt="" loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-m"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/Ilford-Boy/DON26_Q1_002_Ilford-Boy-Web-Assets2260x972.jpg?w=630&amp;h=389&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1769624189&amp;s=274882bd0f0aebb9428d8a0f32a417f7" width="630" height="389" alt="" loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-l"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/Ilford-Boy/DON26_Q1_002_Ilford-Boy-Web-Assets2260x972.jpg?w=1100&amp;h=680&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1769624189&amp;s=622b9a4560060091eeb7431cff7d2f73" width="1100" height="680" alt="" loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-h"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/Ilford-Boy/DON26_Q1_002_Ilford-Boy-Web-Assets2260x972.jpg?w=930&amp;h=744&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1769624189&amp;s=68de8ddb93b2715231b3e7d7d5a1b702" width="930" height="744" alt="" loading="lazy" style="--object-position: 50% 50%;"></div></div><div class="c-media__text"><div class="c-media__meta"><p class="o-tag">On now</p><time class="c-media__datetime "><time datetime="2026-10-24T14:30:00+01:00" itemprop="startDate">Until </time><time datetime="2026-11-28T19:30:00+00:00"itemprop="endDate">Sat 28 Nov</time></time></div><h3 class="c-media__title">Ilford Boy</h3><p class="c-media__posttitle ">by Danny Lee Wynter</p><div class="c-media__summary "><p>A funny, moving drama about the ghosts that follow us, the families we choose, and the Streisand that helps us survive.</p></div><div class="c-media__actions"><a
+								href="https://www.donmarwarehouse.com/events/ilford-boy#content-dates-and-times"
+								class="o-button "
+							>
+								Book now
+							</a><a
+								href="https://www.donmarwarehouse.com/events/ilford-boy"
+								class="o-button o-button--outline "
+							>
+								More info
+							</a></div></div></div></li></ul></div><div  id="block-134801" class="o-block o-related-events o-grid__item o-grid__item--full o-grid o-block--row-3 o-panel h-theme--red" data-block='["relatedEvents"]'><ul class="o-block-row o-grid__item"><li class="o-block-row__item"><div
+		class="c-media  c-media--event c-media--image is-clickable  "
+		@click="goToUrl('https://www.donmarwarehouse.com/events/the-kings-ransom', $event)"	><div class="c-media__image"><div class="o-image c-media__image-s"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Kings-Ransom/Artwork/DON26_Q3_001_A-King%E2%80%99s-Ransom-Web-Assets-2260x972-1.jpg?w=400&amp;h=247&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679731&amp;s=217de79edbd46116ae1b76982718b4b8" width="400" height="247" alt="A pair of gold-framed sunglasses rests on top of several stacks of $100 U.S. bills, secured with rubber bands, on a plain, light surface." loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-m"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Kings-Ransom/Artwork/DON26_Q3_001_A-King%E2%80%99s-Ransom-Web-Assets-2260x972-1.jpg?w=630&amp;h=389&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679731&amp;s=79ae46596bfc1823c97131514f1f01e1" width="630" height="389" alt="A pair of gold-framed sunglasses rests on top of several stacks of $100 U.S. bills, secured with rubber bands, on a plain, light surface." loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-l"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Kings-Ransom/Artwork/DON26_Q3_001_A-King%E2%80%99s-Ransom-Web-Assets-2260x972-1.jpg?w=1100&amp;h=680&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679731&amp;s=333a6b4d034fc2e02c47a59ab9b6536e" width="1100" height="680" alt="A pair of gold-framed sunglasses rests on top of several stacks of $100 U.S. bills, secured with rubber bands, on a plain, light surface." loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-h"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Kings-Ransom/Artwork/DON26_Q3_001_A-King%E2%80%99s-Ransom-Web-Assets-2260x972-1.jpg?w=930&amp;h=744&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679731&amp;s=a304f0bfd4f971eec0fd325923b080de" width="930" height="744" alt="A pair of gold-framed sunglasses rests on top of several stacks of $100 U.S. bills, secured with rubber bands, on a plain, light surface." loading="lazy" style="--object-position: 50% 50%;"></div></div><div class="c-media__text"><div class="c-media__meta"><p class="o-tag">On next</p><time class="c-media__datetime "><time datetime="2026-12-05T19:30:00+00:00" itemprop="startDate">Sat 5 Dec 2026</time>  &ndash;			<time datetime="2027-02-06T19:30:00+00:00"itemprop="endDate">Sat 6 Feb 2027</time></time></div><h3 class="c-media__title">The King&#039;s Ransom</h3><p class="c-media__posttitle ">by Stuart Slade</p><div class="c-media__summary "><p>Inspired by one of the strangest crime stories in American history, this new play is a Southern-fried dark comedy about grief, redemption and spectacularly bad decisions.</p></div><div class="c-media__actions"><a
+								href="https://www.donmarwarehouse.com/events/the-kings-ransom#content-dates-and-times"
+								class="o-button "
+							>
+								Book now
+							</a><a
+								href="https://www.donmarwarehouse.com/events/the-kings-ransom"
+								class="o-button o-button--outline "
+							>
+								More info
+							</a></div></div></div></li></ul></div><div  id="block-135368" class="o-block o-related-events o-grid__item o-grid__item--full o-grid o-block--row-4 o-panel h-theme--red" data-block='["relatedEvents"]'><ul class="o-block-row o-grid__item"><li class="o-block-row__item"><div
+		class="c-media  c-media--event c-media--image is-clickable  "
+		@click="goToUrl('https://www.donmarwarehouse.com/events/no-mans-land', $event)"	><div class="c-media__image"><div class="o-image c-media__image-s"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/No-Mans-Land/Artwork/DON26_Q2_010_No-Mans-Land-Web-Assets-2260x972.jpg?w=400&amp;h=247&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679669&amp;s=cc0b7c4b9a1c8b5c59b1155922203ffb" width="400" height="247" alt="A tall, narrow, abandoned brick building stands alone at night under a cloudy sky. One lower window glows with light, whilst the rest appear dark and empty." loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-m"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/No-Mans-Land/Artwork/DON26_Q2_010_No-Mans-Land-Web-Assets-2260x972.jpg?w=630&amp;h=389&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679669&amp;s=b15b7dd3213a5c165a11b1880403a206" width="630" height="389" alt="A tall, narrow, abandoned brick building stands alone at night under a cloudy sky. One lower window glows with light, whilst the rest appear dark and empty." loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-l"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/No-Mans-Land/Artwork/DON26_Q2_010_No-Mans-Land-Web-Assets-2260x972.jpg?w=1100&amp;h=680&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679669&amp;s=27b1b2f98e37d80021eca1a960fffcbc" width="1100" height="680" alt="A tall, narrow, abandoned brick building stands alone at night under a cloudy sky. One lower window glows with light, whilst the rest appear dark and empty." loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-h"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/No-Mans-Land/Artwork/DON26_Q2_010_No-Mans-Land-Web-Assets-2260x972.jpg?w=930&amp;h=744&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1790679669&amp;s=0dbd88a623ff00709f4cca01780bef13" width="930" height="744" alt="A tall, narrow, abandoned brick building stands alone at night under a cloudy sky. One lower window glows with light, whilst the rest appear dark and empty." loading="lazy" style="--object-position: 50% 50%;"></div></div><div class="c-media__text"><div class="c-media__meta"><time class="c-media__datetime "><time datetime="2027-02-13T19:30:00+00:00" itemprop="startDate">Sat 13 Feb</time>  &ndash;			<time datetime="2027-04-10T19:30:00+01:00"itemprop="endDate">Sat 10 Apr 2027</time></time></div><h3 class="c-media__title">No Man&#039;s Land</h3><p class="c-media__posttitle ">by Harold Pinter</p><div class="c-media__summary "><p>A major revival of Harold Pinter&#039;s funny and haunting masterpiece starring Simon Russell Beale and Rupert Everett.</p></div><div class="c-media__actions"><a
+								href="https://www.donmarwarehouse.com/events/no-mans-land#content-dates-and-times"
+								class="o-button "
+							>
+								Book now
+							</a><a
+								href="https://www.donmarwarehouse.com/events/no-mans-land"
+								class="o-button o-button--outline "
+							>
+								More info
+							</a></div></div></div></li></ul></div><div  id="block-179507" class="o-block o-text o-text-block o-grid__item 	
+			h-colstart--1 h-colend--9 h-tablet-colstart--1 h-tablet-colend--13 has-h-col
+	 o-block--row-5" data-block='["relatedEvents"]'><h2>In the West End</h2></div><div  id="block-74488" class="o-block o-featured-block-link o-grid__item o-grid__item--full o-grid o-block--row-6 o-panel h-theme--red" data-block='["text"]'><div class="o-grid__item"><a
+		href="https://www.donmarwarehouse.com/the-guilty-west-end" target="_self"
+		class="c-media c-media--link  c-media--block-link c-media--image "
+	><div class="c-media__image"><div class="o-image c-media__image-s"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/TG26_Q4_007_Donmar-Assets-2260x972.jpg?w=400&amp;h=247&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1791971848&amp;s=f28c674232398dd7dc6fa4c4c8008222" width="400" height="247" alt="" loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-m"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/TG26_Q4_007_Donmar-Assets-2260x972.jpg?w=630&amp;h=389&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1791971848&amp;s=2767131df32fdb54b43631d663e069fc" width="630" height="389" alt="" loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-l"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/TG26_Q4_007_Donmar-Assets-2260x972.jpg?w=1100&amp;h=680&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1791971848&amp;s=c38b1ecfc5ead5ce6b513b7e0143b88e" width="1100" height="680" alt="" loading="lazy" style="--object-position: 50% 50%;"></div><div class="o-image c-media__image-h"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/TG26_Q4_007_Donmar-Assets-2260x972.jpg?w=930&amp;h=744&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1791971848&amp;s=31056b06b991100c3780bb63fd3f79fc" width="930" height="744" alt="" loading="lazy" style="--object-position: 50% 50%;"></div></div><div class="c-media__text"><h3 class="c-media__title">The Guilty</h3><div class="c-media__summary "><p>Following a sold-out run at the Donmar, The Guilty starring Russell Tovey,  transfers to the Harold Pinter Theatre from 16 January - 3 April 2027</p></div><div class="c-media__actions"><div class="o-button ">
+								Find out more
+							</div></div></div></a></div></div><div  id="block-39218" class="o-block o-banner o-grid__item o-grid__item--full o-block--row-7" data-block='["featuredBlockLink"]'><a  id="banner-36770" class="c-banner h-theme--red c-banner--image" href="https://www.donmarwarehouse.com/mailing-list" data-sc-gtm-category="Banner" data-sc-gtm-label="Sign up to our mailing list" data-sc-gtm-value=""><picture class="o-image o-image--picture o-image--cover c-banner__image"><source srcset="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Maids/Lydia-Wilson-and-Yerin-Ha-in-THE-MAIDS-Donmar-Warehouse-photo-by-Marc-Brenner.jpg?w=2458&amp;h=700&amp;q=100&amp;auto=format&amp;fit=crop&amp;crop=focalpoint&amp;fp-x=0.4847&amp;fp-y=0.3081&amp;dm=1762354475&amp;s=181056860482246789ad0bb99aa65fbe" width="2458" height="700" media="(min-width: 1525px)"><source srcset="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Maids/Lydia-Wilson-and-Yerin-Ha-in-THE-MAIDS-Donmar-Warehouse-photo-by-Marc-Brenner.jpg?w=1525&amp;h=500&amp;q=100&amp;auto=format&amp;fit=crop&amp;crop=focalpoint&amp;fp-x=0.4847&amp;fp-y=0.3081&amp;dm=1762354475&amp;s=7d6944527724f556da5eea720b04b4b0" width="1525" height="500" media="(min-width: 740px)"><source srcset="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Maids/Lydia-Wilson-and-Yerin-Ha-in-THE-MAIDS-Donmar-Warehouse-photo-by-Marc-Brenner.jpg?w=740&amp;h=400&amp;q=100&amp;auto=format&amp;fit=crop&amp;crop=focalpoint&amp;fp-x=0.4847&amp;fp-y=0.3081&amp;dm=1762354475&amp;s=c013d9bfe0e8cedd96ea5e06b770d0df" width="740" height="400" media="(min-width: 400px)"><img class="o-image__img" src="https://donmar-warehouse.transforms.svdcdn.com/production/Productions/The-Maids/Lydia-Wilson-and-Yerin-Ha-in-THE-MAIDS-Donmar-Warehouse-photo-by-Marc-Brenner.jpg?w=400&amp;h=663&amp;q=100&amp;auto=format&amp;fit=crop&amp;crop=focalpoint&amp;fp-x=0.4847&amp;fp-y=0.3081&amp;dm=1762354475&amp;s=8f5912492f9b40e3ee44a4ad8003093e" width="400" height="663" alt="A woman is talking on a mobile phone. Another woman offers her a cup of tea but is ignored." loading="lazy"></picture><div class="c-banner__text"><h3 class="c-banner__title">Sign up to our mailing list</h3><div class="c-banner__summary"><p>Get the latest news about casting, new productions and ticket releases to your inbox</p></div><div  class="c-banner__action o-button o-button--underline o-button--xl">
+				Find out more
+			</div></div></a></div></section><div class="c-page-footer " id="page-footer"></div></main><div class="c-site__footer"><footer class="c-site-footer o-grid"><section class="c-site-footer__social"><nav class="c-site-social " aria-label="Social Media Links"><ul class="c-site-social__list"><li class="c-site-social__item"><a class="c-site-social__link" href="https://www.instagram.com/donmarwarehouse" rel="noreferrer"><span class="h-accessibility">Instagram</span><span class="c-site-social__icon icon i-social" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" viewBox="0 0 70 70"><g clip-path="url(#a)"><path fill-rule="evenodd" d="M35 15c-5.432 0-6.113.023-8.246.12-2.129.097-3.583.436-4.855.93a9.802 9.802 0 0 0-3.542 2.307 9.802 9.802 0 0 0-2.307 3.542c-.494 1.272-.833 2.726-.93 4.855C15.023 28.887 15 29.568 15 35s.023 6.113.12 8.246c.097 2.129.436 3.583.93 4.855a9.802 9.802 0 0 0 2.307 3.542 9.804 9.804 0 0 0 3.542 2.307c1.272.494 2.726.833 4.855.93 2.133.097 2.814.12 8.246.12s6.113-.023 8.246-.12c2.129-.097 3.583-.436 4.855-.93a9.804 9.804 0 0 0 3.542-2.307 9.804 9.804 0 0 0 2.307-3.542c.494-1.272.833-2.726.93-4.855.097-2.133.12-2.814.12-8.246s-.023-6.113-.12-8.246c-.097-2.129-.436-3.583-.93-4.855a9.804 9.804 0 0 0-2.307-3.542 9.802 9.802 0 0 0-3.542-2.307c-1.272-.494-2.726-.833-4.855-.93C41.113 15.023 40.432 15 35 15Zm0 3.604c5.34 0 5.973.02 8.082.116 1.95.09 3.009.415 3.713.689.934.363 1.6.796 2.3 1.496.7.7 1.133 1.366 1.496 2.3.274.704.6 1.763.689 3.713.096 2.11.116 2.742.116 8.082 0 5.34-.02 5.973-.116 8.082-.09 1.95-.415 3.009-.689 3.713-.363.934-.796 1.6-1.496 2.3-.7.7-1.366 1.133-2.3 1.496-.704.274-1.763.6-3.713.689-2.109.096-2.741.116-8.082.116-5.34 0-5.973-.02-8.082-.116-1.95-.09-3.009-.415-3.713-.689-.934-.363-1.6-.796-2.3-1.496-.7-.7-1.133-1.366-1.496-2.3-.274-.704-.6-1.763-.689-3.713-.096-2.11-.116-2.742-.116-8.082 0-5.34.02-5.973.116-8.082.09-1.95.415-3.009.689-3.713.363-.934.796-1.6 1.496-2.3.7-.7 1.366-1.133 2.3-1.496.704-.274 1.763-.6 3.713-.689 2.11-.096 2.742-.116 8.082-.116Zm.006 23.08a6.69 6.69 0 1 1 0-13.38 6.69 6.69 0 0 1 0 13.38ZM24.7 34.994c0 5.692 4.614 10.306 10.306 10.306 5.692 0 10.307-4.614 10.307-10.306 0-5.692-4.615-10.307-10.307-10.307S24.7 29.302 24.7 34.994Zm20.916-8.185a2.425 2.425 0 1 0 0-4.85 2.425 2.425 0 0 0 0 4.85Z" clip-rule="evenodd"/></g><defs><clipPath id="a"><path d="M0 0h70v70H0z"/></clipPath></defs></svg></span></a></li><li class="c-site-social__item"><a class="c-site-social__link" href="https://www.facebook.com/donmarwarehouse" rel="noreferrer"><span class="h-accessibility">Facebook</span><span class="c-site-social__icon icon i-social" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" viewBox="0 0 70 70"><g clip-path="url(#a)"><path fill-rule="evenodd" d="M45 22.605V16h-5.659c-2.377 0-4.341.938-5.891 2.813-1.55 1.876-2.326 4.118-2.326 6.728v3.67H25v6.197h6.124V54h6.744V35.408h6.124L45 29.21h-7.132v-4.403c0-.598.155-1.115.465-1.55.31-.434.646-.652 1.008-.652H45Z" clip-rule="evenodd"/></g><defs><clipPath id="a"><path d="M0 0h70v70H0z"/></clipPath></defs></svg></span></a></li><li class="c-site-social__item"><a class="c-site-social__link" href="https://www.youtube.com/donmarwarehouse" rel="noreferrer"><span class="h-accessibility">YouTube</span><span class="c-site-social__icon icon i-social" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" viewBox="0 0 70 70"><g clip-path="url(#a)"><path fill-rule="evenodd" d="M35 19c-5.414 0-9.604.174-12.568.523-2.965.35-5.15 1.096-6.553 2.241-1.404 1.145-2.234 2.806-2.492 4.983C13.129 28.925 13 31.843 13 35.5s.129 6.575.387 8.752c.258 2.178 1.088 3.846 2.492 5.005 1.404 1.159 3.588 1.905 6.553 2.24C25.397 51.834 29.586 52 35 52s9.603-.167 12.568-.502c2.965-.336 5.15-1.082 6.553-2.241 1.404-1.159 2.234-2.827 2.492-5.005.258-2.177.387-5.095.387-8.752 0-3.657-.129-6.575-.387-8.753-.258-2.177-1.088-3.838-2.492-4.983-1.404-1.145-3.588-1.892-6.553-2.24C44.603 19.173 40.414 19 35 19Zm5.413 16.645-9.004 4.218c-.391.183-.724.183-.998 0-.274-.182-.411-.495-.411-.937v-7.89c0-.418.137-.717.411-.9.274-.182.607-.182.998 0l9.004 4.18c.391.183.587.404.587.664s-.196.482-.587.665Z" clip-rule="evenodd"/></g><defs><clipPath id="a"><path d="M0 0h70v70H0z"/></clipPath></defs></svg></span></a></li><li class="c-site-social__item"><a class="c-site-social__link" href="https://www.tiktok.com/@donmarwarehouse" rel="noreferrer"><span class="h-accessibility">TikTok</span><span class="c-site-social__icon icon i-social" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" viewBox="0 0 70 70"><g clip-path="url(#a)"><path d="M48.995 32.351c-.267.026-.535.04-.804.041a8.676 8.676 0 0 1-4.154-1.059 8.763 8.763 0 0 1-3.155-2.924v13.565a10.09 10.09 0 0 1-1.675 5.57 9.96 9.96 0 0 1-4.462 3.693 9.862 9.862 0 0 1-5.743.57 9.915 9.915 0 0 1-5.09-2.744 10.053 10.053 0 0 1-2.721-5.133 10.106 10.106 0 0 1 .566-5.793 10.008 10.008 0 0 1 3.661-4.5 9.881 9.881 0 0 1 5.523-1.69c.208 0 .41.02.614.033v4.94c-.203-.024-.404-.062-.614-.062-1.345 0-2.636.54-3.587 1.499a5.139 5.139 0 0 0-1.487 3.618 5.14 5.14 0 0 0 1.486 3.618 5.052 5.052 0 0 0 3.588 1.5c2.803 0 5.278-2.228 5.278-5.054L36.268 19h4.687a8.834 8.834 0 0 0 2.608 5.403A8.696 8.696 0 0 0 49 26.86v5.491"/></g><defs><clipPath id="a"><path d="M0 0h70v70H0z"/></clipPath></defs></svg></span></a></li><li class="c-site-social__item"><a class="c-site-social__link" href="https://www.linkedin.com/company/donmar-warehouse/" rel="noreferrer"><span class="h-accessibility">LinkedIn</span><span class="c-site-social__icon icon i-social" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" viewBox="0 0 70 70"><g clip-path="url(#a)"><path fill-rule="evenodd" d="M25.1 19.09c0 1.085-.349 2.025-1.047 2.819S22.36 23.1 21.07 23.1c-1.238 0-2.226-.384-2.964-1.152C17.37 21.181 17 20.255 17 19.17s.362-2.051 1.087-2.898C18.81 15.423 19.805 15 21.07 15c1.238 0 2.212.404 2.924 1.211.71.807 1.08 1.767 1.106 2.879ZM17 51V24.9h8.1V51H17Zm11.896-16.851c0-1.514-.02-2.918-.059-4.213a197.402 197.402 0 0 0-.137-3.559h7.212l.352 3.386h.157c.523-.795 1.411-1.655 2.665-2.578 1.255-.923 2.927-1.385 5.017-1.385a9.72 9.72 0 0 1 3.527.635 7.249 7.249 0 0 1 2.822 1.943c.784.872 1.405 1.968 1.862 3.29.457 1.32.686 2.878.686 4.674V51h-8.035V37.496c0-1.565-.32-2.88-.96-3.944-.64-1.064-1.653-1.596-3.037-1.596-1.072 0-1.901.34-2.49 1.02-.587.679-1.012 1.365-1.273 2.058a3.393 3.393 0 0 0-.216.885 8.585 8.585 0 0 0-.058 1V51h-8.035V34.149Z" clip-rule="evenodd"/></g><defs><clipPath id="a"><path d="M0 0h70v70H0z"/></clipPath></defs></svg></span></a></li><li class="c-site-social__item"><a class="c-site-social__link" href="https://bsky.app/profile/donmarwarehouse.bsky.social" rel="noreferrer"><span class="h-accessibility">BlueSky</span><span class="c-site-social__icon icon i-social" aria-hidden="true"><svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M46.3295 21.4232C41.7436 24.9424 36.8109 32.0777 34.9999 35.907C33.1887 32.078 28.2563 24.9423 23.6703 21.4232C20.3614 18.884 15 16.9192 15 23.1711C15 24.4197 15.7003 33.66 16.1111 35.1601C17.5389 40.3755 22.7417 41.7057 27.3697 40.9006C19.28 42.308 17.2221 46.9696 21.6664 51.6313C30.1071 60.4846 33.7981 49.4099 34.7443 46.5722C34.9177 46.0519 34.9988 45.8086 35 46.0155C35.0012 45.8086 35.0823 46.0519 35.2557 46.5722C36.2015 49.4099 39.8924 60.4849 48.3336 51.6313C52.7779 46.9696 50.7201 42.3077 42.6303 40.9006C47.2585 41.7057 52.4613 40.3755 53.8889 35.1601C54.2997 33.6598 55 24.4196 55 23.1711C55 16.9192 49.6385 18.884 46.3297 21.4232H46.3295Z" fill="currentColor"/></svg></span></a></li></ul></nav></section><section class="c-site-footer__contact"><h2 class="h-accessibility">Contact Details</h2><dl class="c-site-footer__tel"><dt class="c-site-footer__contact-label">
+							Box Office <span class="h-accessibility">phone number</span></dt><dd><a href="tel:442032823808">020 3282 3808</a></dd></dl><dl class="c-site-footer__email"><dt class="h-accessibility">
+							Box Office email address
+						</dt><dd><a href="/cdn-cgi/l/email-protection#4f2d2037202929262c2a0f2b2021222e3d382e3d2a27203a3c2a612c2022"><span class="__cf_email__" data-cfemail="d9bbb6a1b6bfbfb0babc99bdb6b7b4b8abaeb8abbcb1b6acaabcf7bab6b4">[email&#160;protected]</span></a></dd></dl><address class="c-site-footer__address">
+			Donmar Warehouse<br/>
+			41 Earlham Street, London, WC2H 9LX
+		</address></section><nav class="c-site-footer__nav o-nav"><ul class="o-nav__list"><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/our-story">About Us</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/your-visit">Your Visit</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/contact-us">Contact Us</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/news">News</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://careers.donmarwarehouse.com/">Jobs &amp; Opportunities</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/our-story/team">Team</a></li></ul><ul class="o-nav__list"><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/privacy-and-cookies">Privacy &amp; Cookies policy</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/terms-and-conditions-of-sale-and-entry">Terms &amp; conditions</a></li><li class="o-nav__item"><a class="o-nav__link" href="https://www.donmarwarehouse.com/sitemap">Site Map</a></li></ul></nav><section class="c-site-footer__meta"><h2 class="h-accessibility">Small Print</h2><p>© Donmar Warehouse 2026.<br />
+Donmar Warehouse Projects ltd is a registered charity no. 284262.  <br />
+Limited company registration no. 01611861.  Registered offices: 3 Dryden Street, London, WC2E 9NA.</p><div><p class="c-site-footer__credit"><a href="https://supercooldesign.co.uk" class="o-nav__link" style="display:inline" rel="nofollow">Website by <span lang="en">Supercool</span></a>.</p><div id="wcb" class="carbonbadge c-site-footer__carbon-badge"></div></div></section></footer></div><div id="site-modal"><v-modal></v-modal></div></div><!-- Civic UK Cookie Include --><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js" type="text/javascript"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+
+  gtag('consent', 'default', {
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'wait_for_update': 500,
+  });
+</script><script>
+  var config = {
+    apiKey: 'a88f7e6bf38bdc4266b54030ebeddac0c73ad3a0',
+    product: 'CUSTOM',
+    necessaryCookies: ['QueueNumber'], //remove if not spektrix
+    optionalCookies: [
+      {
+        name: 'analytics',
+        label: 'Analytical Cookies',
+        description: 'Analytical cookies help us to fulfil our charitable objectives, apply for funding to keep us doing the things we do best and improve our website by collecting and reporting information on its usage.',
+        cookies: [
+          '_ga',
+          '_ga*',
+          '_gid',
+          '_gat',
+          '__utma',
+          '__utmt',
+          '__utmb',
+          '__utmc',
+          '__utmz',
+          '__utmv',
+        ],
+        onAccept: function () {
+          gtag('consent', 'update', {
+            'analytics_storage': 'granted',
+          });
+
+          dispatchCookieConsentUpdatedEvent();
+
+          document.dispatchEvent(new CustomEvent('cookie-consent-updated'));
+        },
+        onRevoke: function () {
+          gtag('consent', 'update', {
+            'analytics_storage': 'denied',
+          });
+        }
+      },
+      {
+        name: 'marketing',
+        label: 'Marketing Cookies',
+        description: 'We use marketing cookies to help us improve the relevancy of advertising campaigns you receive.',
+        cookies: [
+	        'fr',
+	        'tr',
+	        '_fbc',
+	        '_fbp',
+        ],
+        onAccept: function () {
+          gtag('consent', 'update', {
+            'ad_user_data': 'granted',
+            'ad_personalization': 'granted',
+            'ad_storage': 'granted',
+          });
+
+          dispatchCookieConsentUpdatedEvent();
+
+          document.dispatchEvent(new CustomEvent('cookie-consent-updated'));
+        },
+        onRevoke: function () {
+          gtag('consent', 'update', {
+            'ad_user_data': 'denied',
+            'ad_personalization': 'denied',
+            'ad_storage': 'denied',
+          });
+        }
+      },
+      {
+        name: 'security',
+        label: 'Security',
+        description: 'We use security cookies to help protect the site from malicious access.',
+        cookies: [],
+        onAccept: function () { },
+        onRevoke: function () { }
+      },
+    ],
+    mode: 'gdpr',
+    initialState: 'box',
+    rejectButton: true,
+    subDomains: true,
+    excludedCountries: 'open',
+    position: 'left',
+    layout: 'popup',
+    acceptBehaviour: 'all',
+    closeStyle: 'icon',
+    branding: {
+      fontColor: '',
+      backgroundColor: '#000',
+      removeAbout: true,
+      removeIcon: true,
+    },
+    statement: {
+      description: 'For more detailed information, please check our',
+      name: 'Cookie and Privacy Statement',
+      updated: '01/01/2023',
+      url: '/cookie-policy',
+    },
+    text: {
+      notifyTitle: 'This website uses cookies',
+      title: 'Your cookie settings',
+    },
+    onLoad: civicCookieControlInit,
+  };
+
+  CookieControl.load(config);
+
+  function civicCookieControlInit() {
+    window.civicLoaded = true;
+
+    /**
+     * The onAccept handlers within Civic are triggered before it calls it's onLoad handler however
+     * at the time of Civic calling onAccept, some aspects of Civic aren't fully instaited. Therefore
+     * we use the window.civicLoad property as a guard in our code and then trigger the 'cookie-consent-updated'
+     * event.
+     */
+    document.dispatchEvent(new CustomEvent('cookie-consent-updated'));
+  }
+  
+  var cookieControlUpdateTimer;
+
+  function dispatchCookieConsentUpdatedEvent() {
+    clearTimeout(cookieControlUpdateTimer);
+
+    cookieControlUpdateTimer = setTimeout(function() {
+      dataLayer.push({ 'event': 'cookie_consent_updated' });
+    }, 500);
+  }
+</script><!-- End Civic UK Cookie Include --><script src="https://www.donmarwarehouse.com/dist/assets/polyfills-legacy-BcFArbdf.js" nomodule crossorigin></script><script src="https://www.donmarwarehouse.com/dist/assets/app-legacy-CLohjbfM.js" nomodule crossorigin></script><script src="https://webcomponents.spektrix.com/stable/webcomponents-loader.js"></script><script src="https://webcomponents.spektrix.com/stable/spektrix-component-loader.js" data-components="spektrix-memberships,spektrix-donate,spektrix-merchandise,spektrix-login-status,spektrix-gift-vouchers" async></script><script
+	type='text/javascript'
+	src='https://tickets.donmarwarehouse.com/donmarwarehouse/website/scripts/integrate.js' async></script><script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script><!--Page Schema--><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "author": {
+        "@id": "https://www.donmarwarehouse.com/"
+    },
+     "copyrightHolder": {
+            "@id": "Donmar Warehouse"
+        },
+    "copyrightYear": "2026",
+    "creator": {
+        "@id": "https://www.supercooldesign.co.uk"
+     },
+    "dateModified": "2026-10-24T13:44:57+01:00",
+    "description": "",
+    "headline": "What&#039;s on",
+    "image": {
+        "@type": "ImageObject",
+        "url": ""
+    },
+    "inLanguage": "en-gb",
+    "name": "Donmar Warehouse",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "search?q={search_term_string}"
+    },
+    "publisher": {
+        "@id": "Donmar Warehouse"
+    },
+    "url": "https://www.donmarwarehouse.com/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "logo": "",
+  "url": "https://www.donmarwarehouse.com/",
+  "sameAs" : ["https://www.instagram.com/donmarwarehouse","https://www.facebook.com/donmarwarehouse","https://www.youtube.com/donmarwarehouse","https://www.tiktok.com/@donmarwarehouse","https://www.linkedin.com/company/donmar-warehouse/","https://bsky.app/profile/donmarwarehouse.bsky.social"],
+  
+
+
+,
+  "email": "boxoffice@donmarwarehouse.com",
+  "name": "Donmar Warehouse",
+  
+"contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "442032823808",
+      "contactType" : "Sales",
+      "areaServed" : "GB",
+      "availableLanguage": "English"
+    }
+] 
+
+}
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://www.donmarwarehouse.com/",
+  "name": "Donmar Warehouse",
+  "email": "boxoffice@donmarwarehouse.com",
+  "logo": "",
+  "telephone": "442032823808",
+  "priceRange": "$$",
+  "url": "https://www.donmarwarehouse.com/",
+  "sameAs" : ["https://www.instagram.com/donmarwarehouse",
+  "https://www.facebook.com/donmarwarehouse",
+  "https://www.youtube.com/donmarwarehouse",
+  "https://www.tiktok.com/@donmarwarehouse",
+  "https://www.linkedin.com/company/donmar-warehouse/",
+  "https://bsky.app/profile/donmarwarehouse.bsky.social"
+   ],
+  
+  "image": [  ]
+
+,
+  
+
+
+,
+  
+"contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "442032823808",
+      "contactType" : "Sales",
+      "areaServed" : "GB",
+      "availableLanguage": "English"
+    }
+] 
+
+  }
+  </script><!-- dev only edit buttons --></body></html>

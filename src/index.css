@@ -1,0 +1,460 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Chronicle Display';
+  src: local('Chronicle Display'), local('ChronicleDisplay-Roman'), local('Fraunces');
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chronicle Display';
+  src: local('Chronicle Display Italic'), local('ChronicleDisplay-Italic'), local('Instrument Serif Italic');
+  font-weight: 300 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@theme {
+  --font-display: 'Chronicle Display', 'Fraunces', 'Instrument Serif', Georgia, serif;
+  --font-instrument: 'Instrument Serif', 'Fraunces', Georgia, serif;
+  --font-fraunces: 'Fraunces', 'Chronicle Display', Georgia, serif;
+  --font-sans: 'Fraunces', Georgia, serif;
+  --font-mono: 'Fira Code', ui-monospace, SFMono-Regular, monospace;
+}
+
+:root,
+[data-theme="light"] {
+  --bg-canvas: #FAF6F0;
+  --bg-surface: #FFFFFF;
+  --bg-subtle: #F2EBE1;
+  --bg-elevated: #EAE0D2;
+  --text-primary: #181310;
+  --text-secondary: #4E453C;
+  --text-muted: #786E62;
+  --accent-crimson: #9E1B32;
+  --accent-crimson-hover: #7F1527;
+  --accent-gold: #9A6B13;
+  --accent-gold-bright: #B8860B;
+  --accent-emerald: #15803D;
+  --accent-azure: #0369A1;
+  --border-hairline: rgba(24, 19, 16, 0.12);
+  --border-strong: rgba(158, 27, 50, 0.28);
+  --card-shadow: 0 16px 40px -12px rgba(24, 19, 16, 0.08);
+  --spotlight-tint: rgba(158, 27, 50, 0.06);
+}
+
+[data-theme="dark"] {
+  --bg-canvas: #0C0A0E;
+  --bg-surface: #15121A;
+  --bg-subtle: #1E1A24;
+  --bg-elevated: #26202E;
+  --text-primary: #F7F3EB;
+  --text-secondary: #C8C0B3;
+  --text-muted: #8E8477;
+  --accent-crimson: #C8233C;
+  --accent-crimson-hover: #E11D48;
+  --accent-gold: #E5B84B;
+  --accent-gold-bright: #F3CA62;
+  --accent-emerald: #34D399;
+  --accent-azure: #38BDF8;
+  --border-hairline: rgba(247, 243, 235, 0.12);
+  --border-strong: rgba(229, 184, 75, 0.35);
+  --card-shadow: 0 28px 70px rgba(0, 0, 0, 0.75);
+  --spotlight-tint: rgba(229, 184, 75, 0.11);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Taps should act immediately (no double-tap-zoom delay) on every interactive control. */
+  button,
+  a,
+  select,
+  summary,
+  [role="button"] {
+    touch-action: manipulation;
+  }
+
+  body {
+    min-height: 100vh;
+    min-height: 100dvh;
+    font-family: 'Fraunces', Georgia, serif;
+    font-optical-sizing: auto;
+    font-variation-settings: "SOFT" 40, "WONK" 0;
+    background-color: var(--bg-canvas);
+    color: var(--text-primary);
+    overflow-x: hidden;
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+
+  h1, h2, .font-chronicle, .font-display, .font-serif-display {
+    font-family: 'Chronicle Display', 'Fraunces', 'Instrument Serif', Georgia, serif;
+    font-optical-sizing: auto;
+  }
+
+  .font-instrument {
+    font-family: 'Instrument Serif', 'Fraunces', Georgia, serif;
+  }
+
+  .font-fraunces {
+    font-family: 'Fraunces', 'Chronicle Display', Georgia, serif;
+  }
+
+  code, pre, input, select, .font-mono, .font-fira {
+    font-family: 'Fira Code', ui-monospace, SFMono-Regular, monospace;
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: "calt" 1, "zero" 1;
+  }
+}
+
+/* Harmonise sub-module surfaces and typography in Matinée Light Mode */
+[data-theme="light"] .bg-\[\#12151E\],
+[data-theme="light"] .bg-\[\#13151C\],
+[data-theme="light"] .bg-\[\#13151C\]\/75,
+[data-theme="light"] .bg-\[\#0D0E14\],
+[data-theme="light"] .bg-\[\#0B0C10\],
+[data-theme="light"] .bg-\[\#0E1017\] {
+  background-color: #FFFFFF !important;
+  border-color: rgba(24, 19, 16, 0.12) !important;
+  box-shadow: 0 8px 24px -8px rgba(24, 19, 16, 0.05);
+}
+
+[data-theme="light"] .bg-\[\#08080B\],
+[data-theme="light"] .bg-\[\#090B10\],
+[data-theme="light"] .bg-\[\#1B1E28\],
+[data-theme="light"] .bg-\[\#1B1E28\]\/70,
+[data-theme="light"] .bg-\[\#1B1E28\]\/60,
+[data-theme="light"] .bg-\[\#14161F\],
+[data-theme="light"] .bg-\[\#1A1E2B\] {
+  background-color: #F3ECE2 !important;
+  border-color: rgba(24, 19, 16, 0.14) !important;
+}
+
+[data-theme="light"] .text-\[\#ECE9E2\],
+[data-theme="light"] .text-\[\#F4F0EA\] {
+  color: #181310 !important;
+}
+
+[data-theme="light"] .text-\[\#B8B4AA\],
+[data-theme="light"] .text-\[\#A39E93\],
+[data-theme="light"] .text-\[\#C4BFB5\],
+[data-theme="light"] .text-\[\#D6D1C7\],
+[data-theme="light"] .text-\[\#9E9A90\] {
+  color: #4E453C !important;
+}
+
+[data-theme="light"] .text-\[\#6E6A61\] {
+  color: #786E62 !important;
+}
+
+[data-theme="light"] .text-\[\#D4AF37\] {
+  color: #9E1B32 !important;
+}
+
+[data-theme="light"] .text-\[\#6EE7B7\],
+[data-theme="light"] .text-\[\#2E8B57\] {
+  color: #15803D !important;
+}
+
+[data-theme="light"] .text-\[\#38BDF8\] {
+  color: #0369A1 !important;
+}
+
+[data-theme="light"] .border-\[\#232736\],
+[data-theme="light"] .border-\[\#262936\],
+[data-theme="light"] .border-\[\#222634\],
+[data-theme="light"] .border-\[\#1E2230\],
+[data-theme="light"] .border-\[\#F4F0EA\]\/10,
+[data-theme="light"] .border-\[\#F4F0EA\]\/12,
+[data-theme="light"] .border-\[\#F4F0EA\]\/15,
+[data-theme="light"] .border-\[\#F4F0EA\]\/8 {
+  border-color: rgba(24, 19, 16, 0.12) !important;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes sottovoce-marquee {
+  0% {
+    transform: translate3d(0%, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.animate-sottovoce-marquee {
+  display: flex;
+  width: max-content;
+  animation: sottovoce-marquee 42s linear infinite;
+}
+
+.animate-sottovoce-marquee:hover {
+  animation-play-state: paused;
+}
+
+@keyframes border-beam-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.border-beam-glow {
+  animation: border-beam-spin 9s linear infinite;
+}
+
+@keyframes blur-word-reveal {
+  0% {
+    opacity: 0;
+    filter: blur(10px);
+    transform: translate3d(0, 10px, 0);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0px);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animate-blur-word {
+  display: inline-block;
+  opacity: 0;
+  animation: blur-word-reveal 0.55s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@keyframes folio-enter {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 12px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animate-folio-enter {
+  animation: folio-enter 0.45s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* Timetable category palette — one hue per category, tuned for contrast on both surfaces. */
+:root,
+[data-theme="light"] {
+  --cat-opera: #B3203D;
+  --cat-classical: #2457C5;
+  --cat-live_music: #6D3FC9;
+  --cat-drama: #B45F06;
+  --cat-musical: #BE2A93;
+  --cat-dance: #0B7F8B;
+}
+
+[data-theme="dark"] {
+  --cat-opera: #F0647F;
+  --cat-classical: #6FA0FF;
+  --cat-live_music: #A98BFF;
+  --cat-drama: #F5A524;
+  --cat-musical: #F172C9;
+  --cat-dance: #3DD0DE;
+}
+
+[data-theme="dark"] .leaflet-tile-pane .leaflet-layer { filter: none; }
+.leaflet-control-attribution { font-size: 10px; }
+/* Standalone event / venue maps: the Journey Planner's basemap, darkened the same way in the dark theme. */
+[data-theme="dark"] .place-map .tt-basemap { filter: invert(1) hue-rotate(180deg) brightness(.92) contrast(1.05) saturate(.35); }
+
+/* ───────────────────────────────────────────────────────────────────────────
+   Responsive / native-shell layer
+   Applies in browsers and in the Android / iOS / macOS webview shells alike.
+   ─────────────────────────────────────────────────────────────────────────── */
+
+/* Keep chrome clear of notches, rounded corners and home indicators. */
+.app-header {
+  padding-top: max(0.75rem, env(safe-area-inset-top));
+  padding-bottom: 0.75rem;
+  padding-left: max(1rem, env(safe-area-inset-left));
+  padding-right: max(1rem, env(safe-area-inset-right));
+}
+
+.app-tabbar {
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+.app-main {
+  padding-top: 1.5rem;
+  /* Clear the phone tab bar (~3.5rem) plus the home indicator. */
+  padding-bottom: calc(5rem + env(safe-area-inset-bottom));
+  padding-left: max(1rem, env(safe-area-inset-left));
+  padding-right: max(1rem, env(safe-area-inset-right));
+}
+
+@media (min-width: 48rem) {
+  .app-main {
+    padding-bottom: max(2rem, calc(env(safe-area-inset-bottom) + 1rem));
+  }
+}
+
+@media (min-width: 40rem) {
+  .app-header {
+    padding-left: max(2rem, env(safe-area-inset-left));
+    padding-right: max(2rem, env(safe-area-inset-right));
+  }
+  .app-main {
+    padding-top: 2rem;
+    padding-left: max(2rem, env(safe-area-inset-left));
+    padding-right: max(2rem, env(safe-area-inset-right));
+  }
+}
+
+/* A phone on its side has ~390px of height: don't spend a quarter of it on a pinned header. */
+@media (max-height: 30rem) and (orientation: landscape) {
+  .app-header {
+    position: static;
+  }
+}
+
+/* Touch: 44px hit targets, and 16px form text so iOS doesn't zoom the page on focus. */
+@media (pointer: coarse) {
+  button,
+  [role="button"],
+  select,
+  summary,
+  input:not([type="range"]):not([type="checkbox"]):not([type="radio"]) {
+    min-height: 44px;
+  }
+
+  button,
+  [role="button"] {
+    min-width: 44px;
+  }
+
+  input:not([type="range"]):not([type="checkbox"]):not([type="radio"]),
+  select,
+  textarea {
+    font-size: 16px;
+  }
+
+  input[type="range"] {
+    min-height: 32px;
+  }
+}
+
+/* Marquee + decorative motion off for people (and low-power modes) that ask for it. */
+@media (prefers-reduced-motion: reduce) {
+  .animate-sottovoce-marquee,
+  .border-beam-glow {
+    animation: none;
+  }
+  .animate-folio-enter,
+  .animate-blur-word {
+    animation: none;
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+  .sv-ribbon {
+    overflow-x: auto;
+  }
+}
+
+/* Controls that sit on the always-dark 3D scene keep their dark-surface palette in Matinée light mode
+   (the global light overrides above would otherwise turn their text dark-on-dark). */
+[data-theme="light"] .sv-on-scene .text-\[\#ECE9E2\] { color: #ECE9E2 !important; }
+[data-theme="light"] .sv-on-scene .text-\[\#B8B4AA\] { color: #B8B4AA !important; }
+[data-theme="light"] .sv-on-scene .text-\[\#9E9A90\] { color: #9E9A90 !important; }
+[data-theme="light"] .sv-on-scene .text-\[\#D4AF37\] { color: #D4AF37 !important; }
+
+/* Two-handle price slider: both range inputs share one track; only the thumbs take pointer events. */
+.tt-range { position: relative; height: 20px; }
+.tt-range::before,
+.tt-range::after { content: ""; position: absolute; top: 50%; height: 4px; margin-top: -2px; border-radius: 2px; }
+.tt-range::before { left: 0; right: 0; background: var(--border-hairline); }
+.tt-range::after { left: var(--lo); right: calc(100% - var(--hi)); background: var(--accent-crimson); }
+.tt-range input[type="range"] { position: absolute; inset: 0; width: 100%; height: 20px; margin: 0; background: none; pointer-events: none; -webkit-appearance: none; appearance: none; z-index: 1; }
+.tt-range input[type="range"]::-webkit-slider-runnable-track { background: none; height: 20px; }
+.tt-range input[type="range"]::-moz-range-track { background: none; }
+.tt-range input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; pointer-events: auto; width: 16px; height: 16px; margin-top: 2px; border-radius: 50%; background: var(--accent-crimson); border: 2px solid var(--bg-surface); box-shadow: 0 0 0 1px var(--accent-crimson); cursor: pointer; }
+.tt-range input[type="range"]::-moz-range-thumb { pointer-events: auto; width: 12px; height: 12px; border-radius: 50%; background: var(--accent-crimson); border: 2px solid var(--bg-surface); cursor: pointer; }
+
+/* The wordmark is dark ink on cream: flip it for dark mode (hue-rotate keeps the gold glow gold). */
+[data-theme='dark'] .brand-logo {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+/* The media dock's seek bar: a hairline track filled in crimson, with a small round thumb. */
+.dock-seek {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 1.25rem;
+  background: transparent;
+  cursor: pointer;
+}
+.dock-seek:disabled { cursor: default; opacity: 0.4; }
+.dock-seek::-webkit-slider-runnable-track {
+  height: 4px;
+  border-radius: 999px;
+  background: linear-gradient(to right, var(--accent-crimson) var(--pct, 0%), var(--border-hairline) var(--pct, 0%));
+}
+.dock-seek::-moz-range-track { height: 4px; border-radius: 999px; background: var(--border-hairline); }
+.dock-seek::-moz-range-progress { height: 4px; border-radius: 999px; background: var(--accent-crimson); }
+.dock-seek::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 12px;
+  height: 12px;
+  margin-top: -4px;
+  border-radius: 50%;
+  border: 2px solid var(--bg-surface);
+  background: var(--accent-crimson);
+  box-shadow: 0 0 0 1px var(--accent-crimson);
+}
+.dock-seek::-moz-range-thumb {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid var(--bg-surface);
+  background: var(--accent-crimson);
+}
+.dock-seek:focus-visible { outline: 2px solid var(--accent-gold); outline-offset: 2px; border-radius: 4px; }
+
+/* Argon: every AI-powered action wears this button so it is obvious which features call the model. */
+.argon-btn {
+  --argon-a: #7C5CFF;
+  --argon-b: #22D3EE;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.75rem 0.4rem 0.5rem;
+  border-radius: 999px;
+  border: 1.5px solid transparent;
+  background:
+    linear-gradient(var(--bg-surface), var(--bg-surface)) padding-box,
+    linear-gradient(120deg, var(--argon-a), var(--argon-b)) border-box;
+  color: var(--text-primary);
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+.argon-btn:hover:not(:disabled) { box-shadow: 0 0 0 3px color-mix(in srgb, var(--argon-a) 22%, transparent); transform: translateY(-1px); }
+.argon-btn:disabled { opacity: 0.55; cursor: default; }
+.argon-btn__mark { display: grid; place-items: center; width: 1.35rem; height: 1.35rem; border-radius: 50%; background: linear-gradient(135deg, var(--argon-a), var(--argon-b)); color: #fff; flex: none; }
+.argon-btn__mark svg { width: 0.85rem; height: 0.85rem; }
+.argon-btn--busy .argon-btn__mark { animation: argon-spin 1.1s linear infinite; }
+.argon-btn__tag { font-family: ui-monospace, monospace; font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; padding: 0.15rem 0.35rem; border-radius: 999px; color: #fff; background: linear-gradient(120deg, var(--argon-a), var(--argon-b)); }
+.argon-btn--icon { padding: 0.2rem; gap: 0; }
+@keyframes argon-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .argon-btn--busy .argon-btn__mark { animation: none; } }

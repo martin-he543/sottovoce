@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.sadlerswells.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//sadlers-wells-assets.s3.amazonaws.com' />
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="wp-block-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer." }
+/*# sourceURL=wp-block-styles-placeholder-inline-css */
+</style>
+<style id="wp-global-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer." }
+/*# sourceURL=wp-global-styles-placeholder-inline-css */
+</style>
+<link rel='stylesheet' id='childtheme-css' href='https://www.sadlerswells.com/themes/childtheme/assets/css/main.css?ver=1792603947' media='all' />
+<link rel='stylesheet' id='callstrakt_css-css' href='https://www.sadlerswells.com/plugins/callstrakt/assets/css/main.css?ver=1792473546' media='all' />
+<link rel='stylesheet' id='sib-front-css-css' href='https://www.sadlerswells.com/plugins/mailin/css/mailin-front.css?ver=7.1.3' media='all' />
+<script id="jquery-js" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.3.1"></script>
+<script id="jquery-js-after">
+window.jQuery || document.write('<\u0073cript src="https://www.sadlerswells.com/themes/childtheme/static/js/jquery-3.3.1.min.js">\x3C/script>')
+//# sourceURL=jquery-js-after
+</script>
+<script id="basetheme-core-js" src="https://www.sadlerswells.com/themes/basetheme/assets/build/js/core.js?ver=1.1.0"></script>
+<script id="sib-front-js-js-extra">
+var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
+var ajax_sib_front_object = {"ajax_url":"https://www.sadlerswells.com/admin/wp-admin/admin-ajax.php","ajax_nonce":"ac6fcbe999","flag_url":"https://www.sadlerswells.com/plugins/mailin/img/flags/"};
+//# sourceURL=sib-front-js-js-extra
+</script>
+<script id="sib-front-js-js" src="https://www.sadlerswells.com/plugins/mailin/js/mailin-front.js?ver=1734943146"></script>
+
+<!-- Title -->
+    <title>What's On - Sadler's Wells</title>
+
+<!-- Description -->
+    <meta name="description" content="We strive to make and share dance that inspires us all. As one of the world's leading dance organisations, we're dedicated to dance in all its forms and invite you to experience all it has to offer.">
+
+<!-- Twitter: Post -->
+    <!-- Twitter: Card Size -->
+            <meta name="twitter:card" content="summary"/>
+    
+    <!-- Twitter: Site -->
+            <meta name="twitter:site" content="@sadlers_wells"/>
+    
+    <!-- Twitter: Title -->
+            <meta name="twitter:title" content="What's On - Sadler's Wells"/>
+    
+    <!-- Twitter: Description -->
+            <meta name="twitter:description" content="We strive to make and share dance that inspires us all. As one of the world's leading dance organisations, we're dedicated to dance in all its forms and invite you to experience all it has to offer."/>
+    
+    <!-- Twitter: Image -->
+            <meta name="twitter:image" content="https://images.sadlerswells.com/uploads/2021/09/SWSecondaryLogo_red.jpg?fit=1024%2C1024"/>
+    
+<!-- Twitter: Archive -->
+
+<!-- Facebook: Post -->
+    <!-- Facebook: URL -->
+            <meta property="og:url" content="https://www.sadlerswells.com/whats-on/">
+    
+    <!-- Facebook: Site Name -->
+            <meta property="og:site_name" content="SadlersWells"/>
+    
+    <!-- Facebook: Title -->
+            <meta property="og:title" content="What's On - Sadler's Wells"/>
+    
+    <!-- Facebook: Description -->
+            <meta property="og:description" content="We strive to make and share dance that inspires us all. As one of the world's leading dance organisations, we're dedicated to dance in all its forms and invite you to experience all it has to offer."/>
+    
+    <!-- Facebook: Image -->
+            <meta property="og:image" content="https://images.sadlerswells.com/uploads/2021/09/SWSecondaryLogo_red.jpg?fit=1024%2C1024"/>
+    
+<!-- Facebook: Archive -->
+
+<!-- Canonical Tag -->
+    <link rel="canonical" href="https://www.sadlerswells.com/whats-on/">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png">
+<link rel="manifest" href="/static/site.webmanifest">
+<link rel="mask-icon" href="/static/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/static/favicon.ico">
+<meta name="msapplication-TileColor" content="#222222">
+<meta name="msapplication-config" content="/static/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8QKNR');</script>
+<!-- End Google Tag Manager -->
+    <script type='text/javascript' src='//static.queue-it.net/script/queueclient.min.js'></script>
+<script
+   data-queueit-c='sadlerswells'
+   type='text/javascript'
+   src='//static.queue-it.net/script/queueconfigloader.min.js'>
+</script>    <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type='text/javascript' id='vwoCode'>
+    window._vwo_code=window._vwo_code || (function() {
+    var account_id=242194,
+    version = 1.5,
+    settings_tolerance=2000,
+    library_tolerance=2500,
+    use_existing_jquery=false,
+    is_spa=1,
+    hide_element='body',
+    hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+    f=false,w=window,d=document,vwoCodeEl=d.querySelector('#vwoCode'),code={use_existing_jquery:function(){return use_existing_jquery},library_tolerance:function(){return library_tolerance},hide_element_style:function(){return'{'+hide_element_style+'}'},finish:function(){if(!f){f=true;var e=d.getElementById('_vis_opt_path_hides');if(e)e.parentNode.removeChild(e)}},finished:function(){return f},load:function(e){var t=d.createElement('script');t.fetchPriority='high';t.src=e;t.type='text/javascript';t.onerror=function(){_vwo_code.finish()};d.getElementsByTagName('head')[0].appendChild(t)},getVersion:function(){return version},getMatchedCookies:function(e){var t=[];if(document.cookie){t=document.cookie.match(e)||[]}return t},getCombinationCookie:function(){var e=code.getMatchedCookies(/(?:^|;)\s?(_vis_opt_exp_\d+_combi=[^;$]*)/gi);e=e.map(function(e){try{var t=decodeURIComponent(e);if(!/_vis_opt_exp_\d+_combi=(?:\d+,?)+\s*$/.test(t)){return''}return t}catch(e){return''}});var i=[];e.forEach(function(e){var t=e.match(/([\d,]+)/g);t&&i.push(t.join('-'))});return i.join('|')},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;w.settings_timer=setTimeout(function(){_vwo_code.finish()},settings_tolerance);var e=d.currentScript,t=d.createElement('style'),i=e&&!e.async?hide_element?hide_element+'{'+hide_element_style+'}':'':code.lA=1,n=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');vwoCodeEl&&t.setAttribute('nonce',vwoCodeEl.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));n.appendChild(t);var o=this.getCombinationCookie();this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&f='+ +is_spa+'&vn='+version+(o?'&c='+o:''));return settings_timer}};w._vwo_settings_timer = code.init();return code;}());
+</script>
+    <!-- Typekit fonts (Aktiv Grotesk) -->
+    <link rel="stylesheet" href="https://use.typekit.net/hto6gqw.css">
+
+</head>
+
+<body class="paged wp-singular page-template page-template-views page-template-pages page-template-whats-on page-template-viewspageswhats-on-php page page-id-1218 paged-3 page-paged-3 wp-theme-basetheme wp-child-theme-childtheme whats-on">
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8QKNR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <a href="#main-content" class="c-btn c-btn--skip-link">Skip to main content</a>
+
+<header id="head" class="c-global-head">
+    <div class="c-global-head__inner">
+        <div class="c-global-head__lhs">
+            <a class="c-global-head__logo-link" href="https://www.sadlerswells.com" aria-label="Sadler's Wells home">
+                <div class="c-global-head__logo">
+                    <svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd"><path fill="#FFF" d="M1.017 1.017h117.966v117.966H1.017z"/>
+        <path d="M74.636 21.249c.51.638.766 1.66.766 3.065 0 1.277-.255 2.299-.894 3.065-.639.767-1.533 1.15-2.682 1.15h-1.66v-8.302h1.915c1.15-.128 1.916.255 2.555 1.022zm-28.61 4.47h3.066l-1.533-5.237-1.533 5.237zm2.81 30.525c-.383-.255-1.021-.51-1.788-.51h-1.916v3.575h2.044c.766 0 1.405-.127 1.788-.51.383-.256.51-.767.51-1.405-.127-.384-.382-.894-.638-1.15zM119.593.814v118.78H.813V.813h118.78zM92.772 31.85h10.345l.383-3.449H96.86V16.78h-4.087v15.07zm-65.648 69.352h-7.28v-2.683h6.386V95.2h-6.386v-2.427h6.897v-3.32H15.885v15.07H26.74l.383-3.32zm0-36.784h-7.28v-2.682h6.386v-3.32h-6.386v-2.427h6.897v-3.321H15.885v15.07H26.74l.383-3.32zm.766-37.166c0-1.15-.383-2.172-1.15-2.938-.766-.766-2.043-1.405-3.83-1.66l-2.044-.383c-.639-.128-1.022-.256-1.278-.511-.255-.256-.383-.511-.383-.894 0-.384.128-.767.511-.894.383-.256.894-.384 1.533-.384.766 0 1.277.128 1.66.384.383.255.639.766.766 1.404l3.96-.383c-.128-.638-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.532a6.77 6.77 0 00-1.915-1.022c-.767-.256-1.66-.383-2.81-.383-1.916 0-3.321.383-4.47 1.15-1.022.765-1.66 1.915-1.66 3.575 0 1.278.382 2.3 1.149 3.066.766.766 2.043 1.277 3.704 1.532l2.043.383c.639.128 1.022.256 1.277.511.256.256.383.511.383.894 0 .511-.127.767-.51 1.022-.384.256-.894.383-1.66.383-.895 0-1.533-.127-1.917-.51-.383-.384-.638-.895-.766-1.533h-4.087c.255 3.576 2.427 5.364 6.641 5.364 1.15 0 2.044-.128 2.81-.383.767-.256 1.405-.639 2.044-1.022.51-.383.894-.894 1.15-1.533.382-.51.51-1.15.51-1.915zm25.161 73.822H46.41V89.45h-4.087v15.071h10.345l.383-3.448zm1.022-33.335l-3.065-6.003c.766-.51 1.277-1.022 1.66-1.788s.51-1.533.51-2.554c0-.64-.127-1.15-.255-1.789-.127-.638-.51-1.149-1.021-1.532-.511-.383-1.022-.766-1.788-1.022-.767-.255-1.789-.383-2.938-.383h-6.003v15.07h3.832v-5.236h2.17l2.428 5.237h4.47zm1.15-35.89l-5.237-15.07h-4.598l-5.237 15.07h4.087l.894-2.937h5.11l.893 2.938h4.087zm22.989 69.225H71.57V89.45h-4.087v15.071H77.83l.383-3.448zm1.15-37.933c0-1.15-.384-2.171-1.15-2.938-.766-.766-2.044-1.405-3.832-1.66l-2.043-.51c-.639-.129-1.022-.256-1.277-.512-.256-.255-.384-.51-.384-.894 0-.383.128-.766.511-.894.383-.255.894-.383 1.533-.383.766 0 1.277.128 1.66.383.383.256.639.767.767 1.405l3.959-.383c-.128-.639-.255-1.15-.51-1.788-.256-.511-.64-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.022c-.767-.255-1.66-.383-2.81-.383-1.916 0-3.32.383-4.47 1.15-1.022.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.149 3.065.766.767 2.043 1.277 3.704 1.533l2.043.383c.639.128 1.022.255 1.277.51.256.256.384.512.384.895 0 .51-.128.766-.511 1.022-.383.255-.894.383-1.66.383-.895 0-1.533-.128-1.916-.511-.384-.383-.639-.894-.767-1.533h-4.087c.256 3.577 2.427 5.365 6.642 5.365 1.15 0 2.043-.128 2.81-.384.766-.255 1.404-.638 2.043-1.021.51-.383.894-.894 1.15-1.533.383-.383.51-1.022.51-1.788zm.255-39.082c0-2.427-.639-4.215-1.916-5.492-1.277-1.278-3.193-1.916-5.747-1.916H65.95v15.07h5.747c2.555 0 4.47-.638 5.875-2.043 1.405-1.15 2.044-3.065 2.044-5.62zm25.033 75.865c0-1.15-.383-2.17-1.15-2.937-.766-.767-2.043-1.405-3.831-1.66l-2.044-.384c-.638-.127-1.021-.255-1.277-.51-.255-.256-.383-.512-.383-.895s.128-.766.51-.894c.384-.255.895-.383 1.534-.383.766 0 1.277.128 1.66.383.383.256.638.767.766 1.405l3.96-.383c-.128-.639-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.021c-.766-.256-1.66-.384-2.81-.384-1.915 0-3.32.384-4.47 1.15-1.021.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.15 3.065.766.767 2.043 1.278 3.703 1.533l2.044.383c.638.128 1.022.256 1.277.511.255.255.383.51.383.894 0 .51-.128.766-.51 1.022-.256.51-.767.638-1.533.638-.894 0-1.533-.127-1.916-.51-.383-.384-.639-.895-.766-1.533h-4.087c.255 3.576 2.426 5.364 6.641 5.364 1.15 0 2.043-.128 2.81-.383.766-.255 1.405-.639 2.043-1.022.511-.383.894-.894 1.15-1.532.255-.639.383-1.405.383-2.172zm3.32-47.256h-4.214l-1.916 9.834-2.171-9.706h-3.704l-2.171 9.706-1.916-9.834h-4.215l4.087 15.07h3.96l2.17-9.706 2.172 9.707h4.087l3.832-15.071z" fill="#E30613" fill-rule="nonzero"/>
+    </g>
+</svg>
+                </div>
+            </a>
+        </div>
+
+        <div class="c-global-head__rhs">
+            <nav class="c-global-header__menu c-header-menu">
+                <a class="c-header-menu__primary-link" href="https://www.sadlerswells.com/whats-on">What's on</a>
+                <a class="c-header-menu__secondary-link" href="https://www.sadlerswells.com?s="><i class="fal fa-search"></i><span>Search</span></a>
+                <a class="c-header-menu__secondary-link" href="https://my.sadlerswells.com/account/update"><i class="fal fa-user"></i><span id="account-name"><span class="c-account-label">Account</span><span class="c-account-message"></span></a>
+                <a class="c-header-menu__secondary-link" href="https://my.sadlerswells.com/cart/details"><i class="fal fa-shopping-basket"></i><span>Basket</span><span class="c-cart-value"></span></a>
+            </nav>
+
+            <a href="#main-menu" class="c-nav-toggle" data-modal-open>
+    <span class="c-nav-toggle__label">Menu</span>
+    <div class="c-nav-toggle__icon c-hamburger"><span></span><span></span><span></span><span></span></div>
+</a>
+
+<div id="main-menu" class="c-main-menu" data-modal hidden>
+    <h1 class="u-hidden-visually">Sadler's Wells Menu</h1>
+    <div class="a11y-modal__scroll">
+        <section class="a11y-modal__content c-main-menu__sections">
+            <div class="c-main-menu__lhs">
+                <a class="c-main-menu__logo-link" href="https://www.sadlerswells.com"  aria-label="Sadler's Wells home">
+                    <div class="c-main-menu__logo">
+                        <svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd"><path fill="#FFF" d="M1.017 1.017h117.966v117.966H1.017z"/>
+        <path d="M74.636 21.249c.51.638.766 1.66.766 3.065 0 1.277-.255 2.299-.894 3.065-.639.767-1.533 1.15-2.682 1.15h-1.66v-8.302h1.915c1.15-.128 1.916.255 2.555 1.022zm-28.61 4.47h3.066l-1.533-5.237-1.533 5.237zm2.81 30.525c-.383-.255-1.021-.51-1.788-.51h-1.916v3.575h2.044c.766 0 1.405-.127 1.788-.51.383-.256.51-.767.51-1.405-.127-.384-.382-.894-.638-1.15zM119.593.814v118.78H.813V.813h118.78zM92.772 31.85h10.345l.383-3.449H96.86V16.78h-4.087v15.07zm-65.648 69.352h-7.28v-2.683h6.386V95.2h-6.386v-2.427h6.897v-3.32H15.885v15.07H26.74l.383-3.32zm0-36.784h-7.28v-2.682h6.386v-3.32h-6.386v-2.427h6.897v-3.321H15.885v15.07H26.74l.383-3.32zm.766-37.166c0-1.15-.383-2.172-1.15-2.938-.766-.766-2.043-1.405-3.83-1.66l-2.044-.383c-.639-.128-1.022-.256-1.278-.511-.255-.256-.383-.511-.383-.894 0-.384.128-.767.511-.894.383-.256.894-.384 1.533-.384.766 0 1.277.128 1.66.384.383.255.639.766.766 1.404l3.96-.383c-.128-.638-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.532a6.77 6.77 0 00-1.915-1.022c-.767-.256-1.66-.383-2.81-.383-1.916 0-3.321.383-4.47 1.15-1.022.765-1.66 1.915-1.66 3.575 0 1.278.382 2.3 1.149 3.066.766.766 2.043 1.277 3.704 1.532l2.043.383c.639.128 1.022.256 1.277.511.256.256.383.511.383.894 0 .511-.127.767-.51 1.022-.384.256-.894.383-1.66.383-.895 0-1.533-.127-1.917-.51-.383-.384-.638-.895-.766-1.533h-4.087c.255 3.576 2.427 5.364 6.641 5.364 1.15 0 2.044-.128 2.81-.383.767-.256 1.405-.639 2.044-1.022.51-.383.894-.894 1.15-1.533.382-.51.51-1.15.51-1.915zm25.161 73.822H46.41V89.45h-4.087v15.071h10.345l.383-3.448zm1.022-33.335l-3.065-6.003c.766-.51 1.277-1.022 1.66-1.788s.51-1.533.51-2.554c0-.64-.127-1.15-.255-1.789-.127-.638-.51-1.149-1.021-1.532-.511-.383-1.022-.766-1.788-1.022-.767-.255-1.789-.383-2.938-.383h-6.003v15.07h3.832v-5.236h2.17l2.428 5.237h4.47zm1.15-35.89l-5.237-15.07h-4.598l-5.237 15.07h4.087l.894-2.937h5.11l.893 2.938h4.087zm22.989 69.225H71.57V89.45h-4.087v15.071H77.83l.383-3.448zm1.15-37.933c0-1.15-.384-2.171-1.15-2.938-.766-.766-2.044-1.405-3.832-1.66l-2.043-.51c-.639-.129-1.022-.256-1.277-.512-.256-.255-.384-.51-.384-.894 0-.383.128-.766.511-.894.383-.255.894-.383 1.533-.383.766 0 1.277.128 1.66.383.383.256.639.767.767 1.405l3.959-.383c-.128-.639-.255-1.15-.51-1.788-.256-.511-.64-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.022c-.767-.255-1.66-.383-2.81-.383-1.916 0-3.32.383-4.47 1.15-1.022.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.149 3.065.766.767 2.043 1.277 3.704 1.533l2.043.383c.639.128 1.022.255 1.277.51.256.256.384.512.384.895 0 .51-.128.766-.511 1.022-.383.255-.894.383-1.66.383-.895 0-1.533-.128-1.916-.511-.384-.383-.639-.894-.767-1.533h-4.087c.256 3.577 2.427 5.365 6.642 5.365 1.15 0 2.043-.128 2.81-.384.766-.255 1.404-.638 2.043-1.021.51-.383.894-.894 1.15-1.533.383-.383.51-1.022.51-1.788zm.255-39.082c0-2.427-.639-4.215-1.916-5.492-1.277-1.278-3.193-1.916-5.747-1.916H65.95v15.07h5.747c2.555 0 4.47-.638 5.875-2.043 1.405-1.15 2.044-3.065 2.044-5.62zm25.033 75.865c0-1.15-.383-2.17-1.15-2.937-.766-.767-2.043-1.405-3.831-1.66l-2.044-.384c-.638-.127-1.021-.255-1.277-.51-.255-.256-.383-.512-.383-.895s.128-.766.51-.894c.384-.255.895-.383 1.534-.383.766 0 1.277.128 1.66.383.383.256.638.767.766 1.405l3.96-.383c-.128-.639-.256-1.15-.511-1.788-.256-.51-.639-1.022-1.15-1.533a6.77 6.77 0 00-1.916-1.021c-.766-.256-1.66-.384-2.81-.384-1.915 0-3.32.384-4.47 1.15-1.021.766-1.66 1.916-1.66 3.576 0 1.277.383 2.299 1.15 3.065.766.767 2.043 1.278 3.703 1.533l2.044.383c.638.128 1.022.256 1.277.511.255.255.383.51.383.894 0 .51-.128.766-.51 1.022-.256.51-.767.638-1.533.638-.894 0-1.533-.127-1.916-.51-.383-.384-.639-.895-.766-1.533h-4.087c.255 3.576 2.426 5.364 6.641 5.364 1.15 0 2.043-.128 2.81-.383.766-.255 1.405-.639 2.043-1.022.511-.383.894-.894 1.15-1.532.255-.639.383-1.405.383-2.172zm3.32-47.256h-4.214l-1.916 9.834-2.171-9.706h-3.704l-2.171 9.706-1.916-9.834h-4.215l4.087 15.07h3.96l2.17-9.706 2.172 9.707h4.087l3.832-15.071z" fill="#E30613" fill-rule="nonzero"/>
+    </g>
+</svg>
+                    </div>
+                </a>
+                                <section id="upcoming-events-by-location" aria-labelledby="menu-events-heading">
+                    <h2 id="menu-events-heading" class="menu-events-heading">Upcoming Events</h2>
+                    <ul class="c-main-menu__events-list">
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/london-city-ballet-firebird-a-double-bill/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=960%2C600&gravity 960w, https://images.sadlerswells.com/uploads/2026/01/LEAD-IMAGE_LCB-Firebird_-ASH_2700x1080-scaled.png?resize=1584%2C990&gravity 1584w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="Performer in a red dress dances before a cracked wall, with flowing red hair and fractured patterns across the body and background creating a dramatic, stone-like effect."
+                                            title="London City Ballet - Firebird © ASH"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">London City Ballet - Firebird - A Double Bill</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">23 &ndash; 24 Oct 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-sadlers-wells-theatre c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Sadler's Wells Theatre</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/dickson-mbi-company-tellus/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=960%2C600&gravity 960w, https://images.sadlerswells.com/uploads/2026/04/LEAD-IMAGE_Dickson-Mbi-TELLUS_Warren-Du-Preez-and-Nick-Thornton-Jones_2700x1080-copy-scaled.jpg?resize=1584%2C990&gravity 1584w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="Close‑up of a performer with a lifted chin against a pale blue background."
+                                            title="Dickson Mbi - TELLUS_© Warren Du Preez and Nick Thornton Jones"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">Dickson Mbi Company - TELLUS</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">23 &ndash; 24 Oct 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-sadlers-wells-east c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Sadler's Wells East</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/stories-the-tap-dance-sensation-2026/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=960%2C600&gravity 960w, https://images.sadlerswells.com/uploads/2025/08/LEAD-IMAGE_STORIES-The-Tap-Dance-Sensation_Elliot-Aubin_2700x1080-scaled.png?resize=1584%2C990&gravity 1584w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="A group of dancers on a dark smokey stage. They wear long black coats and are jumping with their arms to the side."
+                                            title="STORIES - The Tap Dance Sensation © Elliot Aubin"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">STORIES - The Tap Dance Sensation</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">23 &ndash; 31 Oct 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-peacock-theatre c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Peacock Theatre</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                                    <li class="c-main-menu__event ">
+                                <a href="https://www.sadlerswells.com/whats-on/the-performance-platform-london-preliminaries-2026/" class="c-main-menu__events-item">
+                                                                            <img
+                                            src="https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=16%2C10&gravity"
+                                            data-srcset="https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=16%2C10&gravity 16w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=160%2C100&gravity 160w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=320%2C200&gravity 320w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=640%2C400&gravity 640w, https://images.sadlerswells.com/uploads/2025/10/performance_platform.jpg?resize=960%2C600&gravity 960w"
+                                            class="lazyload fadeIn u-delay--300 c-main-menu__events-item__image"
+                                            alt="A group of young ballet dancers waving on stage"
+                                            title="The Performance Platform - London Preliminaries"
+                                            width=160
+                                            height=100
+                                        />
+                                                                        <div class="c-main-menu__events-item__meta">
+                                        <h3 class="c-main-menu__events-item__title">The Performance Platform - London Preliminaries - 2025</h3>
+
+                                                                                    <span class="c-main-menu__events-item__date">1 Nov 26</span>
+                                        
+                                                                                    <span class="c-main-menu__events-item__location u-venue-lilian-baylis-studio c-col--has-venue "><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Lilian Baylis Studio</span>
+                                                                            </div>
+                                </a>
+                            </li>
+                                            </ul>      
+                </section>
+                            </div>
+            <nav class="c-main-menu__rhs" aria-label="Main">
+                <ul id="menu-main-menu-right" class="c-header-menu-primary-nav"><li id="menu-item-64281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64281"><a href="https://www.sadlerswells.com/whats-on/">What&#8217;s on</a></li>
+<li id="menu-item-64283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64283"><a href="https://www.sadlerswells.com/your-visit/">Your visit</a></li>
+<li id="menu-item-64284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64284"><a href="https://www.sadlerswells.com/your-visit/accessibility/">Accessibility</a></li>
+<li id="menu-item-64285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64285"><a href="https://www.sadlerswells.com/digital-stage/">Digital Stage</a></li>
+<li id="menu-item-64286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64286"><a href="https://www.sadlerswells.com/on-tour/">On tour</a></li>
+<li id="menu-item-64287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64287"><a href="https://www.sadlerswells.com/support-us/">Support us</a></li>
+<li id="menu-item-64288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64288"><a href="https://www.sadlerswells.com/for-artists/">For artists</a></li>
+<li id="menu-item-64289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64289"><a href="https://www.sadlerswells.com/hire-our-spaces/">Hire our spaces</a></li>
+</ul>            </nav>
+        </section>
+    </div>
+</div>
+        </div>
+    </div>
+</header>
+
+    
+    <main id="main-content" class="global-content-wrap">
+
+<section class="c-masthead c-masthead--whats-on u-off-white-bg">
+    <div class="c-masthead__content">
+        <div class="c-masthead__details">
+            <h1 class="c-masthead__title">What's on</h1>
+        </div>
+        <div class="c-masthead__rhs-links">
+        <span class="c-masthead__rhs-links-note">View full event listings including free, drop in events</span>
+            <div class="c-masthead__rhs-links-top">
+                <a class="o-link" href="https://www.sadlerswells.com/calendar">
+                    <i class="fal fa-calendar-alt" aria-hidden="true"></i> Events calendar <i class="fal fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+
+            <div class="c-masthead__rhs-links-bottom">
+                <a class="o-link" href="https://www.sadlerswells.com/digital-stage">
+                    Digital Stage <i class="fal fa-angle-right" aria-hidden="true"></i>
+                </a>
+                <a class="o-link" href="https://www.sadlerswells.com/about-us/what-we-do/on-tour/">
+                    On tour <i class="fal fa-angle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="c-event-filter-bar">
+    <h2 class="u-hidden-visually">Event Filters</h2>
+    <button class="c-btn c-event-filters__toggle" aria-controls="event-filters" aria-expanded="false"><span><span class="toggle-label">Show</span> Filters</span> <i class="fal fa-angle-down"></i></button>
+
+<div id="event-filters" class="c-event-filters mobile-hidden">
+
+    <form class="c-event-filter c-event-filter__search" action="https://www.sadlerswells.com/whats-on/" method="GET">
+        <label for="event-search" class="u-hidden-visually">Search Events</label>
+        <div class="c-event-filter__search-wrapper">
+            <input required class="c-event-filter__search-input" id="event-search" type="search" name="event-search" placeholder="Search by name" value=""/>
+            <button type="submit" name="" id="searchsubmit"><i class="fal fa-search"></i> <span class="u-hidden-visually">Submit</span></button>
+        </div>
+    </form>
+
+<ul class="c-event-filter__dropdowns js-disclosure-nav">
+    <li class="c-event-filter c-event-filter--location">
+        <button class="c-btn c-btn--white" aria-expanded="false" aria-controls="location-menu">Venue</button>
+        <div class="c-event-filter__submenu js-disclosure-nav__dropdown" id="location-menu">
+            <ul class="c-event-filter__submenu-items">
+                <li>   
+                    <span class="c-event-filter__submenu-label">Angel, London</span>
+                    <a href="https://www.sadlerswells.com/whats-on/?venue-location=sadlers-wells-theatre" class="u-venue-sadlers-wells-theatre c-event-filter__submenu-link ">
+                        <span class="u-hidden-visually">Sadler's Wells Theatre</span>
+                        <svg role="img" width="100%" height="100%" viewBox="0 0 170 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <title>Sadler's Wells</title>
+    <g>
+        <path d="M18.638,9.15C18.774,9.326 18.843,9.582 18.843,9.917C18.843,10.252 18.769,10.511 18.622,10.695C18.475,10.878 18.243,10.97 17.928,10.97L17.492,10.97L17.492,8.885L17.982,8.885C18.283,8.885 18.502,8.974 18.638,9.15M11.374,10.286L12.165,10.286L11.772,8.971L11.374,10.286ZM12.076,17.991C11.986,17.913 11.832,17.873 11.613,17.873L11.14,17.873L11.14,18.787L11.646,18.787C11.854,18.787 12,18.747 12.084,18.667C12.168,18.587 12.21,18.472 12.21,18.323C12.21,18.18 12.166,18.07 12.076,17.991M30.003,34L0.003,34L0.003,4L30.003,4L30.003,34ZM23.252,11.836L25.894,11.836L25.985,10.965L24.285,10.965L24.285,8.02L23.252,8.02L23.252,11.836ZM6.556,29.356L4.7,29.356L4.7,28.683L6.336,28.683L6.336,27.838L4.7,27.838L4.7,27.229L6.443,27.229L6.443,26.384L3.694,26.384L3.694,30.201L6.47,30.201L6.556,29.356ZM6.556,20.054L4.7,20.054L4.7,19.381L6.336,19.381L6.336,18.536L4.7,18.536L4.7,17.927L6.443,17.927L6.443,17.082L3.694,17.082L3.694,20.899L6.47,20.899L6.556,20.054ZM6.774,10.681C6.774,10.378 6.679,10.128 6.489,9.931C6.299,9.733 5.978,9.589 5.526,9.5L5.004,9.398C4.853,9.37 4.744,9.329 4.676,9.276C4.607,9.222 4.573,9.151 4.573,9.062C4.573,8.962 4.616,8.883 4.7,8.824C4.784,8.765 4.914,8.736 5.09,8.736C5.284,8.736 5.426,8.773 5.518,8.848C5.609,8.923 5.671,9.037 5.703,9.19L6.704,9.089C6.686,8.935 6.645,8.788 6.58,8.648C6.516,8.507 6.421,8.383 6.295,8.276C6.169,8.169 6.008,8.083 5.811,8.02C5.614,7.955 5.375,7.923 5.095,7.923C4.615,7.923 4.237,8.024 3.963,8.225C3.688,8.427 3.551,8.725 3.551,9.121C3.551,9.449 3.653,9.705 3.858,9.89C4.062,10.076 4.378,10.207 4.805,10.286L5.316,10.382C5.477,10.414 5.588,10.459 5.65,10.518C5.711,10.577 5.741,10.651 5.741,10.74C5.741,10.858 5.695,10.949 5.604,11.013C5.512,11.077 5.375,11.109 5.192,11.109C4.977,11.109 4.814,11.065 4.703,10.978C4.591,10.891 4.525,10.758 4.504,10.58L3.476,10.58C3.53,11.474 4.089,11.925 5.155,11.932C5.431,11.932 5.671,11.902 5.875,11.841C6.08,11.781 6.249,11.696 6.381,11.587C6.514,11.479 6.613,11.348 6.677,11.195C6.742,11.041 6.774,10.87 6.774,10.681M13.155,29.33L11.455,29.33L11.455,26.384L10.422,26.384L10.422,30.201L13.063,30.201L13.155,29.33ZM13.421,20.899L12.635,19.375C12.829,19.261 12.973,19.113 13.066,18.929C13.159,18.746 13.206,18.533 13.206,18.291C13.206,18.137 13.182,17.988 13.133,17.841C13.085,17.695 13.002,17.566 12.886,17.454C12.769,17.342 12.612,17.252 12.415,17.184C12.218,17.116 11.97,17.082 11.672,17.082L10.155,17.082L10.155,20.899L11.14,20.899L11.14,19.584L11.699,19.584L12.329,20.899L13.421,20.899ZM13.709,11.836L12.375,8.02L11.202,8.02L9.867,11.836L10.906,11.836L11.121,11.103L12.418,11.103L12.638,11.836L13.709,11.836ZM19.553,29.33L17.852,29.33L17.852,26.384L16.819,26.384L16.819,30.201L19.461,30.201L19.553,29.33ZM19.835,19.744C19.835,19.441 19.74,19.191 19.55,18.993C19.36,18.796 19.039,18.652 18.587,18.563L18.065,18.461C17.914,18.433 17.805,18.392 17.737,18.339C17.669,18.285 17.635,18.214 17.635,18.125C17.635,18.025 17.677,17.946 17.761,17.887C17.845,17.828 17.975,17.799 18.151,17.799C18.345,17.799 18.487,17.836 18.579,17.911C18.67,17.986 18.732,18.1 18.764,18.253L19.765,18.151C19.747,17.998 19.706,17.851 19.641,17.711C19.577,17.57 19.482,17.446 19.356,17.339C19.231,17.232 19.069,17.146 18.872,17.082C18.675,17.018 18.436,16.986 18.156,16.986C17.676,16.986 17.298,17.087 17.024,17.288C16.749,17.489 16.612,17.788 16.612,18.184C16.612,18.512 16.715,18.768 16.919,18.953C17.123,19.139 17.439,19.27 17.866,19.349L18.377,19.445C18.538,19.477 18.65,19.523 18.711,19.581C18.772,19.64 18.802,19.714 18.802,19.803C18.802,19.921 18.756,20.012 18.665,20.076C18.573,20.14 18.436,20.172 18.253,20.172C18.038,20.172 17.875,20.128 17.764,20.041C17.653,19.954 17.586,19.821 17.565,19.643L16.537,19.643C16.591,20.537 17.15,20.988 18.216,20.995C18.492,20.995 18.732,20.965 18.937,20.904C19.141,20.844 19.31,20.759 19.442,20.65C19.575,20.542 19.674,20.411 19.738,20.257C19.803,20.104 19.835,19.933 19.835,19.744M19.913,9.885C19.913,9.276 19.749,8.812 19.421,8.495C19.093,8.178 18.609,8.02 17.971,8.02L16.459,8.02L16.459,11.836L17.912,11.836C18.554,11.836 19.048,11.668 19.394,11.331C19.74,10.994 19.913,10.512 19.913,9.885M26.268,29.046C26.268,28.744 26.173,28.493 25.982,28.296C25.792,28.098 25.471,27.954 25.019,27.865L24.497,27.764C24.347,27.735 24.237,27.694 24.169,27.641C24.101,27.587 24.067,27.516 24.067,27.427C24.067,27.327 24.109,27.248 24.194,27.189C24.278,27.13 24.408,27.101 24.584,27.101C24.777,27.101 24.92,27.138 25.011,27.213C25.103,27.288 25.165,27.402 25.197,27.555L26.198,27.454C26.18,27.3 26.138,27.154 26.074,27.013C26.009,26.872 25.914,26.748 25.789,26.641C25.663,26.534 25.502,26.449 25.305,26.384C25.107,26.32 24.869,26.288 24.589,26.288C24.108,26.288 23.731,26.389 23.457,26.59C23.182,26.792 23.045,27.09 23.045,27.486C23.045,27.814 23.147,28.07 23.352,28.255C23.556,28.441 23.872,28.573 24.298,28.651L24.81,28.747C24.971,28.779 25.082,28.825 25.143,28.883C25.204,28.942 25.235,29.016 25.235,29.105C25.235,29.223 25.189,29.314 25.098,29.378C25.006,29.442 24.869,29.474 24.686,29.474C24.471,29.474 24.307,29.431 24.196,29.343C24.085,29.256 24.019,29.123 23.997,28.945L22.969,28.945C23.023,29.839 23.583,30.29 24.648,30.297C24.924,30.297 25.165,30.267 25.369,30.206C25.574,30.146 25.742,30.061 25.875,29.952C26.008,29.844 26.106,29.713 26.171,29.56C26.235,29.406 26.268,29.235 26.268,29.046M27.135,17.082L26.069,17.082L25.591,19.573L25.042,17.109L24.09,17.109L23.552,19.573L23.057,17.082L21.959,17.082L22.987,20.899L24.009,20.899L24.552,18.456L25.106,20.899L26.139,20.899L27.135,17.082Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M39.705,23.96C39.838,25.72 40.405,27 41.405,27.8C42.405,28.6 43.878,29 45.825,29C46.758,29 47.545,28.9 48.185,28.7C48.825,28.5 49.345,28.234 49.745,27.9C50.145,27.567 50.431,27.174 50.605,26.72C50.778,26.267 50.865,25.773 50.865,25.24C50.865,24.494 50.585,23.794 50.025,23.14C49.465,22.487 48.438,22.014 46.945,21.72L43.225,21.04C41.758,20.774 40.465,20.427 39.345,20C38.225,19.574 37.285,19.02 36.525,18.34C35.765,17.66 35.185,16.827 34.785,15.84C34.385,14.854 34.185,13.68 34.185,12.32C34.185,10.96 34.458,9.76 35.005,8.72C35.551,7.68 36.311,6.814 37.285,6.12C38.258,5.427 39.425,4.9 40.785,4.54C42.145,4.18 43.638,4 45.265,4C47.345,4 49.078,4.24 50.465,4.72C51.851,5.2 52.971,5.834 53.825,6.62C54.678,7.407 55.311,8.32 55.725,9.36C56.138,10.4 56.411,11.48 56.545,12.6L50.905,13.32C50.611,11.747 50.045,10.614 49.205,9.92C48.365,9.227 47.091,8.88 45.385,8.88C44.371,8.88 43.538,8.967 42.885,9.14C42.231,9.314 41.705,9.54 41.305,9.82C40.905,10.1 40.625,10.427 40.465,10.8C40.305,11.174 40.225,11.56 40.225,11.96C40.225,13.027 40.525,13.827 41.125,14.36C41.725,14.894 42.745,15.307 44.185,15.6L48.105,16.36C51.198,16.974 53.465,17.967 54.905,19.34C56.345,20.714 57.065,22.694 57.065,25.28C57.065,26.533 56.831,27.687 56.365,28.74C55.898,29.794 55.205,30.713 54.285,31.5C53.365,32.287 52.211,32.9 50.825,33.34C49.438,33.78 47.811,34 45.945,34C42.051,34 39.071,33.167 37.005,31.5C34.938,29.834 33.825,27.32 33.665,23.96L39.705,23.96Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M71.429,23.96L68.949,24.08C67.775,24.134 66.829,24.254 66.109,24.44C65.389,24.627 64.835,24.86 64.449,25.14C64.062,25.42 63.802,25.747 63.669,26.12C63.535,26.494 63.469,26.907 63.469,27.36C63.469,28.054 63.709,28.6 64.189,29C64.669,29.4 65.335,29.6 66.189,29.6C67.629,29.6 68.802,29.267 69.709,28.6C70.215,28.227 70.629,27.754 70.949,27.18C71.269,26.607 71.429,25.894 71.429,25.04L71.429,23.96ZM71.549,30.64C70.722,31.574 69.795,32.334 68.769,32.92C67.742,33.506 66.415,33.8 64.789,33.8C63.855,33.8 62.969,33.68 62.129,33.44C61.289,33.2 60.555,32.827 59.929,32.32C59.302,31.814 58.802,31.167 58.429,30.38C58.055,29.594 57.869,28.653 57.869,27.56C57.869,26.12 58.189,24.947 58.829,24.04C59.469,23.134 60.309,22.427 61.349,21.92C62.389,21.414 63.555,21.054 64.849,20.84C66.142,20.627 67.455,20.494 68.789,20.44L71.469,20.32L71.469,19.28C71.469,18 71.115,17.12 70.409,16.64C69.702,16.16 68.869,15.92 67.909,15.92C65.695,15.92 64.429,16.76 64.109,18.44L58.989,17.96C59.362,15.774 60.322,14.194 61.869,13.22C63.415,12.247 65.495,11.76 68.109,11.76C69.709,11.76 71.069,11.954 72.189,12.34C73.309,12.727 74.209,13.28 74.889,14C75.569,14.72 76.062,15.594 76.369,16.62C76.675,17.647 76.829,18.8 76.829,20.08L76.829,33.28L71.549,33.28L71.549,30.64Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M93.781,22.6C93.781,21.267 93.667,20.2 93.441,19.4C93.214,18.6 92.847,17.947 92.341,17.44C91.861,16.96 91.334,16.647 90.761,16.5C90.187,16.354 89.621,16.28 89.061,16.28C88.447,16.28 87.867,16.4 87.321,16.64C86.774,16.88 86.294,17.254 85.881,17.76C85.467,18.267 85.141,18.934 84.901,19.76C84.661,20.587 84.541,21.574 84.541,22.72C84.541,23.974 84.654,25.02 84.881,25.86C85.107,26.7 85.421,27.38 85.821,27.9C86.221,28.42 86.687,28.793 87.221,29.02C87.754,29.247 88.327,29.36 88.941,29.36C90.274,29.36 91.367,28.974 92.221,28.2C92.754,27.667 93.147,27.02 93.401,26.26C93.654,25.5 93.781,24.52 93.781,23.32L93.781,22.6ZM93.901,30.52C92.301,32.787 90.141,33.92 87.421,33.92C84.487,33.92 82.301,32.933 80.861,30.96C79.421,28.987 78.701,26.254 78.701,22.76C78.701,21.134 78.907,19.647 79.321,18.3C79.734,16.954 80.327,15.794 81.101,14.82C81.874,13.847 82.821,13.094 83.941,12.56C85.061,12.027 86.327,11.76 87.741,11.76C88.781,11.76 89.814,11.947 90.841,12.32C91.867,12.694 92.834,13.414 93.741,14.48L93.741,4.72L99.341,4.72L99.341,33.28L93.901,33.28L93.901,30.52Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <rect x="102.125" y="4.72" width="5.6" height="28.56" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M124.449,20.52C124.449,19.08 124.095,17.96 123.389,17.16C122.682,16.36 121.582,15.96 120.089,15.96C119.342,15.96 118.689,16.08 118.129,16.32C117.569,16.56 117.095,16.887 116.709,17.3C116.322,17.714 116.022,18.194 115.809,18.74C115.595,19.287 115.475,19.88 115.449,20.52L124.449,20.52ZM129.609,26.76C129.235,29.107 128.295,30.887 126.789,32.1C125.282,33.313 123.089,33.92 120.209,33.92C116.742,33.92 114.135,32.96 112.389,31.04C110.642,29.12 109.769,26.4 109.769,22.88C109.769,21.12 110.022,19.554 110.529,18.18C111.035,16.807 111.749,15.64 112.669,14.68C113.589,13.72 114.689,12.994 115.969,12.5C117.249,12.007 118.662,11.76 120.209,11.76C123.409,11.76 125.815,12.68 127.429,14.52C129.042,16.36 129.849,18.84 129.849,21.96L129.849,24.2L115.369,24.2C115.422,25.88 115.849,27.194 116.649,28.14C117.449,29.087 118.649,29.56 120.249,29.56C122.462,29.56 123.769,28.627 124.169,26.76L129.609,26.76Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M131.917,12.4L137.357,12.4L137.357,15.32C138.05,14.227 138.89,13.407 139.877,12.86C140.863,12.314 141.903,12.04 142.997,12.04C143.53,12.04 143.97,12.06 144.317,12.1C144.663,12.14 144.97,12.187 145.237,12.24L144.557,17.32C143.917,17.16 143.13,17.08 142.197,17.08C141.583,17.08 140.997,17.154 140.437,17.3C139.877,17.447 139.37,17.72 138.917,18.12C138.437,18.547 138.083,19.027 137.857,19.56C137.63,20.094 137.517,20.64 137.517,21.2L137.517,33.28L131.917,33.28L131.917,12.4Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M147.756,4.72L153.196,4.72L150.716,14.92L146.436,14.92L147.756,4.72Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M156.357,26.64C156.543,27.867 157.037,28.667 157.837,29.04C158.637,29.414 159.597,29.6 160.717,29.6C162.05,29.6 163.003,29.434 163.577,29.1C164.15,28.767 164.437,28.227 164.437,27.48C164.437,26.947 164.257,26.48 163.897,26.08C163.537,25.68 162.85,25.4 161.837,25.24L158.957,24.76C156.423,24.36 154.537,23.674 153.297,22.7C152.057,21.727 151.437,20.254 151.437,18.28C151.437,17.267 151.657,16.36 152.097,15.56C152.537,14.76 153.157,14.08 153.957,13.52C154.757,12.96 155.71,12.527 156.817,12.22C157.923,11.914 159.143,11.76 160.477,11.76C162.13,11.76 163.517,11.927 164.637,12.26C165.757,12.594 166.67,13.04 167.377,13.6C168.083,14.16 168.617,14.827 168.977,15.6C169.337,16.374 169.597,17.2 169.757,18.08L164.757,18.72C164.517,17.76 164.097,17.054 163.497,16.6C162.897,16.147 161.93,15.92 160.597,15.92C159.85,15.92 159.23,15.98 158.737,16.1C158.243,16.22 157.857,16.374 157.577,16.56C157.297,16.747 157.097,16.96 156.977,17.2C156.857,17.44 156.797,17.667 156.797,17.88C156.797,18.547 157.003,19.034 157.417,19.34C157.83,19.647 158.637,19.907 159.837,20.12L162.477,20.56C163.943,20.8 165.157,21.107 166.117,21.48C167.077,21.854 167.843,22.314 168.417,22.86C168.99,23.407 169.39,24.054 169.617,24.8C169.843,25.547 169.957,26.414 169.957,27.4C169.957,29.374 169.21,30.954 167.717,32.14C166.223,33.326 163.917,33.92 160.797,33.92C159.543,33.92 158.35,33.806 157.217,33.58C156.083,33.353 155.07,32.96 154.177,32.4C153.283,31.84 152.55,31.094 151.977,30.16C151.403,29.227 151.077,28.054 150.997,26.64L156.357,26.64Z" style="fill:currentColor;fill-rule:nonzero;"/>
+    </g>
+</svg>
+                        <i class="far fa-angle-right" aria-hidden="true"></i>
+                    </a>
+
+                    <a href="https://www.sadlerswells.com/whats-on/?venue-location=lilian-baylis-studio" class="u-venue-lilian-baylis-studio c-event-filter__submenu-link ">
+                        <span class="u-hidden-visually">Lilian Baylis Studio</span>
+                        <svg role="img" width="100%" height="100%" viewBox="0 0 138 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <title>Sadler's Wells Baylis</title>
+    <g>
+        <path d="M18.638,5.15C18.774,5.326 18.842,5.582 18.842,5.917C18.842,6.252 18.769,6.511 18.622,6.695C18.475,6.878 18.243,6.97 17.928,6.97L17.492,6.97L17.492,4.885L17.981,4.885C18.283,4.885 18.502,4.974 18.638,5.15M11.374,6.286L12.165,6.286L11.772,4.971L11.374,6.286ZM12.076,13.991C11.986,13.913 11.832,13.873 11.613,13.873L11.14,13.873L11.14,14.788L11.646,14.788C11.854,14.788 12,14.747 12.084,14.667C12.168,14.587 12.21,14.472 12.21,14.323C12.21,14.18 12.166,14.07 12.076,13.991M30.003,30L0.003,30L0.003,0L30.003,0L30.003,30ZM23.252,7.836L25.894,7.836L25.985,6.965L24.285,6.965L24.285,4.02L23.252,4.02L23.252,7.836ZM6.556,25.357L4.7,25.357L4.7,24.683L6.335,24.683L6.335,23.838L4.7,23.838L4.7,23.229L6.443,23.229L6.443,22.384L3.694,22.384L3.694,26.201L6.47,26.201L6.556,25.357ZM6.556,16.054L4.7,16.054L4.7,15.381L6.335,15.381L6.335,14.536L4.7,14.536L4.7,13.927L6.443,13.927L6.443,13.082L3.694,13.082L3.694,16.899L6.47,16.899L6.556,16.054ZM6.774,6.681C6.774,6.378 6.679,6.128 6.489,5.931C6.299,5.733 5.978,5.589 5.526,5.5L5.004,5.398C4.853,5.37 4.744,5.329 4.676,5.276C4.607,5.222 4.573,5.151 4.573,5.062C4.573,4.962 4.616,4.883 4.7,4.824C4.784,4.765 4.914,4.736 5.09,4.736C5.284,4.736 5.426,4.773 5.518,4.848C5.609,4.923 5.671,5.037 5.703,5.19L6.704,5.089C6.686,4.935 6.645,4.788 6.58,4.648C6.516,4.507 6.421,4.383 6.295,4.276C6.169,4.169 6.008,4.084 5.811,4.02C5.614,3.955 5.375,3.923 5.095,3.923C4.615,3.923 4.237,4.024 3.963,4.225C3.688,4.427 3.551,4.725 3.551,5.121C3.551,5.449 3.653,5.705 3.858,5.89C4.062,6.076 4.378,6.207 4.805,6.286L5.316,6.382C5.477,6.414 5.588,6.459 5.65,6.518C5.711,6.577 5.741,6.651 5.741,6.74C5.741,6.858 5.695,6.949 5.604,7.013C5.512,7.077 5.375,7.109 5.192,7.109C4.977,7.109 4.814,7.065 4.703,6.978C4.591,6.891 4.525,6.758 4.504,6.58L3.476,6.58C3.53,7.474 4.089,7.925 5.155,7.932C5.431,7.932 5.671,7.902 5.875,7.841C6.08,7.781 6.249,7.696 6.381,7.587C6.514,7.479 6.613,7.348 6.677,7.195C6.742,7.041 6.774,6.87 6.774,6.681M13.155,25.33L11.455,25.33L11.455,22.384L10.422,22.384L10.422,26.201L13.063,26.201L13.155,25.33ZM13.421,16.899L12.635,15.375C12.829,15.262 12.973,15.113 13.066,14.929C13.159,14.746 13.206,14.533 13.206,14.291C13.206,14.137 13.182,13.988 13.133,13.841C13.085,13.695 13.002,13.566 12.886,13.454C12.769,13.342 12.612,13.252 12.415,13.184C12.218,13.116 11.97,13.082 11.672,13.082L10.155,13.082L10.155,16.899L11.14,16.899L11.14,15.584L11.699,15.584L12.329,16.899L13.421,16.899ZM13.709,7.836L12.375,4.02L11.202,4.02L9.867,7.836L10.906,7.836L11.121,7.104L12.418,7.104L12.638,7.836L13.709,7.836ZM19.553,25.33L17.852,25.33L17.852,22.384L16.819,22.384L16.819,26.201L19.461,26.201L19.553,25.33ZM19.835,15.744C19.835,15.441 19.74,15.191 19.55,14.993C19.36,14.796 19.039,14.652 18.587,14.563L18.065,14.461C17.914,14.433 17.805,14.392 17.737,14.339C17.669,14.285 17.635,14.214 17.635,14.125C17.635,14.025 17.677,13.946 17.761,13.887C17.845,13.828 17.975,13.799 18.151,13.799C18.345,13.799 18.487,13.836 18.579,13.911C18.67,13.986 18.732,14.1 18.764,14.253L19.765,14.152C19.747,13.998 19.706,13.851 19.641,13.711C19.577,13.57 19.482,13.446 19.356,13.339C19.231,13.232 19.069,13.146 18.872,13.082C18.675,13.018 18.436,12.986 18.156,12.986C17.676,12.986 17.298,13.087 17.024,13.288C16.749,13.49 16.612,13.788 16.612,14.184C16.612,14.512 16.715,14.768 16.919,14.953C17.123,15.139 17.439,15.27 17.866,15.349L18.377,15.445C18.538,15.477 18.65,15.523 18.711,15.581C18.772,15.64 18.802,15.714 18.802,15.803C18.802,15.921 18.756,16.012 18.665,16.076C18.574,16.14 18.436,16.172 18.253,16.172C18.038,16.172 17.875,16.128 17.764,16.041C17.653,15.954 17.586,15.821 17.565,15.643L16.537,15.643C16.591,16.537 17.15,16.988 18.216,16.995C18.492,16.995 18.732,16.965 18.937,16.904C19.141,16.844 19.31,16.759 19.442,16.65C19.575,16.542 19.674,16.411 19.738,16.258C19.803,16.104 19.835,15.933 19.835,15.744M19.913,5.885C19.913,5.276 19.749,4.812 19.421,4.495C19.093,4.178 18.609,4.02 17.971,4.02L16.459,4.02L16.459,7.836L17.912,7.836C18.554,7.836 19.048,7.668 19.394,7.331C19.74,6.994 19.913,6.512 19.913,5.885M26.268,25.046C26.268,24.744 26.173,24.493 25.982,24.296C25.792,24.098 25.471,23.954 25.019,23.865L24.497,23.764C24.347,23.735 24.238,23.694 24.169,23.641C24.101,23.587 24.067,23.516 24.067,23.427C24.067,23.327 24.109,23.248 24.194,23.189C24.278,23.13 24.408,23.101 24.584,23.101C24.777,23.101 24.92,23.138 25.011,23.213C25.103,23.288 25.165,23.402 25.197,23.555L26.198,23.454C26.18,23.3 26.138,23.154 26.074,23.013C26.009,22.872 25.914,22.748 25.789,22.641C25.663,22.534 25.502,22.449 25.305,22.384C25.107,22.32 24.869,22.288 24.589,22.288C24.108,22.288 23.731,22.389 23.456,22.59C23.182,22.792 23.045,23.09 23.045,23.486C23.045,23.814 23.147,24.07 23.352,24.255C23.556,24.441 23.871,24.573 24.298,24.651L24.81,24.747C24.971,24.779 25.082,24.825 25.143,24.883C25.204,24.942 25.235,25.016 25.235,25.105C25.235,25.223 25.189,25.314 25.098,25.378C25.006,25.442 24.869,25.474 24.686,25.474C24.471,25.474 24.307,25.431 24.196,25.343C24.085,25.256 24.019,25.123 23.997,24.945L22.969,24.945C23.023,25.839 23.583,26.29 24.648,26.297C24.924,26.297 25.165,26.267 25.369,26.206C25.574,26.146 25.742,26.061 25.875,25.953C26.008,25.844 26.106,25.713 26.171,25.56C26.235,25.406 26.268,25.235 26.268,25.046M27.135,13.082L26.069,13.082L25.591,15.573L25.042,13.109L24.09,13.109L23.552,15.573L23.057,13.082L21.959,13.082L22.987,16.899L24.009,16.899L24.552,14.456L25.106,16.899L26.139,16.899L27.135,13.082Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M44.968,25.084C46.004,25.084 46.865,24.986 47.552,24.79C48.238,24.594 48.791,24.307 49.211,23.929C49.632,23.55 49.926,23.109 50.094,22.605C50.262,22.101 50.346,21.527 50.346,20.882C50.346,19.594 49.996,18.614 49.296,17.941C48.595,17.269 47.363,16.933 45.598,16.933L39.716,16.933L39.716,25.084L44.968,25.084ZM45.178,11.891C46.83,11.891 47.965,11.583 48.581,10.966C49.197,10.351 49.506,9.468 49.506,8.32C49.506,7.087 49.107,6.212 48.308,5.693C47.51,5.175 46.158,4.916 44.254,4.916L39.716,4.916L39.716,11.891L45.178,11.891ZM33.665,0L44.464,0C46.676,0 48.504,0.21 49.947,0.63C51.389,1.05 52.531,1.625 53.371,2.353C54.211,3.082 54.793,3.936 55.115,4.916C55.437,5.897 55.598,6.961 55.598,8.109C55.598,9.286 55.346,10.393 54.842,11.429C54.338,12.465 53.385,13.348 51.985,14.076C52.881,14.552 53.616,15.049 54.191,15.567C54.764,16.086 55.213,16.639 55.535,17.227C55.857,17.815 56.081,18.418 56.207,19.034C56.333,19.65 56.396,20.267 56.396,20.882C56.396,22.143 56.207,23.334 55.829,24.454C55.451,25.575 54.821,26.541 53.939,27.353C53.056,28.166 51.901,28.81 50.472,29.286C49.044,29.762 47.279,30 45.178,30L33.665,30L33.665,0Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M71.455,20.21L68.85,20.336C67.617,20.392 66.623,20.519 65.866,20.714C65.11,20.911 64.529,21.155 64.123,21.449C63.717,21.744 63.443,22.087 63.303,22.479C63.163,22.871 63.094,23.305 63.094,23.781C63.094,24.51 63.345,25.084 63.85,25.504C64.354,25.924 65.054,26.134 65.951,26.134C67.463,26.134 68.696,25.784 69.648,25.084C70.18,24.692 70.615,24.195 70.951,23.592C71.287,22.99 71.455,22.241 71.455,21.344L71.455,20.21ZM71.581,27.227C70.712,28.208 69.739,29.006 68.661,29.622C67.582,30.238 66.188,30.546 64.48,30.546C63.499,30.546 62.568,30.42 61.686,30.168C60.803,29.916 60.033,29.524 59.375,28.991C58.717,28.46 58.191,27.78 57.799,26.954C57.407,26.128 57.211,25.14 57.211,23.991C57.211,22.479 57.547,21.247 58.219,20.294C58.892,19.342 59.774,18.599 60.867,18.067C61.959,17.535 63.184,17.157 64.543,16.933C65.901,16.709 67.281,16.569 68.682,16.513L71.497,16.386L71.497,15.294C71.497,13.95 71.125,13.025 70.384,12.521C69.641,12.017 68.766,11.765 67.758,11.765C65.432,11.765 64.102,12.647 63.766,14.412L58.388,13.908C58.78,11.611 59.788,9.951 61.413,8.929C63.037,7.906 65.222,7.395 67.968,7.395C69.648,7.395 71.077,7.599 72.253,8.004C73.43,8.411 74.375,8.992 75.089,9.748C75.804,10.504 76.322,11.422 76.644,12.5C76.966,13.579 77.127,14.79 77.127,16.134L77.127,30L71.581,30L71.581,27.227Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M79.707,33.109C80.519,33.333 81.346,33.445 82.186,33.445C82.97,33.445 83.6,33.256 84.077,32.878C84.553,32.5 84.959,31.834 85.295,30.882L85.967,29.033L76.85,8.067L83.657,8.067L88.783,22.479L93.572,8.067L100.001,8.067L91.135,30.63C90.631,31.89 90.155,32.989 89.707,33.928C89.258,34.867 88.747,35.651 88.173,36.281C87.599,36.911 86.913,37.38 86.115,37.689C85.316,37.997 84.329,38.151 83.152,38.151C82.423,38.151 81.703,38.102 80.988,38.004C80.274,37.905 79.524,37.731 78.741,37.479L79.707,33.109Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <rect x="100.896" y="0" width="5.882" height="30" style="fill:currentColor;fill-rule:nonzero;" />
+        <path d="M109.762,8.067L115.644,8.067L115.644,30L109.762,30L109.762,8.067ZM109.678,0L115.728,0L115.728,5.294L109.678,5.294L109.678,0Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M122.992,23.025C123.188,24.314 123.706,25.154 124.547,25.546C125.387,25.939 126.395,26.134 127.572,26.134C128.972,26.134 129.973,25.96 130.576,25.609C131.178,25.259 131.479,24.692 131.479,23.907C131.479,23.347 131.29,22.857 130.912,22.437C130.534,22.017 129.812,21.722 128.748,21.554L125.723,21.05C123.062,20.63 121.08,19.909 119.778,18.886C118.475,17.864 117.824,16.317 117.824,14.243C117.824,13.179 118.055,12.227 118.517,11.386C118.979,10.546 119.631,9.832 120.471,9.244C121.311,8.655 122.312,8.2 123.475,7.878C124.637,7.556 125.919,7.395 127.32,7.395C129.056,7.395 130.513,7.57 131.689,7.92C132.866,8.271 133.825,8.739 134.568,9.328C135.309,9.916 135.87,10.616 136.248,11.428C136.626,12.241 136.899,13.109 137.068,14.033L131.815,14.706C131.563,13.697 131.122,12.955 130.492,12.479C129.862,12.003 128.846,11.765 127.446,11.765C126.661,11.765 126.01,11.828 125.492,11.954C124.973,12.08 124.568,12.241 124.273,12.437C123.979,12.633 123.769,12.857 123.643,13.109C123.517,13.361 123.454,13.6 123.454,13.823C123.454,14.524 123.671,15.035 124.105,15.357C124.539,15.679 125.387,15.952 126.647,16.176L129.421,16.638C130.961,16.891 132.235,17.213 133.244,17.605C134.252,17.997 135.057,18.481 135.66,19.054C136.262,19.629 136.682,20.308 136.92,21.092C137.158,21.877 137.277,22.787 137.277,23.823C137.277,25.897 136.493,27.556 134.925,28.802C133.356,30.048 130.933,30.672 127.656,30.672C126.339,30.672 125.086,30.553 123.895,30.315C122.704,30.076 121.64,29.664 120.702,29.075C119.763,28.487 118.993,27.703 118.391,26.722C117.789,25.742 117.446,24.51 117.362,23.025L122.992,23.025Z" style="fill:currentColor;fill-rule:nonzero;"/>
+    </g>
+</svg>
+                        <i class="far fa-angle-right" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li>
+                    <span class="c-event-filter__submenu-label">Holborn, London</span>
+                    <a href="https://www.sadlerswells.com/whats-on/?venue-location=peacock-theatre" class="u-venue-peacock-theatre c-event-filter__submenu-link ">
+                        <span class="u-hidden-visually">The Peacock Theatre</span>
+                        <svg role="img" width="100%" height="100%" viewBox="0 0 189 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <title>Sadler's Wells Peacock</title>
+    <g>
+        <path d="M18.635,8.15C18.771,8.326 18.839,8.582 18.839,8.917C18.839,9.252 18.766,9.511 18.619,9.695C18.472,9.878 18.24,9.97 17.925,9.97L17.489,9.97L17.489,7.885L17.978,7.885C18.28,7.885 18.499,7.974 18.635,8.15M11.371,9.286L12.162,9.286L11.769,7.971L11.371,9.286ZM12.073,16.991C11.983,16.913 11.829,16.873 11.61,16.873L11.137,16.873L11.137,17.787L11.643,17.787C11.851,17.787 11.997,17.747 12.081,17.667C12.165,17.587 12.207,17.472 12.207,17.323C12.207,17.18 12.163,17.07 12.073,16.991M30,33L0,33L0,3L30,3L30,33ZM23.249,10.836L25.891,10.836L25.982,9.965L24.282,9.965L24.282,7.019L23.249,7.019L23.249,10.836ZM6.553,28.356L4.697,28.356L4.697,27.683L6.332,27.683L6.332,26.838L4.697,26.838L4.697,26.229L6.44,26.229L6.44,25.384L3.691,25.384L3.691,29.201L6.467,29.201L6.553,28.356ZM6.553,19.054L4.697,19.054L4.697,18.381L6.332,18.381L6.332,17.536L4.697,17.536L4.697,16.927L6.44,16.927L6.44,16.082L3.691,16.082L3.691,19.899L6.467,19.899L6.553,19.054ZM6.771,9.681C6.771,9.378 6.676,9.128 6.486,8.931C6.296,8.733 5.975,8.589 5.523,8.5L5.001,8.398C4.85,8.37 4.741,8.329 4.673,8.276C4.604,8.222 4.57,8.151 4.57,8.062C4.57,7.962 4.613,7.883 4.697,7.824C4.781,7.765 4.911,7.736 5.087,7.736C5.281,7.736 5.423,7.773 5.515,7.848C5.606,7.923 5.668,8.037 5.7,8.19L6.701,8.089C6.683,7.935 6.642,7.788 6.577,7.648C6.513,7.507 6.418,7.383 6.292,7.276C6.166,7.169 6.005,7.084 5.808,7.019C5.611,6.955 5.372,6.923 5.092,6.923C4.612,6.923 4.234,7.024 3.96,7.225C3.685,7.427 3.548,7.725 3.548,8.121C3.548,8.449 3.65,8.705 3.855,8.89C4.059,9.076 4.375,9.207 4.802,9.286L5.313,9.382C5.474,9.414 5.585,9.459 5.647,9.518C5.708,9.577 5.738,9.651 5.738,9.74C5.738,9.858 5.692,9.949 5.601,10.013C5.509,10.077 5.372,10.109 5.189,10.109C4.974,10.109 4.811,10.065 4.7,9.978C4.588,9.891 4.522,9.758 4.501,9.58L3.473,9.58C3.527,10.474 4.086,10.925 5.152,10.932C5.428,10.932 5.668,10.902 5.872,10.841C6.077,10.781 6.246,10.696 6.378,10.587C6.511,10.479 6.61,10.348 6.674,10.195C6.739,10.041 6.771,9.87 6.771,9.681M13.152,28.33L11.452,28.33L11.452,25.384L10.419,25.384L10.419,29.201L13.06,29.201L13.152,28.33ZM13.418,19.899L12.632,18.375C12.826,18.261 12.97,18.113 13.063,17.929C13.156,17.746 13.203,17.533 13.203,17.291C13.203,17.137 13.179,16.988 13.13,16.841C13.082,16.695 12.999,16.566 12.883,16.454C12.766,16.342 12.609,16.252 12.412,16.184C12.215,16.116 11.967,16.082 11.669,16.082L10.152,16.082L10.152,19.899L11.137,19.899L11.137,18.584L11.696,18.584L12.326,19.899L13.418,19.899ZM13.706,10.836L12.372,7.019L11.199,7.019L9.864,10.836L10.903,10.836L11.118,10.104L12.415,10.104L12.635,10.836L13.706,10.836ZM19.55,28.33L17.849,28.33L17.849,25.384L16.816,25.384L16.816,29.201L19.458,29.201L19.55,28.33ZM19.832,18.744C19.832,18.441 19.737,18.191 19.547,17.993C19.357,17.796 19.036,17.652 18.584,17.563L18.062,17.461C17.911,17.433 17.802,17.392 17.734,17.339C17.666,17.285 17.632,17.214 17.632,17.125C17.632,17.025 17.674,16.946 17.758,16.887C17.842,16.828 17.972,16.799 18.148,16.799C18.342,16.799 18.484,16.836 18.576,16.911C18.667,16.986 18.729,17.1 18.761,17.253L19.762,17.152C19.744,16.998 19.703,16.851 19.638,16.71C19.574,16.57 19.479,16.446 19.353,16.339C19.228,16.232 19.066,16.146 18.869,16.082C18.672,16.018 18.433,15.986 18.153,15.986C17.673,15.986 17.295,16.087 17.021,16.288C16.746,16.489 16.609,16.788 16.609,17.184C16.609,17.512 16.712,17.768 16.916,17.953C17.12,18.139 17.436,18.27 17.863,18.349L18.374,18.445C18.535,18.477 18.647,18.523 18.708,18.581C18.769,18.64 18.799,18.714 18.799,18.803C18.799,18.921 18.753,19.012 18.662,19.076C18.571,19.14 18.433,19.172 18.25,19.172C18.035,19.172 17.872,19.128 17.761,19.041C17.65,18.954 17.583,18.821 17.562,18.643L16.534,18.643C16.588,19.537 17.147,19.988 18.213,19.995C18.489,19.995 18.729,19.965 18.934,19.904C19.138,19.844 19.307,19.759 19.439,19.65C19.572,19.542 19.671,19.411 19.735,19.257C19.8,19.104 19.832,18.933 19.832,18.744M19.91,8.885C19.91,8.276 19.746,7.812 19.418,7.495C19.09,7.178 18.606,7.019 17.968,7.019L16.456,7.019L16.456,10.836L17.909,10.836C18.551,10.836 19.045,10.668 19.391,10.331C19.737,9.994 19.91,9.512 19.91,8.885M26.265,28.046C26.265,27.744 26.17,27.493 25.979,27.296C25.789,27.098 25.468,26.954 25.016,26.865L24.494,26.764C24.344,26.735 24.235,26.694 24.166,26.641C24.098,26.587 24.064,26.516 24.064,26.427C24.064,26.327 24.106,26.248 24.191,26.189C24.275,26.13 24.405,26.101 24.581,26.101C24.774,26.101 24.917,26.138 25.008,26.213C25.1,26.288 25.162,26.402 25.194,26.555L26.195,26.454C26.177,26.3 26.135,26.154 26.071,26.013C26.006,25.872 25.911,25.748 25.786,25.641C25.66,25.534 25.499,25.449 25.302,25.384C25.104,25.32 24.866,25.288 24.586,25.288C24.105,25.288 23.728,25.389 23.453,25.59C23.179,25.792 23.042,26.09 23.042,26.486C23.042,26.814 23.144,27.07 23.349,27.255C23.553,27.441 23.868,27.573 24.295,27.651L24.807,27.747C24.968,27.779 25.079,27.825 25.14,27.883C25.201,27.942 25.232,28.016 25.232,28.105C25.232,28.223 25.186,28.314 25.095,28.378C25.003,28.442 24.866,28.474 24.683,28.474C24.468,28.474 24.304,28.431 24.193,28.343C24.082,28.256 24.016,28.123 23.994,27.945L22.966,27.945C23.02,28.839 23.58,29.29 24.645,29.297C24.921,29.297 25.162,29.267 25.366,29.206C25.571,29.146 25.739,29.061 25.872,28.953C26.005,28.844 26.103,28.713 26.168,28.56C26.232,28.406 26.265,28.235 26.265,28.046M27.132,16.082L26.066,16.082L25.588,18.573L25.039,16.109L24.087,16.109L23.549,18.573L23.054,16.082L21.956,16.082L22.984,19.899L24.006,19.899L24.549,17.456L25.103,19.899L26.136,19.899L27.132,16.082Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M44.334,17.076C45.427,17.076 46.33,16.964 47.044,16.74C47.758,16.516 48.326,16.208 48.746,15.815C49.166,15.424 49.453,14.94 49.607,14.366C49.761,13.792 49.839,13.168 49.839,12.496C49.839,11.796 49.755,11.18 49.586,10.647C49.418,10.115 49.124,9.667 48.704,9.303C48.284,8.939 47.716,8.659 47.002,8.463C46.288,8.267 45.385,8.168 44.292,8.168L39.838,8.168L39.838,17.076L44.334,17.076ZM33.662,3L44.376,3C46.673,3 48.571,3.26 50.07,3.778C51.568,4.296 52.758,4.982 53.641,5.837C54.523,6.691 55.139,7.685 55.49,8.82C55.84,9.954 56.015,11.138 56.015,12.37C56.015,13.687 55.84,14.948 55.49,16.152C55.139,17.356 54.523,18.414 53.641,19.324C52.758,20.234 51.582,20.956 50.112,21.488C48.641,22.02 46.785,22.286 44.544,22.286L39.838,22.286L39.838,33L33.662,33L33.662,3Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M71.885,19.597C71.885,18.084 71.513,16.908 70.771,16.067C70.029,15.227 68.874,14.807 67.305,14.807C66.52,14.807 65.834,14.933 65.246,15.185C64.658,15.437 64.16,15.781 63.755,16.214C63.348,16.649 63.033,17.154 62.809,17.727C62.585,18.302 62.459,18.925 62.431,19.597L71.885,19.597ZM77.305,26.152C76.912,28.617 75.925,30.487 74.343,31.761C72.76,33.035 70.456,33.673 67.431,33.673C63.789,33.673 61.051,32.664 59.217,30.647C57.382,28.631 56.465,25.773 56.465,22.076C56.465,20.227 56.731,18.582 57.263,17.139C57.795,15.697 58.545,14.471 59.511,13.462C60.477,12.454 61.633,11.691 62.977,11.173C64.322,10.655 65.806,10.395 67.431,10.395C70.792,10.395 73.32,11.362 75.015,13.294C76.709,15.227 77.557,17.832 77.557,21.11L77.557,23.463L62.347,23.463C62.403,25.227 62.851,26.607 63.692,27.601C64.532,28.596 65.792,29.093 67.473,29.093C69.798,29.093 71.171,28.113 71.591,26.152L77.305,26.152Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M92.599,23.211L89.994,23.337C88.761,23.393 87.767,23.52 87.011,23.715C86.255,23.911 85.673,24.156 85.267,24.45C84.861,24.744 84.588,25.088 84.448,25.48C84.307,25.872 84.238,26.306 84.238,26.782C84.238,27.511 84.49,28.085 84.994,28.505C85.498,28.925 86.198,29.135 87.095,29.135C88.607,29.135 89.84,28.785 90.792,28.085C91.324,27.693 91.759,27.196 92.095,26.593C92.431,25.991 92.599,25.242 92.599,24.345L92.599,23.211ZM92.725,30.228C91.857,31.208 90.883,32.007 89.805,32.623C88.726,33.238 87.333,33.547 85.624,33.547C84.644,33.547 83.712,33.421 82.83,33.169C81.948,32.917 81.177,32.525 80.52,31.992C79.861,31.461 79.336,30.781 78.944,29.955C78.551,29.129 78.355,28.141 78.355,26.992C78.355,25.48 78.692,24.247 79.364,23.295C80.036,22.343 80.919,21.601 82.011,21.068C83.103,20.536 84.328,20.158 85.688,19.934C87.046,19.71 88.425,19.57 89.826,19.513L92.641,19.387L92.641,18.295C92.641,16.95 92.269,16.026 91.528,15.522C90.785,15.018 89.91,14.766 88.901,14.766C86.576,14.766 85.246,15.648 84.91,17.413L79.532,16.908C79.924,14.612 80.932,12.952 82.557,11.929C84.181,10.907 86.366,10.396 89.112,10.396C90.792,10.396 92.221,10.599 93.397,11.005C94.574,11.411 95.519,11.992 96.234,12.749C96.948,13.505 97.466,14.423 97.788,15.501C98.11,16.579 98.272,17.791 98.272,19.135L98.272,33.001L92.725,33.001L92.725,30.228Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M120.629,25.059C120.404,27.692 119.501,29.786 117.919,31.341C116.336,32.895 113.962,33.672 110.797,33.672C108.948,33.672 107.352,33.392 106.007,32.832C104.662,32.272 103.563,31.488 102.709,30.479C101.854,29.471 101.217,28.252 100.797,26.824C100.377,25.395 100.167,23.813 100.167,22.076C100.167,20.339 100.412,18.75 100.902,17.307C101.392,15.865 102.1,14.632 103.024,13.609C103.948,12.587 105.083,11.796 106.427,11.236C107.772,10.676 109.312,10.395 111.049,10.395C112.534,10.395 113.829,10.584 114.936,10.963C116.042,11.341 116.973,11.866 117.73,12.538C118.486,13.21 119.074,14.016 119.495,14.954C119.915,15.893 120.194,16.922 120.335,18.042L114.41,18.841C114.27,17.721 113.948,16.817 113.444,16.13C112.94,15.444 112.071,15.101 110.839,15.101C109.942,15.101 109.2,15.29 108.612,15.668C108.024,16.046 107.554,16.558 107.205,17.202C106.854,17.847 106.609,18.582 106.469,19.408C106.329,20.234 106.259,21.096 106.259,21.992C106.259,22.916 106.329,23.799 106.469,24.639C106.609,25.479 106.848,26.222 107.184,26.866C107.52,27.51 107.982,28.021 108.57,28.399C109.158,28.778 109.9,28.967 110.797,28.967C111.974,28.967 112.883,28.631 113.528,27.958C114.172,27.286 114.55,26.32 114.662,25.059L120.629,25.059Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M132.734,28.967C134.414,28.967 135.668,28.365 136.495,27.16C137.32,25.956 137.734,24.234 137.734,21.992C137.734,19.752 137.32,18.043 136.495,16.866C135.668,15.69 134.414,15.102 132.734,15.102C131.053,15.102 129.799,15.69 128.973,16.866C128.147,18.043 127.734,19.752 127.734,21.992C127.734,24.261 128.14,25.991 128.952,27.181C129.765,28.372 131.025,28.967 132.734,28.967M132.734,33.673C129.204,33.673 126.473,32.665 124.541,30.648C122.608,28.631 121.641,25.746 121.641,21.992C121.641,20.2 121.9,18.582 122.419,17.139C122.937,15.697 123.679,14.478 124.646,13.484C125.612,12.49 126.781,11.726 128.154,11.194C129.526,10.662 131.053,10.396 132.734,10.396C134.442,10.396 135.983,10.662 137.356,11.194C138.728,11.726 139.898,12.49 140.864,13.484C141.831,14.478 142.566,15.697 143.07,17.139C143.574,18.582 143.826,20.2 143.826,21.992C143.826,23.813 143.567,25.445 143.049,26.887C142.53,28.33 141.789,29.555 140.822,30.564C139.856,31.572 138.686,32.343 137.314,32.875C135.941,33.406 134.414,33.673 132.734,33.673" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M165.507,25.059C165.282,27.692 164.379,29.786 162.797,31.341C161.214,32.895 158.84,33.672 155.675,33.672C153.827,33.672 152.23,33.392 150.885,32.832C149.541,32.272 148.441,31.488 147.587,30.479C146.732,29.471 146.095,28.252 145.675,26.824C145.255,25.395 145.045,23.813 145.045,22.076C145.045,20.339 145.29,18.75 145.78,17.307C146.27,15.865 146.978,14.632 147.902,13.609C148.827,12.587 149.961,11.796 151.305,11.236C152.65,10.676 154.19,10.395 155.927,10.395C157.412,10.395 158.707,10.584 159.814,10.963C160.92,11.341 161.852,11.866 162.608,12.538C163.364,13.21 163.953,14.016 164.373,14.954C164.793,15.893 165.072,16.922 165.213,18.042L159.289,18.841C159.148,17.721 158.827,16.817 158.322,16.13C157.818,15.444 156.95,15.101 155.717,15.101C154.82,15.101 154.079,15.29 153.491,15.668C152.902,16.046 152.433,16.558 152.083,17.202C151.732,17.847 151.488,18.582 151.347,19.408C151.207,20.234 151.137,21.096 151.137,21.992C151.137,22.916 151.207,23.799 151.347,24.639C151.488,25.479 151.726,26.222 152.062,26.866C152.398,27.51 152.86,28.021 153.449,28.399C154.037,28.778 154.778,28.967 155.675,28.967C156.852,28.967 157.762,28.631 158.406,27.958C159.05,27.286 159.428,26.32 159.541,25.059L165.507,25.059Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M167.305,3L173.062,3L173.062,18.714L181.507,11.067L188.313,11.067L180.33,18.63L188.944,33L182.599,33L176.129,21.908L173.062,24.681L173.062,33L167.305,33L167.305,3Z" style="fill:currentColor;fill-rule:nonzero;"/>
+    </g>
+</svg>
+                        <i class="far fa-angle-right" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li>
+                    <span class="c-event-filter__submenu-label">Stratford, London</span>
+                    <a href="https://www.sadlerswells.com/whats-on/?venue-location=sadlers-wells-east" class="c-event-filter__submenu-link u-venue-sadlers-wells-east ">
+                        <span class="u-hidden-visually">East Bank, Stratford</span>
+                        <svg role="img" width="100%" height="100%" viewBox="0 0 113 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <title>Sadler's Wells East</title>
+    <g>
+        <path d="M18.642,9.15C18.778,9.326 18.846,9.582 18.846,9.917C18.846,10.252 18.773,10.511 18.626,10.695C18.479,10.878 18.247,10.97 17.932,10.97L17.496,10.97L17.496,8.885L17.985,8.885C18.287,8.885 18.506,8.974 18.642,9.15M11.378,10.286L12.169,10.286L11.776,8.971L11.378,10.286ZM12.08,17.991C11.99,17.913 11.836,17.873 11.617,17.873L11.144,17.873L11.144,18.787L11.65,18.787C11.857,18.787 12.004,18.747 12.088,18.667C12.172,18.587 12.214,18.472 12.214,18.323C12.214,18.18 12.169,18.07 12.08,17.991M30.007,34L0.007,34L0.007,4L30.007,4L30.007,34ZM23.256,11.836L25.898,11.836L25.989,10.965L24.289,10.965L24.289,8.019L23.256,8.019L23.256,11.836ZM6.56,29.356L4.704,29.356L4.704,28.683L6.339,28.683L6.339,27.838L4.704,27.838L4.704,27.229L6.447,27.229L6.447,26.384L3.698,26.384L3.698,30.201L6.474,30.201L6.56,29.356ZM6.56,20.054L4.704,20.054L4.704,19.381L6.339,19.381L6.339,18.536L4.704,18.536L4.704,17.927L6.447,17.927L6.447,17.082L3.698,17.082L3.698,20.899L6.474,20.899L6.56,20.054ZM6.778,10.681C6.778,10.378 6.683,10.128 6.493,9.93C6.303,9.733 5.982,9.589 5.53,9.5L5.008,9.398C4.857,9.37 4.748,9.329 4.679,9.276C4.611,9.222 4.577,9.151 4.577,9.062C4.577,8.962 4.62,8.883 4.704,8.824C4.788,8.765 4.918,8.736 5.094,8.736C5.288,8.736 5.43,8.773 5.522,8.848C5.613,8.923 5.675,9.037 5.707,9.19L6.708,9.089C6.69,8.935 6.649,8.788 6.584,8.648C6.52,8.507 6.424,8.383 6.299,8.276C6.173,8.169 6.012,8.083 5.815,8.019C5.617,7.955 5.379,7.923 5.099,7.923C4.619,7.923 4.241,8.024 3.967,8.225C3.692,8.427 3.555,8.725 3.555,9.121C3.555,9.449 3.657,9.705 3.862,9.89C4.066,10.076 4.382,10.207 4.809,10.286L5.32,10.382C5.481,10.414 5.592,10.459 5.654,10.518C5.715,10.577 5.745,10.651 5.745,10.74C5.745,10.858 5.699,10.949 5.608,11.013C5.516,11.077 5.379,11.109 5.196,11.109C4.981,11.109 4.818,11.065 4.707,10.978C4.595,10.891 4.529,10.758 4.507,10.58L3.48,10.58C3.533,11.474 4.093,11.925 5.158,11.932C5.434,11.932 5.675,11.902 5.879,11.841C6.084,11.781 6.252,11.696 6.385,11.587C6.518,11.479 6.617,11.348 6.681,11.195C6.746,11.041 6.778,10.87 6.778,10.681M13.159,29.33L11.459,29.33L11.459,26.384L10.425,26.384L10.425,30.201L13.067,30.201L13.159,29.33ZM13.425,20.899L12.639,19.375C12.833,19.261 12.977,19.113 13.07,18.929C13.163,18.746 13.21,18.533 13.21,18.291C13.21,18.137 13.186,17.988 13.137,17.841C13.089,17.695 13.006,17.566 12.89,17.454C12.773,17.342 12.616,17.252 12.419,17.184C12.222,17.116 11.974,17.082 11.676,17.082L10.159,17.082L10.159,20.899L11.144,20.899L11.144,19.584L11.703,19.584L12.333,20.899L13.425,20.899ZM13.713,11.836L12.379,8.019L11.206,8.019L9.871,11.836L10.91,11.836L11.125,11.103L12.422,11.103L12.642,11.836L13.713,11.836ZM19.556,29.33L17.856,29.33L17.856,26.384L16.823,26.384L16.823,30.201L19.465,30.201L19.556,29.33ZM19.839,19.744C19.839,19.441 19.744,19.191 19.554,18.993C19.364,18.796 19.043,18.652 18.591,18.563L18.069,18.461C17.918,18.433 17.809,18.392 17.741,18.339C17.673,18.285 17.639,18.214 17.639,18.125C17.639,18.025 17.681,17.946 17.765,17.887C17.849,17.828 17.979,17.799 18.155,17.799C18.349,17.799 18.491,17.836 18.583,17.911C18.674,17.986 18.736,18.1 18.768,18.253L19.769,18.152C19.751,17.998 19.71,17.851 19.645,17.71C19.581,17.57 19.486,17.446 19.36,17.339C19.235,17.232 19.073,17.146 18.876,17.082C18.679,17.018 18.44,16.986 18.16,16.986C17.68,16.986 17.302,17.087 17.028,17.288C16.753,17.489 16.616,17.788 16.616,18.184C16.616,18.512 16.719,18.768 16.923,18.953C17.127,19.139 17.443,19.27 17.87,19.349L18.381,19.445C18.542,19.477 18.654,19.523 18.715,19.581C18.776,19.64 18.806,19.714 18.806,19.803C18.806,19.921 18.76,20.012 18.669,20.076C18.577,20.14 18.44,20.172 18.257,20.172C18.042,20.172 17.879,20.128 17.768,20.041C17.657,19.954 17.59,19.821 17.569,19.643L16.541,19.643C16.595,20.537 17.154,20.988 18.22,20.995C18.496,20.995 18.736,20.965 18.941,20.904C19.145,20.844 19.314,20.759 19.446,20.65C19.579,20.542 19.678,20.411 19.742,20.257C19.807,20.104 19.839,19.933 19.839,19.744M19.917,9.885C19.917,9.276 19.753,8.812 19.425,8.495C19.097,8.178 18.613,8.019 17.975,8.019L16.463,8.019L16.463,11.836L17.916,11.836C18.558,11.836 19.052,11.668 19.398,11.331C19.744,10.994 19.917,10.512 19.917,9.885M26.272,29.046C26.272,28.744 26.177,28.493 25.986,28.296C25.796,28.098 25.475,27.954 25.023,27.865L24.501,27.764C24.351,27.735 24.241,27.694 24.173,27.641C24.105,27.587 24.071,27.516 24.071,27.427C24.071,27.327 24.113,27.248 24.198,27.189C24.282,27.13 24.412,27.101 24.588,27.101C24.781,27.101 24.924,27.138 25.015,27.213C25.107,27.288 25.169,27.402 25.201,27.555L26.202,27.454C26.184,27.3 26.142,27.154 26.078,27.013C26.013,26.872 25.918,26.748 25.793,26.641C25.667,26.534 25.506,26.449 25.309,26.384C25.111,26.32 24.873,26.288 24.593,26.288C24.112,26.288 23.735,26.389 23.46,26.59C23.186,26.792 23.049,27.09 23.049,27.486C23.049,27.814 23.151,28.07 23.356,28.255C23.56,28.441 23.875,28.573 24.302,28.651L24.814,28.747C24.975,28.779 25.086,28.825 25.147,28.883C25.208,28.942 25.239,29.016 25.239,29.105C25.239,29.223 25.193,29.314 25.101,29.378C25.01,29.442 24.873,29.474 24.69,29.474C24.475,29.474 24.311,29.431 24.2,29.343C24.089,29.256 24.023,29.123 24.001,28.945L22.973,28.945C23.027,29.839 23.587,30.29 24.652,30.297C24.928,30.297 25.169,30.267 25.373,30.206C25.578,30.146 25.746,30.061 25.879,29.953C26.012,29.844 26.11,29.713 26.175,29.56C26.239,29.406 26.272,29.235 26.272,29.046M27.139,17.082L26.073,17.082L25.595,19.573L25.046,17.109L24.094,17.109L23.556,19.573L23.061,17.082L21.963,17.082L22.991,20.899L24.013,20.899L24.556,18.456L25.11,20.899L26.143,20.899L27.139,17.082Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M33.669,4L54.131,4L54.131,9.336L39.929,9.336L39.929,15.891L53.291,15.891L53.291,21.269L39.929,21.269L39.929,28.664L55.013,28.664L54.383,34L33.669,34L33.669,4Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M69.929,24.21L67.324,24.336C66.091,24.393 65.097,24.519 64.341,24.714C63.585,24.911 63.003,25.155 62.597,25.45C62.191,25.744 61.918,26.087 61.778,26.479C61.637,26.871 61.568,27.305 61.568,27.781C61.568,28.51 61.82,29.084 62.324,29.504C62.828,29.924 63.528,30.134 64.425,30.134C65.938,30.134 67.17,29.785 68.122,29.084C68.654,28.692 69.089,28.195 69.425,27.592C69.761,26.99 69.929,26.241 69.929,25.345L69.929,24.21ZM70.055,31.227C69.187,32.208 68.213,33.006 67.135,33.622C66.056,34.238 64.663,34.546 62.954,34.546C61.973,34.546 61.043,34.42 60.16,34.168C59.278,33.916 58.507,33.524 57.849,32.991C57.191,32.46 56.666,31.78 56.274,30.954C55.881,30.128 55.685,29.141 55.685,27.992C55.685,26.479 56.022,25.247 56.694,24.294C57.366,23.342 58.248,22.6 59.341,22.067C60.433,21.535 61.658,21.157 63.017,20.933C64.376,20.709 65.755,20.569 67.156,20.513L69.971,20.387L69.971,19.294C69.971,17.95 69.6,17.025 68.858,16.521C68.115,16.017 67.24,15.764 66.232,15.764C63.906,15.764 62.576,16.647 62.24,18.412L56.862,17.908C57.254,15.611 58.262,13.951 59.887,12.928C61.512,11.906 63.696,11.395 66.442,11.395C68.122,11.395 69.551,11.598 70.727,12.004C71.904,12.41 72.849,12.991 73.564,13.748C74.278,14.504 74.796,15.422 75.118,16.5C75.44,17.579 75.601,18.79 75.601,20.135L75.601,34L70.055,34L70.055,31.227Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M82.765,27.025C82.961,28.314 83.479,29.154 84.32,29.546C85.16,29.939 86.168,30.134 87.345,30.134C88.745,30.134 89.746,29.96 90.349,29.609C90.951,29.259 91.252,28.692 91.252,27.907C91.252,27.347 91.063,26.857 90.685,26.437C90.307,26.017 89.585,25.722 88.521,25.554L85.496,25.05C82.835,24.63 80.853,23.909 79.551,22.886C78.248,21.864 77.597,20.317 77.597,18.244C77.597,17.179 77.828,16.226 78.29,15.386C78.752,14.546 79.404,13.832 80.244,13.243C81.084,12.655 82.086,12.2 83.248,11.878C84.41,11.556 85.692,11.395 87.093,11.395C88.829,11.395 90.286,11.57 91.463,11.92C92.639,12.27 93.598,12.739 94.341,13.327C95.082,13.916 95.643,14.616 96.021,15.428C96.399,16.241 96.672,17.109 96.841,18.033L91.589,18.706C91.336,17.697 90.895,16.955 90.265,16.479C89.635,16.003 88.619,15.764 87.219,15.764C86.434,15.764 85.783,15.827 85.265,15.953C84.746,16.079 84.341,16.241 84.046,16.437C83.752,16.633 83.542,16.857 83.416,17.109C83.29,17.361 83.227,17.6 83.227,17.823C83.227,18.524 83.444,19.035 83.878,19.357C84.312,19.679 85.16,19.952 86.421,20.176L89.193,20.639C90.734,20.891 92.009,21.213 93.017,21.605C94.025,21.997 94.83,22.481 95.433,23.054C96.035,23.629 96.455,24.308 96.693,25.092C96.931,25.877 97.051,26.787 97.051,27.823C97.051,29.896 96.266,31.556 94.698,32.802C93.129,34.048 90.706,34.672 87.429,34.672C86.112,34.672 84.859,34.552 83.668,34.315C82.478,34.076 81.413,33.663 80.475,33.075C79.536,32.487 78.766,31.703 78.164,30.722C77.562,29.742 77.219,28.51 77.135,27.025L82.765,27.025Z" style="fill:currentColor;fill-rule:nonzero;"/>
+        <path d="M100.715,16.647L97.27,16.647L97.27,12.067L100.715,12.067L100.715,6.227L106.598,6.227L106.598,12.067L111.64,12.067L111.64,16.647L106.598,16.647L106.598,26.773C106.598,27.922 106.835,28.699 107.312,29.105C107.788,29.511 108.404,29.714 109.161,29.714C109.553,29.714 109.952,29.693 110.358,29.651C110.764,29.609 111.163,29.532 111.556,29.42L112.396,33.748C111.583,34 110.792,34.175 110.022,34.273C109.251,34.371 108.516,34.42 107.816,34.42C105.407,34.42 103.621,33.847 102.459,32.698C101.296,31.549 100.715,29.617 100.715,26.899L100.715,16.647Z" style="fill:currentColor;fill-rule:nonzero;"/>
+    </g>
+</svg>
+                        <i class="far fa-angle-right" aria-hidden="true"></i>
+                    </a>
+                    <span class="c-event-filter__submenu-note">Our new venue is now open! Also, check out our <a class="o-link" href="https://www.sadlerswells.com/take-part/the-dance-floor-at-sadlers-wells-east/">free events on The Dance Floor</a>.</span>
+                </li>
+                <li>
+                    <span class="c-event-filter__submenu-label">Off-site</span>
+                                            <span class="c-event-filter__submenu-note">From time to time we have performances outside our main locations. Currently there are no off-site events at present.</span>
+                    
+                </li>
+            </ul>
+        </div>
+    <li class="c-event-filter c-event-filter--access">
+        <button class="c-btn c-btn--white" aria-expanded="false" aria-controls="access-menu">Access</button>
+        <div class="c-event-filter__submenu js-disclosure-nav__dropdown" id="access-menu">
+            <ul class="c-event-filter__submenu-items" id="access-menu">
+                                <li><a href="https://www.sadlerswells.com/whats-on/?accessibility=audio-described" class="">Audio Described Performances                    <span>There are a limited number of Stalls seats reserved for partially sighted patrons, and headsets available for those wishing to listen to the audio description, please email tickets@sadlerswells.com if you wish to book these options</span>
+                </a></li>
+                            <li><a href="https://www.sadlerswells.com/whats-on/?accessibility=signed" class="">BSL interpreted Performances                    <span>Our BSL performances are interpreted by a BSL signer. They use sign language to communicate what is sung and/or spoken by artists on stage.</span>
+                </a></li>
+                            <li><a href="https://www.sadlerswells.com/whats-on/?accessibility=captioned" class="">Captioned Performances                    <span>For advice on where to sit in order to view the captions please contact our Ticket Office at tickets@sadlerswells.com or by calling 020 7863 8000.</span>
+                </a></li>
+                            <li><a href="https://www.sadlerswells.com/whats-on/?accessibility=multi-sensory-performances" class="">Multi-Sensory Performances                    <span></span>
+                </a></li>
+                            <li><a href="https://www.sadlerswells.com/whats-on/?accessibility=relaxed" class="">Relaxed Performances                    <span>A Relaxed Performance is a less formal theatre experience for anyone who would benefit from a more relaxed atmosphere to enjoy a show. They support noise and movement within the auditorium during a show, re-entry when needed so house lights are left on throughout, and a separate chill-out space for anyone who might need it at any time during their visit. We also provide a Visual Story so people can familiarise themselves with the theatre and key details about the show in advance.</span>
+                </a></li>
+                            <li><a href="https://www.sadlerswells.com/whats-on/?accessibility=sensory-adapted" class="">Sensory Adapted Performances                    <span>A Sensory Adapted Performance is an extension of a Relaxed Performance. To create a less formal but supportive environment, the show is modified by reducing sound levels and special effects, and other technical adaptations are made to soften contrasts. As with a Relaxed Performance, Sensory Adapted Performances support noise and movement within the auditorium during a show, re-entry when needed so house lights are left on throughout, and a separate chill-out space for anyone who might need it at any time during their visit. We also provide a Visual Story so people can familiarise themselves with the theatre and key details about the show in advance.</span>
+                </a></li>
+                            <li><a href="https://www.sadlerswells.com/whats-on/?accessibility=touch-tour" class="">Touch Tour                    <span>Visually impaired patrons can go on a Touch Tour before the performance. Your tour guide will take you backstage, or onto the stage itself, to feel costumes and pieces of the set and learn more about the production.
+</span>
+                </a></li>
+                        </ul>
+        </div>
+    </li>
+</ul>
+
+
+
+
+</div>
+</section>
+
+
+   
+<section class="c-container c-container--1600 c-container--left">
+    <div class="c-container__wrap">
+
+                        <h2>All Events</h2>
+                <section class="c-event-grid-items o-grid">
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-east c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/gecko-kin/">
+            <span class="u-hidden-visually">Gecko - Ķīn</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/06/LEAD-IMAGE_Gecko_KinRichard-Haughton_2700x1080-1.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Performer in a dress and headscarf steps upward mid-air, briefcase in hand, with a flowing blue, red and gold scarf against a black background."
+                            title="Gecko - Kin ©Richard Haughton"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Gecko - Ķīn                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            20 &ndash; 23 January 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells East</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/gecko-kin/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-theatre c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/martha-graham-dance-programme-a/">
+            <span class="u-hidden-visually">Martha Graham Dance Company - Inner Landscape - Programme A</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_a-scaled.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Six dancers in matching black costumes sit in a precise line with arms and legs angled in unison, facing one direction, while a figure in a green and gold outfit reclines on the floor in the foreground; behind them, another performer stands holding a staff beside abstract sculptural props on a dark stage."
+                            title="Martha Graham Dance Company - Night Journey © Luis Luque"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Martha Graham Dance Company - Inner Landscape - Programme A                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            20 &ndash; 23 January 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells Theatre</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/martha-graham-dance-programme-a/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-theatre c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/martha-graham-dance-programme-b/">
+            <span class="u-hidden-visually">Martha Graham Dance Company - Dancing Our Times - Programme B</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=15%2C15&gravity&webp=1"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/06/martha_graham_programme_b-scaled.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Three dancers move in unison across a dark stage under blue lighting, stepping forward with extended legs and hands held at their waists, wearing coordinated sleeveless tops and loose trousers."
+                            title="Martha Graham Dance Company - We The People © L Pagano"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Martha Graham Dance Company - Dancing Our Times - Programme B                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            21 &ndash; 23 January 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells Theatre</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/martha-graham-dance-programme-b/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-east c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/tao-dance-theater-tao-ye-13-14/">
+            <span class="u-hidden-visually">TAO Dance Theater / Tao Ye 13 & 14</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/03/tao_dance.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Fourteen dancers wearing bold colours spin"
+                            title="TAO Dance Theater / Tao Ye - 14 © Duan Ni"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    TAO Dance Theater / Tao Ye 13 & 14                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            26 &ndash; 27 January 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells East</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/tao-dance-theater-tao-ye-13-14/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-lilian-baylis-studio c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/chara-kotsali-amusement-phase/">
+            <span class="u-hidden-visually">Chara Kotsali - ΙT'S THE END OF THE AMUSEMENT PHASE</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=15%2C15&gravity&webp=1"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/03/amusement_phase_rose_prize.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Three female dancers wearing casual clothing march with flags"
+                            title="Chara Kotsali - ΙT'S THE END OF THE AMUSEMENT PHASE © Pinelopi Gerasimou"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Chara Kotsali - ΙT'S THE END OF THE AMUSEMENT PHASE                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            29 &ndash; 30 January 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Lilian Baylis Studio</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/chara-kotsali-amusement-phase/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-east c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/stopgap-dance-company-lived-fiction/">
+            <span class="u-hidden-visually">Stopgap Dance Company - Lived Fiction</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/03/stopgap.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="A performer in a wheelchair does a one-handed headstand in front of a bright orange light"
+                            title="Stopgap Dance Company - Lived Fiction © Chris Parkes"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Stopgap Dance Company - Lived Fiction                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            29 &ndash; 30 January 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells East</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/stopgap-dance-company-lived-fiction/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-theatre c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/shochiku-kabuki/">
+            <span class="u-hidden-visually">Shochiku – KABUKI</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/09/kabuki_guest_event.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt=""
+                            title="Kabuki © SHOCHIKU"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Shochiku – KABUKI                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            30 &ndash; 31 January 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells Theatre</span>
+                </div>
+                        </div>
+                                        <span class="c-btn c-btn--disabled">Sold Out</span>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-lilian-baylis-studio c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/shimmering-production-islands/">
+            <span class="u-hidden-visually">Wang Yeu-Kwn / Shimmering Production - Islands</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/03/shimmering_rose_prize.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="A male dancer wearing a wooden mask holds his hands up to his face"
+                            title="Wang Yeu-Kwn / Shimmering Production - Islands © Lee Chia-Yeh"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Wang Yeu-Kwn / Shimmering Production - Islands                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            2 &ndash; 3 February 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Lilian Baylis Studio</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/shimmering-production-islands/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-east c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/dorothee-munyaneza-cie-kadidi-umuko/">
+            <span class="u-hidden-visually">Dorothée Munyaneza / Cie Kadidi - umuko</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Five performers wearing red costumes are captured mid-jump with their arms raised"
+                            title="Dorothée Munyaneza / Cie Kadidi - umuko © Pierre-Gondard"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Dorothée Munyaneza / Cie Kadidi - umuko                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            2 &ndash; 3 February 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells East</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/dorothee-munyaneza-cie-kadidi-umuko/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-theatre c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/s-e-d-sharon-eyal-delay-the-sadness/">
+            <span class="u-hidden-visually">S-E-D / Sharon Eyal - Delay the Sadness</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/03/sharon_eyal.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Four pairs of dancers wearing skin-coloured leotards hold dance poses in front of a black background"
+                            title="S-E-D / Sharon Eyal - Delay the Sadness"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    S-E-D / Sharon Eyal - Delay the Sadness                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            4 &ndash; 6 February 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells Theatre</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/s-e-d-sharon-eyal-delay-the-sadness/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-east c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/pontes-ferreira-repertorio-n3/">
+            <span class="u-hidden-visually">Davi Pontes & Wallace Ferreira - Repertório N.3</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=15%2C15&gravity"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/03/davi_rose-prize.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Two naked dancers lie on their stomachs facing each other"
+                            title="Davi Pontes & Wallace Ferreira - Repertório N.3 © Fe Avilla"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Davi Pontes & Wallace Ferreira - Repertório N.3                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            5 &ndash; 6 February 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells East</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/pontes-ferreira-repertorio-n3/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                    <div class="o-grid__cell u-1/3@desktop">
+    <div class="c-event-card fadeInUp u-venue-sadlers-wells-east c-col--has-venue">
+        <a class="c-event-card__cover-link" href="https://www.sadlerswells.com/whats-on/the-love-book/">
+            <span class="u-hidden-visually">Jade Hackett and Omar - The LOve Book</span>
+        </a>
+
+        <div class="c-event-card__content">
+            <figure class="c-event-card__image">
+                                <img
+                            src="https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=15%2C15&gravity&webp=1"
+                            data-srcset="https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=150%2C150&gravity&webp=1 150w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=15%2C15&gravity&webp=1 15w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=320%2C320&gravity&webp=1 320w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=500%2C500&gravity&webp=1 500w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=640%2C640&gravity&webp=1 640w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=960%2C960&gravity&webp=1 960w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=300%2C300&gravity&webp=1 300w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=400%2C400&gravity&webp=1 400w, https://images.sadlerswells.com/uploads/2026/06/The-LOve-Book_Web-resize-2700x1080-1-scaled.jpg?resize=600%2C600&gravity&webp=1 600w"
+                            class="lazyload fadeIn u-delay--300"
+                            alt="Two performers dance with arms outstretched on a vintage living-room set, one wearing a pinstripe suit and the other a yellow floral dress."
+                            title="The LOve Book Lead Image"
+                            width=160
+                            height=100
+                    />
+                        </figure>
+
+            <div class="c-event-card__overlay">
+                <h3 class="c-event-card__title">
+                    Jade Hackett and Omar - The LOve Book                </h3>
+            </div>
+
+        </div>
+
+        <div class="c-event-card__details">
+            <div class="c-event-card__meta">
+                <time class="c-event-card__daterange">
+                                            12 &ndash; 20 February 2027                                    </time>
+                            <div class="c-event-card__locations">
+                    <span class="c-event-card__location">Sadler's Wells East</span>
+                </div>
+                        </div>
+                                        <a class="c-btn c-btn--large c-btn--book" href="https://www.sadlerswells.com/whats-on/the-love-book/#book">
+                <i class="fal fa-ticket-alt"></i> Get Tickets            </a>
+                                </div>
+
+
+    </div>
+</div>
+                </section>
+    
+
+            <div class="c-pagination">
+        <a class="prev page-numbers" href="https://www.sadlerswells.com/whats-on/page/2/" aria-label="Go to Prev page">Prev</a>
+<a class="page-numbers" href="https://www.sadlerswells.com/whats-on/" aria-label="Go to page 1">1</a>
+<a class="page-numbers" href="https://www.sadlerswells.com/whats-on/page/2/" aria-label="Go to page 2">2</a>
+<span aria-current="page" class="page-numbers current" aria-label="Current page, page 3">3</span>
+<a class="page-numbers" href="https://www.sadlerswells.com/whats-on/page/4/" aria-label="Go to page 4">4</a>
+<a class="next page-numbers" href="https://www.sadlerswells.com/whats-on/page/4/" aria-label="Go to Next page">Next</a>        </div>
+    
+    </div>
+</section>
+
+</main>
+
+<footer class="c-global-footer" id="footer">
+    <div class="o-site-max">
+        <div class="c-global-footer__top-section">
+            <ul id="menu-footer-primary" class="c-footer-primary-nav-items"><li id="menu-item-1266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1266"><a href="https://www.sadlerswells.com/whats-on/">What’s on</a>
+<ul class="sub-menu">
+	<li id="menu-item-1346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346"><a href="https://www.sadlerswells.com/whats-on/?venue-location=sadlers-wells-theatre">Sadler&#8217;s Wells Theatre</a></li>
+	<li id="menu-item-1347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1347"><a href="https://www.sadlerswells.com/whats-on/?venue-location=lilian-baylis-studio">Lilian Baylis Studio</a></li>
+	<li id="menu-item-1348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1348"><a href="https://www.sadlerswells.com/whats-on/?venue-location=peacock-theatre">Peacock Theatre</a></li>
+	<li id="menu-item-39853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39853"><a href="https://www.sadlerswells.com/whats-on/?venue-location=sadlers-wells-east">Sadler&#8217;s Wells East</a></li>
+	<li id="menu-item-1350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1350"><a href="https://www.sadlerswells.com/digital-stage/">Digital Stage</a></li>
+	<li id="menu-item-2657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2657"><a href="https://www.sadlerswells.com/on-tour/">On tour</a></li>
+</ul>
+</li>
+<li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1552"><a href="https://www.sadlerswells.com/your-visit/accessibility/">Accessibility</a>
+<ul class="sub-menu">
+	<li id="menu-item-2399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2399"><a href="https://www.sadlerswells.com/your-visit/accessibility/accessible-performances/">Accessible performances</a></li>
+	<li id="menu-item-2398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2398"><a href="https://www.sadlerswells.com/your-visit/accessibility/sadlers-wells-access-scheme/">Access for All Scheme</a></li>
+	<li id="menu-item-51897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51897"><a href="https://www.sadlerswells.com/your-visit/accessibility/sadlers-wells-theatre/">Sadler’s Wells Theatre Access Information</a></li>
+	<li id="menu-item-51898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51898"><a href="https://www.sadlerswells.com/your-visit/accessibility/sadlers-wells-east/">Sadler’s Wells East Access Information</a></li>
+	<li id="menu-item-51899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51899"><a href="https://www.sadlerswells.com/your-visit/accessibility/peacock-theatre/">Peacock Theatre Access Information</a></li>
+	<li id="menu-item-51900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51900"><a href="https://www.sadlerswells.com/your-visit/accessibility/lilian-baylis-studio/">Lilian Baylis Studio Access Information</a></li>
+	<li id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2397"><a href="https://www.sadlerswells.com/digital-stage/">Digital Stage</a></li>
+</ul>
+</li>
+<li id="menu-item-32295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32295"><a href="https://www.sadlerswells.com/support-us/">Support us</a>
+<ul class="sub-menu">
+	<li id="menu-item-32296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32296"><a href="https://www.sadlerswells.com/support-us/become-a-member/">Become a Member</a></li>
+	<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1269"><a href="https://www.sadlerswells.com/support-us/become-a-patron/">Become a Patron</a></li>
+	<li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268"><a href="https://www.sadlerswells.com/support-us/gift-membership/">Sadler’s Wells gift membership</a></li>
+	<li id="menu-item-49723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49723"><a href="https://www.sadlerswells.com/support-us/corporate-support/">Corporate support</a></li>
+	<li id="menu-item-7525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7525"><a href="https://www.sadlerswells.com/support-us/trusts-and-foundations/">Trusts and Foundations</a></li>
+</ul>
+</li>
+<li id="menu-item-1265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1265"><a href="https://www.sadlerswells.com/your-visit/">Your visit</a>
+<ul class="sub-menu">
+	<li id="menu-item-2402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2402"><a href="https://www.sadlerswells.com/your-visit/sadlers-wells-theatre/">Sadler’s Wells Theatre</a></li>
+	<li id="menu-item-2403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2403"><a href="https://www.sadlerswells.com/your-visit/peacock-theatre/">Peacock Theatre</a></li>
+	<li id="menu-item-2404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2404"><a href="https://www.sadlerswells.com/your-visit/lilian-baylis-studio/">Lilian Baylis Studio</a></li>
+	<li id="menu-item-33546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33546"><a href="https://www.sadlerswells.com/your-visit/sadlers-wells-east/">Sadler’s Wells East</a></li>
+	<li id="menu-item-2405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2405"><a href="https://www.sadlerswells.com/your-visit/eating-and-drinking/">Eating and drinking</a></li>
+</ul>
+</li>
+<li id="menu-item-30699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30699"><a href="https://www.sadlerswells.com/for-artists/">For artists</a>
+<ul class="sub-menu">
+	<li id="menu-item-30702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30702"><a href="https://www.sadlerswells.com/for-artists/artist-development/">Artist Development Programme</a></li>
+	<li id="menu-item-30700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30700"><a href="https://www.sadlerswells.com/sadlers-wells-young-associates/">Sadler’s Wells Young Associates</a></li>
+	<li id="menu-item-30701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30701"><a href="https://www.sadlerswells.com/about-us/our-theatres/about-sadlers-wells-east/rose-choreographic-school/">Rose Choreographic School</a></li>
+</ul>
+</li>
+<li id="menu-item-1263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1263"><a href="https://www.sadlerswells.com/take-part/">Take part</a>
+<ul class="sub-menu">
+	<li id="menu-item-2406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2406"><a href="https://www.sadlerswells.com/take-part/performing-and-creating/">Performing and creating</a></li>
+	<li id="menu-item-2643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2643"><a href="https://www.sadlerswells.com/take-part/community-engagement/">Community engagement</a></li>
+	<li id="menu-item-2659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2659"><a href="https://www.sadlerswells.com/take-part/schools-and-colleges/">Schools and colleges</a></li>
+	<li id="menu-item-42336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42336"><a href="https://www.sadlerswells.com/take-part/online-workshops/taster-dance-workshops/">Online workshops</a></li>
+</ul>
+</li>
+<li id="menu-item-1261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1261"><a href="https://www.sadlerswells.com/hire-our-spaces/">Hire our spaces</a>
+<ul class="sub-menu">
+	<li id="menu-item-2409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2409"><a href="https://www.sadlerswells.com/hire-our-spaces/conference-spaces/">Conferences &#038; meetings</a></li>
+	<li id="menu-item-2410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2410"><a href="https://www.sadlerswells.com/hire-our-spaces/concerts-and-performances/">Concerts and performances</a></li>
+	<li id="menu-item-2411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2411"><a href="https://www.sadlerswells.com/hire-our-spaces/filming-and-photography/">Filming and photography</a></li>
+	<li id="menu-item-2412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2412"><a href="https://www.sadlerswells.com/hire-our-spaces/fashion-shows/">Fashion shows</a></li>
+</ul>
+</li>
+<li id="menu-item-2748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2748"><a href="https://www.sadlerswells.com/about-us/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-2757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2757"><a href="https://www.sadlerswells.com/about-us/our-story/">Our story</a></li>
+	<li id="menu-item-2759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2759"><a href="https://www.sadlerswells.com/about-us/what-we-do/">What we do</a></li>
+	<li id="menu-item-2758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2758"><a href="https://www.sadlerswells.com/about-us/our-people/">Our people</a></li>
+	<li id="menu-item-30563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30563"><a href="https://www.sadlerswells.com/about-us/work-with-us/">Work with us</a></li>
+	<li id="menu-item-2760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2760"><a href="https://www.sadlerswells.com/about-us/supporting-artists/">Supporting artists</a></li>
+	<li id="menu-item-3258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3258"><a href="https://www.sadlerswells.com/about-us/our-theatres/">Our theatres</a></li>
+</ul>
+</li>
+</ul>        </div>
+        <div class="c-global-footer__center-section">
+            <div class="c-global-footer__secondary-links">
+                <ul id="menu-footer-secondary" class="c-footer-secondary-nav-items"><li id="menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1257"><a href="https://www.sadlerswells.com/contact-us/">Contact us</a></li>
+<li id="menu-item-47432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47432"><a href="https://help.sadlerswells.com/hc/en-gb">Frequently asked questions</a></li>
+<li id="menu-item-6754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6754"><a href="https://www.sadlerswells.com/barclays-dance-pass/">Barclays Dance Pass</a></li>
+<li id="menu-item-31989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31989"><a href="https://www.shop.sadlerswells.com/">Sadler&#8217;s Wells Shop</a></li>
+<li id="menu-item-29203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29203"><a href="https://www.sadlerswells.com/news/">News</a></li>
+<li id="menu-item-29216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29216"><a href="https://www.sadlerswells.com/features/">Features</a></li>
+<li id="menu-item-30831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30831"><a href="https://www.sadlerswells.com/events-archive/">Event Archive</a></li>
+<li id="menu-item-1515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1515"><a href="https://www.sadlerswells.com/press/">Media Office</a></li>
+<li id="menu-item-47476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47476"><a href="https://www.sadlerswells.com/policies-and-statements/">Policies and statements</a></li>
+</ul>            </div>
+            <div class="c-global-footer__social">
+                <ul class="c-footer-secondary-nav-items">
+                    <li><a class="c-footer__social" href="https://instagram.com/sadlers_wells"><span class="c-footer__social--icon"><i class="fab fa-instagram"></i></span><span>Instagram</span></a></li>
+                    <li><a class="c-footer__social" href="https://twitter.com/sadlers_wells"><span class="c-footer__social--icon"><i class="fab fa-twitter"></i></span><span>Twitter</span></a></li>
+                    <li><a class="c-footer__social" href="https://www.facebook.com/Sadlerswells"><span class="c-footer__social--icon"><i class="fab fa-facebook"></i></span><span>Facebook</span></a></li>
+                    <li><a class="c-footer__social" href="https://www.youtube.com/user/sadlerswells"><span class="c-footer__social--icon"><i class="fab fa-youtube"></i></span><span>YouTube</span></a></li>
+                    <li><a class="c-footer__social" href="https://www.linkedin.com/company/sadler%27s-wells"><span class="c-footer__social--icon"><i class="fab fa-linkedin"></i></span>LinkedIn<span></span></a></li>
+                </ul>
+            </div>
+            <div class="c-global-footer__signup">
+            <span class="c-global-footer__signup-title">Keep in touch</span>
+                <p class="c-global-footer__signup-body">Be the first to know about new and upcoming shows, ways to get involved and our latest news.</p>
+                                    <a
+                        class="c-global-footer__signup-button c-btn c-btn--large"
+                        href="https://www.sadlerswells.com/sign-up-to-our-newsletter/"
+                                            >Sign up to our newsletter</a>
+                            </div>
+        </div>
+        <div class="c-global-footer__bottom-section">
+            <div class="c-global-footer__credit">
+                <p>
+                    &copy; Sadler's Wells Trust Limited<br/>
+                    Rosebery Avenue, London, EC1R 4TN<br/><br/>
+                    Company registration number 1488786<br/>
+                    Registered charity number 279884<br/><br/>
+                    <a class="c-footer-credit__link" href="https://substrakt.com" target="_blank" rel="noopener noreferrer">Site by substrakt</a>
+                </p>
+            </div>
+            <div class="c-global-footer__logos">
+                <img width="300" height="72" class="c-global-footer__logo c-global-footer__ace-logo" src="https://sadlers-wells-assets.s3.eu-west-2.amazonaws.com/static-assets/ace-logo.svg" alt="Art's Council England logo" />
+                <img width="1181" height="333" class="c-global-footer__logo c-global-footer__barclays-logo" src="https://sadlers-wells-assets.s3.eu-west-2.amazonaws.com/static-assets/barlcays-logo.png" alt="Supported by Barclays logo" />
+            </div>
+        </div>
+    </div>
+     <!-- OptanonCookieSettingsButtonStart -->
+ <button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button>
+ <!-- OptanonCookieSettingsButtonEnd -->
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/admin/wp-*.php","/admin/wp-admin/*","/uploads/*","/*","/plugins/*","/themes/childtheme/*","/themes/basetheme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<script id="shared-sessions-js-extra">
+var sharedSessions = {"ajaxURL":"https://www.sadlerswells.com/admin/wp-admin/admin-ajax.php"};
+//# sourceURL=shared-sessions-js-extra
+</script>
+<script id="shared-sessions-js" src="https://www.sadlerswells.com/plugins/shared-sessions/js/sharedsessions.min.js?ver=1.1.1"></script>
+<script id="underscore-js" src="https://www.sadlerswells.com/admin/wp-includes/js/underscore.min.js?ver=1.13.8"></script>
+<script id="backbone-js" src="https://www.sadlerswells.com/admin/wp-includes/js/backbone.min.js?ver=1.6.1"></script>
+<script id="wp-api-request-js-extra">
+var wpApiSettings = {"root":"https://www.sadlerswells.com/wp-json/","nonce":"c2e47912ac","versionString":"wp/v2/"};
+//# sourceURL=wp-api-request-js-extra
+</script>
+<script id="wp-api-request-js" src="https://www.sadlerswells.com/admin/wp-includes/js/api-request.min.js?ver=7.1.3"></script>
+<script id="wp-api-js" src="https://www.sadlerswells.com/admin/wp-includes/js/wp-api.min.js?ver=7.1.3"></script>
+<script id="basetheme-js-extra">
+var wpAjax = {"url":"https://www.sadlerswells.com/admin/wp-admin/admin-ajax.php"};
+//# sourceURL=basetheme-js-extra
+</script>
+<script id="basetheme-js" src="https://www.sadlerswells.com/themes/childtheme/assets/js/all.js?ver=1792603947"></script>
+<script id="moment-js" src="https://www.sadlerswells.com/admin/wp-includes/js/dist/vendor/moment.min.js?ver=2.30.1"></script>
+<script id="moment-js-after">
+moment.updateLocale( 'en_GB', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"jS F Y g:i a","LLLL":null}} );
+//# sourceURL=moment-js-after
+</script>
+<script id="datepicker-js" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js?ver=1.0.0"></script>
+<script id="callstrakt_js-js" src="https://www.sadlerswells.com/plugins/callstrakt/assets/js/main.js?ver=1792473546"></script>
+</body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 8272 objects (1 MB) from Redis using Predis (v3.7.0).
+-->

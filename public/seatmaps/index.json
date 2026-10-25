@@ -1,0 +1,932 @@
+[
+ {
+  "id": "adelphi",
+  "name": "Adelphi Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Adelphi Theatre"
+  ],
+  "mapVenueIds": [
+   "adelphi-theatre"
+  ],
+  "capacity": 1466,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Upper Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "aldwych",
+  "name": "Aldwych Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Aldwych Theatre"
+  ],
+  "mapVenueIds": [
+   "aldwych-theatre"
+  ],
+  "capacity": 1175,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "ambassadors",
+  "name": "Ambassadors Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Ambassadors Theatre"
+  ],
+  "mapVenueIds": [
+   "ambassadors-theatre"
+  ],
+  "capacity": 406,
+  "levels": [
+   "Stalls",
+   "Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "apollo-victoria",
+  "name": "Apollo Victoria Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Apollo Victoria Theatre"
+  ],
+  "mapVenueIds": [
+   "apollo-victoria-theatre"
+  ],
+  "capacity": 2328,
+  "priceRange": [
+   25,
+   134.5
+  ],
+  "levels": [
+   "Stalls",
+   "Dress Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "barbican-hall",
+  "name": "Barbican Centre",
+  "hall": "Barbican Hall",
+  "venueNames": [
+   "Barbican Centre",
+   "Barbican Hall",
+   "Barbican"
+  ],
+  "mapVenueIds": [
+   "barbican",
+   "ext_barbican-centre"
+  ],
+  "capacity": 1949,
+  "levels": [
+   "Stalls",
+   "Circle",
+   "Balcony"
+  ],
+  "stage": "platform"
+ },
+ {
+  "id": "bridge",
+  "name": "Bridge Theatre",
+  "hall": "End stage",
+  "venueNames": [
+   "Bridge Theatre"
+  ],
+  "mapVenueIds": [
+   "bridge",
+   "bridge-theatre"
+  ],
+  "capacity": 939,
+  "levels": [
+   "Stalls",
+   "Circle",
+   "Gallery"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "cambridge",
+  "name": "Cambridge Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Cambridge Theatre"
+  ],
+  "mapVenueIds": [
+   "cambridge-theatre"
+  ],
+  "capacity": 1246,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Upper Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "criterion",
+  "name": "Criterion Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Criterion Theatre"
+  ],
+  "mapVenueIds": [
+   "criterion-theatre"
+  ],
+  "capacity": 560,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Upper Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "dominion",
+  "name": "Dominion Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Dominion Theatre"
+  ],
+  "mapVenueIds": [
+   "dominion-theatre"
+  ],
+  "capacity": 2067,
+  "levels": [
+   "Stalls",
+   "Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "duchess",
+  "name": "Duchess Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Duchess Theatre"
+  ],
+  "mapVenueIds": [
+   "duchess-theatre"
+  ],
+  "capacity": 506,
+  "levels": [
+   "Stalls",
+   "Dress Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "garrick",
+  "name": "Garrick Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Garrick Theatre"
+  ],
+  "mapVenueIds": [
+   "garrick-theatre"
+  ],
+  "capacity": 732,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "gielgud",
+  "name": "Gielgud Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Gielgud Theatre"
+  ],
+  "mapVenueIds": [
+   "gielgud-theatre"
+  ],
+  "capacity": 969,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "gillian-lynne",
+  "name": "Gillian Lynne Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Gillian Lynne Theatre"
+  ],
+  "mapVenueIds": [
+   "gillian-lynne-theatre"
+  ],
+  "capacity": 1188,
+  "levels": [
+   "Stalls",
+   "Circle"
+  ],
+  "stage": "thrust"
+ },
+ {
+  "id": "hampstead",
+  "name": "Hampstead Theatre",
+  "hall": "Hampstead Theatre",
+  "venueNames": [
+   "Hampstead Theatre"
+  ],
+  "mapVenueIds": [
+   "hampstead"
+  ],
+  "halls": [
+   "Hampstead Theatre"
+  ],
+  "capacity": 373,
+  "levels": [
+   "Stalls",
+   "Dress Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "harold-pinter",
+  "name": "Harold Pinter Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Harold Pinter Theatre"
+  ],
+  "mapVenueIds": [
+   "harold-pinter-theatre"
+  ],
+  "capacity": 799,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Royal Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "his-majestys",
+  "name": "His Majesty's Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "His Majesty's Theatre",
+   "Her Majesty's Theatre"
+  ],
+  "mapVenueIds": [
+   "his-majestys-theatre"
+  ],
+  "capacity": 1239,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "coliseum",
+  "name": "London Coliseum",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "London Coliseum",
+   "English National Opera (London Coliseum)"
+  ],
+  "mapVenueIds": [
+   "eno",
+   "ext_london-coliseum"
+  ],
+  "capacity": 2383,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Upper Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "lyceum",
+  "name": "Lyceum Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Lyceum Theatre"
+  ],
+  "mapVenueIds": [
+   "lyceum-theatre"
+  ],
+  "capacity": 2214,
+  "priceRange": [
+   38.95,
+   108.95
+  ],
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "lyric-hammersmith",
+  "name": "Lyric Hammersmith",
+  "hall": "Main House",
+  "venueNames": [
+   "Lyric Hammersmith"
+  ],
+  "mapVenueIds": [
+   "lyric"
+  ],
+  "halls": [
+   "Main House"
+  ],
+  "capacity": 573,
+  "levels": [
+   "Stalls",
+   "Circle",
+   "Upper Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "lyric-theatre",
+  "name": "Lyric Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Lyric Theatre"
+  ],
+  "mapVenueIds": [
+   "lyric-theatre"
+  ],
+  "capacity": 965,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "nt-lyttelton",
+  "name": "National Theatre",
+  "hall": "Lyttelton Theatre",
+  "venueNames": [
+   "National Theatre"
+  ],
+  "mapVenueIds": [
+   "nt"
+  ],
+  "halls": [
+   "Lyttelton Theatre"
+  ],
+  "capacity": 898,
+  "levels": [
+   "Stalls",
+   "Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "nt-olivier",
+  "name": "National Theatre",
+  "hall": "Olivier Theatre",
+  "venueNames": [
+   "National Theatre"
+  ],
+  "mapVenueIds": [
+   "nt"
+  ],
+  "halls": [
+   "Olivier Theatre"
+  ],
+  "capacity": 1127,
+  "levels": [
+   "Stalls",
+   "Circle"
+  ],
+  "stage": "thrust"
+ },
+ {
+  "id": "noel-coward",
+  "name": "Noël Coward Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Noël Coward Theatre"
+  ],
+  "mapVenueIds": [
+   "noel-coward-theatre"
+  ],
+  "capacity": 957,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "novello",
+  "name": "Novello Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Novello Theatre"
+  ],
+  "mapVenueIds": [
+   "novello-theatre"
+  ],
+  "capacity": 1096,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "palace",
+  "name": "Palace Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Palace Theatre"
+  ],
+  "mapVenueIds": [
+   "palace-theatre"
+  ],
+  "capacity": 1432,
+  "priceRange": [
+   30,
+   175
+  ],
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "peacock",
+  "name": "Peacock Theatre (Sadler's Wells)",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Peacock Theatre (Sadler's Wells)"
+  ],
+  "mapVenueIds": [
+   "sadlers-peacock"
+  ],
+  "capacity": 958,
+  "levels": [
+   "Stalls",
+   "Dress Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "phoenix",
+  "name": "Phoenix Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Phoenix Theatre"
+  ],
+  "mapVenueIds": [
+   "phoenix-theatre"
+  ],
+  "capacity": 996,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "piccadilly",
+  "name": "Piccadilly Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Piccadilly Theatre"
+  ],
+  "mapVenueIds": [
+   "piccadilly-theatre"
+  ],
+  "capacity": 1219,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "prince-edward",
+  "name": "Prince Edward Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Prince Edward Theatre"
+  ],
+  "mapVenueIds": [
+   "prince-edward-theatre"
+  ],
+  "capacity": 1674,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "prince-of-wales",
+  "name": "Prince of Wales Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Prince of Wales Theatre"
+  ],
+  "mapVenueIds": [
+   "prince-of-wales-theatre"
+  ],
+  "capacity": 1138,
+  "levels": [
+   "Stalls",
+   "Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "rah",
+  "name": "Royal Albert Hall",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Royal Albert Hall"
+  ],
+  "mapVenueIds": [
+   "rah"
+  ],
+  "capacity": 4610,
+  "levels": [
+   "Arena",
+   "Stalls",
+   "Loggia Boxes",
+   "Grand Tier Boxes",
+   "Second Tier Boxes",
+   "Circle"
+  ],
+  "stage": "platform"
+ },
+ {
+  "id": "royal-court",
+  "name": "Royal Court Theatre",
+  "hall": "Jerwood Theatre Downstairs",
+  "venueNames": [
+   "Royal Court Theatre"
+  ],
+  "mapVenueIds": [
+   "royalcourt"
+  ],
+  "halls": [
+   "Jerwood Theatre Downstairs"
+  ],
+  "capacity": 368,
+  "levels": [
+   "Stalls",
+   "Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "roh",
+  "name": "Royal Opera House",
+  "hall": "Main Stage",
+  "venueNames": [
+   "Royal Opera House"
+  ],
+  "mapVenueIds": [
+   "roh"
+  ],
+  "halls": [
+   "Main Stage"
+  ],
+  "capacity": 2308,
+  "levels": [
+   "Orchestra Stalls",
+   "Stalls Circle",
+   "Grand Tier",
+   "Balcony",
+   "Amphitheatre"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "sadlers",
+  "name": "Sadler's Wells",
+  "hall": "Sadler's Wells Theatre",
+  "venueNames": [
+   "Sadler's Wells"
+  ],
+  "mapVenueIds": [
+   "sadlers"
+  ],
+  "halls": [
+   "Sadler's Wells Theatre"
+  ],
+  "capacity": 1551,
+  "levels": [
+   "Stalls",
+   "First Circle",
+   "Second Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "sadlers-east",
+  "name": "Sadler's Wells East",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Sadler's Wells East"
+  ],
+  "mapVenueIds": [
+   "sadlers-east"
+  ],
+  "capacity": 567,
+  "levels": [
+   "Stalls"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "sam-wanamaker",
+  "name": "Sam Wanamaker Playhouse",
+  "hall": "Sam Wanamaker Playhouse",
+  "venueNames": [
+   "Shakespeare's Globe",
+   "Sam Wanamaker Playhouse"
+  ],
+  "mapVenueIds": [
+   "globe"
+  ],
+  "halls": [
+   "Sam Wanamaker Playhouse"
+  ],
+  "capacity": 335,
+  "levels": [
+   "Pit",
+   "Lower Gallery",
+   "Upper Gallery"
+  ],
+  "stage": "thrust"
+ },
+ {
+  "id": "savoy",
+  "name": "Savoy Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Savoy Theatre"
+  ],
+  "mapVenueIds": [
+   "savoy-theatre"
+  ],
+  "capacity": 1129,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "shaftesbury",
+  "name": "Shaftesbury Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Shaftesbury Theatre"
+  ],
+  "mapVenueIds": [
+   "shaftesbury-theatre"
+  ],
+  "capacity": 1313,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "globe",
+  "name": "Shakespeare's Globe",
+  "hall": "Globe Theatre",
+  "venueNames": [
+   "Shakespeare's Globe"
+  ],
+  "mapVenueIds": [
+   "globe"
+  ],
+  "halls": [
+   "Globe Theatre",
+   "Bankside"
+  ],
+  "capacity": 1537,
+  "levels": [
+   "Lower Gallery",
+   "Middle Gallery",
+   "Upper Gallery"
+  ],
+  "stage": "thrust"
+ },
+ {
+  "id": "sondheim",
+  "name": "Sondheim Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Sondheim Theatre"
+  ],
+  "mapVenueIds": [
+   "sondheim-theatre",
+   "node_venue_sondheim"
+  ],
+  "capacity": 1137,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "st-martins",
+  "name": "St Martin's Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "St Martin's Theatre"
+  ],
+  "mapVenueIds": [
+   "st-martins-theatre"
+  ],
+  "capacity": 576,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Upper Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "drury-lane",
+  "name": "Theatre Royal Drury Lane",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Theatre Royal Drury Lane"
+  ],
+  "mapVenueIds": [
+   "theatre-royal-drury-lane"
+  ],
+  "capacity": 1976,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle",
+   "Balcony"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "haymarket",
+  "name": "Theatre Royal Haymarket",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Theatre Royal Haymarket"
+  ],
+  "mapVenueIds": [
+   "theatre-royal-haymarket"
+  ],
+  "capacity": 730,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Upper Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "tom-stoppard",
+  "name": "Tom Stoppard Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Tom Stoppard Theatre"
+  ],
+  "mapVenueIds": [
+   "tom-stoppard-theatre"
+  ],
+  "capacity": 633,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Upper Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "trafalgar",
+  "name": "Trafalgar Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Trafalgar Theatre"
+  ],
+  "mapVenueIds": [
+   "trafalgar-theatre"
+  ],
+  "capacity": 618,
+  "levels": [
+   "Stalls",
+   "Dress Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "vaudeville",
+  "name": "Vaudeville Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Vaudeville Theatre"
+  ],
+  "mapVenueIds": [
+   "vaudeville-theatre"
+  ],
+  "capacity": 670,
+  "levels": [
+   "Stalls",
+   "Dress Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "victoria-palace",
+  "name": "Victoria Palace Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Victoria Palace Theatre"
+  ],
+  "mapVenueIds": [
+   "victoria-palace-theatre"
+  ],
+  "capacity": 1557,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ },
+ {
+  "id": "wigmore",
+  "name": "Wigmore Hall",
+  "hall": "Wigmore Hall",
+  "venueNames": [
+   "Wigmore Hall"
+  ],
+  "mapVenueIds": [
+   "wigmore"
+  ],
+  "capacity": 552,
+  "levels": [
+   "Stalls",
+   "Balcony"
+  ],
+  "stage": "platform"
+ },
+ {
+  "id": "wyndhams",
+  "name": "Wyndham's Theatre",
+  "hall": "Main Auditorium",
+  "venueNames": [
+   "Wyndham's Theatre"
+  ],
+  "mapVenueIds": [
+   "wyndhams-theatre"
+  ],
+  "capacity": 789,
+  "levels": [
+   "Stalls",
+   "Royal Circle",
+   "Grand Circle"
+  ],
+  "stage": "proscenium"
+ }
+]

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#FAF6F0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>sottovoce — Live Opera & Theatre Companion + London Civic Map</title>
+    <meta
+      name="description"
+      content="Multimodal live opera & musical theatre plot companion, 3D stage & interval route visualiser, MongoDB Atlas hybrid search & London Tube civic map, and Saint AI autonomous event agent."
+    />
+    <meta property="og:title" content="sottovoce — Live Opera & Theatre Companion + London Civic Map" />
+    <meta
+      property="og:description"
+      content="Under the voice, under the ground: live libretto subtext, 3D stage blocking, Lyria leitmotif stems, MongoDB Atlas Hybrid Search, and Saint AI event ingestion."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/sottovoce.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Instrument+Serif:ital@0;1&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-[#08080B] text-[#F4F0EA] antialiased selection:bg-[#D4AF37]/30 selection:text-[#F5E6B3]">
+    <div id="root"></div>
+    <script>
+      // Apply the saved (or system) theme before first paint to avoid a flash.
+      try {
+        var t = localStorage.getItem('sottovoce-theme');
+        if (t !== 'light' && t !== 'dark') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
